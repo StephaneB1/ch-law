@@ -46,6 +46,7 @@ src/                     pipeline stages, run in order
   fetch.py                 census → raw/acts/…/en.xml     (the only networked stage)
   tree.py                  SR taxonomy → category slates  (the classification tree)
   parse.py                 raw XML → .slate + chext       (the acts themselves)
+  thumbnail.py             SR number → assets/cover.png   (procedural, seeded)
   provenance.py            shared provenance-chip emitter
 
 data/
@@ -176,6 +177,33 @@ visibility: PUBLIC
 statutes, regulations, terms of service, privacy policies — text that is read as
 authority rather than as an article or a product page. Slatesource's own privacy
 policy and terms move onto it too.
+
+### Thumbnails are a fingerprint of the act
+
+Every slate's `assets/cover.png` is generated, not drawn. The seed is the act's own
+reference — `SR 231.1` — hashed into the RNG that decides the whole composition, so
+the same act always produces the same image, no two acts produce the same one, and
+nothing has to be stored except the seed.
+
+The vocabulary is deliberately narrow, because 410 of these have to look like one
+collection: paper ground, a single greyscale field (strata, rings, a modular grid,
+or a hatch) confined to one block on a margin grid, and exactly one Swiss-red mark
+drawn last, on top. The empty paper around the block is what keeps it legible at
+thumbnail size.
+
+```
+python src/thumbnail.py 231.1            # into the slate's assets/
+python src/thumbnail.py --seed "231.1 Art. 13a" --out /tmp/art.png
+```
+
+The seed is a free string, so per-article images are the same call with a longer
+seed. `.slate` names `thumbnail: cover.png` unconditionally — chext ignores a
+thumbnail that is not in `assets/`, so the stages can run in any order.
+
+This is the one stage that needs a dependency (Pillow); census, fetch and parse are
+stdlib-only. PNGs are written down to a 64-colour palette, which is visually
+identical for flat greys and one red but turns 505 KB into 32 KB — across the full
+corpus, 13 MB in git rather than 200 MB.
 
 ### `schema:` — the attribute table
 

@@ -571,6 +571,10 @@ def dot_slate(act: dict) -> str:
             ("description", description[:2000]),
             ("type", "LEGAL"),
             ("visibility", "PUBLIC"),
+            # Named unconditionally. A thumbnail that is not in assets/ is ignored
+            # by chext, so the key can be written before thumbnail.py has run and
+            # the stages stay in any order.
+            ("thumbnail", "cover.png"),
             ("schema", line),
         )
     )
