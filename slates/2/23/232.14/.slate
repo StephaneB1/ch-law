@@ -1,0 +1,6 @@
+name: Patents Act (PatA)
+description: SR 232.14 — Federal Act of 25 June 1954 on Patents for Inventions (Patents Act, PatA). Unofficial English mirror of the Fedlex consolidation of 1 July 2025. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Federal act", "jurisdiction": "Switzerland", "reference": "SR 232.14", "dateInForce": "1956-01-01", "adopted": "1954-06-25", "consolidated": "2025-07-01", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/1955/871_893_899"}

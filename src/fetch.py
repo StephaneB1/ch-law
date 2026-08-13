@@ -62,6 +62,7 @@ def main() -> int:
         return 2
 
     fetched = skipped = 0
+    failed: list[str] = []
     for sr in wanted:
         act = by_sr[sr]
         path = destination(act)
@@ -71,15 +72,20 @@ def main() -> int:
         try:
             body = download(act["formats"]["xml"])
         except (OSError, RuntimeError) as exc:
+            # One unreachable file must not abandon the other 255. Re-running
+            # picks up only what is still missing.
             print(f"  FAIL {sr}: {exc}", file=sys.stderr)
-            return 1
+            failed.append(sr)
+            continue
         path.parent.mkdir(parents=True, exist_ok=True)
         path.write_bytes(body)
         print(f"  {sr:<14} {len(body):>9,} bytes  {path.relative_to(ROOT)}")
         fetched += 1
 
-    print(f"\n{fetched} fetched, {skipped} already present")
-    return 0
+    print(f"\n{fetched} fetched, {skipped} already present, {len(failed)} failed")
+    if failed:
+        print(f"  still missing: {failed}")
+    return 1 if failed else 0
 
 
 if __name__ == "__main__":

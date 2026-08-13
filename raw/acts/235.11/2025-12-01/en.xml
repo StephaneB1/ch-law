@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?><akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:fedlex="http://fedlex.admin.ch/"><act name="publicLaw"><meta><identification source="#ch.bk"><FRBRWork><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/2022/568/20251201/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/2022/568/20251201"/><FRBRdate date="2025-12-01" name="jolux:dateApplicability"/><FRBRdate date="2022-08-31" name="jolux:dateDocument"/><FRBRdate date="2023-09-01" name="jolux:dateEntryInForce"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRcountry value="CH"/><FRBRnumber value=""/><FRBRname xml:lang="it" value="Ordinanza del 31 agosto 2022 sulla protezione dei dati (OPDa)" shortForm="OPDa"/><FRBRname xml:lang="en" value="Ordinance of 31 August 2022 on Data Protection (Data Protection Ordinance, DPO)" shortForm="DPO"/><FRBRname xml:lang="de" value="Verordnung vom 31. August 2022 über den Datenschutz (Datenschutzverordnung, DSV)" shortForm="DSV"/><FRBRname xml:lang="fr" value="Ordonnance du 31 août 2022 sur la protection des données (OPDo)" shortForm="OPDo"/><FRBRauthoritative value="true"/></FRBRWork><FRBRExpression><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/2022/568/20251201/en/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/2022/568/20251201/en"/><FRBRdate date="2025-12-01" name="jolux:dateApplicability"/><FRBRdate date="2022-08-31" name="jolux:dateDocument"/><FRBRdate date="2023-09-01" name="jolux:dateEntryInForce"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRlanguage language="en"/></FRBRExpression><FRBRManifestation><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/2022/568/20251201/en/xml/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/2022/568/20251201/en/xml"/><FRBRdate date="2025-12-01" name="jolux:dateApplicability"/><FRBRdate date="2022-08-31" name="jolux:dateDocument"/><FRBRdate date="2023-09-01" name="jolux:dateEntryInForce"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRformat value="xml" fedlex:generator="2025-q4-rel-1.8.4"/></FRBRManifestation></identification><references source="#ch.bk"><TLCOrganization eId="ch.bk" href="https://fedlex.data.admin.ch/vocabulary/legal-institution/2" showAs="Federal Chancellery"/><TLCRole eId="publisher" href="http://data.legilux.public.lu/resource/ontology/jolux#publisher" showAs="Editeur"/><TLCRole eId="rightsHolder" href="http://data.legilux.public.lu/resource/ontology/jolux#rightsHolder" showAs="Détenteur des droits"/><TLCReference name="language" href="http://publications.europa.eu/resource/authority/language/ENG" showAs="en"/><TLCReference name="format" href="https://fedlex.data.admin.ch/vocabulary/user-format/xml" showAs="xml"/></references></meta><preface><p><docNumber>235.11 </docNumber></p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.</p><p><docTitle>Ordinance <br/>on Data Protection</docTitle></p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">(Data Protection Ordinance, DPO)</p><p>of 31 August 2022 (Status as of 1 December 2025)</p></preface><preamble><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">The Swiss Federal Council,</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">on the basis of Articles 8 paragraph 3, 10 paragraph 4, 12 paragraph 5, <br/>16 paragraph 3, 25 paragraph 6, 28 paragraph 3, 33, 59 paragraphs 2 and 3 of the Data Protection Act of 25 September 2020<authorialNote>
+		<p>  <ref fedlex:rs-uri="https://fedlex.data.admin.ch/eli/cc/2022/491" fedlex:rs="235.1" href="https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993">SR <b>235.1</b></ref></p>
+	</authorialNote> (FADP),</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ordains:</p></preamble><body><chapter eId="chap_1"><num>Chapter 1</num><heading>General Provisions</heading><section eId="chap_1/sec_1"><num>Section 1 </num><heading>Data Security</heading><article eId="art_1"><num><b>Art. 1</b></num><heading>Principles</heading><paragraph eId="art_1/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> In order to guarantee an adequate level of data security, the controller and the processor must determine the extent to which personal data requires to be protected and adopt the technical and organisational measures that are appropriate to the risk. </p></content></paragraph><paragraph eId="art_1/para_2"><num>2</num><content><blockList><listIntroduction eId="art_1/para_2/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The extent to which personal data requires to be protected shall be assessed according to the following criteria:</listIntroduction><item eId="art_1/para_2/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the type of the data being processed;</p></item><item eId="art_1/para_2/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the purpose, nature, extent and circumstances of the processing.</p></item></blockList></content></paragraph><paragraph eId="art_1/para_3"><num>3</num><content><blockList><listIntroduction eId="art_1/para_3/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The risk for the personality or fundamental rights of the data subject shall be assessed according to the following criteria:</listIntroduction><item eId="art_1/para_3/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the causes of the risk;</p></item><item eId="art_1/para_3/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the main threats;</p></item><item eId="art_1/para_3/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">measures taken or planned to reduce the risk;</p></item><item eId="art_1/para_3/lbl_d"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">d. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the probability and seriousness of a breach of data security despite the measures taken or planned.</p></item></blockList></content></paragraph><paragraph eId="art_1/para_4"><num>4</num><content><blockList><listIntroduction eId="art_1/para_4/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> When determining the technical and organisational measures, the following criteria shall also be considered:</listIntroduction><item eId="art_1/para_4/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the state of the art;</p></item><item eId="art_1/para_4/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the implementation costs.</p></item></blockList></content></paragraph><paragraph eId="art_1/para_5"><num>5</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The extent to which personal data requires to be protected, the risk and the technical and organisational measures shall be reviewed throughout the period of processing. The measures shall be adjusted if necessary.</p></content></paragraph></article><article eId="art_2"><num><b>Art. 2</b></num><heading>Goals</heading><paragraph eId="art_2/para"><content><blockList><listIntroduction eId="art_2/para/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">The controller and the processor must take technical and organisational measures in order to ensure, depending on the level of protection required, that the data being processed:</listIntroduction><item eId="art_2/para/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">are only accessible to authorised persons (confidentiality);</p></item><item eId="art_2/para/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">are available when they are required (availability);</p></item><item eId="art_2/para/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">are not altered without authorisation or unintentionally (integrity);</p></item><item eId="art_2/para/lbl_d"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">d. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">are processed in a traceable manner (traceability).</p></item></blockList></content></paragraph></article><article eId="art_3"><num><b>Art. 3</b></num><heading>Technical and organisational measures</heading><paragraph eId="art_3/para_1"><num>1</num><content><blockList><listIntroduction eId="art_3/para_1/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> In order to guarantee confidentiality, the controller and the processor must take appropriate measures to ensure that:</listIntroduction><item eId="art_3/para_1/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">authorised persons only have access to those personal data that they require to fulfil their tasks (data access control);</p></item><item eId="art_3/para_1/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">only authorised persons have access to the premises and facilities in which personal data are processed (premises and facilities access control);</p></item><item eId="art_3/para_1/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">unauthorised persons are unable to use automated data processing systems by means of data transmission devices (user control).</p></item></blockList></content></paragraph><paragraph eId="art_3/para_2"><num>2</num><content><blockList><listIntroduction eId="art_3/para_2/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> In order to guarantee availability and integrity, the controller and the processor must take appropriate measures to ensure that:</listIntroduction><item eId="art_3/para_2/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">unauthorised persons are unable to read, copy, alter, move, delete or destroy data carriers (data carrier control);</p></item><item eId="art_3/para_2/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">unauthorised persons are unable to save, read, alter, delete or destroy stored personal data (storage control);</p></item><item eId="art_3/para_2/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">unauthorised persons are unable to read, copy, alter, delete or destroy personal data in the event of the disclosure of personal data or when data carriers are being transported (transport control);</p></item><item eId="art_3/para_2/lbl_d"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">d. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the availability of personal data and access to them can be rapidly restored in the event of a physical or technical incident (restoration);</p></item><item eId="art_3/para_2/lbl_e"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">e. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">all functions of the automated data processing system are available (availability), malfunctions are reported (reliability) and stored personal data cannot be damaged by system malfunctions (data integrity);</p></item><item eId="art_3/para_2/lbl_f"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">f. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">operating systems and application software always meet the latest security standards and known critical vulnerabilities are resolved (system security).</p></item></blockList></content></paragraph><paragraph eId="art_3/para_3"><num>3</num><content><blockList><listIntroduction eId="art_3/para_3/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> In order to guarantee traceability, the controller and the processor must take appropriate measures to ensure that:</listIntroduction><item eId="art_3/para_3/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">it can be verified what personal data were entered or altered in the automated data processing system at what time and by which person (entry control);</p></item><item eId="art_3/para_3/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">it can be verified to whom personal data are disclosed with the aid of data transmission devices (disclosure control);</p></item><item eId="art_3/para_3/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">breaches of data security are recognised rapidly (recognition) and measures are taken to mitigate or eliminate the consequences (elimination).</p></item></blockList></content></paragraph></article><article eId="art_4"><num><b>Art. 4</b></num><heading>Logging</heading><paragraph eId="art_4/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> If a large volume of sensitive personal data is processed by automated means or if high-risk profiling is carried out and if preventive measures are unable to guarantee data protection, the private controller and its private processor must as a minimum / log the storage, alteration, disclosure, deletion and destruction of the data and any access to the data. A log file must in particular be kept if otherwise it would not be possible to establish whether the data has been processed for the purposes for which it was collected or disclosed.<authorialNote>
+		<p> Amended by No I of the O of 29 Oct. 2025, in force since 1 Dec. 2025 (<ref href="https://fedlex.data.admin.ch/eli/oc/2025/694">AS <b>2025</b> 694</ref>).</p>
+	</authorialNote></p></content></paragraph><paragraph eId="art_4/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The responsible federal body and its processor shall when carrying out automated processing of sensitive personal data, profiling and automated processing that falls within the scope of Directive (EU) 2016/680<authorialNote>
+		<p> Directive (EU) 2016/680 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, and on the free movement of such data, and repealing Council Framework Decision  2008/977/JHA, last amended by OJ. L 119 of 4.5.2016, p. 89.</p>
+	</authorialNote>, log as a minimum the storage, alteration, disclosure, deletion and destruction of the data, as well as any access to the data. For other forms of automated data processing, they shall assess in advance the risk to the fundamental rights of the data subjects. On this basis, and taking account of the state of the art and the costs of implementation, they shall determine whether and to what extent they log the aforementioned forms of processing. When assessing the risk, they shall take particular account of the nature of the data processed and the purpose, nature, scope and circumstances of the processing.<authorialNote>
+		<p> Amended by No I of the O of 29 Oct. 2025, in force since 1 Dec. 2025 (<ref href="https://fedlex.data.admin.ch/eli/oc/2025/694">AS <b>2025</b> 694</ref>).</p>
+	</authorialNote></p></content></paragraph><paragraph eId="art_4/para_2_bis"><num>2bis</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The assessment of the need for logging referred to in paragraph 2 shall be recorded in writing. The results and content of the assessment shall be communicated to the Federal Data Protection and Information Commissioner (FDPIC) on request.<authorialNote>
+		<p> Inserted by No I of the O of 29 Oct. 2025, in force since 1 Dec. 2025 (<ref href="https://fedlex.data.admin.ch/eli/oc/2025/694">AS <b>2025</b> 694</ref>).</p>
+	</authorialNote></p></content></paragraph><paragraph eId="art_4/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> In the case of personal data that are generally accessible, logs shall in the case of paragraphs 1 and 2 first sentence as a minimum be kept of the storage, alteration, deletion and destruction of the data.<authorialNote>
+		<p> Amended by No I of the O of 29 Oct. 2025, in force since 1 Dec. 2025  (<ref href="https://fedlex.data.admin.ch/eli/oc/2025/694">AS <b>2025</b> 694</ref>).</p>
+	</authorialNote></p></content></paragraph><paragraph eId="art_4/para_4"><num>4</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The log file must provide information about the identity of the person that carried out the processing, the form, date and time of processing, and, if applicable, the identity of the recipient of the data.</p></content></paragraph><paragraph eId="art_4/para_5"><num>5</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The log files must be retained for at least one year and kept separate from the system in which the personal data are processed. They may only be made accessible to the bodies and persons that are required to review the application of the data protection regulations or to safeguard or restore the confidentiality, integrity, availability and traceability of the data, and may only be used for this purpose.</p></content></paragraph></article><article eId="art_5"><num><b>Art. 5</b></num><heading>Processing regulations for private persons</heading><paragraph eId="art_5/para_1"><num>1</num><content><blockList><listIntroduction eId="art_5/para_1/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The private controller and its private processor must issue regulations on automated processing if they:</listIntroduction><item eId="art_5/para_1/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">process a large volume of sensitive personal data; or</p></item><item eId="art_5/para_1/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">carry out high-risk profiling.</p></item></blockList></content></paragraph><paragraph eId="art_5/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The regulations must in particular include details of the internal organisational structure, data processing and control procedures and the measures that guarantee data security.</p></content></paragraph><paragraph eId="art_5/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The private controller and its private processor must update the regulations regularly. If a data protection officer has been appointed, the regulations must be made available to the officer.</p></content></paragraph></article><article eId="art_6"><num><b>Art. 6</b></num><heading>Processing regulations for federal bodies</heading><paragraph eId="art_6/para_1"><num>1</num><content><blockList><listIntroduction eId="art_6/para_1/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The responsible federal body and its processor must issue processing regulations for automated processing if they:</listIntroduction><item eId="art_6/para_1/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">process sensitive personal data;</p></item><item eId="art_6/para_1/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">carry out profiling;</p></item><item eId="art_6/para_1/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">process personal data in accordance with Article 34 paragraph 2 letter c FADP;</p></item><item eId="art_6/para_1/lbl_d"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">d. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">allow cantons, foreign authorities, international organisations or private persons access to personal data;</p></item><item eId="art_6/para_1/lbl_e"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">e. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">link data collections with each other; or</p></item><item eId="art_6/para_1/lbl_f"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">f. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">operate an information system or manage data collections with other federal authorities.</p></item></blockList></content></paragraph><paragraph eId="art_6/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The regulations must in particular include details of the internal organisational structure, data processing and control procedures, and the measures that guarantee data security.</p></content></paragraph><paragraph eId="art_6/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The responsible federal body and its processor must update the regulations regularly and make them available to the data protection officer.</p></content></paragraph></article></section><section eId="chap_1/sec_2"><num>Section 2</num><heading>Processing by Processors</heading><article eId="art_7"><num><b>Art. 7</b></num><paragraph eId="art_7/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The prior approval from the controller that allows the processor to assign the data processing to a third party may be specific or general in its scope.</p></content></paragraph><paragraph eId="art_7/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> In the case of general approval, the processor shall inform the controller of any plan to engage additional or replace existing third parties. The controller may object to such changes.</p></content></paragraph></article></section><section eId="chap_1/sec_3"><num>Section 3</num><heading>Disclosure of Personal Data Abroad</heading><article eId="art_8"><num><b>Art. 8</b></num><heading>Assessing the adequacy of the data protection offered by a State, territory, specified sector in a State, or international body</heading><paragraph eId="art_8/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The States, territories, specified sectors in a State and international bodies that guarantee an adequate level of data protection are listed in Annex 1.</p></content></paragraph><paragraph eId="art_8/para_2"><num>2</num><content><blockList><listIntroduction eId="art_8/para_2/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> When assessing whether a State, a territory, a specified sector in a State or an international body guarantees an adequate level of data protection, the following criteria in particular shall be considered:</listIntroduction><item eId="art_8/para_2/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the international obligations of the State or international body, in particular in relation to data protection;</p></item><item eId="art_8/para_2/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">whether it respects the rule of law and human rights;</p></item><item eId="art_8/para_2/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the legislation applicable, in particular to data protection, its implementation and the relevant case law;</p></item><item eId="art_8/para_2/lbl_d"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">d. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">that data subjects’ rights and redress are effectively guaranteed;</p></item><item eId="art_8/para_2/lbl_e"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">e. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the effective functioning of one or more independent authorities in the State concerned that are responsible for data protection or to which an international body is accountable and that have sufficient powers and responsibilities.</p></item></blockList></content></paragraph><paragraph eId="art_8/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The FDPIC shall be consulted in the course of each assessment. The assessments of international bodies or foreign authorities responsible for data protection may be taken into account.<authorialNote>
+		<p> Amended by No I of the O of 29 Oct. 2025, in force since 1 Dec. 2025 (<ref href="https://fedlex.data.admin.ch/eli/oc/2025/694">AS <b>2025</b> 694</ref>).</p>
+	</authorialNote></p></content></paragraph><paragraph eId="art_8/para_4"><num>4</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The adequacy of the data protection shall be reassessed periodically.</p></content></paragraph><paragraph eId="art_8/para_5"><num>5</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The assessments shall be made public.</p></content></paragraph><paragraph eId="art_8/para_6"><num>6</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> If the assessment under paragraph 4 or other information show that an adequate level of data protection is no longer guaranteed, Annex 1 shall be amended; this shall have no effect on disclosures of data already carried out.</p></content></paragraph></article><article eId="art_9"><num><b>Art. 9</b></num><heading>Data protection clauses and specific guarantees</heading><paragraph eId="art_9/para_1"><num>1</num><content><blockList><listIntroduction eId="art_9/para_1/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The data protection clauses in an agreement under Article 16 paragraph 2 letter b FADP and the specific guarantees under Article 16 paragraph 2 letter c FADP must include at least the following points:</listIntroduction><item eId="art_9/para_1/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the requirement to apply the principles of legality, good faith, proportionality, transparency, purpose limitation and accuracy;</p></item><item eId="art_9/para_1/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the categories of personal data disclosed and of data subjects;</p></item><item eId="art_9/para_1/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c.  </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the manner and purpose of the disclosure of personal data;</p></item><item eId="art_9/para_1/lbl_d"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">d. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">if applicable, the names of the countries or international organisations, in which personal data is to be disclosed and the requirements for disclosure;</p></item><item eId="art_9/para_1/lbl_e"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">e.  </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the requirements for safeguarding, deleting and destroying personal data;</p></item><item eId="art_9/para_1/lbl_f"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">f. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the recipients or the categories of recipients;</p></item><item eId="art_9/para_1/lbl_g"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">g. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the measures to guarantee data security;</p></item><item eId="art_9/para_1/lbl_h"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">h. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the requirement to report breaches of data security;</p></item><item eId="art_9/para_1/lbl_i"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">i. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">if the recipients are controllers: the requirement to inform the data subjects about the processing;</p></item><item eId="art_9/para_1/lbl_j"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">j. </num><blockList><listIntroduction eId="art_9/para_1/lbl_j/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the rights of data subjects, and in particular:</listIntroduction><item eId="art_9/para_1/lbl_j/lbl_1"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">1. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the right of access and the right to the data portability,</p></item><item eId="art_9/para_1/lbl_j/lbl_2"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">2. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the right to object to the disclosure of personal data,</p></item><item eId="art_9/para_1/lbl_j/lbl_3"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">3. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the right to the correction, deletion or destruction of their data,</p></item><item eId="art_9/para_1/lbl_j/lbl_4"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">4. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the right to request an independent authority for judicial protection.</p></item></blockList></item></blockList></content></paragraph><paragraph eId="art_9/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The controller and, in the case of data protection clauses in an agreement, the processor must take appropriate measures to ensure that the recipient complies with these clauses or the specific guarantees.</p></content></paragraph><paragraph eId="art_9/para_3"><num>3</num><content><blockList><listIntroduction eId="art_9/para_3/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> If the FDPIC is informed about the data protection clauses in an agreement or the specific guarantees, the duty to provide information is deemed fulfilled for all further disclosures that:</listIntroduction><item eId="art_9/para_3/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">are made in accordance with the same data protection clauses or guarantees, provided the categories of recipients, purpose of processing and data categories essentially remain unchanged; or</p></item><item eId="art_9/para_3/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">take place within the same legal entity or company or between company that belong to the same group of companies.</p></item></blockList></content></paragraph></article><article eId="art_10"><num><b>Art. 10</b></num><heading><b>S</b>tandard data protection clauses</heading><paragraph eId="art_10/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> If the controller or the processor discloses personal data abroad based on standard data protection clauses in accordance with Article 16 paragraph 2 letter d FADP, it shall take appropriate measures to ensure that the recipient complies therewith.</p></content></paragraph><paragraph eId="art_10/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The FDPIC shall publish a list of standard data protection clauses that it has approved, issued or recognised. It shall give notice of the result of its assessment of standard data protection clauses that it has been submitted within 90 days.</p></content></paragraph></article><article eId="art_11"><num><b>Art. 11</b></num><heading>Binding corporate rules</heading><paragraph eId="art_11/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Binding corporate rules in accordance with Article 16 paragraph 2 letter e FADP apply to all undertakings that belong to the same group of undertakings.</p></content></paragraph><paragraph eId="art_11/para_2"><num>2</num><content><blockList><listIntroduction eId="art_11/para_2/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> They shall include as a minimum the points mentioned in Article 9 paragraph 1 as well as the following information:</listIntroduction><item eId="art_11/para_2/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">details of the organisational structure and the contact details for the group of undertakings and its members;</p></item><item eId="art_11/para_2/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">details of the measures taken within the group of undertakings to comply with the binding corporate rules.</p></item></blockList></content></paragraph><paragraph eId="art_11/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The FDPIC shall give notice of the result of its assessment of the binding corporate rules that it has been submitted within 90 days.</p></content></paragraph></article><article eId="art_12"><num><b>Art. 12</b></num><heading>Code of conduct and certification</heading><paragraph eId="art_12/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Personal data may be disclosed abroad if a code of conduct or certification guarantees an appropriate level of data protection.</p></content></paragraph><paragraph eId="art_12/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The code of conduct must be submitted beforehand to the FDPIC for approval.</p></content></paragraph><paragraph eId="art_12/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The code of conduct or certification must be combined with a binding and enforceable obligation for the controller or the processor in the third State to apply the measures contained therein.</p></content></paragraph></article></section></chapter><chapter eId="chap_2"><num>Chapter 2</num><heading>Obligations of the Controller </heading><article eId="art_13"><num><b>Art. 13</b></num><heading>Modalities of the duty to provide information</heading><paragraph eId="art_13/para"><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">The controller must provide the data subject with information on the collection of personal data in a precise, transparent, comprehensible and easily accessible form.</p></content></paragraph></article><article eId="art_14"><num><b>Art. 14</b></num><heading>Retention of the data protection impact assessment</heading><paragraph eId="art_14/para"><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">The controller must retain the data protection impact assessment after concluding the data processing for a minimum of two years.</p></content></paragraph></article><article eId="art_15"><num><b>Art. 15</b></num><heading>Report of breaches of data security</heading><paragraph eId="art_15/para_1"><num>1</num><content><blockList><listIntroduction eId="art_15/para_1/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The report to the FDPIC of a breach of data security must include the following information:</listIntroduction><item eId="art_15/para_1/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the form of breach;</p></item><item eId="art_15/para_1/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the time and duration, if possible;</p></item><item eId="art_15/para_1/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the categories and approximate amount of personal data concerned, if possible;</p></item><item eId="art_15/para_1/lbl_d"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">d. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the categories and the approximate number of data subjects, if possible;</p></item><item eId="art_15/para_1/lbl_e"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">e. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the consequences, including any risks, for the data subjects;</p></item><item eId="art_15/para_1/lbl_f"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">f. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the measures that have been taken or are planned in order to remedy the breach and mitigate the consequences, including any risks;</p></item><item eId="art_15/para_1/lbl_g"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">g. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the name and the contact details of a contact person.</p></item></blockList></content></paragraph><paragraph eId="art_15/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> If the controller is unable to report all the details at one time, it shall supply the missing details as quickly as possible.</p></content></paragraph><paragraph eId="art_15/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> If the controller is required to inform the data subject, it shall provide the data subject with the details specified in paragraph 1 letters a and e–g in simple and comprehensible language.</p></content></paragraph><paragraph eId="art_15/para_4"><num>4</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The controller must document the breaches. The documentation must contain a summary of the circumstances of the incidents, their effects and the measures taken. It shall be retained from the time of the report under paragraph 1 for a minimum of two years.</p></content></paragraph></article></chapter><chapter eId="chap_3"><num>Chapter 3</num><heading>Rights of the Data Subject</heading><section eId="chap_3/sec_1"><num>Section 1</num><heading>Right of Access</heading><article eId="art_16"><num><b>Art. 16</b></num><heading>Modalities</heading><paragraph eId="art_16/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Any person who requests information from the controller as to whether personal data relating to him or her are being processed must do so in writing. If the controller agrees, the request may also be made verbally.</p></content></paragraph><paragraph eId="art_16/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The information shall be provided in writing or in the form in which the data is available. By agreement with the controller, the data subject may inspect his or her data on site. The information may be provided verbally if the data subject agrees.</p></content></paragraph><paragraph eId="art_16/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Information may be requested and provided electronically.</p></content></paragraph><paragraph eId="art_16/para_4"><num>4</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The information must be given to the data subject in a comprehensible form.</p></content></paragraph><paragraph eId="art_16/para_5"><num>5</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The controller must take appropriate measures to identify the data subject. The data subject is obliged to cooperate in the identification process.</p></content></paragraph></article><article eId="art_17"><num><b>Art. 17</b></num><heading>Responsibility</heading><paragraph eId="art_17/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Where two or more controllers are processing personal data jointly, the data subject may exercise his or her right of access in relation to any one of them.</p></content></paragraph><paragraph eId="art_17/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> If the request relates to data that is being processed by one processor, the processor shall assist the controller in providing the information where it does not answer the request on behalf of the controller.</p></content></paragraph></article><article eId="art_18"><num><b>Art. 18</b></num><heading>Deadline</heading><paragraph eId="art_18/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The information must be provided within 30 days of receipt of the request.</p></content></paragraph><paragraph eId="art_18/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> If it is not possible to provide the information within 30 days, the controller must notify the data subject of this and of how long it will take to provide the information.</p></content></paragraph><paragraph eId="art_18/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> If the controller decides to refuse, restrict or defer the right of access, it must notify the data subject of this within the same deadline.</p></content></paragraph></article><article eId="art_19"><num><b>Art. 19</b></num><heading>Exception to the requirement not to charge fees</heading><paragraph eId="art_19/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> If providing the information involves a disproportionate cost, the controller may require the data subject to contribute to the costs in an appropriate manner.</p></content></paragraph><paragraph eId="art_19/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The contribution may not exceed 300 francs.</p></content></paragraph><paragraph eId="art_19/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The controller must notify the data subject of the amount of the contribution before providing the information. If the data subject does not confirm the request within ten days, the request is deemed to have been withdrawn with no costs incurred. The period referred to in Article 18 paragraph 1 shall begin on expiry of the ten-day reflection period.</p></content></paragraph></article></section><section eId="chap_3/sec_2"><num>Section 2</num><heading>Right to Data Portability</heading><article eId="art_20"><num><b>Art. 20</b></num><heading>Scope of the right</heading><paragraph eId="art_20/para_1"><num>1</num><content><blockList><listIntroduction eId="art_20/para_1/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Personal data that the data subject has disclosed to the controller are:</listIntroduction><item eId="art_20/para_1/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">data that the data subject has knowingly and voluntarily made available;</p></item><item eId="art_20/para_1/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">data that the controller has obtained relating to the data subject and his or her behaviour while the data subject was using a service or device.</p></item></blockList></content></paragraph><paragraph eId="art_20/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Personal data that the controller has itself generated from its own evaluation of the personal data provided or observed are not deemed to be personal data that the data subject has disclosed to the controller.</p></content></paragraph></article><article eId="art_21"><num><b>Art. 21</b></num><heading>Technical requirements for implementation</heading><paragraph eId="art_21/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> A conventional electronic format is any format that allows the personal data to be transmitted and reused by the data subject or another controller at a proportionate cost.</p></content></paragraph><paragraph eId="art_21/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The right to data portability does not create any requirement for the data controller to adopt or maintain technically compatible data processing systems.</p></content></paragraph><paragraph eId="art_21/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The cost of transferring personal data to another controller is disproportionate if the transfer is technically impossible.</p></content></paragraph></article><article eId="art_22"><num><b>Art. 22</b></num><heading>Deadline, modalities and responsibility</heading><paragraph eId="art_22/para"><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Articles 16 paragraphs 1 and 5 and 17–19 apply mutatis mutandis to the right to data portability.</p></content></paragraph></article></section></chapter><chapter eId="chap_4"><num>Chapter 4</num><heading>Special Provisions on Data Processing by Private Persons</heading><article eId="art_23"><num><b>Art. 23</b></num><heading>Data protection officer</heading><paragraph eId="art_23/para"><content><blockList><listIntroduction eId="art_23/para/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">The controller must grant the data protection officer:</listIntroduction><item eId="art_23/para/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">access to the required resources;</p></item><item eId="art_23/para/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">access to all information, documents, records of processing activities and personal data that the officer requires to fulfil his or her tasks;</p></item><item eId="art_23/para/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the right to notify the highest management or governing body in important cases.</p></item></blockList></content></paragraph></article><article eId="art_24"><num><b>Art. 24</b></num><heading>Exemption from the obligation to keep a record of processing activities</heading><paragraph eId="art_24/para"><content><blockList><listIntroduction eId="art_24/para/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Undertakings and other private organisations employing fewer than 250 employees on 1 January of any year and natural persons are exempt from the obligation to keep a record of processing activities unless any one of the following requirements is met:</listIntroduction><item eId="art_24/para/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a large volume of sensitive personal data is being processed;</p></item><item eId="art_24/para/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">high-risk profiling is being carried out.</p></item></blockList></content></paragraph></article></chapter><chapter eId="chap_5"><num>Chapter 5</num><heading><br/>Special Provisions on Data Processing by Federal Bodies</heading><section eId="chap_5/sec_1"><num>Section 1</num><heading>Data Protection Officer</heading><article eId="art_25"><num><b>Art. 25</b></num><heading>Appointment</heading><paragraph eId="art_25/para"><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Every federal body shall appoint a data protection officer. Two or more federal authorities may appoint a joint data protection officer.</p></content></paragraph></article><article eId="art_26"><num><b>Art. 26</b></num><heading>Requirements and tasks</heading><paragraph eId="art_26/para_1"><num>1</num><content><blockList><listIntroduction eId="art_26/para_1/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The data protection officer must meet the following requirements:</listIntroduction><item eId="art_26/para_1/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">He or she has the required specialist knowledge.</p></item><item eId="art_26/para_1/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">He or she carries out his or her work in relation to the federal body in a professionally independent manner and is not bound by instructions.</p></item></blockList></content></paragraph><paragraph eId="art_26/para_2"><num>2</num><content><blockList><listIntroduction eId="art_26/para_2/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> He or she must carry out the following tasks:</listIntroduction><item eId="art_26/para_2/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><blockList><listIntroduction eId="art_26/para_2/lbl_a/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">He or she participates in applying the data protection regulations, in particular in that he or she:</listIntroduction><item eId="art_26/para_2/lbl_a/lbl_1"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">1. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">examines the processing of personal data and recommends corrective measures if a breach of the data protection regulations is established;</p></item><item eId="art_26/para_2/lbl_a/lbl_2"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">2. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">advises the controller on preparing the data protection impact assessment and reviews its implementation.</p></item></blockList></item><item eId="art_26/para_2/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">He or she serves as a contact point for data subjects.</p></item><item eId="art_26/para_2/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">He or she trains and advises employees of the federal body on data protection matters.</p></item></blockList></content></paragraph></article><article eId="art_27"><num><b>Art. 27</b></num><heading>Obligations of the federal body</heading><paragraph eId="art_27/para_1"><num>1</num><content><blockList><listIntroduction eId="art_27/para_1/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The federal body has the following obligations in relation to the data protection officer:</listIntroduction><item eId="art_27/para_1/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a.  </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">It shall grant him or her access to all information, documents, records of processing activities and personal data that he or she requires to fulfil his or her tasks.</p></item><item eId="art_27/para_1/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">It shall ensure that he or she is notified of any breach of data security.</p></item></blockList></content></paragraph><paragraph eId="art_27/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> It shall publish contact details for the data protection officer online and notify the FDPIC of these details.</p></content></paragraph></article><article eId="art_28"><num><b>Art. 28</b></num><heading>Contact point for the FDPIC</heading><paragraph eId="art_28/para"><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">The data protection officer serves as the FDPIC’s contact point for any questions in connection with the processing of personal data by the federal body concerned.</p></content></paragraph></article></section><section eId="chap_5/sec_2"><num>Section 2</num><heading>Duties to Provide Information</heading><article eId="art_29"><num><b>Art. 29</b></num><heading>Duty to provide information in the event of the disclosure of personal data</heading><paragraph eId="art_29/para"><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">The federal body shall inform the recipient about the up-to-dateness, reliability and completeness of the personal data that it has disclosed, unless this information is evident from the data themselves or from the circumstances.</p></content></paragraph></article><article eId="art_30"><num><b>Art. 30</b></num><heading>Duty to provide information in the event of the systematic collection of personal data</heading><paragraph eId="art_30/para"><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">If the data subject is not under any obligation to provide information, the responsible federal body shall inform him or her of this fact in relation to any systematic collection of personal data.</p></content></paragraph></article></section><section eId="chap_5/sec_3"><num>Section 3</num><heading>Notifying the FDPIC of Projects for the Automated Processing of Personal Data </heading><article eId="art_31"><num><b>Art. 31</b></num><paragraph eId="art_31/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The responsible federal body shall notify the FDPIC of any planned automated processing activities at the time that the decision is taken to develop or approve the project.</p></content></paragraph><paragraph eId="art_31/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Notification must include the details in Article 12 paragraph 2 letters a–d FADP and the anticipated date on which the processing activities will begin.</p></content></paragraph><paragraph eId="art_31/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The FDPIC shall record the notification in the register of processing activities.</p></content></paragraph><paragraph eId="art_31/para_4"><num>4</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The responsible federal body shall update the notification on transition to productive operations or termination of the project.</p></content></paragraph></article></section><section eId="chap_5/sec_4"><num>Section 4</num><heading>Pilot Projects</heading><article eId="art_32"><num><b>Art. 32</b></num><heading>Mandatory nature of the pilot trial</heading><paragraph eId="art_32/para"><content><blockList><listIntroduction eId="art_32/para/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A pilot trial is mandatory if any one of the following conditions is satisfied:</listIntroduction><item eId="art_32/para/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Fulfilling a task requires technical innovations, the effects of which must first be evaluated.</p></item><item eId="art_32/para/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Fulfilling a task requires significant organisational or technical measures, the effectiveness of which must first be tested, in particular in the case of the cooperation between federal and cantonal authorities.</p></item><item eId="art_32/para/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Fulfilling a task requires personal data to be made accessible in the online search process.</p></item></blockList></content></paragraph></article><article eId="art_33"><num><b>Art. 33</b></num><heading>Procedure for authorising the pilot trial</heading><paragraph eId="art_33/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Before consulting the administrative units with an interest, the federal body responsible for the pilot trial shall explain how it planned to comply with the requirements under Article 35 FADP, and invite the FDPIC to provide its opinion.</p></content></paragraph><paragraph eId="art_33/para_2"><num>2</num><content><blockList><listIntroduction eId="art_33/para_2/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The FDPIC shall provide its opinion on whether the authorisation requirements under Article 35 FADP are met. The federal body shall provide it with all the documents required to do this, and in particular:</listIntroduction><item eId="art_33/para_2/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a general description of the pilot trial;</p></item><item eId="art_33/para_2/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a report that demonstrates that fulfilling the statutory tasks requires processing under Article 34 paragraph 2 FADP and that a test phase before the act formally comes into force is essential;</p></item><item eId="art_33/para_2/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a description of the internal organisational structure and the data processing and control procedures;</p></item><item eId="art_33/para_2/lbl_d"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">d. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a description of the security and data protection measures;</p></item><item eId="art_33/para_2/lbl_e"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">e. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the draft of an ordinance that regulates the details of the processing, or the plan for an ordinance;</p></item><item eId="art_33/para_2/lbl_f"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">f. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the plans for the various phases of the pilot trial.</p></item></blockList></content></paragraph><paragraph eId="art_33/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The FDPIC may request further documents and conduct additional enquiries.</p></content></paragraph><paragraph eId="art_33/para_4"><num>4</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The federal body shall inform the FDPIC of any significant change that affects compliance the requirements of Article 35 FADP. The FDPIC shall again provide its opinion if required.</p></content></paragraph><paragraph eId="art_33/para_5"><num>5</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The FDPIC’s opinion shall be included with the application to the Federal Council.</p></content></paragraph><paragraph eId="art_33/para_6"><num>6</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Automated data processing shall be regulated in an ordinance.</p></content></paragraph></article><article eId="art_34"><num><b>Art. 34</b></num><heading>Evaluation report</heading><paragraph eId="art_34/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The competent federal body shall submit the draft of the evaluation report for the Federal Council to the FDPIC for the FDPIC to provide an opinion.</p></content></paragraph><paragraph eId="art_34/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The competent federal body shall submit the evaluation report to the Federal Council with the FDPIC’s opinion.</p></content></paragraph></article></section><section eId="chap_5/sec_5"><num>Section 5</num><heading><br/>Data Processing for Purposes not related to Specific Persons </heading><article eId="art_35"><num><b>Art. 35</b></num><paragraph eId="art_35/para"><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">If personal data are processed for purposes not related to specific persons, in particular research, planning and statistics, but at the same time are processed for a different purpose, the exceptions under Article 39 paragraph 2 FADP only apply to the processing for purposes not related to specific persons.</p></content></paragraph></article></section></chapter><chapter eId="chap_6"><num>Chapter 6</num><heading>Federal Data Protection and Information Commissioner</heading><article eId="art_36"><num><b>Art. 36</b></num><heading>Seat and permanent secretariat</heading><paragraph eId="art_36/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The seat of the FDPIC is in Bern.</p></content></paragraph><paragraph eId="art_36/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The federal legislation on personnel governs the employment contracts of the employees of the FDPIC’s permanent secretariat. The employees shall be insured with the Federal Pension Fund.</p></content></paragraph></article><article eId="art_37"><num><b>Art. 37</b></num><heading>Method of communication</heading><paragraph eId="art_37/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The FDPIC shall communicate with the Federal Council via the Federal Chancellor. The Federal Chancellor shall pass on the FCPIC’s proposals, opinions and reports unedited the Federal Council.</p></content></paragraph><paragraph eId="art_37/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The FDPIC shall submit reports to the Federal Assembly via the Parliamentary Services.</p></content></paragraph></article><article eId="art_37_a"><num><b>Art. 37</b><i>a</i><authorialNote>
+		<p> Inserted by No I of the O of 29 Oct. 2025, in force since 1 Dec. 2025 (<ref href="https://fedlex.data.admin.ch/eli/oc/2025/694">AS <b>2025</b> 694</ref>).</p>
+	</authorialNote></num><heading>Conclusion and amendment of declarations of intent</heading><paragraph eId="art_37_a/para"><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">The FDPIC shall report annually to the Federal Council on the declarations of intent that it has concluded and amended regarding its cooperation with foreign data protection authorities.</p></content></paragraph></article><article eId="art_38"><num><b>Art. 38</b></num><heading>Notice of decisions, guidelines and projects</heading><paragraph eId="art_38/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The departments and the Federal Chancellery shall notify the FDPIC of their decisions in anonymised form and of their guidelines relating to data protection.</p></content></paragraph><paragraph eId="art_38/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The federal authorities shall submit all legislative drafts to the FDPIC that relate to the processing of personal data, data protection and access to official documents.</p></content></paragraph></article><article eId="art_39"><num><b>Art. 39</b></num><heading>Processing personal data</heading><paragraph eId="art_39/para"><content><blockList><listIntroduction eId="art_39/para/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">The FDPIC may process personal data, including sensitive personal data, for the following purposes in particular:</listIntroduction><item eId="art_39/para/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">in order to carry out its supervisory activities;</p></item><item eId="art_39/para/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">in order to carry out its advisory activities;</p></item><item eId="art_39/para/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">in order to cooperate with federal, cantonal and foreign authorities;</p></item><item eId="art_39/para/lbl_d"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">d. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">in order to fulfil tasks in terms of the criminal provisions in the FADP;</p></item><item eId="art_39/para/lbl_e"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">e. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">in order to conduct mediation proceedings and to issue recommendations under the Freedom of Information Act of 17 December 2004<authorialNote>
+		<p>  <ref fedlex:rs-uri="https://fedlex.data.admin.ch/eli/cc/2006/355" fedlex:rs="152.3" href="https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937">SR <b>152.3</b></ref></p>
+	</authorialNote> (FoIA);</p></item><item eId="art_39/para/lbl_f"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">f. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">in order to conduct evaluations under the FoIA;</p></item><item eId="art_39/para/lbl_g"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">g. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">in order to conduct proceedings for access to official documents under the FoIA;</p></item><item eId="art_39/para/lbl_h"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">h. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">in order to provide information to the parliamentary supervisory authorities;</p></item><item eId="art_39/para/lbl_i"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">i. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">in order to provide information to the public;</p></item><item eId="art_39/para/lbl_j"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">j. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">in order to carry out its training activities.</p></item></blockList></content></paragraph></article><article eId="art_40"><num><b>Art. 40</b></num><heading>Self-regulation</heading><paragraph eId="art_40/para"><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">The FDPIC shall issue processing regulations for all automated processing; Article 6 paragraph 1 does not apply.</p></content></paragraph></article><article eId="art_41"><num><b>Art. 41</b><authorialNote>
+		<p> Amended by No II 7 of the O of 22 Nov. 2023, in force since 1 Jan. 2024 (<ref href="https://fedlex.data.admin.ch/eli/oc/2023/746">AS <b>2023</b> 746</ref>).</p>
+	</authorialNote></num><heading>Cooperation with the National Cybersecurity Centre</heading><paragraph eId="art_41/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> …<span><authorialNote>
+		<p> Repealed by Annex No 2 of the Cybersecurity Ordinance of 7 March 2025, with effect from 1 April 2025 (<ref href="https://fedlex.data.admin.ch/eli/oc/2025/169">AS <b>2025</b> 169</ref>).</p>
+	</authorialNote></span></p></content></paragraph><paragraph eId="art_41/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The FDPIC shall invite the NCSC to comment before it orders the federal body to take measures under Article 8 FADP.</p></content></paragraph></article><article eId="art_42"><num><b>Art. 42</b></num><heading>Register of processing activities by federal authorities</heading><paragraph eId="art_42/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The register of the processing activities by federal authorities shall contain the details provided by the federal authorities in accordance with Article 12 paragraph 2 FADP and Article 31 paragraph 2 this Ordinance.</p></content></paragraph><paragraph eId="art_42/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> It shall be published online. The register entries on planned automated processing activities under Article 31 shall not be published.</p></content></paragraph></article><article eId="art_43"><num><b>Art. 43</b></num><heading>Code of conduct</heading><paragraph eId="art_43/para"><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">If a code of conduct is submitted to the FDPIC, the FDPIC shall confirm in its opinion whether the code of conduct meets the requirements of Article 22 paragraph 5 letters a and b FADP.</p></content></paragraph></article><article eId="art_44"><num><b>Art. 44</b></num><heading>Fees</heading><paragraph eId="art_44/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The fees charged by the FDPIC shall be calculated on the basis of the time taken.</p></content></paragraph><paragraph eId="art_44/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> An hourly rate of 150 to 250 francs applies, depending on the seniority of the members of staff carrying out the work.</p></content></paragraph><paragraph eId="art_44/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> In the case of services that are exceptionally extensive, complex or urgent, a surcharge of up to 50 per cent of the fee under paragraph 2 may be added.</p></content></paragraph><paragraph eId="art_44/para_4"><num>4</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> If the service provided by the FDPIC can be commercially exploited by the person liable to pay the fee, a surcharge of up to 100 per cent of the fee under paragraph 2 may be added.</p></content></paragraph><paragraph eId="art_44/para_5"><num>5</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The General Fees Ordinance of 8 September 2004<authorialNote>
+		<p>  <ref fedlex:rs-uri="https://fedlex.data.admin.ch/eli/cc/2004/677" fedlex:rs="172.041.1" href="https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068">SR <b>172.041.1</b></ref></p>
+	</authorialNote> also applies.</p></content></paragraph></article></chapter><chapter eId="chap_7"><num>Chapter 7</num><heading>Final Provisions</heading><article eId="art_45"><num><b>Art. 45</b></num><heading>Repeal and amendment of other legislation</heading><paragraph eId="art_45/para"><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">The repeal and the amendment of other legislation are regulated in Annex 2.</p></content></paragraph></article><article eId="art_46"><num><b>Art. 46</b></num><heading>Transitional provisions</heading><paragraph eId="art_46/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> In the case of automated processing of personal data that was planned or started before the amendment of 29 October 2025 came into force, the assessment of the need for logging under Article 4 paragraph 2 must be carried out by 31 December 2026. If logging proves to be necessary, it must be implemented by 31 December 2029. The foregoing does not apply to the automated processing of sensitive personal data, profiling and automated data processing that falls within the scope of Directive (EU) 2016/680<authorialNote>
+		<p>  Directive (EU) 2016/680 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, and on the free movement of such data, and repealing Council Framework Decision 2008/977/JHA, last amended by OJ L 119 of 4.5.2016, p. 89.</p>
+	</authorialNote>.<authorialNote>
+		<p> Amended by No I of the O of 29 Oct. 2025, in force since 1 Dec. 2025 (<ref href="https://fedlex.data.admin.ch/eli/oc/2025/694">AS <b>2025</b> 694</ref>).</p>
+	</authorialNote></p></content></paragraph><paragraph eId="art_46/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Article 8 paragraph 5 does not apply to assessments carried out before this Ordinance comes into force.</p></content></paragraph><paragraph eId="art_46/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Article 31 does not apply to planned automated processing activities in respect of which the decision to develop or approve the project has already been taken when this Ordinance comes into force.</p></content></paragraph></article><article eId="art_47"><num><b>Art. 47</b></num><heading>Commencement</heading><paragraph eId="art_47/para"><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">This Ordinance comes into force on 1 September 2023.</p></content></paragraph></article></chapter></body><components><component><doc name="annex"><meta><identification source="#ch.bk"><FRBRWork><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/2022/568/20251201/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/2022/568/20251201"/><FRBRdate date="2025-12-01" name="jolux:dateApplicability"/><FRBRdate date="2022-08-31" name="jolux:dateDocument"/><FRBRdate date="2023-09-01" name="jolux:dateEntryInForce"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRcountry value="CH"/><FRBRnumber value=""/><FRBRname xml:lang="it" value="Ordinanza del 31 agosto 2022 sulla protezione dei dati (OPDa)" shortForm="OPDa"/><FRBRname xml:lang="en" value="Ordinance of 31 August 2022 on Data Protection (Data Protection Ordinance, DPO)" shortForm="DPO"/><FRBRname xml:lang="de" value="Verordnung vom 31. August 2022 über den Datenschutz (Datenschutzverordnung, DSV)" shortForm="DSV"/><FRBRname xml:lang="fr" value="Ordonnance du 31 août 2022 sur la protection des données (OPDo)" shortForm="OPDo"/><FRBRauthoritative value="true"/></FRBRWork><FRBRExpression><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/2022/568/20251201/en/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/2022/568/20251201/en"/><FRBRdate date="2025-12-01" name="jolux:dateApplicability"/><FRBRdate date="2022-08-31" name="jolux:dateDocument"/><FRBRdate date="2023-09-01" name="jolux:dateEntryInForce"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRlanguage language="en"/></FRBRExpression><FRBRManifestation><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/2022/568/20251201/en/xml/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/2022/568/20251201/en/xml"/><FRBRdate date="2025-12-01" name="jolux:dateApplicability"/><FRBRdate date="2022-08-31" name="jolux:dateDocument"/><FRBRdate date="2023-09-01" name="jolux:dateEntryInForce"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRformat value="xml"/></FRBRManifestation></identification></meta><preface><container name="headerOfAnnex"><block name="heading">Annex 1<inline name="man-font-style-normal"><authorialNote>
+		<p> Amended by No I of the O of 14 Aug. 2024, in force since 15 Sep. 2024 (<ref href="https://fedlex.data.admin.ch/eli/oc/2024/435">AS <b>2024</b> 435</ref>).</p>
+	</authorialNote></inline></block></container></preface><mainBody><p>(Art. 8 para. 1)</p><level eId="annex_1/lvl_u1"><heading>States, territories, specified sectors in a State and international bodies that guarantee an adequate level of data protection</heading><content><table border="1">
+			
+			
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">1</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Germany*</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">2</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Andorra***</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">3</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Argentina***</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">4</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Austria*</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">5</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Belgium*</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">6</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Bulgaria***</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">7</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Canada***</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">An adequate level of data protection is guaranteed if the Canadian Federal Act on Personal Information Protection and Electronic Documents of 13 April 2000<authorialNote>
+		<p>  The text of the Canadian Federal Act is available at  https://laws-lois.justice.gc.ca/eng/acts/p-8.6/FullText.html.</p>
+	</authorialNote> or the act of a Canadian province that largely corresponds to this Federal Act applies to the private sphere. The Federal Act applies to personal data that is collected, processed or disclosed in the course of commercial activities, irrespective of whether it relates to organisations such as associations, partnerships, individuals or trade unions or undertakings regulated by federal law such as facilities, works, undertakings or business activities that fall within the legislative authority of the Canadian Parliament. The provinces of Quebec, British Columbia and Alberta have issued an act that largely corresponds to the Federal Act; the provinces of Ontario, New Brunswick, Newfoundland and Labrador and Nova Scotia have issued an act that largely corresponds to this act in relation to health data. In all Canadian provinces, the Federal Act applies to all personal data that are collected, processed or disclosed by undertakings regulated by federal law, including data on employees of these undertakings. The Federal Act also applies to personal data transferred to another province or another country in the course of commercial activities.</p>
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">8</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Cyprus***</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">9</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Croatia***</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">10</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Denmark*</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">11</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Spain*</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">12</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Estonia*</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">13</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Finland*</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">14</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">France*</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">15</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Gibraltar***</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">16</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Greece*</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">17</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Guernsey***</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">18</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Hungary*</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">19</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Isle of Man***</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">20</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Faroe Islands***</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">21</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Ireland***</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">22</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Island*</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">23</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Israel***</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">24</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Italy*</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">25</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Jersey***</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">26</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Latvia*</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">27</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Liechtenstein*</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">28</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Lithuania*</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">29</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Luxembourg*</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">30</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Malta*</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">31</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Monaco***</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">32</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Norway*</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">33</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">New Zealand***</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">34</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Netherlands*</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">35</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Poland*</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">36</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Portugal*</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">37</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Czech Republic*</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">38</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Romania***</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">39</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">United Kingdom **</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">40</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Slovakia*</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">41</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Slovenia*</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">42</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Sweden*</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">43</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Uruguay***</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">44</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">United States***</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"><inline name="man-color-auto">For personal data processed by organisations </inline><inline name="man-color-auto">certified </inline><inline name="man-color-auto">under the Principles of the Swiss-US Privacy Framework</inline><inline name="man-color-auto"><authorialNote>
+		<p>  The principles are available at: <ref href="www.dataprivacyframework.gov/s/framework-text?tabset-c1491=3">
+				www.dataprivacyframework.gov/s/framework-text?tabset-c1491=3
+			</ref>.</p>
+	</authorialNote></inline><inline name="man-color-auto">, an adequate level of protection is </inline><inline name="man-color-auto">deemed to be guaranteed</inline><inline name="man-color-auto"> based on the safeguards provided by Executive Order 14086 of 7 October 2022</inline><inline name="man-color-auto"><authorialNote>
+		<p>  The Executive Order 14086 is available at: <ref href="www.state.gov/executive-order-14086-policy-and-procedures/">
+				www.state.gov/executive-order-14086-policy-and-procedures/
+			</ref>.</p>
+	</authorialNote></inline><inline name="man-color-auto">, the Rule on the United States Attorney General's Data Protection Review Court of 7 October 2022</inline><inline name="man-color-auto"><authorialNote>
+		<p>  The Rule is available at: <ref href="www.federalregister.gov/documents/2022/10/14/2022-22234/data-protection-review-court">
+				www.federalregister.gov/documents/2022/10/14/2022-22234/data-protection-review-court
+			</ref>.</p>
+	</authorialNote></inline><inline name="man-color-auto"> and Intelligence Community Directive 126 (Implementation Procedures for the Signals Intelligence Redress Mechanism under Executive Order 14086) issued by the Office of the Director of National Intelligence on 6 December 2022</inline><inline name="man-color-auto"><authorialNote>
+		<p>  The Directive is available at: <ref href="www.dni.gov/files/documents/ICD/ICD_126-Implementation-Procedures-for-SIGINT-Redress-Mechanism.pdf">
+				www.dni.gov/files/documents/ICD/ICD_126-Implementation-Procedures-for-SIGINT-Redress-Mechanism.pdf
+			</ref>.</p>
+	</authorialNote></inline><inline name="man-color-auto"> and the Designation of Switzerland on 7 June 2024</inline><inline name="man-color-auto"><authorialNote>
+		<p>  The list is available at: <ref href="file:///\\cat-tools.bk.intra.admin.ch\repotransit$\bk\Projects\BK\BK_DSV%20Annex%20USA\EXPORT\ENG\www.justice.gov\opcl\media\1355326\dl?inline.">
+				www.justice.gov/opcl/media/1355326/dl?inline
+			</ref>.</p>
+	</authorialNote></inline><inline name="man-color-auto"> as a country covered by the two-layer redress mechanism, including access to the Data Protection Review Court</inline>.</p>
+				</td>
+			</tr>
+			
+		</table><blockList><item eId="annex_1/lvl_u1/bull_u1"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">* </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">The assessment of the adequacy of data protection includes the disclosure of personal data in accordance with Directive (EU) 2016/680<authorialNote>
+		<p>  Directive (EU) 2016/680 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, and on the free movement of such data, and repealing Council Framework Decision 2008/977/JHA, last amended by OJ. L 119 of 4.5.2016, p. 89.</p>
+	</authorialNote>.</p></item><item eId="annex_1/lvl_u1/bull_u2"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">** </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">The assessment of the adequacy of data protection includes the disclosure of personal data in accordance with an implementing decision of the European Commission in which the adequacy of data protection is established in accordance with Directive (EU) 2016/680.</p></item><item eId="annex_1/lvl_u1/bull_u3"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">*** </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">The assessment of the adequacy of data protection does not include the disclosure of personal data in terms of the cooperation provided for under Directive (EU) 2016/680.</p></item></blockList></content></level></mainBody></doc></component><component><doc name="annex"><meta><identification source="#ch.bk"><FRBRWork><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/2022/568/20251201/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/2022/568/20251201"/><FRBRdate date="2025-12-01" name="jolux:dateApplicability"/><FRBRdate date="2022-08-31" name="jolux:dateDocument"/><FRBRdate date="2023-09-01" name="jolux:dateEntryInForce"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRcountry value="CH"/><FRBRnumber value=""/><FRBRname xml:lang="it" value="Ordinanza del 31 agosto 2022 sulla protezione dei dati (OPDa)" shortForm="OPDa"/><FRBRname xml:lang="en" value="Ordinance of 31 August 2022 on Data Protection (Data Protection Ordinance, DPO)" shortForm="DPO"/><FRBRname xml:lang="de" value="Verordnung vom 31. August 2022 über den Datenschutz (Datenschutzverordnung, DSV)" shortForm="DSV"/><FRBRname xml:lang="fr" value="Ordonnance du 31 août 2022 sur la protection des données (OPDo)" shortForm="OPDo"/><FRBRauthoritative value="true"/></FRBRWork><FRBRExpression><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/2022/568/20251201/en/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/2022/568/20251201/en"/><FRBRdate date="2025-12-01" name="jolux:dateApplicability"/><FRBRdate date="2022-08-31" name="jolux:dateDocument"/><FRBRdate date="2023-09-01" name="jolux:dateEntryInForce"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRlanguage language="en"/></FRBRExpression><FRBRManifestation><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/2022/568/20251201/en/xml/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/2022/568/20251201/en/xml"/><FRBRdate date="2025-12-01" name="jolux:dateApplicability"/><FRBRdate date="2022-08-31" name="jolux:dateDocument"/><FRBRdate date="2023-09-01" name="jolux:dateEntryInForce"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRformat value="xml"/></FRBRManifestation></identification></meta><preface><container name="headerOfAnnex"><block name="heading">Annex 2<inline name="man-font-style-normal"><authorialNote>
+		<p> Revised by Annex 6 No II 1 of the O of 23 Sept. 2022 on Human Genetic Testing, in force since 1 Sept. 2023 (<ref href="https://fedlex.data.admin.ch/eli/oc/2022/585">AS <b>2022</b> 585</ref>).</p>
+	</authorialNote></inline></block></container></preface><mainBody><p>(Art. 45)</p><level eId="annex_2/lvl_u1"><heading>Repeal and amendment of other legislation</heading><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">I</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">The Ordinance to the Federal Data Protection Act of 14 June 1993<authorialNote>
+		<p>  [<ref href="https://fedlex.data.admin.ch/eli/oc/1993/1962_1962_1962">AS <b>1993</b> 1962</ref>; <ref href="https://fedlex.data.admin.ch/eli/oc/2000/198"><b>2000 </b>1227 </ref>Annex No II 7; <ref href="https://fedlex.data.admin.ch/eli/oc/2006/356"><b>2006</b> 2331 </ref>Annex 2 No 3, <ref href="https://fedlex.data.admin.ch/eli/oc/2006/725">4705  </ref>No II 24; <ref href="https://fedlex.data.admin.ch/eli/oc/2007/700"><b>2007</b> 4993</ref>; <ref href="https://fedlex.data.admin.ch/eli/oc/2008/58"><b>2008</b> 189</ref>; <ref href="https://fedlex.data.admin.ch/eli/oc/2010/465"><b>2010</b> 3399</ref>]</p>
+	</authorialNote> is repealed.</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">II</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">The enactments below are amended as follows:</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">…<authorialNote>
+		<p> The amendments may be consulted under <ref href="https://fedlex.data.admin.ch/eli/oc/2022/568">AS <b>2022</b> 568</ref>.</p>
+	</authorialNote></p></content></level></mainBody></doc></component></components></act></akomaNtoso>

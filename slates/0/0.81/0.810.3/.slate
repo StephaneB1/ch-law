@@ -1,0 +1,6 @@
+name: Council of Europe Convention against Trafficking…
+description: SR 0.810.3 — Council of Europe Convention of 25 March 2015 against Trafficking in Human Organs. Unofficial English mirror of the Fedlex consolidation of 11 August 2025. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Multilateral international treaty", "jurisdiction": "Switzerland", "reference": "SR 0.810.3", "dateInForce": "2021-02-01", "adopted": "2015-03-25", "consolidated": "2025-08-11", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/2020/1067"}

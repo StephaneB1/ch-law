@@ -1,0 +1,6 @@
+name: National Highways Charge Ordinance (NHCO)
+description: SR 741.711 — Ordinance of 16 June 2023 on the Charge for Using the National Highways (National Highways Charge Ordinance, NHCO). Unofficial English mirror of the Fedlex consolidation of 1 August 2023. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Federal Council ordinance", "jurisdiction": "Switzerland", "reference": "SR 741.711", "dateInForce": "2023-08-01", "adopted": "2023-06-16", "consolidated": "2023-08-01", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/2023/338"}

@@ -1,0 +1,6 @@
+name: Precious Metals Control Ordinance (PMCO)
+description: SR 941.311 — Ordinance of 8 May 1934 on the Control of Trade in Precious Metals and Articles of Precious Metals (Precious Metals Control Ordinance, PMCO). Unofficial English mirror of the Fedlex consolidation of 1 January 2024. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Federal Council ordinance", "jurisdiction": "Switzerland", "reference": "SR 941.311", "dateInForce": "1934-07-01", "adopted": "1934-05-08", "consolidated": "2024-01-01", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/50/363_375_420"}

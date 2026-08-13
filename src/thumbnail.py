@@ -252,9 +252,7 @@ def main() -> int:
 
     census = json.loads(CENSUS_PATH.read_text(encoding="utf-8"))
     by_sr = {a["sr"]: a for a in census["acts"]}
-    wanted = args.sr or sorted(
-        sr for sr in by_sr if not sr.startswith("0") and slate_path(sr).exists()
-    )
+    wanted = args.sr or sorted(sr for sr in by_sr if slate_path(sr).exists())
 
     for sr in wanted:
         if sr not in by_sr:

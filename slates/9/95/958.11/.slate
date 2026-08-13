@@ -1,0 +1,6 @@
+name: Financial Market Infrastructure Ordinance (FinMIO)
+description: SR 958.11 — Ordinance of 25 November 2015 on Financial Market Infrastructures and Market Conduct in Securities and Derivatives Trading (Financial Market Infrastructure Ordinance, FinMIO). Unofficial English mirror of the Fedlex consolidation of 1 January 2025. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Federal Council ordinance", "jurisdiction": "Switzerland", "reference": "SR 958.11", "dateInForce": "2016-01-01", "adopted": "2015-11-25", "consolidated": "2025-01-01", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/2015/854"}

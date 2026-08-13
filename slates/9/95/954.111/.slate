@@ -1,0 +1,7 @@
+name: FinIO-FINMA
+description: SR 954.111 — Ordinance of 4 November 2020 of the Swiss Financial Market Supervisory Authority on Financial Institutions 
+(FINMA Financial Institutions Ordinance, FinIO-FINMA). Unofficial English mirror of the Fedlex consolidation of 1 January 2021. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Federal office ordinance", "jurisdiction": "Switzerland", "reference": "SR 954.111", "dateInForce": "2021-01-01", "adopted": "2020-11-04", "consolidated": "2021-01-01", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/2020/922"}

@@ -1,0 +1,6 @@
+name: Ordinance on Biocidal Products (OBP)
+description: SR 813.12 — Ordinance of 18 May 2005 on the Placing on the Market and Handling of Biocidal Products (Ordinance on Biocidal Products, OBP). Unofficial English mirror of the Fedlex consolidation of 1 December 2025. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Federal Council ordinance", "jurisdiction": "Switzerland", "reference": "SR 813.12", "dateInForce": "2005-08-01", "adopted": "2005-05-18", "consolidated": "2025-12-01", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/2005/468"}

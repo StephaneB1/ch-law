@@ -1,0 +1,6 @@
+name: Capital Adequacy Ordinance (CAO)
+description: SR 952.03 — Ordinance of 1 June 2012 on the Capital Adequacy and Risk Diversification of Banks and Securities Firms (Capital Adequacy Ordinance, CAO). Unofficial English mirror of the Fedlex consolidation of 24 January 2025. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Federal Council ordinance", "jurisdiction": "Switzerland", "reference": "SR 952.03", "dateInForce": "2013-01-01", "adopted": "2012-06-01", "consolidated": "2025-01-24", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/2012/629"}

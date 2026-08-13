@@ -1,0 +1,6 @@
+name: ANRA
+description: SR 211.412.41 — Federal Act of 16 December 1983 on the Acquisition of Immovable Property in Switzerland by Foreign Non-Residents (ANRA). Unofficial English mirror of the Fedlex consolidation of 1 July 2023. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Federal act", "jurisdiction": "Switzerland", "reference": "SR 211.412.41", "dateInForce": "1985-01-01", "adopted": "1983-12-16", "consolidated": "2023-07-01", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/1984/1148_1148_1148"}

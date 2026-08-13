@@ -1,0 +1,6 @@
+name: Gender Equality Act (GEA)
+description: SR 151.1 — Federal Act of 24 March 1995 on Gender Equality (Gender Equality Act, GEA). Unofficial English mirror of the Fedlex consolidation of 1 July 2020. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Federal act", "jurisdiction": "Switzerland", "reference": "SR 151.1", "dateInForce": "1996-07-01", "adopted": "1995-03-24", "consolidated": "2020-07-01", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498"}

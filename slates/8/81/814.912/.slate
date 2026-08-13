@@ -1,0 +1,6 @@
+name: Containment Ordinance (ContainO)
+description: SR 814.912 — Ordinance of 9 May 2012 on Handling Organisms in Contained Systems (Containment Ordinance, ContainO). Unofficial English mirror of the Fedlex consolidation of 1 December 2025. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Federal Council ordinance", "jurisdiction": "Switzerland", "reference": "SR 814.912", "dateInForce": "2012-06-01", "adopted": "2012-05-09", "consolidated": "2025-12-01", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/2012/329"}

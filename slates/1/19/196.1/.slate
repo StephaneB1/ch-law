@@ -1,0 +1,6 @@
+name: Foreign Illicit Assets Act (FIAA)
+description: SR 196.1 — Federal Act of 18 December 2015 on the Freezing and the Restitution of Illicit Assets held by Foreign Politically Exposed Persons (Foreign Illicit Assets Act, FIAA). Unofficial English mirror of the Fedlex consolidation of 1 July 2016. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Federal act", "jurisdiction": "Switzerland", "reference": "SR 196.1", "dateInForce": "2016-07-01", "adopted": "2015-12-18", "consolidated": "2016-07-01", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/2016/322"}

@@ -1,0 +1,6 @@
+name: Human Research Act (HRA)
+description: SR 810.30 — Federal Act of 30 September 2011 on Research involving Human Beings (Human Research Act, HRA). Unofficial English mirror of the Fedlex consolidation of 1 September 2023. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Federal act", "jurisdiction": "Switzerland", "reference": "SR 810.30", "dateInForce": "2014-01-01", "adopted": "2011-09-30", "consolidated": "2023-09-01", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/2013/617"}

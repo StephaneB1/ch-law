@@ -1,0 +1,6 @@
+name: Disclosure Ordinance FAOA (DO-FAOA)
+description: SR 221.302.34 — Ordinance of 23 August 2017 of the Federal Audit Oversight Authority on Disclosing the Lack of Oversight of Audit Firms Engaged by Foreign Bond Issuers (Disclosure Ordinance FAOA, DO-FAOA). Unofficial English mirror of the Fedlex consolidation of 1 October 2017. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Federal office ordinance", "jurisdiction": "Switzerland", "reference": "SR 221.302.34", "dateInForce": "2017-10-01", "adopted": "2017-08-23", "consolidated": "2017-10-01", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/2017/529"}

@@ -1,0 +1,6 @@
+name: Copyright Ordinance (CopO)
+description: SR 231.11 — Ordinance of 26 April 1993 on Copyright and Related Rights (Copyright Ordinance, CopO). Unofficial English mirror of the Fedlex consolidation of 1 July 2025. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Federal Council ordinance", "jurisdiction": "Switzerland", "reference": "SR 231.11", "dateInForce": "1993-07-01", "adopted": "1993-04-26", "consolidated": "2025-07-01", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/1993/1821_1821_1821"}

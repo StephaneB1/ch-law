@@ -1,0 +1,6 @@
+name: NCHO
+description: SR 451.1 — Ordinance of 16 January 1991 on the Protection of Nature and Cultural Heritage (NCHO). Unofficial English mirror of the Fedlex consolidation of 1 August 2025. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Federal Council ordinance", "jurisdiction": "Switzerland", "reference": "SR 451.1", "dateInForce": "1991-02-01", "adopted": "1991-01-16", "consolidated": "2025-08-01", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/1991/249_249_249"}

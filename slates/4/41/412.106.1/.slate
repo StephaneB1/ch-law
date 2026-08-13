@@ -1,0 +1,6 @@
+name: SFUVET Ordinance
+description: SR 412.106.1 — Ordinance of 18 June 2021 on the Swiss Federal University for Vocational Education and Training (SFUVET Ordinance). Unofficial English mirror of the Fedlex consolidation of 1 August 2021. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Federal Council ordinance", "jurisdiction": "Switzerland", "reference": "SR 412.106.1", "dateInForce": "2021-08-01", "adopted": "2021-06-18", "consolidated": "2021-08-01", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/2021/405"}

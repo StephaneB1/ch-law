@@ -1,0 +1,6 @@
+name: Weapons Act (WA)
+description: SR 514.54 — Federal Act of 20 June 1997 on Weapons, Weapon Accessories and Ammunition (Weapons Act, WA). Unofficial English mirror of the Fedlex consolidation of 1 September 2023. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Federal act", "jurisdiction": "Switzerland", "reference": "SR 514.54", "dateInForce": "1999-01-01", "adopted": "1997-06-20", "consolidated": "2023-09-01", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535"}

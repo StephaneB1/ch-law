@@ -1,0 +1,6 @@
+name: Standing Orders of the National Council (SO-NC)
+description: SR 171.13 — Standing Orders of the National Council of 3 October 2003 (SO-NC). Unofficial English mirror of the Fedlex consolidation of 8 September 2025. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Legislation from the National Council", "jurisdiction": "Switzerland", "reference": "SR 171.13", "dateInForce": "2003-12-01", "adopted": "2003-10-03", "consolidated": "2025-09-08", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/2003/514"}

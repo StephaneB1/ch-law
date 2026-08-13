@@ -1,0 +1,6 @@
+name: Parliament Act (ParlA)
+description: SR 171.10 — Federal Act of 13 December 2002 on the Federal Assembly (Parliament Act, ParlA). Unofficial English mirror of the Fedlex consolidation of 2 March 2026. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Federal act", "jurisdiction": "Switzerland", "reference": "SR 171.10", "dateInForce": "2003-12-01", "adopted": "2002-12-13", "consolidated": "2026-03-02", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/2003/510"}

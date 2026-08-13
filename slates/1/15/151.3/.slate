@@ -1,0 +1,6 @@
+name: Disability Discrimination Act (DDA)
+description: SR 151.3 — Federal Act of 13 December 2002 on the Elimination of Discrimination against People with Disabilities (Disability Discrimination Act, DDA). Unofficial English mirror of the Fedlex consolidation of 1 July 2020. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Federal act", "jurisdiction": "Switzerland", "reference": "SR 151.3", "dateInForce": "2004-01-01", "adopted": "2002-12-13", "consolidated": "2020-07-01", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/2003/667"}

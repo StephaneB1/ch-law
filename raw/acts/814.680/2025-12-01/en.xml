@@ -1,0 +1,1518 @@
+<?xml version="1.0" encoding="UTF-8"?><akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:fedlex="http://fedlex.admin.ch/"><act name="publicLaw"><meta><identification source="#ch.bk"><FRBRWork><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20251201/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20251201"/><FRBRdate date="2025-12-01" name="jolux:dateApplicability"/><FRBRdate date="1998-08-26" name="jolux:dateDocument"/><FRBRdate date="1998-10-01" name="jolux:dateEntryInForce"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRcountry value="CH"/><FRBRnumber value="814.680"/><FRBRname xml:lang="en" value="Ordinance of 26 August 1998 on the Remediation of Polluted Sites (Contaminated Sites Ordinance, CSO)" shortForm="CSO"/><FRBRname xml:lang="de" value="Verordnung vom 26. August 1998 über die Sanierung von belasteten Standorten (Altlasten-Verordnung, AltlV)" shortForm="AltlV"/><FRBRname xml:lang="fr" value="Ordonnance du 26 août 1998 sur l'assainissement des sites pollués (Ordonnance sur les sites contaminés, OSites)" shortForm="OSites"/><FRBRname xml:lang="it" value="Ordinanza del 26 agosto 1998 sul risanamento dei siti inquinati (Ordinanza sui siti contaminati, OSiti)" shortForm="OSiti"/><FRBRauthoritative value="true"/></FRBRWork><FRBRExpression><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20251201/en/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20251201/en"/><FRBRdate date="2025-12-01" name="jolux:dateApplicability"/><FRBRdate date="1998-08-26" name="jolux:dateDocument"/><FRBRdate date="1998-10-01" name="jolux:dateEntryInForce"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRlanguage language="en"/></FRBRExpression><FRBRManifestation><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20251201/en/xml/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20251201/en/xml"/><FRBRdate date="2025-12-01" name="jolux:dateApplicability"/><FRBRdate date="1998-08-26" name="jolux:dateDocument"/><FRBRdate date="1998-10-01" name="jolux:dateEntryInForce"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRformat value="xml" fedlex:generator="2025-q4-rel-1.8.4"/></FRBRManifestation></identification><references source="#ch.bk"><TLCOrganization eId="ch.bk" href="https://fedlex.data.admin.ch/vocabulary/legal-institution/2" showAs="Federal Chancellery"/><TLCRole eId="publisher" href="http://data.legilux.public.lu/resource/ontology/jolux#publisher" showAs="Editeur"/><TLCRole eId="rightsHolder" href="http://data.legilux.public.lu/resource/ontology/jolux#rightsHolder" showAs="Détenteur des droits"/><TLCReference name="language" href="http://publications.europa.eu/resource/authority/language/ENG" showAs="en"/><TLCReference name="format" href="https://fedlex.data.admin.ch/vocabulary/user-format/xml" showAs="xml"/></references></meta><preface><p><docNumber>814.680 </docNumber></p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.</p><p><docTitle>Ordinance<br/>on the Remediation of Polluted Sites</docTitle></p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">(Contaminated Sites Ordinance, CSO)</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">of 26 August 1998 (Last amended on 1 December 2025) </p></preface><preamble><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">The Swiss Federal Council,</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">based on Article 32<i>c</i> paragraph 1 second sentence and Article 39 paragraph 1 of the Environmental Protection Act of 7 October 1983<authorialNote>
+		<p> <ref fedlex:rs-uri="https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122" fedlex:rs="814.01" href="https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437">SR <b>814.01</b></ref></p>
+	</authorialNote> (EPA),</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ordains:</p></preamble><body><section eId="sec_1"><num>Section 1</num><heading>General Provisions</heading><article eId="art_1"><num><b>Art. 1</b></num><heading>Aim and subject matter</heading><paragraph eId="art_1/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> This Ordinance is intended to ensure that polluted sites are remediated if they cause harmful effects or nuisances, or if there is a real danger that such effects may arise.</p></content></paragraph><paragraph eId="art_1/para_2"><num>2</num><content><blockList><listIntroduction eId="art_1/para_2/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> It regulates the following procedures for treating polluted sites:</listIntroduction><item eId="art_1/para_2/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">their recording in a register;</p></item><item eId="art_1/para_2/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the assessment of the need for monitoring and remediation;</p></item><item eId="art_1/para_2/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the assessment of the objectives and urgency of remediation;</p></item><item eId="art_1/para_2/lbl_d"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">d. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the specification of the measures for investigation, monitoring and remediation.</p></item></blockList></content></paragraph></article><article eId="art_2"><num><b>Art. 2</b></num><heading>Definitions</heading><paragraph eId="art_2/para_1"><num>1</num><content><blockList><listIntroduction eId="art_2/para_1/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> <i>Polluted sites </i>means sites whose pollution originates from waste, and that are restricted in area. They comprise:</listIntroduction><item eId="art_2/para_1/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">waste disposal sites, i.e. inoperative or operative landfills and other sites where waste has been deposited, except for sites at which only unpolluted excavation material, quarried material or spoil have been deposited;</p></item><item eId="art_2/para_1/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">industrial sites, i.e. sites whose pollution originates from inoperative or operative installations or industrial operations in which environmentally hazardous substances have been used;</p></item><item eId="art_2/para_1/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">accident sites, i.e. sites polluted as a result of extraordinary events, including industrial accidents.</p></item></blockList></content></paragraph><paragraph eId="art_2/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> <i>Sites</i> <i>in need of</i> <i>remediation</i> are polluted sites that cause harmful effects or nuisances or where there is a real danger that such effects may arise.</p></content></paragraph><paragraph eId="art_2/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> <i>Contaminated sites </i>are polluted sites in need of remediation.</p></content></paragraph></article><article eId="art_3"><num><b>Art. 3</b></num><heading>Construction and alteration of buildings and installations</heading><paragraph eId="art_3/para"><content><blockList><listIntroduction eId="art_3/para/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Polluted sites may be modified by the construction or alteration of buildings and installations only if:</listIntroduction><item eId="art_3/para/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">they are not in need of remediation and the project does not make their remediation necessary; or</p></item><item eId="art_3/para/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">their later remediation is not seriously hampered, or, insofar as they are modified by the project, they are remediated at the same time.</p></item></blockList></content></paragraph></article><article eId="art_4"><num><b>Art. 4</b></num><heading>General requirements for measures</heading><paragraph eId="art_4/para"><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Investigation, monitoring and remediation measures under this Ordinance must correspond to the state of the art and be documented by those responsible.</p></content></paragraph></article></section><section eId="sec_2"><num>Section 2</num><heading>Register of Polluted Sites</heading><article eId="art_5"><num><b>Art. 5</b></num><heading>Creation of the Register</heading><paragraph eId="art_5/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The authorities shall identify the polluted sites by evaluating existing information such as maps, registers and reports. They may obtain information from the holders of the sites or from third parties.</p></content></paragraph><paragraph eId="art_5/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> They shall give notice of the content of the proposed register entry to the holders and provide them with the opportunity to state their opinion and to provide clarification. At the request of the holders, the authorities shall issue a declaratory ruling.</p></content></paragraph><paragraph eId="art_5/para_3"><num>3</num><content><blockList><listIntroduction eId="art_5/para_3/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> They shall enter in the Register those sites that are established as polluted in accordance with paragraphs 1 and 2 or where there is a high probability that they are polluted. Where possible, the entries shall contain the following information:</listIntroduction><item eId="art_5/para_3/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">location;</p></item><item eId="art_5/para_3/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">type and quantity of waste delivered to the site;</p></item><item eId="art_5/para_3/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">period of disposal of waste, period of operation, or time of accident;</p></item><item eId="art_5/para_3/lbl_d"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">d. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">investigations and measures already taken for the protection of the environment;</p></item><item eId="art_5/para_3/lbl_e"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">e. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">effects that have already been ascertained;</p></item><item eId="art_5/para_3/lbl_f"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">f. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">endangered environmental areas;</p></item><item eId="art_5/para_3/lbl_g"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">g. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">particular events such as waste incineration, landslides, floods, fires or major accidents.</p></item></blockList></content></paragraph><paragraph eId="art_5/para_4"><num>4</num><content><blockList><listIntroduction eId="art_5/para_4/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The authorities shall divide the polluted sites into the following categories based on the information contained in the Register, particularly with regard to type and quantity of waste delivered to the site:</listIntroduction><item eId="art_5/para_4/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">sites from which no harmful effects or nuisances are to be expected; and</p></item><item eId="art_5/para_4/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">sites requiring an investigation as to whether they are in need of monitoring or remediation.</p></item></blockList></content></paragraph><paragraph eId="art_5/para_5"><num>5</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The authorities shall prepare a list of priorities for performing the investigations. In doing so, they shall pay due regard to the information contained in the Register concerning the type and quantity of waste delivered to the polluted site, the likelihood of substances being released and the importance of the environmental areas affected.</p></content></paragraph></article><article eId="art_6"><num><b>Art. 6</b></num><heading>Keeping the Register</heading><paragraph eId="art_6/para_1"><num>1</num><content><blockList><listIntroduction eId="art_6/para_1/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The authorities shall add information on the following to the entry in the Register:</listIntroduction><item eId="art_6/para_1/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the need for monitoring and remediation; </p></item><item eId="art_6/para_1/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the objectives and urgency of remediation;</p></item><item eId="art_6/para_1/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the measures taken or ordered by them for the protection of the environment.</p></item></blockList></content></paragraph><paragraph eId="art_6/para_2"><num>2</num><content><blockList><listIntroduction eId="art_6/para_2/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> They shall delete the site entry in the Register if: </listIntroduction><item eId="art_6/para_2/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the investigations show that the site is not polluted with environmentally hazardous substances; or </p></item><item eId="art_6/para_2/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the environmentally hazardous substances have been eliminated.</p></item></blockList></content></paragraph></article><article eId="art_6_a"><num><b>Art. 6</b><i>a</i><authorialNote>
+		<p>  Inserted by Annex 6 No 9 of the Waste Management Ordinance of 4 Dec. 2015, in force since 1 Jan. 2016 (<ref href="https://fedlex.data.admin.ch/eli/oc/2015/891">AS <b>2015</b> 5699</ref>).</p>
+	</authorialNote></num><heading>Coordination with the structure and land use planning</heading><paragraph eId="art_6_a/para"><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">The authorities shall take account of the Register in their structure and land use planning.</p></content></paragraph></article></section><section eId="sec_3"><num>Section 3</num><heading>Need for Monitoring and Remediation</heading><article eId="art_7"><num><b>Art. 7</b></num><heading>Preliminary investigation</heading><paragraph eId="art_7/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Based on the list of priorities, the authorities shall require a preliminary investigationto be carried out within a reasonable period for sites in need of investigation. This shall normally consist of a historical and a technical investigation, so that the need for monitoring and remediation can be assessed (Art. 8), and the environmental hazard evaluated (risk assessment).</p></content></paragraph><paragraph eId="art_7/para_2"><num>2</num><content><blockList><listIntroduction eId="art_7/para_2/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The historical investigation shall establish the possible causes of the pollution of the site, in particular:</listIntroduction><item eId="art_7/para_2/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the events and the temporal and spatial history of developments at the site;</p></item><item eId="art_7/para_2/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the procedures used for handling environmentally hazardous substances at the site. </p></item></blockList></content></paragraph><paragraph eId="art_7/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Based on the historical investigation, a performance specification shall be prepared on the aim, extent and methods of the technical investigation. The performance specification shall be submitted to the authorities for comment.</p></content></paragraph><paragraph eId="art_7/para_4"><num>4</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The technical investigation shall establish the type and quantity of substances at the site, the likelihood of their release and the importance of the environmental areas affected.</p></content></paragraph></article><article eId="art_8"><num><b>Art. 8</b></num><heading>Assessment of the need for monitoring and remediation</heading><paragraph eId="art_8/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Based on the preliminary investigation, the authorities shall assess whether the polluted site is in need of monitoring or remediation in accordance with Articles 9–12. In doing so, they shall pay due regard to effects caused by other polluted sites or by third parties.</p></content></paragraph><paragraph eId="art_8/para_2"><num>2</num><content><blockList><listIntroduction eId="art_8/para_2/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> They shall state in the Register whether a polluted site is:</listIntroduction><item eId="art_8/para_2/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">in need of monitoring;</p></item><item eId="art_8/para_2/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">in need of remediation (contaminated site);</p></item><item eId="art_8/para_2/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">in need of neither monitoring nor remediation.</p></item></blockList></content></paragraph></article><article eId="art_9"><num><b>Art. 9</b></num><heading>Protection of groundwater</heading><paragraph eId="art_9/para_1"><num>1</num><content><blockList><listIntroduction eId="art_9/para_1/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Subject to paragraph 1<sup>bis</sup>, a polluted site is deemed to be in need of monitoring to protect the groundwater, if:</listIntroduction><item eId="art_9/para_1/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">any of the concentration values specified in Annex 1 is exceeded in the eluate of the material at the site;</p></item><item eId="art_9/para_1/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">for groundwater water protection areas A<sub>u</sub>, the concentration of substances originating from the site immediately downstream of the site exceeds 10 % of one of the concentration values specified in Annex 1;</p></item><item eId="art_9/para_1/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">for groundwater outside water protection areas A<sub>u</sub>, the concentration of substances originating from the site immediately downstream of the site exceeds 40 % of one of the concentration values specified in Annex 1.<authorialNote>
+		<p> Amended by No I of the O of 9 May 2012, in force since 1 Aug. 2012 (<ref href="https://fedlex.data.admin.ch/eli/oc/2012/348">AS <b>2012</b> 2905</ref>).</p>
+	</authorialNote></p></item></blockList></content></paragraph><paragraph eId="art_9/para_1_bis"><num>1bis</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> If after several years of monitoring a site, it is established that, considering the evolution of pollutant concentrations and the characteristics of the site, it is highly probable that the site will not need remediation under paragraph 2, the site is deemed no longer to be in need of monitoring.<authorialNote>
+		<p> Inserted by No I of the O of 9 May 2012, in force since 1 Aug. 2012 (<ref href="https://fedlex.data.admin.ch/eli/oc/2012/348">AS <b>2012</b> 2905</ref>).</p>
+	</authorialNote></p></content></paragraph><paragraph eId="art_9/para_2"><num>2</num><content><blockList><listIntroduction eId="art_9/para_2/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> A polluted site is deemed to be in need of remediation to protect the groundwater, if:</listIntroduction><item eId="art_9/para_2/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a.<authorialNote>
+		<p> Amended by No I of the O of 22 March 2017, in force since 1 May 2017 (<ref href="https://fedlex.data.admin.ch/eli/oc/2017/246">AS <b>2017</b> 2589</ref>).</p>
+	</authorialNote> </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">potential water pollutants originating from the site are detected in groundwater catchments of public interest in concentrations that exceed the detection threshold;</p></item><item eId="art_9/para_2/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b.<authorialNote>
+		<p> Amended by Annex 5 No 5 of the O on the Protection of Waters of 28 Oct. 1998, in force since 1 Jan. 1999 (<ref href="https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863">AS <b>1998 </b>2863</ref>).</p>
+	</authorialNote> </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">for groundwater in water protection areas A<sub>u</sub><authorialNote>
+		<p> In accordance with Article 29 para. 1 let. A of the O on the Protection of Waters of 28 Oct. 1998 (<ref fedlex:rs-uri="https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863" fedlex:rs="814.201" href="https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478">SR <b>814.201</b></ref>).</p>
+	</authorialNote>: the concentration of substances originating from the site immediately downstream of the site exceeds one-half the concentration value specified in Annex 1;</p></item><item eId="art_9/para_2/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c.<authorialNote>
+		<p> Amended by Annex 5 No 5 of the O on the Protection of Waters of 28 Oct. 1998, in force since 1 Jan. 1999 (<ref href="https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863">AS <b>1998 </b>2863</ref>).</p>
+	</authorialNote> </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">for groundwater outside water protection area A<sub>u</sub> s: the concentration of substances originating from the site immediately downstream of the site exceeds double the concentration value specified in Annex 1; or</p></item><item eId="art_9/para_2/lbl_d"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">d. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">it is in need of monitoring in accordance with paragraph 1 letter a, and, owing to insufficient retention capacity, or degradation of substances originating from the site, there is a real danger of groundwater pollution.</p></item></blockList></content></paragraph></article><article eId="art_10"><num><b>Art. 10</b></num><heading>Protection of surface waters</heading><paragraph eId="art_10/para_1"><num>1</num><content><blockList><listIntroduction eId="art_10/para_1/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Subject to paragraph 1<sup>bis</sup>, a polluted site is deemed to be in need of monitoring to protect the surface waters, if:<authorialNote>
+		<p> Amended by No I of the O of 9 May 2012, in force since 1 Aug. 2012 (<ref href="https://fedlex.data.admin.ch/eli/oc/2012/348">AS <b>2012</b> 2905</ref>).</p>
+	</authorialNote></listIntroduction><item eId="art_10/para_1/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">any of the concentration values specified in Annex 1 is exceeded in the eluate of the material at the site which is susceptible of affecting surface waters; or </p></item><item eId="art_10/para_1/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">in water that flows into surface waters, a concentration value specified in Annex 1 is exceeded for substances originating from the site.</p></item></blockList></content></paragraph><paragraph eId="art_10/para_1_bis"><num>1bis</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> If after several years of monitoring a site, it is established that, considering the evolution of pollutant concentrations and the characteristics of the site, it is highly probable that the site will not need remediation under paragraph 2, the site is deemed no longer to be in need of monitoring.<authorialNote>
+		<p> Inserted by No I of the O of 9 May 2012, in force since 1 Aug. 2012 (<ref href="https://fedlex.data.admin.ch/eli/oc/2012/348">AS <b>2012</b> 2905</ref>).</p>
+	</authorialNote></p></content></paragraph><paragraph eId="art_10/para_2"><num>2</num><content><blockList><listIntroduction eId="art_10/para_2/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> For the protection of surface waters, a polluted site is deemed to be in need of remediation if: </listIntroduction><item eId="art_10/para_2/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">in water that flows into surface waters, the concentration of substances originating from the site exceeds by tenfold a concentration value specified in Annex 1; or</p></item><item eId="art_10/para_2/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">it is in need of monitoring in accordance with paragraph 1 letter a, and owing to insufficient retention capacity, or degradation of substances originating at the site, there is a real danger of pollution of surface waters.</p></item></blockList></content></paragraph></article><article eId="art_11"><num><b>Art. 11</b><authorialNote>
+		<p> Amended by No I of the O of 22 March 2017, in force since 1 May 2017 (<ref href="https://fedlex.data.admin.ch/eli/oc/2017/246">AS <b>2017</b> 2589</ref>).</p>
+	</authorialNote></num><heading>Prevention of air pollution</heading><paragraph eId="art_11/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> For the protection of persons from air pollution, a polluted site is deemed to be in need of monitoring if its interstitial air exceeds a concentration value specified in Annex 2, and the emission originating from the site reaches places that may regularly be frequented by persons for longer periods.</p></content></paragraph><paragraph eId="art_11/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> For the protection of persons from air pollution, a polluted site is deemed to be in need of remediation if its interstitial air exceeds a concentration value specified in Annex 2, and the emission originating from the site reaches places that may regularly be frequented by persons for longer periods.</p></content></paragraph></article><article eId="art_12"><num><b>Art. 12</b><authorialNote>
+		<p> Amended by Annex No II 2 of the O of 26 Sept. 2008 on the Charge for the Remediation of Contaminated Sites, in force since 1 Jan. 2009 (<ref href="https://fedlex.data.admin.ch/eli/oc/2008/670">AS <b>2008 </b>4771</ref>).</p>
+	</authorialNote></num><heading>Prevention of pollution of the soil</heading><paragraph eId="art_12/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Soil that is a polluted site or part thereof is deemed to be in need of remediation if a substance in the soil exceeds a concentration value specified in Annex 3. The foregoing also applies to soil that is already subject to a restriction of use.</p></content></paragraph><paragraph eId="art_12/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Soil that is not in need of remediation in accordance with paragraph 1 despite being polluted sites or parts thereof, and the impacts of polluted sites on soil are assessed in accordance with the Ordinance of 1 July 1998<authorialNote>
+		<p> <ref fedlex:rs-uri="https://fedlex.data.admin.ch/eli/cc/1998/1854_1854_1854" fedlex:rs="814.12" href="https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9475">SR <b>814.12</b></ref></p>
+	</authorialNote> on the Pollution of Soil.</p></content></paragraph></article><article eId="art_13"><num><b>Art. 13</b></num><heading>Action of the authorities</heading><paragraph eId="art_13/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> For polluted sites in need of monitoring, the authorities shall require a monitoring plan to be drawn up and suitable measures to be taken to detect a real danger of harmful effects or nuisances before these become manifest. The monitoring measures shall be applied until there is no longer any need for monitoring in accordance with Articles 9–12.<authorialNote>
+		<p> Amended by No I of the O of 9 May 2012, in force since 1 Aug. 2012 (<ref href="https://fedlex.data.admin.ch/eli/oc/2012/348">AS <b>2012</b> 2905</ref>).</p>
+	</authorialNote></p></content></paragraph><paragraph eId="art_13/para_2"><num>2</num><content><blockList><listIntroduction eId="art_13/para_2/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> For sites that are in need of remediation (contaminated sites), the authorities shall require that: </listIntroduction><item eId="art_13/para_2/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a detailed investigation be carried out within a reasonable period;</p></item><item eId="art_13/para_2/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the site be monitored until completion of remediation.</p></item></blockList></content></paragraph></article></section><section eId="sec_4"><num>Section 4</num><heading>Objectives and Urgency of Remediation</heading><article eId="art_14"><num><b>Art. 14</b></num><heading>Detailed investigation</heading><paragraph eId="art_14/para_1"><num>1</num><content><blockList><listIntroduction eId="art_14/para_1/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> To specify the objectives and assess the urgency of remediation, the following detailed information shall be obtained and evaluated in a risk assessment:</listIntroduction><item eId="art_14/para_1/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">type, location, quantity and concentration of the environmentally hazardous substances at the polluted site;</p></item><item eId="art_14/para_1/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">type, load and temporal development of the existing and possible impacts on the environment; </p></item><item eId="art_14/para_1/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">location and importance of the environmental areas at risk.</p></item></blockList></content></paragraph><paragraph eId="art_14/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> If the results of the detailed investigation deviate substantially from those of the preliminary investigation, the authorities shall reassess whether the site is in need of remediation in accordance with Articles 9–12.</p></content></paragraph></article><article eId="art_15"><num><b>Art. 15</b></num><heading>Objectives and urgency of remediation</heading><paragraph eId="art_15/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The objective of remediation is the elimination of impacts that led to the need for remediation in accordance with Articles 9–12, or of the real danger of such effects.</p></content></paragraph><paragraph eId="art_15/para_2"><num>2</num><content><blockList><listIntroduction eId="art_15/para_2/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> As regards remediation for the purpose of groundwater protection, deviation from the objective is made if:</listIntroduction><item eId="art_15/para_2/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">by this means the total environmental impact can be lessened;</p></item><item eId="art_15/para_2/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">disproportionate costs would otherwise result; and </p></item><item eId="art_15/para_2/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c.<authorialNote>
+		<p> Amended by Annex 5 No 5 of the O on the Protection of Waters  of 28 Oct. 1998, in force since 1 Jan. 1999 (<ref href="https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863">AS <b>1998 </b>2863</ref>).</p>
+	</authorialNote> </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the exploitability of groundwater in water protection areas A<sub>u</sub> is guaranteed, or if surface waters connected to groundwater outside water protection areas A<sub>u</sub> fulfil the requirements of the waters protection legislation regarding water quality.</p></item></blockList></content></paragraph><paragraph eId="art_15/para_3"><num>3</num><content><blockList><listIntroduction eId="art_15/para_3/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> As regards remediation for the purpose of surface waters protection, deviation from the objectives is made if:</listIntroduction><item eId="art_15/para_3/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">by this means the total environmental impact can be lessened;</p></item><item eId="art_15/para_3/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">disproportionate costs would otherwise result; and</p></item><item eId="art_15/para_3/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the waters complies with the requirements of the waters protection legislation regarding water quality.</p></item></blockList></content></paragraph><paragraph eId="art_15/para_4"><num>4</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Remediation is deemed to be of particular urgency if an existing use is impaired or immediately endangered. </p></content></paragraph><paragraph eId="art_15/para_5"><num>5</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The authorities shall assess the objectives and the urgency of remediation on the basis of the detailed investigation.</p></content></paragraph></article></section><section eId="sec_5"><num>Section 5</num><heading>Remediation</heading><article eId="art_16"><num><b>Art. 16</b><authorialNote>
+		<p> Amended by Annex No II 2 of the O of 26. Sept. 2008 on the Charge for the Remediation of Contaminated Sites, in force since 1 Jan. 2009 (<ref href="https://fedlex.data.admin.ch/eli/oc/2008/670">AS <b>2008 </b>4771</ref>).</p>
+	</authorialNote></num><heading>Remediation measures</heading><paragraph eId="art_16/para_1"><num>1</num><content><blockList><listIntroduction eId="art_16/para_1/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The objective of remediation must be achieved by measures that:</listIntroduction><item eId="art_16/para_1/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">enable environmentally hazardous substances to be eliminated (decontamination); or</p></item><item eId="art_16/para_1/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">enable the diffusion of environmentally hazardous substances to be prevented in the long term and monitored (securing).</p></item></blockList></content></paragraph><paragraph eId="art_16/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> …<authorialNote>
+		<p> Repealed by No I of the O of 22 March 2017, with effect from 1 May 2017 (<ref href="https://fedlex.data.admin.ch/eli/oc/2017/246">AS <b>2017</b> 2589</ref>).</p>
+	</authorialNote></p></content></paragraph></article><article eId="art_17"><num><b>Art.</b> <b>17</b></num><heading>Remediation project</heading><paragraph eId="art_17/para"><content><blockList><listIntroduction eId="art_17/para/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">The authorities shall require that for contaminated sites a remediation project be prepared within a time frame appropriate to the urgency of remediation. This shall describe in particular the following:</listIntroduction><item eId="art_17/para/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the remediation measures including those for monitoring and for waste disposal, the effectiveness of the measures, the assessment of their results and the time expenditure;</p></item><item eId="art_17/para/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the impact of the proposed measures on the environment;</p></item><item eId="art_17/para/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the residual danger to the environment following remediation;</p></item><item eId="art_17/para/lbl_d"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">d. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the shares of the responsibility for the contaminated site in cases where the person required to carry out remediation measures demands a ruling on the allocation of costs (Art. 32<i>d</i> para. 3<authorialNote>
+		<p> Now: para. 4.</p>
+	</authorialNote> EPA).</p></item></blockList></content></paragraph></article><article eId="art_18"><num><b>Art. 18</b></num><heading>Specification of essential measures</heading><paragraph eId="art_18/para_1"><num>1</num><content><blockList><listIntroduction eId="art_18/para_1/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The authority shall assess the remediation project. In doing so, it shall pay particular regard to the following:</listIntroduction><item eId="art_18/para_1/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the environmental impact of the measures;</p></item><item eId="art_18/para_1/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">their long-term effectiveness;</p></item><item eId="art_18/para_1/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the danger to the environment caused by the contaminated site before and after remediation;</p></item><item eId="art_18/para_1/lbl_d"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">d. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">in cases of incomplete decontamination, the extent to which the measures may be monitored, avenues for remedying the deficiencies and securing the necessary funding for the proposed measures;</p></item><item eId="art_18/para_1/lbl_e"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">e. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">whether the requirements for deviation from the remediation objective in accordance with Article 15 paragraphs 2 and 3 are satisfied.</p></item></blockList></content></paragraph><paragraph eId="art_18/para_2"><num>2</num><content><blockList><listIntroduction eId="art_18/para_2/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> On the basis of this assessment, it shall issue a ruling containing in particular:</listIntroduction><item eId="art_18/para_2/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the final objectives of the remediation;</p></item><item eId="art_18/para_2/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the remediation measures, the assessment of results and the time frame to be adhered to;</p></item><item eId="art_18/para_2/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">further charges and conditions for the protection of the environment.</p></item></blockList></content></paragraph><paragraph eId="art_18/para_3"><num>3</num><content><blockList><listIntroduction eId="art_18/para_3/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> By way of exception and with the consent of the Federal Office for the Environment (FOEN), the authority may authorise the reinstatement of contaminated excavated material that does not meet the requirements for the recovery of excavated material in accordance with Article 19 of the Waste Ordinance of 4 December 2015<authorialNote>
+		<p>  <ref fedlex:rs-uri="https://fedlex.data.admin.ch/eli/cc/2015/891" fedlex:rs="814.600" href="https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9574">SR <b>814.600</b></ref></p>
+	</authorialNote> at the location where the material was produced, provided:</listIntroduction><item eId="art_18/para_3/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">by this means the total environmental impact can be lessened;</p></item><item eId="art_18/para_3/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">it is proven that the reinstated excavated material will not cause harmful effects or nuisances or there is no real danger that such effects may arise; and </p></item><item eId="art_18/para_3/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the location is monitored over the long term.<authorialNote>
+		<p> Inserted by No I of the O of 31 May 2024, in force since 1 July 2024 (<ref href="https://fedlex.data.admin.ch/eli/oc/2024/253">AS <b>2024</b> 253</ref>).</p>
+	</authorialNote></p></item></blockList></content></paragraph></article><article eId="art_19"><num><b>Art. 19</b><authorialNote>
+		<p> Amended by Annex No II 2 of the O of 26. Sept. 2008 on the Charge for the Remediation of Contaminated Sites, in force since 1 Jan. 2009 (<ref href="https://fedlex.data.admin.ch/eli/oc/2008/670">AS <b>2008 </b>4771</ref>).</p>
+	</authorialNote></num><heading>Evaluation of results</heading><paragraph eId="art_19/para"><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Persons required to carry out remediation measures must notify the authorities of the remediation measures carried out and demonstrate that the remediation objectives have been achieved. The authorities shall express an expert opinion in this regard.</p></content></paragraph></article></section><section eId="sec_6"><num>Section 6 </num><heading>Obligation to carry out Investigation, Monitoring and Remediation Measures</heading><article eId="art_20"><num><b>Art. 20</b></num><paragraph eId="art_20/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The investigation, monitoring and remediation measures shall be carried out by the holder of the polluted site.</p></content></paragraph><paragraph eId="art_20/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> If the authorities have reason to believe that the pollution of the site was caused by the action of third parties, the authorities may require them to carry out the preliminary investigation, the monitoring measures or the detailed investigation.</p></content></paragraph><paragraph eId="art_20/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> If the pollution of the site was caused by the action of third parties, the authorities may require these with the approval of the holder to prepare the remediation project and perform the remediation measures.</p></content></paragraph></article></section><section eId="sec_7"><num>Section 7</num><heading>Final Provisions</heading><article eId="art_21"><num><b>Art. 21</b><authorialNote>
+		<p> Amended by No II 16 of the O of 2 Feb. 2000 relating to the Federal Act on the Coordination and Simplification of Decision-Making Procedures, in force since 1 March 2000 (<ref href="https://fedlex.data.admin.ch/eli/oc/2000/121">AS <b>2000</b> 703</ref>).</p>
+	</authorialNote></num><heading>Enforcement</heading><paragraph eId="art_21/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The cantons shall enforce this Ordinance unless it delegates enforcement to the Confederation.<authorialNote>
+		<p> Amended by Annex No II 2 of the O of 26 Sept. 2008 on the Charge for the Remediation of Contaminated Sites, in force since 1 Jan. 2009 (<ref href="https://fedlex.data.admin.ch/eli/oc/2008/670">AS <b>2008</b> 4771</ref>).</p>
+	</authorialNote> The cantons shall submit the information required in Article 5 paragraphs 3 and 5 and Article 6 as well as the information on remediated sites required by Article 17 to the FOEN by the end of each calendar year.<authorialNote>
+		<p> Second sentence amended by No I of the O of 22 March 2017, in force since 1 May 2017 (<ref href="https://fedlex.data.admin.ch/eli/oc/2017/246">AS <b>2017</b> 2589</ref>).</p>
+	</authorialNote></p></content></paragraph><paragraph eId="art_21/para_1_bis"><num>1bis</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The FOEN shall evaluate the information and inform the public regularly on the progress with the remediation of contaminated sites.<authorialNote>
+		<p> Inserted by Annex No II 2 of the O of 26. Sept. 2008 on the Charge for the Remediation of Contaminated Sites, in force since 1 Jan. 2009 (<ref href="https://fedlex.data.admin.ch/eli/oc/2008/670">AS <b>2008</b> 4771</ref>).</p>
+	</authorialNote></p></content></paragraph><paragraph eId="art_21/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> If federal authorities apply other federal acts or agreements or decisions under international law that relate to the subject matter of this Ordinance, they shall also enforce this Ordinance. The cooperation of the FOEN<authorialNote>
+		<p> Name in accordance with No I of the O of 31 May 2024, in force since 1 July 2024  (<ref href="https://fedlex.data.admin.ch/eli/oc/2024/253">AS <b>2024</b> 253</ref>). This change has been made throughout the text.</p>
+	</authorialNote> and of the cantons is governed by Article 41 paragraphs 2 and 4 EPA; statutory duties of secrecy are reserved. If the federal authorities dispense with issuing a ruling when specifying remediation measures (Art. 23 para. 3), they shall consult the cantons concerned about the intended measures.<authorialNote>
+		<p> Amended by No I 2 of the O of 29 June 2011 on amendments of ordinances in the field of environment, in force since 1 Aug. 2011 (<ref href="https://fedlex.data.admin.ch/eli/oc/2011/454">AS <b>2011</b> 3379</ref>).</p>
+	</authorialNote></p></content></paragraph><paragraph eId="art_21/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The federal authorities shall determine the procedures for categorising polluted sites (Art. 5 para. 4), preparing the list of priorities (Art. 5 para. 5) and deleting entries in the Register (Art. 6 para. 2) after consultation with the FOEN.<authorialNote>
+		<p> Amended by No I 2 of the O of 29 June 2011 on amendments of ordinances in the field of environment, in force since 1 Aug. 2011 (<ref href="https://fedlex.data.admin.ch/eli/oc/2011/454">AS <b>2011</b> 3379</ref>).</p>
+	</authorialNote></p></content></paragraph><paragraph eId="art_21/para_4"><num>4</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> They shall inform the cantons concerned of the content of the Register (Art. 5 and 6) at regular intervals. These shall include a reference to the relevant polluted sites in their own register.</p></content></paragraph></article><article eId="art_22"><num><b>Art. 22</b><authorialNote>
+		<p> Repealed by No II 16 of the O of 2 Feb. 2000 to the Federal Act on the Coordination and Simplification of Decision-Making Procedures, with effect from 1 March 2000 (<ref href="https://fedlex.data.admin.ch/eli/oc/2000/121">AS <b>2000</b> 703</ref>).</p>
+	</authorialNote></num></article><article eId="art_23"><num><b>Art. 23</b></num><heading>Collaboration with those concerned</heading><paragraph eId="art_23/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> In enforcing this Ordinance, the authorities shall collaborate with those directly concerned. In particular, they shall examine whether voluntary measures provided for in sectoral agreements of the private sector are suitable for the enforcement of this Ordinance.</p></content></paragraph><paragraph eId="art_23/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> They shall endeavour to reach agreement with those directly concerned on the necessary assessments and measures in accordance with the requirements of this Ordinance. To this end, they shall consult those directly concerned at the earliest possible time. </p></content></paragraph><paragraph eId="art_23/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> They may dispense with issuing rulings if carrying out the required investigation, monitoring and remediation measures is guaranteed by other means. </p></content></paragraph></article><article eId="art_24"><num><b>Art. 24</b></num><heading>Deviation from procedural regulations</heading><paragraph eId="art_24/para"><content><blockList><listIntroduction eId="art_24/para/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Deviation from the procedures specified in this Ordinance shall be permitted if:</listIntroduction><item eId="art_24/para/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">immediate measures for the protection of the environment are necessary;</p></item><item eId="art_24/para/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the need for monitoring or remediation can be assessed, or the required measures determined, on the basis of existing information;</p></item><item eId="art_24/para/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a polluted site is modified by the construction or alteration of a building or installation;</p></item><item eId="art_24/para/lbl_d"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">d. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">voluntary measures by those directly concerned have an equivalent effect to those specified in the Ordinance.</p></item></blockList></content></paragraph></article><article eId="art_25"><num><b>Art. 25</b></num><heading>Guidelines</heading><paragraph eId="art_25/para"><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">In preparing guidelines for implementing this Ordinance, the FOEN shall collaborate with the cantons and the industrial organisations concerned.</p></content></paragraph></article><article eId="art_25_a"><num><b>Art. 25</b><i>a</i><authorialNote>
+		<p> Inserted by Annex 2 No 11 of the O of 21 May 2008 on Geoinformation, in force since 1 July 2008 (<ref href="https://fedlex.data.admin.ch/eli/oc/2008/389">AS <b>2008</b> 2809</ref>).</p>
+	</authorialNote></num><heading>Geoinformation</heading><paragraph eId="art_25_a/para"><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">The FOEN shall specify the minimum geodata models and representation models for geographical base data in accordance with this Ordinance for which the Federal Office is designated as the specialist authority at federal level in Annex 1 to the Geoinformation Ordinance of 21 May 2008<authorialNote>
+		<p> <ref fedlex:rs-uri="https://fedlex.data.admin.ch/eli/cc/2008/389" fedlex:rs="510.620" href="https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339">SR <b>510.620</b></ref></p>
+	</authorialNote>.</p></content></paragraph></article><article eId="art_26"><num><b>Art. 26</b></num><heading>Amendment of current legislation</heading><paragraph eId="art_26/para"><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">…<authorialNote>
+		<p> The amendment may be inspected in <ref href="https://fedlex.data.admin.ch/eli/oc/1998/2261_2261_2261">AS <b>1998</b> 2261</ref>.</p>
+	</authorialNote></p></content></paragraph></article><article eId="art_27"><num><b>Art. 27</b></num><heading>Transitional provision</heading><paragraph eId="art_27/para"><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">The Register (Art. 5) shall be prepared by 31 December 2003.</p></content></paragraph></article><article eId="art_28"><num><b>Art. 28</b></num><heading>Commencement</heading><paragraph eId="art_28/para"><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">This Ordinance comes into force on 1 October 1998.</p></content></paragraph></article></section></body><components><component><doc name="annex"><meta><identification source="#ch.bk"><FRBRWork><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20251201/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20251201"/><FRBRdate date="2025-12-01" name="jolux:dateApplicability"/><FRBRdate date="1998-08-26" name="jolux:dateDocument"/><FRBRdate date="1998-10-01" name="jolux:dateEntryInForce"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRcountry value="CH"/><FRBRnumber value="814.680"/><FRBRname xml:lang="en" value="Ordinance of 26 August 1998 on the Remediation of Polluted Sites (Contaminated Sites Ordinance, CSO)" shortForm="CSO"/><FRBRname xml:lang="de" value="Verordnung vom 26. August 1998 über die Sanierung von belasteten Standorten (Altlasten-Verordnung, AltlV)" shortForm="AltlV"/><FRBRname xml:lang="fr" value="Ordonnance du 26 août 1998 sur l'assainissement des sites pollués (Ordonnance sur les sites contaminés, OSites)" shortForm="OSites"/><FRBRname xml:lang="it" value="Ordinanza del 26 agosto 1998 sul risanamento dei siti inquinati (Ordinanza sui siti contaminati, OSiti)" shortForm="OSiti"/><FRBRauthoritative value="true"/></FRBRWork><FRBRExpression><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20251201/en/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20251201/en"/><FRBRdate date="2025-12-01" name="jolux:dateApplicability"/><FRBRdate date="1998-08-26" name="jolux:dateDocument"/><FRBRdate date="1998-10-01" name="jolux:dateEntryInForce"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRlanguage language="en"/></FRBRExpression><FRBRManifestation><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20251201/en/xml/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20251201/en/xml"/><FRBRdate date="2025-12-01" name="jolux:dateApplicability"/><FRBRdate date="1998-08-26" name="jolux:dateDocument"/><FRBRdate date="1998-10-01" name="jolux:dateEntryInForce"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRformat value="xml"/></FRBRManifestation></identification></meta><preface><container name="headerOfAnnex"><block name="heading">Annex 1<inline name="man-font-style-normal"><authorialNote>
+		<p> Revised by Annex No II 2 of the O of 26 Sept. 2008 on the Charge for the Remediation of Contaminated Sites (<ref href="https://fedlex.data.admin.ch/eli/oc/2008/670">AS <b>2008 </b>4771</ref>), No II of the O of 9 May 2012 (<ref href="https://fedlex.data.admin.ch/eli/oc/2012/348">AS <b>2012</b> 2905</ref>), of 22 March 2017 (<ref href="https://fedlex.data.admin.ch/eli/oc/2017/246">AS <b>2017</b> 2589</ref>) and No I of the O of 25 June 2025, in force since 1 Aug. 2025 (<ref href="https://fedlex.data.admin.ch/eli/oc/2025/455">AS <b>2025</b> 455</ref>).</p>
+	</authorialNote></inline></block></container></preface><mainBody><p>(Art. 9 and 10)</p><level eId="annex_1/lvl_u1"><heading>Concentration values for assessing the impact of polluted sites on ground and surface waters</heading><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"><sup>1</sup> In assessing the impact of polluted sites on waters, the concentration values in the following table apply. Where no concentration values are given in the table for potential water pollutants which are polluting a site, the authority shall specify a value on a case by case basis with the consent of the FOEN and according to the provisions of the legislation on waters protection.</p><blockList><listIntroduction eId="annex_1/lvl_u1/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"><sup>2</sup> Where the assessment is based on the eluate of the material of the site, the following requirements apply to sampling, preparation of the eluates and their analysis:</listIntroduction><item eId="annex_1/lvl_u1/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">The number of samples and sampling points shall be chosen such that the samples are representative of the pollution of the site.</p></item><item eId="annex_1/lvl_u1/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">The eluate shall be prepared on the basis of a test column. The elution liquid used shall be oxygen-free deionised water. This must normally flow upwards through the column at a defined rate. Prior to analysis, the eluate may normally neither be centrifuged nor filtered in a microfilter.</p></item><item eId="annex_1/lvl_u1/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">The eluate need only be analysed in respect of those substances that are expected to occur at the site based on the historical investigation. In cases where lumped parameters only are analysed, the lowest concentration value of the individual substances shall be taken as the assessment criterion.</p></item></blockList><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"><sup>3</sup> For sites with particularly heterogeneous pollution (e.g. waste disposal sites), if samples can be obtained from the seepage water, these may be regarded as equivalent to an eluate.</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"><sup>4</sup> In assessing the impact of volatile substances<authorialNote>
+		<p> Indicated in the table by *.</p>
+	</authorialNote>, the seepage water shall be regarded as equivalent to an eluate. If it is not possible to take samples of the seepage water, pollutant concentrations shall be calculated based on measurements of interstitial airconcentration.</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"><sup>5</sup> An eluate test in accordance with paragraph 2 may be dispensed with if the pollutant concentration in the eluate of the material is assessable (i.e. to be above or below the concentration values) on the basis of other information, for example composition and origin of the material at the site, lumped parameters or ecotoxicological investigations, or can be calculated from total content.</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"><sup>6</sup> The FOEN shall issue guidelines on sampling, preparation of eluates and their analysis, and on assessment of the impact of volatile substances.</p><table border="1">
+			
+			
+			<tr>
+				
+				
+				<th xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">
+					
+					<p>Substance</p>
+				</th>
+				<th xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">
+					
+					<p>Concentration value</p>
+				</th>
+			</tr>
+			<tr>
+				
+				
+				<th xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">
+					
+					
+				</th>
+				<th xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">
+					
+					
+				</th>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Inorganic substances</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Antimony</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">0.01 mg Sb/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Arsenic</p>
+				</td>
+				<td>
+					
+					<p>0.01 mg As/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Lead </p>
+				</td>
+				<td>
+					
+					<p>0.05 mg Pb/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Cadmium</p>
+				</td>
+				<td>
+					
+					<p>0.005 mg Cd/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Chromium (VI)</p>
+				</td>
+				<td>
+					
+					<p>0.02 mg CrVI/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Cobalt</p>
+				</td>
+				<td>
+					
+					<p>2 mg Co/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Copper</p>
+				</td>
+				<td>
+					
+					<p>1.5 mg Cu/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Nickel</p>
+				</td>
+				<td>
+					
+					<p>0.7 mg Ni/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Mercury</p>
+				</td>
+				<td>
+					
+					<p>0.001 mg Hg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Silver</p>
+				</td>
+				<td>
+					
+					<p>0.1 mg Ag/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Zinc</p>
+				</td>
+				<td>
+					
+					<p>5 mg Zn/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Tin</p>
+				</td>
+				<td>
+					
+					<p>20 mg Sn/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Ammonium**</p>
+				</td>
+				<td>
+					
+					<p>0.5 mg NH<sub>4</sub><sup xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">+</sup>/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Cyanide (free)</p>
+				</td>
+				<td>
+					
+					<p>0.05 mg CN-/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Fluoride</p>
+				</td>
+				<td>
+					
+					<p>1.5 mg F-/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Nitrite**</p>
+				</td>
+				<td>
+					
+					<p>0.1 mg NO<sub>2</sub><sup xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">–</sup>/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Organic substances</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Aliphatic hydrocarbons:</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>Total (C<sub>5</sub>–C<sub>10</sub>)</p></item></blockList></td>
+				<td>
+					
+					<p>2 mg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>Methyl tert-butyl ether (MTBE)</p></item></blockList></td>
+				<td>
+					
+					<p>0.2 mg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Amines</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>Aniline</p></item></blockList></td>
+				<td>
+					
+					<p>0.05 mg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>4-aniline chloride</p></item></blockList></td>
+				<td>
+					
+					<p>0.1 mg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Halogenated hydrocarbons</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>1,2-Dibromoethane (EDB)</p></item></blockList></td>
+				<td>
+					
+					<p>0.05 μg/l<sup xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">a</sup></p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>1,1-Dichloroethene*</p></item></blockList></td>
+				<td>
+					
+					<p>2 mg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>1,2-Dichloroethane (EDC)*</p></item></blockList></td>
+				<td>
+					
+					<p>0.003 mg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>1,1-Dichloroethene*</p></item></blockList></td>
+				<td>
+					
+					<p>0.03 mg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>1,2-Dichloroethene (cis and trans)*</p></item></blockList></td>
+				<td>
+					
+					<p>0.05 mg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>Dichloromethane (methylene chloride, DCM)*</p></item></blockList></td>
+				<td>
+					
+					<p>0.2 mg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>1,2-Dichloropropane*</p></item></blockList></td>
+				<td>
+					
+					<p>0.005 mg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>1,1,2,2-Tetrachloroethane</p></item></blockList></td>
+				<td>
+					
+					<p>0.001 mg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>Tetrachloroethene (PERC)</p></item></blockList></td>
+				<td>
+					
+					<p>0.04 mg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>Tetrachloromethane (carbon tetrachloride)*</p></item></blockList></td>
+				<td>
+					
+					<p>0.002 mg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>1,1,1-Trichloroethane*</p></item></blockList></td>
+				<td>
+					
+					<p>2 mg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>Trichloroethene (TCE)*</p></item></blockList></td>
+				<td>
+					
+					<p>0.01 mg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>Trichloromethane (chloroform)*</p></item></blockList></td>
+				<td>
+					
+					<p>0.04 mg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>Vinyl chloride*</p></item></blockList></td>
+				<td>
+					
+					<p>0.5 μg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>Chlorobenzene</p></item></blockList></td>
+				<td>
+					
+					<p>0.7 mg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>1,2-Dichlorobenzene</p></item></blockList></td>
+				<td>
+					
+					<p>3 mg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>1,3-Dichlorobenzene</p></item></blockList></td>
+				<td>
+					
+					<p>3 mg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>1,4-Dichlorobenzene</p></item></blockList></td>
+				<td>
+					
+					<p>0.01 mg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>1,2,4-Trichlorobenzene</p></item></blockList></td>
+				<td>
+					
+					<p>0.4 mg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>Polychlorinated biphenyls (PCBs)<sup xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">b</sup></p></item></blockList></td>
+				<td>
+					
+					<p>0.1 μg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Monocyclic aromatic hydrocarbons (BTEX)</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>Benzene*</p></item></blockList></td>
+				<td>
+					
+					<p>0.01 mg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>Toluene</p></item></blockList></td>
+				<td>
+					
+					<p>7 mg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>Ethylbenzene</p></item></blockList></td>
+				<td>
+					
+					<p>0.8 mg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>Xylenes</p></item></blockList></td>
+				<td>
+					
+					<p>10 mg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Nitro compounds</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>2,4-Dinitrophenol</p></item></blockList></td>
+				<td>
+					
+					<p>0.05 mg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>Dinitrotoluene</p></item></blockList></td>
+				<td>
+					
+					<p>0.5 μg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>Nitrobenzene</p></item></blockList></td>
+				<td>
+					
+					<p>0.01 mg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>4-Nitrophenol</p></item></blockList></td>
+				<td>
+					
+					<p>2 mg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Phenols</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>2-Chlorophenol</p></item></blockList></td>
+				<td>
+					
+					<p>0.2 mg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>2,4-Dichlorophenol</p></item></blockList></td>
+				<td>
+					
+					<p>0.1 mg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>2-Methylphenol (o-cresol)</p></item></blockList></td>
+				<td>
+					
+					<p>2 mg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>3-Methylphenol (m-cresol)</p></item></blockList></td>
+				<td>
+					
+					<p>2 mg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>4-Methylphenol (p-cresol)</p></item></blockList></td>
+				<td>
+					
+					<p>0.2 mg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>Pentachlorophenol (PCP)</p></item></blockList></td>
+				<td>
+					
+					<p>0.001 mg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>Phenol (C<sub>6</sub>H<sub>6</sub>O)</p></item></blockList></td>
+				<td>
+					
+					<p>10 mg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Polycyclic aromatic hydrocarbons (PAK)</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>Acenaphthene</p></item></blockList></td>
+				<td>
+					
+					<p>2 mg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>Anthracene</p></item></blockList></td>
+				<td>
+					
+					<p>10 mg/l<sup xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">c</sup></p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>Benz[a]anthracene</p></item></blockList></td>
+				<td>
+					
+					<p>4 μg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>Benzo[b]fluoranthene</p></item></blockList></td>
+				<td>
+					
+					<p>4 μg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>Benzo[k]fluoranthene</p></item></blockList></td>
+				<td>
+					
+					<p>0.04 mg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>Benzo[a]pyrene</p></item></blockList></td>
+				<td>
+					
+					<p>0.4 μg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>Chrysene</p></item></blockList></td>
+				<td>
+					
+					<p>0.4 mg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>Dibenz[a,h]anthracene</p></item></blockList></td>
+				<td>
+					
+					<p>0.4 μg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>Fluoranthene</p></item></blockList></td>
+				<td>
+					
+					<p>1 mg/l<sup xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">3</sup></p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>Fluorene</p></item></blockList></td>
+				<td>
+					
+					<p>1 mg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>Indeno[1,2,3-cd]pyrene</p></item></blockList></td>
+				<td>
+					
+					<p>4μg/l<sup xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">3</sup></p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>Naphthalene</p></item></blockList></td>
+				<td>
+					
+					<p>1 mg/l</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>Pyrene</p></item></blockList></td>
+				<td>
+					
+					<p>1 mg/l<sup xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">3</sup></p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				<td colspan="2"><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"><sup xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">a</sup> </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Detection threshold</p></item></blockList></td>
+			</tr>
+			<tr>
+				
+				<td colspan="2"><blockList><item><num><sup xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">b</sup> </num><p>PCB: the sum of the 6 congeners 28, 52, 101, 138, 153 and 180 multiplied by the factor 4.3 must not exceed the concentration value.</p></item></blockList></td>
+			</tr>
+			<tr>
+				
+				<td colspan="2"><blockList><item><num><sup xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">c</sup> </num><p>Not normally detectable in the eluate at these concentrations.</p></item></blockList></td>
+			</tr>
+			<tr>
+				
+				<td colspan="2"><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">* </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">To be assessed according to Paragraph 4.</p></item></blockList></td>
+			</tr>
+			<tr>
+				
+				<td colspan="2"><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">** </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Applies to surface waters only</p></item></blockList></td>
+			</tr>
+		</table></content></level></mainBody></doc></component><component><doc name="annex"><meta><identification source="#ch.bk"><FRBRWork><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20251201/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20251201"/><FRBRdate date="2025-12-01" name="jolux:dateApplicability"/><FRBRdate date="1998-08-26" name="jolux:dateDocument"/><FRBRdate date="1998-10-01" name="jolux:dateEntryInForce"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRcountry value="CH"/><FRBRnumber value="814.680"/><FRBRname xml:lang="en" value="Ordinance of 26 August 1998 on the Remediation of Polluted Sites (Contaminated Sites Ordinance, CSO)" shortForm="CSO"/><FRBRname xml:lang="de" value="Verordnung vom 26. August 1998 über die Sanierung von belasteten Standorten (Altlasten-Verordnung, AltlV)" shortForm="AltlV"/><FRBRname xml:lang="fr" value="Ordonnance du 26 août 1998 sur l'assainissement des sites pollués (Ordonnance sur les sites contaminés, OSites)" shortForm="OSites"/><FRBRname xml:lang="it" value="Ordinanza del 26 agosto 1998 sul risanamento dei siti inquinati (Ordinanza sui siti contaminati, OSiti)" shortForm="OSiti"/><FRBRauthoritative value="true"/></FRBRWork><FRBRExpression><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20251201/en/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20251201/en"/><FRBRdate date="2025-12-01" name="jolux:dateApplicability"/><FRBRdate date="1998-08-26" name="jolux:dateDocument"/><FRBRdate date="1998-10-01" name="jolux:dateEntryInForce"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRlanguage language="en"/></FRBRExpression><FRBRManifestation><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20251201/en/xml/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20251201/en/xml"/><FRBRdate date="2025-12-01" name="jolux:dateApplicability"/><FRBRdate date="1998-08-26" name="jolux:dateDocument"/><FRBRdate date="1998-10-01" name="jolux:dateEntryInForce"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRformat value="xml"/></FRBRManifestation></identification></meta><preface><container name="headerOfAnnex"><block name="heading">Annex 2</block></container></preface><mainBody><p>(Art. 11)</p><level eId="annex_2/lvl_u1"><heading>Concentration values for the assessment of interstitial air at polluted sites</heading><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"><sup>1</sup> In assessing the interstitial air of polluted sites, the concentration values in the following table apply. Where no concentration values are given in the table for emissions occurring at the site, e.g. odours or particles, the site is deemed to be in need of remediation if the emissions may lead to excessive ambient concentrations in accordance with the Ordinance of 16 December 1985<authorialNote>
+		<p> <ref fedlex:rs-uri="https://fedlex.data.admin.ch/eli/cc/1986/208_208_208" fedlex:rs="814.318.142.1" href="https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521">SR <b>814.318.142.1</b></ref></p>
+	</authorialNote> on Air Pollution Control.</p><blockList><listIntroduction eId="annex_2/lvl_u1/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"><sup>2</sup> For sampling and the performance of interstitial air analyses, the following apply:</listIntroduction><item eId="annex_2/lvl_u1/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Samples must be taken using ground gas detectors at a number of points representative of the pollution of the site. It shall be ensured that no extraneous air is included in the samples.</p></item><item eId="annex_2/lvl_u1/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">The interstitial air need only be analysed in respect of those constituents that are expected to occur at the site based on the historical investigation. If the analysis is confined to lumped parameters, the lowest concentration value of the individual substances shall be taken as the assessment criterion.</p></item></blockList><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"><sup>3</sup> Interstitial air samples may be dispensed with if it can be demonstrated by other means that the concentration values in the interstitial air cannot be exceeded, i.e. based on precise information concerning the composition and origin of the material at the site.</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"><sup>4</sup> The FOEN shall issue guidelines on sampling and on procedures for interstitial air analyses.</p><table border="1">
+			
+			
+			<tr>
+				
+				
+				<th xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">
+					
+					<p>Substance</p>
+				</th>
+				<th xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">
+					
+					<p>Concentration value</p>
+				</th>
+			</tr>
+			<tr>
+				
+				
+				<th xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">
+					
+					
+				</th>
+				<th xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">
+					
+					
+				</th>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Inorganic substances</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Mercury</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">  0.005  ml/m<sup xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">3</sup></p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Carbon dioxide</p>
+				</td>
+				<td>
+					
+					<p>   5000  ml/m<sup xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">3</sup></p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Hydrogen sulphide</p>
+				</td>
+				<td>
+					
+					<p>       10  ml/m<sup xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">3</sup></p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Organic substances</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Petrol (free of aromatics)</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">     500  ml/m<sup xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">3</sup></p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Light petrol (aromatic content 0–10 by vol.-%)</p>
+				</td>
+				<td>
+					
+					<p>     500  ml/m<sup xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">3</sup></p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Methane</p>
+				</td>
+				<td>
+					
+					<p>10 000  ml/m<sup xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">3</sup></p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Halogenated hydrocarbons</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>Chlorobenzene</p></item></blockList></td>
+				<td>
+					
+					<p>       10  ml/m<sup xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">3</sup></p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>1,1-Dichloroethane</p></item></blockList></td>
+				<td>
+					
+					<p>     100  ml/m<sup xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">3</sup></p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>1,2-Dichloroethane (EDC)</p></item></blockList></td>
+				<td>
+					
+					<p>         5  ml/m<sup xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">3</sup></p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>1,1-Dichloroethene</p></item></blockList></td>
+				<td>
+					
+					<p>         2  ml/m<sup xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">3</sup></p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>1,2-Dichloroethene (cis and trans)</p></item></blockList></td>
+				<td>
+					
+					<p>     200  ml/m<sup xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">3</sup></p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>Dichloromethane</p></item></blockList></td>
+				<td>
+					
+					<p>     100  ml/m<sup xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">3</sup></p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>1,2-Dichloropropane</p></item></blockList></td>
+				<td>
+					
+					<p>       75  ml/m<sup xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">3</sup></p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>1,1,2,2-Tetrachloroethane</p></item></blockList></td>
+				<td>
+					
+					<p>         1  ml/m<sup xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">3</sup></p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>Tetrachloroethene (PERC)</p></item></blockList></td>
+				<td>
+					
+					<p>       50  ml/m<sup xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">3</sup></p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>Tetrachloromethane (Carbon tetrachloride)</p></item></blockList></td>
+				<td>
+					
+					<p>         5  ml/m<sup xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">3</sup></p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>1,1,1-Trichloroethane</p></item></blockList></td>
+				<td>
+					
+					<p>     200  ml/m<sup xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">3</sup></p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>Trichloroethene (TCE)</p></item></blockList></td>
+				<td>
+					
+					<p>       50  ml/m<sup xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">3</sup></p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>Trichloromethane</p></item></blockList></td>
+				<td>
+					
+					<p>       10  ml/m<sup xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">3</sup></p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>Vinyl chloride</p></item></blockList></td>
+				<td>
+					
+					<p>         2  ml/m<sup xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">3</sup></p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Monocyclic aromatic hydrocarbons (BTEX)</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>Benzene</p></item></blockList></td>
+				<td>
+					
+					<p>         1  ml/m<sup xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">3</sup></p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>Toluene</p></item></blockList></td>
+				<td>
+					
+					<p>       50  ml/m<sup xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">3</sup></p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>Ethylbenzene</p></item></blockList></td>
+				<td>
+					
+					<p>     100  ml/m<sup xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">3</sup></p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>Xylenes</p></item></blockList></td>
+				<td>
+					
+					<p>     100  ml/m<sup xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">3</sup></p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Polycyclic aromatic hydrocarbons (PAK)</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num>– </num><p>Benzo[a]pyrene</p></item></blockList></td>
+				<td>
+					
+					<p>0.0002  ml/m<sup xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">3</sup></p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">– </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Naphthalene</p></item></blockList></td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">       10  ml/m<sup xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">3</sup></p>
+				</td>
+			</tr>
+		</table></content></level></mainBody></doc></component><component><doc name="annex"><meta><identification source="#ch.bk"><FRBRWork><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20251201/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20251201"/><FRBRdate date="2025-12-01" name="jolux:dateApplicability"/><FRBRdate date="1998-08-26" name="jolux:dateDocument"/><FRBRdate date="1998-10-01" name="jolux:dateEntryInForce"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRcountry value="CH"/><FRBRnumber value="814.680"/><FRBRname xml:lang="en" value="Ordinance of 26 August 1998 on the Remediation of Polluted Sites (Contaminated Sites Ordinance, CSO)" shortForm="CSO"/><FRBRname xml:lang="de" value="Verordnung vom 26. August 1998 über die Sanierung von belasteten Standorten (Altlasten-Verordnung, AltlV)" shortForm="AltlV"/><FRBRname xml:lang="fr" value="Ordonnance du 26 août 1998 sur l'assainissement des sites pollués (Ordonnance sur les sites contaminés, OSites)" shortForm="OSites"/><FRBRname xml:lang="it" value="Ordinanza del 26 agosto 1998 sul risanamento dei siti inquinati (Ordinanza sui siti contaminati, OSiti)" shortForm="OSiti"/><FRBRauthoritative value="true"/></FRBRWork><FRBRExpression><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20251201/en/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20251201/en"/><FRBRdate date="2025-12-01" name="jolux:dateApplicability"/><FRBRdate date="1998-08-26" name="jolux:dateDocument"/><FRBRdate date="1998-10-01" name="jolux:dateEntryInForce"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRlanguage language="en"/></FRBRExpression><FRBRManifestation><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20251201/en/xml/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20251201/en/xml"/><FRBRdate date="2025-12-01" name="jolux:dateApplicability"/><FRBRdate date="1998-08-26" name="jolux:dateDocument"/><FRBRdate date="1998-10-01" name="jolux:dateEntryInForce"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRformat value="xml"/></FRBRManifestation></identification></meta><preface><container name="headerOfAnnex"><block name="heading">Annex 3<inline name="man-font-style-normal"><authorialNote>
+		<p> Inserted by Annex No II 2 of the O of 26 Sept. 2008 on the Charge for the Remediation of Contaminated Sites (<ref href="https://fedlex.data.admin.ch/eli/oc/2008/670">AS <b>2008 </b>4771</ref>). Revised by No II of the O of 9 May 2012 (<ref href="https://fedlex.data.admin.ch/eli/oc/2012/348">AS <b>2012</b> 2905</ref>), No I of the O of 14 Jan. 2015 (<ref href="https://fedlex.data.admin.ch/eli/oc/2015/36">AS <b>2015</b> 317</ref>) and of 29 Oct. 2025, in force since 1 Dec. 2025 (<ref href="https://fedlex.data.admin.ch/eli/oc/2025/746">AS <b>2025</b> 746</ref>).</p>
+	</authorialNote></inline></block></container></preface><mainBody><p>(Art. 12 para. 1)</p><level eId="annex_3/lvl_u1"><heading>Concentration values for the assessment of the need for remediation of soil</heading><intro><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">The concentration values in the table below apply in the assessment of the need for remediation of soil. Where no concentration values are given in the table for potential soil pollutants which are polluting a site, the authority shall specify a value on a case by case basis with the consent of the FOEN and according to the provisions of the legislation on the protection of the environment.</p></intro><level eId="annex_3/lvl_u1/lvl_1"><num>1</num><heading>Sites used for agricultural or horticultural purposes</heading><content><table border="1">
+			
+			
+			<tr>
+				
+				
+				<th xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">
+					
+					<p>Substance</p>
+				</th>
+				<th xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">
+					
+					<p>Concentration value</p>
+				</th>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Inorganic substances</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Lead</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">2000 mg Pb/kg</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Cadmium</p>
+				</td>
+				<td>
+					
+					<p>    30 mg Cd/kg</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Copper</p>
+				</td>
+				<td>
+					
+					<p>1000 mg Cu/kg</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Zinc</p>
+				</td>
+				<td>
+					
+					<p>2000 mg Zn/kg</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Organic substances</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Polychlorinated biphenyls (PCBs)</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">      3 mg/kg</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Polycyclic aromatic hydrocarbons (PAHs)*</p>
+				</td>
+				<td>
+					
+					<p>  100 mg/kg</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Benzo-a-pyrene</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">    10 mg/kg</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td colspan="2"><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">* </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">∑16 EPA PAHs: napthalene, acenaphthylene, acenaphthene, fluorene, phenanthrene, anthracene, fluoranthene, pyrene, benz[a]anthracene, chrysene, benzo[a]pyrene, benzo[b]fluoranthene, benzo[k]fluoranthene, dibenz[a,h]anthracene, benzo[g,h,i]perylene, indeno[1,2,3-c,d]pyrene</p></item></blockList></td>
+			</tr>
+		</table></content></level><level eId="annex_3/lvl_u1/lvl_2"><num>2</num><heading>Sites in private gardens and allotments, children’s playgrounds and other facilities where children play regularly</heading><content><table border="1">
+			
+			
+			<tr>
+				
+				
+				<th xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">
+					
+					<p>Substance</p>
+				</th>
+				<th xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">
+					
+					<p>Concentration value</p>
+				</th>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Inorganic substances</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Antimony</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">    50 mg Sb/kg</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Arsenic</p>
+				</td>
+				<td>
+					
+					<p>    50 mg As/kg</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Lead</p>
+				</td>
+				<td>
+					
+					<p>300 mg Pb/kg</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Cadmium</p>
+				</td>
+				<td>
+					
+					<p>    20 mg Cd/kg</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Chromium (VI)</p>
+				</td>
+				<td>
+					
+					<p>  100 mg CrVI/kg</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Copper</p>
+				</td>
+				<td>
+					
+					<p>1000 mg Cu/kg</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Nickel</p>
+				</td>
+				<td>
+					
+					<p>1000 mg Ni/kg</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Mercury</p>
+				</td>
+				<td>
+					
+					<p>      2 mg Hg/kg</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Silver</p>
+				</td>
+				<td>
+					
+					<p>  500 mg Ag/kg</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Zinc</p>
+				</td>
+				<td>
+					
+					<p>2000 mg Zn/kg</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Inorganic substances</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Volatile chlorinated hydrocarbons*</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">      1 mg/kg</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Polychlorinated biphenyls (PCBs)**</p>
+				</td>
+				<td>
+					
+					<p>      1 mg/kg</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Aliphatic hydrocarbons C<sub>5</sub>–C<sub>10</sub>***</p>
+				</td>
+				<td>
+					
+					<p>      5 mg/kg</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Aliphatic hydrocarbons C<sub>11</sub>–C<sub>40</sub></p>
+				</td>
+				<td>
+					
+					<p>  500 mg/kg</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Benzene</p>
+				</td>
+				<td>
+					
+					<p>      1 mg/kg</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Polycyclic aromatic hydrocarbons (PAHs)****</p>
+				</td>
+				<td>
+					
+					<p>  10 mg/kg</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Benzo[a]pyrene</p>
+				</td>
+				<td>
+					
+					<p>      1 mg/kg</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<table fedlex:function="layout">
+						
+						
+						<tr>
+							
+							<td>
+								
+								<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Dioxins and dioxin-like substances <br/>(PCDDs, PCDFs and dl-PCBs)*****</p>
+							</td>
+							<td>
+								
+								<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">20 ng TEQ/kg</p>
+							</td>
+						</tr>
+					</table>
+					
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">20 ng TEQ/kg</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td colspan="2"><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">* </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">∑7 volatile chlorinated hydrocarbons: dichloromethane, trichloromethane, tetrachloromethane, cis-1,2-dichloroethylene, 1,1,1-trichloroethane, trichloroethylene (TCE), tetrachlorethylene (PERC)</p></item></blockList></td>
+			</tr>
+			<tr>
+				
+				<td colspan="2"><blockList><item><num>** </num><p>∑6 PCB congeners × 4.3: no. 28, 52, 101, 138, 153, 180</p></item></blockList></td>
+			</tr>
+			<tr>
+				
+				<td colspan="2"><blockList><item><num>*** </num><p>∑C<sub>5</sub>- to C<sub>10</sub> hydrocarbons: area of the FID-chromatogram between n-pentane and n‑decane, multiplied by the response factor of n-hexane, minus ∑BTEX</p></item></blockList></td>
+			</tr>
+			<tr>
+				
+				<td colspan="2"><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">***** </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">∑16 EPA PAHs: napthalene, acenaphthylene, acenaphthene, fluorene, phenanthrene, anthracene, fluoranthene, pyrene, benz-a-anthracene, chrysene, benzo[a]pyrene, benzo[b]fluoranthene, benzo[k]fluoranthene, dibenz[a,h]anthracene, benzo[g,h,i]perylene, indeno[1,2,3-c,d]pyrene</p></item></blockList></td>
+			</tr>
+			<tr>
+				
+				<td colspan="2"><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">*****  </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">∑29 Congeners of polychlorinated dibenzo-p-dioxins (PCDD), polychlorinated dibenzofurans (PCDF) and dioxin-like polychlorinated biphenyls (dl-PCB) according to WHO22-TEF</p></item></blockList></td>
+			</tr>
+		</table></content></level></level></mainBody></doc></component></components></act></akomaNtoso>

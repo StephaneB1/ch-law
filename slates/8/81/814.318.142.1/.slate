@@ -1,0 +1,6 @@
+name: Ordinance on Air Pollution Control (OAPC) (OAPC)
+description: SR 814.318.142.1 — Ordinance of 16 December 1985 on Air Pollution Control (OAPC). Unofficial English mirror of the Fedlex consolidation of 1 January 2026. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Federal Council ordinance", "jurisdiction": "Switzerland", "reference": "SR 814.318.142.1", "dateInForce": "1986-03-01", "adopted": "1985-12-16", "consolidated": "2026-01-01", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/1986/208_208_208"}

@@ -1,0 +1,6 @@
+name: Cartel Act Sanctions Ordinance (CASO)
+description: SR 251.5 — Ordinance of 12 March 2004 on Sanctions imposed for Unlawful Restraints of Competition (Cartel Act Sanctions Ordinance, CASO). Unofficial English mirror of the Fedlex consolidation of 18 February 2021. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Federal Council ordinance", "jurisdiction": "Switzerland", "reference": "SR 251.5", "dateInForce": "2004-04-01", "adopted": "2004-03-12", "consolidated": "2021-02-18", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/2004/175"}

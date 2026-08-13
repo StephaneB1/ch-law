@@ -1,0 +1,6 @@
+name: SPTO
+description: SR 780.11 — Ordinance of 15 November 2017 on the Surveillance of Post and Telecommunications (SPTO). Unofficial English mirror of the Fedlex consolidation of 26 March 2024. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Federal Council ordinance", "jurisdiction": "Switzerland", "reference": "SR 780.11", "dateInForce": "2018-03-01", "adopted": "2017-11-15", "consolidated": "2024-03-26", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/2018/32"}

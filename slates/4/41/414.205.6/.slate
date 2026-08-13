@@ -1,0 +1,6 @@
+name: SAC Fees Ordinance (FeeO-SAC)
+description: SR 414.205.6 — Ordinance of the Swiss Accreditation Council of 23 March 2018 on the Fees for Accreditation Procedures  and Services on behalf of Third Parties (SAC Fees Ordinance, FeeO-SAC). Unofficial English mirror of the Fedlex consolidation of 1 July 2025. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Legislation from independent enterprises and institutions", "jurisdiction": "Switzerland", "reference": "SR 414.205.6", "dateInForce": "2018-07-01", "adopted": "2018-03-23", "consolidated": "2025-07-01", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/2018/336"}

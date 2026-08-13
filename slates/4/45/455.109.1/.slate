@@ -1,0 +1,6 @@
+name: Animal Welfare Training Ordinance (AWTO)
+description: SR 455.109.1 — FDHA Ordinance of 5 September 2008 on Training in Animal Husbandry and Handling of Animals (Animal Welfare Training Ordinance, AWTO). Unofficial English mirror of the Fedlex consolidation of 1 February 2025. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Departmental ordinance", "jurisdiction": "Switzerland", "reference": "SR 455.109.1", "dateInForce": "2008-10-01", "adopted": "2008-09-05", "consolidated": "2025-02-01", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/2008/609"}

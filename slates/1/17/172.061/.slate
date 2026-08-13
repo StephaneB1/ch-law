@@ -1,0 +1,6 @@
+name: Consultation Procedure Act (CPA)
+description: SR 172.061 — Federal Act of 18 March 2005 on the Consultation Procedure (Consultation Procedure Act, CPA). Unofficial English mirror of the Fedlex consolidation of 4 December 2023. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Federal act", "jurisdiction": "Switzerland", "reference": "SR 172.061", "dateInForce": "2005-09-01", "adopted": "2005-03-18", "consolidated": "2023-12-04", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/2005/542"}

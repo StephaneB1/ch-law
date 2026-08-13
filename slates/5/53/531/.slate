@@ -1,0 +1,6 @@
+name: National Economic Supply Act (NESA)
+description: SR 531 — Federal Act of 8 October 1982  on the National Economic Supply (National Economic Supply Act, NESA). Unofficial English mirror of the Fedlex consolidation of 1 November 2025. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Federal act", "jurisdiction": "Switzerland", "reference": "SR 531", "dateInForce": "2017-06-01", "adopted": "2016-06-17", "consolidated": "2025-11-01", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/2017/308"}

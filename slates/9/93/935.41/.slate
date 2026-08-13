@@ -1,0 +1,6 @@
+name: PSSA
+description: SR 935.41 — Federal Act of 27 September 2013 on Private Security Services provided Abroad (PSSA). Unofficial English mirror of the Fedlex consolidation of 1 December 2021. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Federal act", "jurisdiction": "Switzerland", "reference": "SR 935.41", "dateInForce": "2015-09-01", "adopted": "2013-09-27", "consolidated": "2021-12-01", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/2015/450"}

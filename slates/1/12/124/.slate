@@ -1,0 +1,6 @@
+name: Ordinance on the Use of Private Security Companies
+description: SR 124 — Ordinance of 24 June 2015 on the Use of Private Security Companies  by the Federal Government (Ordinance on the Use of Private Security Companies, OUPSC). Unofficial English mirror of the Fedlex consolidation of 20 October 2015. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Federal Council ordinance", "jurisdiction": "Switzerland", "reference": "SR 124", "dateInForce": "2015-09-01", "adopted": "2015-06-24", "consolidated": "2015-10-20", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/2015/435"}

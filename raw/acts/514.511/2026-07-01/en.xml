@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="UTF-8"?><akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:fedlex="http://fedlex.admin.ch/"><act name="publicLaw"><meta><identification source="#ch.bk"><FRBRWork><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/1998/808_808_808/20260701/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/1998/808_808_808/20260701"/><FRBRdate date="2026-07-01" name="jolux:dateApplicability"/><FRBRdate date="1998-02-25" name="jolux:dateDocument"/><FRBRdate date="1998-04-01" name="jolux:dateEntryInForce"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRcountry value="CH"/><FRBRnumber value="514.511"/><FRBRname xml:lang="de" value="Verordnung vom 25. Februar 1998 über das Kriegsmaterial (Kriegsmaterialverordnung, KMV)" shortForm="KMV"/><FRBRname xml:lang="it" value="Ordinanza del 25 febbraio 1998 concernente il materiale bellico (Ordinanza sul materiale bellico, OMB)" shortForm="OMB"/><FRBRname xml:lang="fr" value="Ordonnance du 25 février 1998 sur le matériel de guerre (OMG)" shortForm="OMG"/><FRBRname xml:lang="en" value="Ordinance of 25 February 1998  on War Material (War Material Ordinance, WMO)" shortForm="WMO"/><FRBRauthoritative value="true"/></FRBRWork><FRBRExpression><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/1998/808_808_808/20260701/en/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/1998/808_808_808/20260701/en"/><FRBRdate date="2026-07-01" name="jolux:dateApplicability"/><FRBRdate date="1998-02-25" name="jolux:dateDocument"/><FRBRdate date="1998-04-01" name="jolux:dateEntryInForce"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRlanguage language="en"/></FRBRExpression><FRBRManifestation><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/1998/808_808_808/20260701/en/xml/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/1998/808_808_808/20260701/en/xml"/><FRBRdate date="2026-07-01" name="jolux:dateApplicability"/><FRBRdate date="1998-02-25" name="jolux:dateDocument"/><FRBRdate date="1998-04-01" name="jolux:dateEntryInForce"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRformat value="xml" fedlex:generator="2026-q2-rel-1.8.9"/></FRBRManifestation></identification><references source="#ch.bk"><TLCOrganization eId="ch.bk" href="https://fedlex.data.admin.ch/vocabulary/legal-institution/2" showAs="Federal Chancellery"/><TLCRole eId="publisher" href="http://data.legilux.public.lu/resource/ontology/jolux#publisher" showAs="Editeur"/><TLCRole eId="rightsHolder" href="http://data.legilux.public.lu/resource/ontology/jolux#rightsHolder" showAs="Détenteur des droits"/><TLCReference name="language" href="http://publications.europa.eu/resource/authority/language/ENG" showAs="en"/><TLCReference name="format" href="https://fedlex.data.admin.ch/vocabulary/user-format/xml" showAs="xml"/></references></meta><preface><p><docNumber>514.511 </docNumber></p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.</p><p><docTitle>Ordinance<br/>on War Materiel</docTitle></p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">(War Materiel Ordinance, WMO)</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">of 25 February 1998 (Last amended on 1 July 2026)</p></preface><preamble><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">The Swiss Federal Council,</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">based on the War Materiel Act of 13 December 1996<authorialNote>
+		<p> AS <b>514.51</b></p>
+	</authorialNote> (WMA), <br/>Article 150<i>a</i> paragraph 2 letter c of the Armed Forces Act of 3 February 1995<authorialNote>
+		<p>  <ref fedlex:rs-uri="https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093" fedlex:rs="510.10" href="https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242">SR <b>510.10</b></ref></p>
+	</authorialNote><br/>and Article 43 of the Government and Administration Organisation Act of <br/>21 March 1997<authorialNote>
+		<p>  <ref fedlex:rs-uri="https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022" fedlex:rs="172.010" href="https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015">SR <b>172.010</b></ref></p>
+	</authorialNote>,<authorialNote>
+		<p>  Amended by No I of the O of 21 Nov. 2001, in force since 1 March 2002 (<ref href="https://fedlex.data.admin.ch/eli/oc/2002/68">AS <b>2002</b> 312</ref>).</p>
+	</authorialNote></p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ordains:</p></preamble><body><section eId="sec_1"><num>Section 1</num><heading>General Provisions</heading><article eId="art_1"><num><b>Art. 1</b></num><heading>Scope of Application</heading><paragraph eId="art_1/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> This Ordinance regulates initial licences and specific licences for the trade, brokerage, import, export and transit of war materiel as well as the conclusion of contracts for the transfer of intellectual property including know-how and the granting of rights thereto.<authorialNote>
+		<p>  Amended by No I of the O of 21 Nov. 2001, in force since 1 March 2002 (<ref href="https://fedlex.data.admin.ch/eli/oc/2002/68">AS <b>2002</b> 312</ref>).</p>
+	</authorialNote></p></content></paragraph><paragraph eId="art_1/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The Ordinance applies to Swiss customs territory, Swiss public customs warehouses, warehouses for bulk goods, bonded warehouses and Swiss customs-free zones.<authorialNote>
+		<p> Amended by Annex 4 No 10 of the Customs Ordinance of 1 Nov. 2006, in force since 1 May 2007 (<ref href="https://fedlex.data.admin.ch/eli/oc/2007/250">AS <b>2007</b> 1469</ref>).</p>
+	</authorialNote></p></content></paragraph></article><article eId="art_2"><num><b>Art. 2</b></num><heading>War materiel</heading><subheading fedlex:role="reference" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> (Art. 5 WMA) </subheading><paragraph eId="art_2/para"><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">The goods listed in Annex 1 constitute war materiel.</p></content></paragraph></article></section><section eId="sec_2"><num>Section 2</num><heading>Initial Licences</heading><article eId="art_3"><num><b>Art. 3</b></num><heading>Application</heading><subheading fedlex:role="reference" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> (Art. 9 WMA)</subheading><paragraph eId="art_3/para"><content><blockList><listIntroduction eId="art_3/para/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">The application for an initial licence must include:</listIntroduction><item eId="art_3/para/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a list of the war materiel in respect of which a licence is being sought;</p></item><item eId="art_3/para/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b.<authorialNote>
+		<p>  Repealed by No I of the O of 21 Nov. 2001, with effect from 1 March 2002  (<ref href="https://fedlex.data.admin.ch/eli/oc/2002/68">AS <b>2002</b> 312</ref>).</p>
+	</authorialNote> </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">...</p></item><item eId="art_3/para/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">an extract certificate from the Commercial Register;</p></item><item eId="art_3/para/lbl_d"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">d. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">an extract certificate from the Tax Register;</p></item><item eId="art_3/para/lbl_e"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">e. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">an extract certificate from the Debt Collection Register;</p></item><item eId="art_3/para/lbl_f"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">f. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">in the case of natural persons, confirmation of place of residence.</p></item></blockList></content></paragraph></article><article eId="art_4"><num><b>Art. 4</b></num><heading>Withdrawal and revocation</heading><subheading fedlex:role="reference" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> (Art. 11 WMA) </subheading><paragraph eId="art_4/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> An initial licence to manufacture war materiel shall be withdrawn if it has not been used for five years.</p></content></paragraph><paragraph eId="art_4/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> An initial licence for the trade or brokerage of war materiel shall be withdrawn if it has not been used for three years.</p></content></paragraph><paragraph eId="art_4/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> If an initial licence is withdrawn, revoked or has lapsed for any other reason, the war materiel that is still in the possession of the licence holder shall be sold or recycled under the supervision of the licensing authority.<authorialNote>
+		<p>  Amended by No I of the O of 21 Nov. 2001, in force since 1 March 2002 (<ref href="https://fedlex.data.admin.ch/eli/oc/2002/68">AS <b>2002</b> 312</ref>).</p>
+	</authorialNote> </p></content></paragraph></article></section><section eId="sec_3"><num>Section 3</num><heading>Specific Licences</heading><article eId="art_5"><num><b>Art. 5</b><authorialNote>
+		<p> Repealed by No I of the O of 30 March 2022, with effect from 1 May 2022  (<ref href="https://fedlex.data.admin.ch/eli/oc/2022/227">AS <b>2022</b> 227</ref>).</p>
+	</authorialNote></num></article><article eId="art_5_a"><num><b>Art. 5</b><i>a</i><authorialNote>
+		<p> Inserted by No I of the O of 10 Oct. 2012, in force since 1 Nov. 2012 (<ref href="https://fedlex.data.admin.ch/eli/oc/2012/639">AS <b>2012</b> 5533</ref>).</p>
+	</authorialNote></num><heading>Non-re-export declarations</heading><subheading fedlex:role="reference" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> (Art. 18 WMA)</subheading><paragraph eId="art_5_a/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> For a licence to be granted for the export of finished products or for individual parts or assembly packages to a foreign government or an undertaking acting on behalf of a foreign government, a non-re-export declaration from the government of the country of destination is required. The requirement for a non-re-export declaration is waived if the case involves individual parts or assembly packages of negligible value.</p></content></paragraph><paragraph eId="art_5_a/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> By issuing the non-re-export declaration, the country of destination undertakes not to export, sell, lend, or gift the war materiel authority or to transfer it in any other way to third parties abroad without the consent of the licensing authority.</p></content></paragraph><paragraph eId="art_5_a/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> If there is an increased risk in the country of destination that the war materiel to be exported will be passed on to an undesirable end recipient, the licensing authority may stipulate that it has the right to verify compliance with the non-re-export declaration on site. In the case of export of substantial volume, a non-re-export declaration in the form of a diplomatic note from the country of destination is required.</p></content></paragraph><paragraph eId="art_5_a/para_4"><num>4</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> If there is evidence that the non-re-export declaration has been violated, the licensing authority may take precautionary measures. The Federal Department of Economic Affairs decides whether a licence should be revoked.</p></content></paragraph></article><article eId="art_5_b"><num><b>Art. 5</b><i>b</i><authorialNote>
+		<p>  Originally Art. 5<i>a</i>. Inserted by No I of the O of 21 Nov. 2001, in force since  1 March 2002 (<ref href="https://fedlex.data.admin.ch/eli/oc/2002/68">AS <b>2002</b> 312</ref>).</p>
+	</authorialNote></num><heading>Exports to non-governmental bodies</heading><subheading fedlex:role="reference" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> (Art. 18 WMA)</subheading><paragraph eId="art_5_b/para"><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Any person who wishes to export war materiel to a body that is neither a foreign government nor an undertaking acting on behalf of a foreign government must demonstrate when filing the export licence application that the required authorisation for import has been issued by the country of final destination or that no such authorisation is required. </p></content></paragraph></article><article eId="art_5_c"><num><b>Art. 5</b><i>c</i><authorialNote>
+		<p> Inserted by No I of the O of 19 Aug. 2015, in force since 1 Oct. 2015 (<ref href="https://fedlex.data.admin.ch/eli/oc/2015/555">AS <b>2015</b> 2943</ref>).</p>
+	</authorialNote></num><heading>Licence for the transit of civilian aircraft with war materiel on board</heading><subheading fedlex:role="reference" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> (Art. 17 para. 3, 22 and 22<i>a</i> WMA)<authorialNote>
+		<p> Amended by No I of the O of 30 March 2022, in force since 1 May 2022 (<ref href="https://fedlex.data.admin.ch/eli/oc/2022/227">AS <b>2022</b> 227</ref>).</p>
+	</authorialNote></subheading><paragraph eId="art_5_c/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The transit of war materiel on board civilian aircraft shall be licensed provided that it is not contrary to international law, international obligations or the principles of Swiss foreign policy.</p></content></paragraph><paragraph eId="art_5_c/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> When deciding on the licence, the responsible authority shall also take account of the criteria set out in Article 22<i>a</i> WMA.<authorialNote>
+		<p> Amended by No I of the O of 30 March 2022, in force since 1 May 2022 (<ref href="https://fedlex.data.admin.ch/eli/oc/2022/227">AS <b>2022</b> 227</ref>).</p>
+	</authorialNote></p></content></paragraph></article><article eId="art_6"><num><b>Art. 6</b><authorialNote>
+		<p>  Amended by No I of the O of 21 Nov. 2001, in force since 1 March 2002 (<ref href="https://fedlex.data.admin.ch/eli/oc/2002/68">AS <b>2002</b> 312</ref>).</p>
+	</authorialNote></num><heading>Licence to broker and trade</heading><subheading fedlex:role="reference" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> (Art. 15 and 16 or 16<i>a</i> and 16<i>b</i> WMA)</subheading><paragraph eId="art_6/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Any person who manufactures war materiel in Switzerland in his own production plant may broker or trade abroad without a specific licence only if an initial licence for the brokerage or the trade of products analogous to those manufactured in the production plant has been granted.</p></content></paragraph><paragraph eId="art_6/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> No specific licence is required for the brokerage of or the trade in war materiel involving states listed in Annex 2; however, dealers and professional brokers require an initial licence.</p></content></paragraph><paragraph eId="art_6/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Paragraphs 1 and 2 apply by analogy to the cases in Articles 15 paragraph 3 or 16<i>a</i> paragraph 3 WMA; where, however, specific licences are required, evidence must be provided on filing the licence application that a licence to trade arms has been obtained.</p></content></paragraph></article><article eId="art_6_a"><num><b>Art. 6</b><i>a</i><authorialNote>
+		<p> Inserted by No I of the O of 21 Nov. 2001 (<ref href="https://fedlex.data.admin.ch/eli/oc/2002/68">AS <b>2002</b> 312</ref>). Amended by Annex 4 No II 2 of the Weapons Ordinance of 2 July 2008, in force since 12 Dec. 2008 (<ref href="https://fedlex.data.admin.ch/eli/oc/2008/767">AS <b>2008</b> 5525</ref>).</p>
+	</authorialNote></num><heading>Exemption from import ortransit licence</heading><subheading fedlex:role="reference" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> (Art. 17 WMA)</subheading><paragraph eId="art_6_a/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Air passengers, including sky marshals, who stop over in Switzerland do not require a transit licence for firearms, their components and accessories, and their ammunition and munitions components that they are carrying for personal use in their baggage or in baggage that is sent in advance or forwarded provided such goods do not leave the transit area of the airport.<authorialNote>
+		<p> Amended by No III 1 of the O of 17 Sept. 2021, in force since 1 Nov. 2021  (<ref href="https://fedlex.data.admin.ch/eli/oc/2021/595">AS <b>2021</b> 595</ref>).</p>
+	</authorialNote> </p></content></paragraph><paragraph eId="art_6_a/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> No transit licence is required by persons wishing to carry firearms, their components and accessories, and their ammunition and munitions components with an accompanying document from a state that is bound by any one of the Schengen Association Agreements (a Schengen state) via Switzerland to another Schengen state.</p></content></paragraph><paragraph eId="art_6_a/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> No transit licence is required by persons wishing to export for non-commercial purposes firearms, their components and accessories, and their ammunition and munitions components to another Schengen state.</p></content></paragraph><paragraph eId="art_6_a/para_4"><num>4</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The Schengen Association Agreements are listed in Annex 3.</p></content></paragraph></article><article eId="art_7"><num><b>Art. 7</b></num><heading>Licence for the transfer of intellectual property or the granting of rights thereto</heading><subheading fedlex:role="reference" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> (Art. 20 and 21 WMA) </subheading><paragraph eId="art_7/para"><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">No specific licence is required in order to enter into contracts relating to the transfer of intellectual property, including know-how, related to war materiel, or the granting of rights thereto provided such property or rights are intended for states that are listed in Annex 2.</p></content></paragraph></article><article eId="art_8"><num><b>Art. 8</b></num><heading>Diplomatic or consular missions and international organisations</heading><paragraph eId="art_8/para"><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Deliveries to and from diplomatic or consular missions as well as to and from international organisations in Switzerland and in the Principality of Liechtenstein are deemed to be imports and exports respectively.</p></content></paragraph></article><article eId="art_9"><num><b>Art. 9</b><authorialNote>
+		<p> Amended by No I of the O of 27 Aug. 2008, in force since 12 Dec. 2008 (<ref href="https://fedlex.data.admin.ch/eli/oc/2008/765">AS <b>2008</b> 5495</ref>).</p>
+	</authorialNote></num><heading>Relief for temporary export and transit</heading><paragraph eId="art_9/para_1"><num>1</num><content><blockList><listIntroduction eId="art_9/para_1/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> No licence is required by persons in the following categories for the temporary export and transit of firearms with the ammunition pertaining thereto:</listIntroduction><item eId="art_9/para_1/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">persons travelling through Switzerland provided the weapons are recorded in the European Firearms Pass;</p></item><item eId="art_9/para_1/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">marksmen and hunters provided they furnish credible evidence that they are participating abroad in a shooting competition, in shooting or other training or in a hunt and that they will thereafter re-import the weapons in question;</p></item><item eId="art_9/para_1/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">security agents employed by foreign states travelling through Switzerland for official pre-arranged foreign visits;</p></item><item eId="art_9/para_1/lbl_d"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">d. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">security agents employed by the Swiss authorities for official, pre-arranged foreign visits, provided the weapons are subsequently re-imported;</p></item><item eId="art_9/para_1/lbl_e"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">e. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">members of foreign police forces or customs authorities for professional or training-related transit journeys;</p></item><item eId="art_9/para_1/lbl_f"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">f. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">members of Swiss police forces and employees of the Federal Office for Customs and Border Security (FOCBS)<authorialNote>
+		<p> <span>The name of this administrative unit was changed on 1 Jan. 2022 in application of Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 (</span><ref fedlex:rs-uri="https://fedlex.data.admin.ch/eli/cc/2015/670" fedlex:rs="170.512.1" href="https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976">SR <b>170.512.1</b><span/></ref><span>) (</span><ref href="https://fedlex.data.admin.ch/eli/oc/2021/589"><span>AS </span><b><span>2021</span></b><span> 589</span></ref><span>). This change has been made throughout the text.</span></p>
+	</authorialNote> for professional or training-related journeys abroad, provided the weapons are subsequently re-imported;</p></item><item eId="art_9/para_1/lbl_g"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">g. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">security guards for airlines accompanying passenger flights to foreign destinations;</p></item><item eId="art_9/para_1/lbl_h"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">h. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">security guards for airlines accompanying passenger flights from abroad to destinations in Switzerland or stopping over in Switzerland, provided the weapons do not leave the transit area of the airport.</p></item></blockList></content></paragraph><paragraph eId="art_9/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The import and re-export of firearms with the ammunition pertaining thereto by persons in the categories mentioned in paragraph 1 are governed by the legislation on weapons.</p></content></paragraph></article><article eId="art_9_a"><num><b>Art. 9</b><i>a</i><authorialNote>
+		<p> Inserted by Art. 50 No 3 of the Weapons Ordinance of 21 Sept. 1998, in its version of 16 March 2001 (<ref href="https://fedlex.data.admin.ch/eli/oc/2001/146">AS <b>2001</b> 1009</ref>). Repealed by No I of the O of 27 Aug. 2008, with effect from 12 Dec. 2008 (<ref href="https://fedlex.data.admin.ch/eli/oc/2008/765">AS <b>2008</b> 5495</ref>).</p>
+	</authorialNote></num></article><article eId="art_9_b"><num><b>Art. 9</b><i>b</i><authorialNote>
+		<p>  Inserted by Art. 50 No 3 of the Weapons Ordinance of 21 Sept. 1998, in its version of 16 March 2001 (<ref href="https://fedlex.data.admin.ch/eli/oc/2001/146">AS <b>2001</b> 1009</ref>). Amended by No I of the O of 21 Nov. 2001, in force since 1 March 2002 (<ref href="https://fedlex.data.admin.ch/eli/oc/2002/68">AS <b>2002</b> 312</ref>).</p>
+	</authorialNote></num><heading>Simplified procedure for security agents involved in the transport of valuables and persons</heading><paragraph eId="art_9_b/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Security agents involved in the transport of valuables or of persons who export and re-import or carry in transit firearms<authorialNote>
+		<p> Term in accordance with Annex 4 No II 2 of the Weapons Ordinance of 2 July 2008, in force since 12 Dec. 2008 (<ref href="https://fedlex.data.admin.ch/eli/oc/2008/767">AS <b>2008</b> 5525</ref>). This amendment has been made throughout the text.</p>
+	</authorialNote> together with the ammunition pertaining thereto as part of their duties require only one licence for each weapon and its ammunition. This licence is valid for one year and entitles the holder to cross the border as often as required. </p></content></paragraph><paragraph eId="art_9_b/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The import and re-export of firearms together with the ammunition pertaining thereto as part of their duties is governed by the legislation on weapons.</p></content></paragraph></article><article eId="art_9_c"><num><b>Art. 9</b><i>c</i><authorialNote>
+		<p>  Inserted by No I of the O of 21 Nov. 2001, in force since 1 March 2002 (<ref href="https://fedlex.data.admin.ch/eli/oc/2002/68">AS <b>2002</b> 312</ref>).</p>
+	</authorialNote></num><heading>Simplified procedure for repairs, exhibitions, performances or valuations</heading><paragraph eId="art_9_c/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> For war materiel that is temporarily exported under the <span>customs procedure for temporary admission using a written customs declaration </span>for use in an exhibition or a performance or for valuation, the export licence is also valid for its re-import.<authorialNote>
+		<p> Amended by No I of the O of 30 March 2022, in force since 1 May 2022 (<ref href="https://fedlex.data.admin.ch/eli/oc/2022/227">AS <b>2022</b> 227</ref>).</p>
+	</authorialNote></p></content></paragraph><paragraph eId="art_9_c/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> For war materiel that is temporarily imported under the <span>customs procedure for temporary admission using a written customs declaration </span>for use in an exhibition, performance or for valuation, the import licence is also valid for its re- export<span>.</span><authorialNote>
+		<p> Amended by No I of the O of 30 March 2022, in force since 1 May 2022 (<ref href="https://fedlex.data.admin.ch/eli/oc/2022/227">AS <b>2022</b> 227</ref>).</p>
+	</authorialNote></p></content></paragraph><paragraph eId="art_9_c/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> War materiel that is also covered by the Weapons Act of 20 June 1997<authorialNote>
+		<p>  <ref fedlex:rs-uri="https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535" fedlex:rs="514.54" href="https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530">SR <b>514.54</b></ref></p>
+	</authorialNote> remains subject to the provisions of the legislation on weapons.</p></content></paragraph></article><article eId="art_9_d"><num><b>Art. 9</b><i>d</i><authorialNote>
+		<p>  Inserted by No I of the O of 21 Nov. 2001, in force since 1 March 2002 (<ref href="https://fedlex.data.admin.ch/eli/oc/2002/68">AS <b>2002</b> 312</ref>).</p>
+	</authorialNote></num><heading>Exemption for training and the international deployment of military units</heading><paragraph eId="art_9_d/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Swiss military units and their members do not require a licence for the export or re-import of war materiel that they take abroad for the purposes of international missions or training.</p></content></paragraph><paragraph eId="art_9_d/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Foreign military units and their members that enter Switzerland for training purposes do not require a licence for the import or re-export of the war materiel that they bring with them for this purpose. </p></content></paragraph><paragraph eId="art_9_d/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Foreign military units and their members do not require a transit licence for war materiel that they carry through Switzerland en route to training events in third countries or as part of international missions, provided Swiss military units or their members also take part in these training events or international missions. </p></content></paragraph><paragraph eId="art_9_d/para_4"><num>4</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> War materiel that is also covered by the Weapons Act of 20 June 1997<authorialNote>
+		<p>  <ref fedlex:rs-uri="https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535" fedlex:rs="514.54" href="https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530">SR <b>514.54</b></ref></p>
+	</authorialNote> remains subject to the provisions of the legislation on weapons.</p></content></paragraph></article><article eId="art_9_e"><num><b>Art. 9</b><i>e</i><authorialNote>
+		<p>  Inserted by No I of the O of 21 Nov. 2001, in force since 1 March 2002 (<ref href="https://fedlex.data.admin.ch/eli/oc/2002/68">AS <b>2002</b> 312</ref>).</p>
+	</authorialNote></num><heading>Simplified procedure for import and transit</heading><paragraph eId="art_9_e/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Manufacturers who hold an initial licence may apply for a general import licence (GIL) for the import of individual parts, assembly packages or anonymous components of war materiel in terms of Article 18 paragraph 2 WMA, provided the parts concerned do not fall within the scope of application of the Weapons Act of 20 June 1997<authorialNote>
+		<p>  <ref fedlex:rs-uri="https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535" fedlex:rs="514.54" href="https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530">SR <b>514.54</b></ref></p>
+	</authorialNote>. An individual licence is required in every case for the temporary import of such war materiel with the ATA Carnet or in the procedure for temporary use.<authorialNote>
+		<p> Amended by No I of the O of 27 Aug. 2008, in force since 12 Dec. 2008 (<ref href="https://fedlex.data.admin.ch/eli/oc/2008/765">AS <b>2008</b> 5495</ref>).</p>
+	</authorialNote></p></content></paragraph><paragraph eId="art_9_e/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Holders of initial licences and transport and haulage undertakings with a domicile or permanent establishment in Switzerland may apply for a general transit licence (GTL) for the transit of war materiel to countries of final destination that are listed in Annex 2.<authorialNote>
+		<p> Amended by No I of the O of 27 Aug. 2008, in force since 12 Dec. 2008 (<ref href="https://fedlex.data.admin.ch/eli/oc/2008/765">AS <b>2008</b> 5495</ref>).</p>
+	</authorialNote></p></content></paragraph><paragraph eId="art_9_e/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The licensing authority may at any time demand from the licensee information on the nature, quantity, customs clearance data and end use of goods that are or have been imported or transported in transit in terms of a GIL or GTL; the obligation to provide information expires ten years after customs clearance.<authorialNote>
+		<p> Amended by Annex 4 No 10 of the Customs Ordinance of 1 Nov. 2006, in force since 1 May 2007 (<ref href="https://fedlex.data.admin.ch/eli/oc/2007/250">AS <b>2007</b> 1469</ref>).</p>
+	</authorialNote></p></content></paragraph><paragraph eId="art_9_e/para_4"><num>4</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The licensing authority shall refuse a GIL or a GTL if the natural person or legal entity or its management bodies in the two years prior to filing an application have been convicted with full legal effect of an offence under the WMA, the Goods Control Act of 13 December 1996<authorialNote>
+		<p>  <ref fedlex:rs-uri="https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697" fedlex:rs="946.202" href="https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363">SR <b>946.202</b></ref></p>
+	</authorialNote> or the Weapons Act of 20 June 1997. It shall refuse a GIL if there are grounds for refusal under Article 24 WMA.</p></content></paragraph><paragraph eId="art_9_e/para_5"><num>5</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The GIL or the GTL shall in such cases be refused for a period of one year; where there is justification, this period may be reduced to six months. </p></content></paragraph></article></section><section eId="sec_4"><num>Section 4</num><heading>Import Certificates</heading><article eId="art_10"><num><b>Art. 10</b></num><heading>Import certificate</heading><paragraph eId="art_10/para_1"><num>1</num><content><blockList><listIntroduction eId="art_10/para_1/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> On written application from the importer, the State Secretariat for Economic Affairs (SECO) shall issue, in addition to the import licence, an official import certificate for the import of war materiel, provided:<authorialNote>
+		<p>  Amended by No I of the O of 21 Nov. 2001, in force since 1 March 2002 (<ref href="https://fedlex.data.admin.ch/eli/oc/2002/68">AS <b>2002</b> 312</ref>).</p>
+	</authorialNote></listIntroduction><item eId="art_10/para_1/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">this is expressly requested by the country supplying the war materiel; and</p></item><item eId="art_10/para_1/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b.<authorialNote>
+		<p>  Amended by No I of the O of 21 Nov. 2001, in force since 1 March 2002 (<ref href="https://fedlex.data.admin.ch/eli/oc/2002/68">AS <b>2002</b> 312</ref>).</p>
+	</authorialNote> </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the applicant is domiciled or resident in Switzerland or in Liechtenstein.</p></item></blockList></content></paragraph><paragraph eId="art_10/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> It may make the issuing of import certificates subject to the provision of proof regarding the intended import (copies of orders, etc.) and the end use of the war materiel.</p></content></paragraph><paragraph eId="art_10/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> It shall monitor the import of goods in respect of which it has issued such certificates.</p></content></paragraph></article><article eId="art_11"><num><b>Art. 11</b></num><heading>Requirements</heading><paragraph eId="art_11/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The importer must import the war materiel for which an import certificate has been issued within six months of the issue of the import certificate. This period may be extended in response to a justified written request.</p></content></paragraph><paragraph eId="art_11/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> He must prove to SECO that the import has taken place by providing the original customs documents and the relevant invoices from the supplier. Proof must be provided without delay following receipt of the original customs documents.<authorialNote>
+		<p> Amended by No I of the O of 30 March 2022, in force since 1 May 2022 (<ref href="https://fedlex.data.admin.ch/eli/oc/2022/227">AS <b>2022</b> 227</ref>).</p>
+	</authorialNote></p></content></paragraph></article><article eId="art_12"><num><b>Art. 12</b></num><heading>Unused or partially used import certificates</heading><paragraph eId="art_12/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> If war materiel in respect of which an import certificate has been issued is not imported into Switzerland, the import certificate must be returned to SECO.</p></content></paragraph><paragraph eId="art_12/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> If the import certificate cannot be retrieved from the foreign authority or if only part of the authorised war materiel has been imported, then the importer must notify SECO<authorialNote>
+		<p>  Title in accordance with Art. 21 No 4 of the O of 17 Nov. 1999, in force since 1 July 1999 (<ref href="https://fedlex.data.admin.ch/eli/oc/2000/34">AS <b>2000</b> 187</ref>). This amendment has been taken into account throughout this text.</p>
+	</authorialNote> of this in writing before the expiry of the period allowed for the import of the materiel.</p></content></paragraph></article></section><section eId="sec_5"><num>Section 5</num><heading>Licensing Procedure</heading><article eId="art_12_a"><num><b>Art. 12</b><i>a</i><authorialNote>
+		<p> Inserted by No III 1 of the O of 17 Sept. 2021, in force since 1 Nov. 2021 (<ref href="https://fedlex.data.admin.ch/eli/oc/2021/595">AS <b>2021</b> 595</ref>).</p>
+	</authorialNote></num><heading>Licensing requirements</heading><paragraph eId="art_12_a/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Licences shall only be granted to natural persons or legal entities who are resident or which have their seat or permanent establishment on Swiss customs territory or in a Swiss customs enclave. SECO may make exceptions in justified cases.</p></content></paragraph><paragraph eId="art_12_a/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> For a licence to be granted to a legal entity, proof of reliable internal control of compliance with the provisions of the war materiel legislation must be provided.</p></content></paragraph></article><article eId="art_13"><num><b>Art. 13</b></num><heading>Licensing authority</heading><paragraph eId="art_13/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The licensing authority is SECO, subject to the reservation of paragraphs 2 and 3.<authorialNote>
+		<p>  Amended by Art. 17 No 2 of the O of 13 Nov. 2024 on International Military Cooperation, in force since 1 Jan. 2025 (<ref href="https://fedlex.data.admin.ch/eli/oc/2024/685">AS <b>2024</b> 685</ref>).</p>
+	</authorialNote></p></content></paragraph><paragraph eId="art_13/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The responsibility for the transport of war materiel by foreign military units and their members on the ground is governed by the Ordinance of 13 November 2024<authorialNote>
+		<p>  <ref fedlex:rs-uri="https://fedlex.data.admin.ch/eli/cc/2024/685" fedlex:rs="510.81" href="https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7375">SR <b>510.81</b></ref></p>
+	</authorialNote> on International Military Cooperation<span>.</span><span><authorialNote>
+		<p> Amended by Art. 17 No 2 of the O of 13 Nov. 2024 on International Military Cooperation, in force since 1 Jan. 2025 (<ref href="https://fedlex.data.admin.ch/eli/oc/2024/685">AS <b>2024</b> 685</ref>).</p>
+	</authorialNote></span></p></content></paragraph><paragraph eId="art_13/para_2_bis"><num>2bis </num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">...<authorialNote>
+		<p>  Inserted by Art. 50 No 3 of the Weapons Ordinance of 21 Sept. 1998, in its version of 16 March 2001 (<ref href="https://fedlex.data.admin.ch/eli/oc/2001/146">AS <b>2001</b> 1009</ref>). Repealed by No I of the O of 21 Nov. 2001, with effect from 1 March 2002 (AS <b>2001 </b>312).</p>
+	</authorialNote></p></content></paragraph><paragraph eId="art_13/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The responsibility for the transit of military and other state aircraft is governed by the Ordinance of 23 March 2005<authorialNote>
+		<p> <ref fedlex:rs-uri="https://fedlex.data.admin.ch/eli/cc/2005/284" fedlex:rs="748.111.1" href="https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9036">SR <b>748.111.1</b></ref></p>
+	</authorialNote> on the Protection of Airspace Sovereignty.<authorialNote>
+		<p> Amended by No I of the O of 19 Aug. 2015, in force since 1 Oct. 2015 (<ref href="https://fedlex.data.admin.ch/eli/oc/2015/555">AS <b>2015</b> 2943</ref>).</p>
+	</authorialNote></p></content></paragraph></article><article eId="art_14"><num><b>Art. 14</b></num><heading>Procedure</heading><subheading fedlex:role="reference" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> (Art. 29 WMA)</subheading><paragraph eId="art_14/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> SECO shall decide on applications for the granting of an initial licence after consulting the Federal Intelligence Service (FIS).<authorialNote>
+		<p> Amended by Annex 4 No II 20 of the Ordinance of 4 Dec. 2009 on the Federal Intelligence Service, in force since 1 Jan. 2010 (<ref href="https://fedlex.data.admin.ch/eli/oc/2009/848">AS <b>2009</b> 6937</ref>).</p>
+	</authorialNote></p></content></paragraph><paragraph eId="art_14/para_2"><num>2</num><content><blockList><listIntroduction eId="art_14/para_2/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> In the case of the licensing of foreign transactions under Article 22 WMA and of entering into contract in terms of Article 20 WMA, SECO shall decide in consultation with the responsible offices of the Federal Department of Foreign Affairs (DFA). The decision of SECO shall also be taken in consultation with:<authorialNote>
+		<p> Amended by No I of the O of 19 Aug. 2015, in force since 1 Oct. 2015 (<ref href="https://fedlex.data.admin.ch/eli/oc/2015/555">AS <b>2015</b> 2943</ref>).</p>
+	</authorialNote></listIntroduction><item eId="art_14/para_2/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the responsible offices of the Federal Department of Defence, Civil Protection and Sport<authorialNote>
+		<p> Title in accordance with unpublished FCD dated 19 Dec. 1997.</p>
+	</authorialNote> in the case of security or procurement policy matters;</p></item><item eId="art_14/para_2/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the Federal Office for Energy in the case of nuclear related matters;</p></item><item eId="art_14/para_2/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c.<authorialNote>
+		<p> Inserted by No I of the O of 19 Aug. 2015, in force since 1 Oct. 2015 (<ref href="https://fedlex.data.admin.ch/eli/oc/2015/555">AS <b>2015</b> 2943</ref>).</p>
+	</authorialNote> </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the Federal Office of Civil Aviation and the responsible offices of the Federal Department of Defence, Civil Protection and Sport in the case of transit with civilian aircraft.</p></item></blockList></content></paragraph><paragraph eId="art_14/para_2_bis"><num>2bis</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> SECO shall consult the FIS in the case of significant licensing proceedings.<authorialNote>
+		<p> Inserted by No I of the O of 27 Aug. 2008 (<ref href="https://fedlex.data.admin.ch/eli/oc/2008/765">AS <b>2008</b> 5495</ref>). Amended by Annex 4 No II 20 of the Ordinance of 4 Dec. 2009 on the Federal Intelligence Service, in force since 1 Jan. 2010 (<ref href="https://fedlex.data.admin.ch/eli/oc/2009/848">AS <b>2009</b> 6937</ref>).</p>
+	</authorialNote></p></content></paragraph><paragraph eId="art_14/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The offices involved shall decide which applications are of major significance to foreign policy or security policy in accordance with Article 29 paragraph 2 WMA and must therefore be submitted to the Federal Council for decision.<authorialNote>
+		<p>  Amended by No I of the O of 21 Nov. 2001, in force since 1 March 2002 (<ref href="https://fedlex.data.admin.ch/eli/oc/2002/68">AS <b>2002</b> 312</ref>).</p>
+	</authorialNote> </p></content></paragraph><paragraph eId="art_14/para_4"><num>4</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> If the offices involved are unable to agree on the treatment of a request in terms of paragraphs 2 or 3, the application shall be submitted to the Federal Council for decision.</p></content></paragraph><paragraph eId="art_14/para_5"><num>5</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The offices involved may in cases of minor significance or where there are precedents for the decision waive the requirement of a joint decision and authorise SECO to take a decision alone.</p></content></paragraph></article><article eId="art_15"><num><b>Art. 15</b><authorialNote>
+		<p>  Amended by No I of the O of 21 Nov. 2001, in force since 1 March 2002 (<ref href="https://fedlex.data.admin.ch/eli/oc/2002/68">AS <b>2002</b> 312</ref>).</p>
+	</authorialNote></num><heading>Prohibition of assignment and term of validity</heading><paragraph eId="art_15/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Initial, general and specific licences may not be assigned.</p></content></paragraph><paragraph eId="art_15/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Import, export and transit licences are valid for two years and may be extended by a maximum of one year.<authorialNote>
+		<p> Amended by No I of the O of 29 Jan. 2025, in force since 1 March 2025 (<ref href="https://fedlex.data.admin.ch/eli/oc/2025/76">AS <b>2025</b> 76</ref>).</p>
+	</authorialNote></p></content></paragraph><paragraph eId="art_15/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> General import licences and general transit licences are valid for two years. If they have been issued on the basis of an initial licence, they cease to be valid on the expiry of the initial licence.</p></content></paragraph></article><article eId="art_16"><num><b>Art. 16</b><authorialNote>
+		<p> Amended by Annex 4 No 10 of the Customs Ordinance of 1 Nov. 2006, in force since 1 May 2007 (<ref href="https://fedlex.data.admin.ch/eli/oc/2007/250">AS <b>2007</b> 1469</ref>).</p>
+	</authorialNote></num><heading>Customs clearance</heading><paragraph eId="art_16/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Customs clearance for import, export and transit is governed by the provisions of the customs legislation.</p></content></paragraph><paragraph eId="art_16/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Any person or entity that imports or exports goods with a licence, or carries such goods in transit, must indicate the type of licence, issuing office and licence number in the customs declaration.<authorialNote>
+		<p> Inserted by No III 1 of the O of 17 Sept. 2021, in force since 1 Nov. 2021 (<ref href="https://fedlex.data.admin.ch/eli/oc/2021/595">AS <b>2021</b> 595</ref>).</p>
+	</authorialNote></p></content></paragraph></article></section><section eId="sec_6"><num>Section 6</num><heading>Controls and Administrative Measures</heading><article eId="art_17"><num><b>Art. 17</b></num><heading>Obligation to maintain records</heading><paragraph eId="art_17/para_1"><num>1</num><content><blockList><listIntroduction eId="art_17/para_1/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Records must be maintained on the manufacture, purchase, sale, or brokerage of or any other form of trade in war materiel, as well as contracts entered into in terms of Article 20 WMA. The records must at all times disclose:</listIntroduction><item eId="art_17/para_1/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the entries, exits and stocks of war materiel;</p></item><item eId="art_17/para_1/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the names and addresses of suppliers, purchasers and contractual parties;</p></item><item eId="art_17/para_1/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the data and subject matter of commercial transactions.</p></item></blockList></content></paragraph><paragraph eId="art_17/para_2"><num>2</num><content><blockList><listIntroduction eId="art_17/para_2/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The following documents must be available for inspection for a period of ten years in order to substantiate records:</listIntroduction><item eId="art_17/para_2/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">invoices from suppliers;</p></item><item eId="art_17/para_2/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">copies of invoices addressed to purchasers and contractual parties; where payment is made in cash, receipts for the goods signed by the purchasers;</p></item><item eId="art_17/para_2/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">contracts relating to transactions relating to intellectual property including know-how pertaining to war materiel;</p></item><item eId="art_17/para_2/lbl_d"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">d.<authorialNote>
+		<p> Inserted by Schedule 2 No 2 of the O of 21 Nov. 2012, in force since 1 Jan. 2013  (<ref href="https://fedlex.data.admin.ch/eli/oc/2012/820">AS <b>2012</b> 6781</ref>).</p>
+	</authorialNote> </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">transport documents with details of the transit states.</p></item></blockList></content></paragraph></article><article eId="art_18"><num><b>Art. 18</b></num><heading>Duty of diligence</heading><paragraph eId="art_18/para"><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A person required to maintain records must, prior to handing over materiel or transferring intellectual property including know-how, ascertain by means of official identity documents the personal details and address of the purchaser or contractual party, if these are not already known to him.</p></content></paragraph></article><article eId="art_19"><num><b>Art. 19</b></num><heading>Controls</heading><paragraph eId="art_19/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> SECO carries out the controls.</p></content></paragraph><paragraph eId="art_19/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Controls at the border are the responsibility of the FOCBS.<authorialNote>
+		<p> Amended by No I of the O of 27 Aug. 2008, in force since 12 Dec. 2008 (<ref href="https://fedlex.data.admin.ch/eli/oc/2008/765">AS <b>2008</b> 5495</ref>).</p>
+	</authorialNote></p></content></paragraph></article><article eId="art_20"><num><b>Art. 20</b><authorialNote>
+		<p> Amended by Annex No 19 of the O of 12 Dec. 2008, in force since 1 Jan. 2009  (<ref href="https://fedlex.data.admin.ch/eli/oc/2008/858">AS <b>2008</b> 6305</ref>).</p>
+	</authorialNote></num><heading>Examination by the Central Office for the Combating the Illegal Trade in War Materiel</heading><paragraph eId="art_20/para"><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">The Central Office for Combating the Illegal Trade in War Materiel must in particular examine whether supplies of war materiel have arrived at the planned and approved destinations.</p></content></paragraph></article><article eId="art_21"><num><b>Art. 21</b><authorialNote>
+		<p>  Amended by No I of the O of 21 Nov. 2001, in force since 1 March 2002 (<ref href="https://fedlex.data.admin.ch/eli/oc/2002/68">AS <b>2002</b> 312</ref>).</p>
+	</authorialNote></num><heading>Administrative measures</heading><paragraph eId="art_21/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> General import and general transit licences may be revoked if exceptional circumstances so require. They shall be revoked if, following their granting, circumstances have changed to the extent that the requirements for refusal under Article 9<i>e</i> paragraph 4 are fulfilled.</p></content></paragraph><paragraph eId="art_21/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> If anyone fails to comply with the conditions or requirements attached to licences and import certificates, or regulations and orders the based on the legislation on war materiel, the licensing authority may revoke the licence that has been granted to him, or may refuse to extend or renew the licence, or to granted further licences or import certificates for a certain period of time.</p></content></paragraph></article></section><section eId="sec_7"><num>Section 7 </num><heading>Fees</heading><article eId="art_22"><num><b>Art. 22</b></num><heading>Fees</heading><subheading fedlex:role="reference" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> (Art. 31 WMA)</subheading><paragraph eId="art_22/para_1"><num>1</num><content><blockList><listIntroduction eId="art_22/para_1/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The licence fees are as follows:</listIntroduction><item eId="art_22/para_1/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">for first issue of an initial licence, 500 francs;</p></item><item eId="art_22/para_1/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">for the subsequent amendment, modification or reissue of an initial licence, 250 francs;</p></item><item eId="art_22/para_1/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">for import and export licences: 0.8 per cent of the value of the goods, but with the minimum fee being 50 francs and the maximum 5000 francs;</p></item><item eId="art_22/para_1/lbl_d"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">d.<authorialNote>
+		<p>  Amended by No I of the O of 21 Nov. 2001, in force since 1 March 2002 (<ref href="https://fedlex.data.admin.ch/eli/oc/2002/68">AS <b>2002</b> 312</ref>).</p>
+	</authorialNote> </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">for brokerage, trading, general import and general transit licences as well as licences for contracts under Article 20 WMA: 200 francs;</p></item><item eId="art_22/para_1/lbl_e"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">e.<authorialNote>
+		<p>  Repealed by No I of the O of 21 Nov. 2001, with effect from 1 March 2002  (<ref href="https://fedlex.data.admin.ch/eli/oc/2002/68">AS <b>2002</b> 312</ref>).</p>
+	</authorialNote> </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">...</p></item><item eId="art_22/para_1/lbl_f"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">f.<authorialNote>
+		<p>  Inserted by No I of the O of 21 Nov. 2001, in force since 1 March 2002 (<ref href="https://fedlex.data.admin.ch/eli/oc/2002/68">AS <b>2002</b> 312</ref>).</p>
+	</authorialNote> </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">for specific transit licences: 100 francs.</p></item></blockList></content></paragraph><paragraph eId="art_22/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The fees in terms of paragraph 1 letters a, b, d and f may, if exceptional costs are incurred in the granting of a licence, be increased by a maximum of one half of the stipulated fee.<authorialNote>
+		<p>  Amended by No I of the O of 21 Nov. 2001, in force since 1 March 2002 (<ref href="https://fedlex.data.admin.ch/eli/oc/2002/68">AS <b>2002</b> 312</ref>).</p>
+	</authorialNote></p></content></paragraph><paragraph eId="art_22/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> If import or export licences are not or are only partially used, or if the licensed goods are returned, application may be made for the excess fee to be refunded, under deduction of the administrative costs. The application must be made at the latest three years following issue of the licence.</p></content></paragraph><paragraph eId="art_22/para_4"><num>4</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> No fees are charged for import and export licences for war materiel that is intended for the Swiss Armed Forces, the FOCBS, for Swiss and Liechtenstein police forces or for international organisations or their offices in Switzerland.<authorialNote>
+		<p>  Amended by No I of the O of 21 Nov. 2001, in force since 1 March 2002 (<ref href="https://fedlex.data.admin.ch/eli/oc/2002/68">AS <b>2002</b> 312</ref>).</p>
+	</authorialNote></p></content></paragraph><paragraph eId="art_22/para_5"><num>5</num><content><blockList><listIntroduction eId="art_22/para_5/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> No fees are charged for transit licences for:</listIntroduction><item eId="art_22/para_5/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a.<authorialNote>
+		<p> Amended by No I of the O of 27 Aug. 2008, in force since 12 Dec. 2008 (<ref href="https://fedlex.data.admin.ch/eli/oc/2008/765">AS <b>2008</b> 5495</ref>).</p>
+	</authorialNote> </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">firearms, and the ammunition pertaining thereto that are carried in transit by marksmen or hunters, provided they produce credible evidence that they are to be used for participating in a third country in a shooting competition, in shooting or other training or in a hunt; </p></item><item eId="art_22/para_5/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">war materiel that must be carried in transit through Switzerland in the course of police-type or judicial investigation proceedings in third countries; </p></item><item eId="art_22/para_5/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c.<authorialNote>
+		<p> Repealed by No I of the O of 27 Aug. 2008, with effect from 12 Dec. 2008 (<ref href="https://fedlex.data.admin.ch/eli/oc/2008/765">AS <b>2008</b> 5495</ref>).</p>
+	</authorialNote> </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">...<authorialNote>
+		<p> Inserted by No I of the O of 21 Nov. 2001, in force since 1 March 2002 (<ref href="https://fedlex.data.admin.ch/eli/oc/2002/68">AS <b>2002</b> 312</ref>).</p>
+	</authorialNote></p></item></blockList></content></paragraph><paragraph eId="art_22/para_6"><num>6</num><content><blockList><listIntroduction eId="art_22/para_6/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> No fees are charged for:</listIntroduction><item eId="art_22/para_6/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the rejection of licensing applications, or the suspension and recall of licences;</p></item><item eId="art_22/para_6/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the extension of licences;</p></item><item eId="art_22/para_6/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">controls as under Article 19;</p></item><item eId="art_22/para_6/lbl_d"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">d. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">services, in particular responding to enquiries, company visits and information events.<authorialNote>
+		<p> Inserted by No I of the O of 16 June 2006, in force since 1 Aug. 2006 (<ref href="https://fedlex.data.admin.ch/eli/oc/2006/407">AS <b>2006</b> 2671</ref>).</p>
+	</authorialNote></p></item></blockList></content></paragraph><paragraph eId="art_22/para_7"><num>7</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> In addition, the provisions of the General Fees Ordinance of 8 September 2004<authorialNote>
+		<p> <ref fedlex:rs-uri="https://fedlex.data.admin.ch/eli/cc/2004/677" fedlex:rs="172.041.1" href="https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068">SR <b>172.041.1</b></ref></p>
+	</authorialNote> apply.<authorialNote>
+		<p> Inserted by No I of the O of 16 June 2006, in force since 1 Aug. 2006 (<ref href="https://fedlex.data.admin.ch/eli/oc/2006/407">AS <b>2006</b> 2671</ref>).</p>
+	</authorialNote></p></content></paragraph></article></section><section eId="sec_8"><num>Section 8</num><heading>Final Provisions</heading><article eId="art_23"><num><b>Art. 23</b></num><heading>Implementation</heading><paragraph eId="art_23/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> SECO shall implement this Ordinance.</p></content></paragraph><paragraph eId="art_23/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Information on the legislation on war materiel may be obtained from SECO.</p></content></paragraph></article><article eId="art_24"><num><b>Art. 24</b></num><heading>Repeal of current legislation</heading><paragraph eId="art_24/para"><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">The Ordinance of 10 January 1973<authorialNote>
+		<p> [<ref href="https://fedlex.data.admin.ch/eli/oc/1973/116_114_120">AS <b>1973</b> 116</ref>, <ref href="https://fedlex.data.admin.ch/eli/oc/1978/199_199_199"><b>1978</b> 199</ref>, <ref href="https://fedlex.data.admin.ch/eli/oc/1980/536_536_536"><b>1980</b> 536 </ref>Art. 91, <ref href="https://fedlex.data.admin.ch/eli/oc/1987/791_791_791"><b>1987</b> 791</ref>, <ref href="https://fedlex.data.admin.ch/eli/oc/1992/2497_2497_2497"><b>1992</b> 2497</ref>, <ref href="https://fedlex.data.admin.ch/eli/oc/1996/1035_1035_1035"><b>1996</b> 1035 </ref>No II,  <ref href="https://fedlex.data.admin.ch/eli/oc/1997/17_17_17"><b>1997</b> 17 </ref>Art. 38 No 2]</p>
+	</authorialNote> on War Materiel is repealed.</p></content></paragraph></article><article eId="art_24_a"><num><b>Art. 24</b><i>a</i><authorialNote>
+		<p> Inserted by No I of the O of 19 Sept. 2014, in force since 1 Nov. 2014 (<ref href="https://fedlex.data.admin.ch/eli/oc/2014/515">AS <b>2014</b> 3045</ref>).</p>
+	</authorialNote></num><heading>Transitional provision to the amendment of 19 September 2014</heading><paragraph eId="art_24_a/para"><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Applications that are pending when the amendments of 19 September 2014 come into force are dealt with under the new law.</p></content></paragraph></article><article eId="art_24_b"><num><b>Art. 24</b><i>b</i><authorialNote>
+		<p> Inserted by No I of the O of 30 March 2022, in force since 1 May 2022 (<ref href="https://fedlex.data.admin.ch/eli/oc/2022/227">AS <b>2022</b> 227</ref>).</p>
+	</authorialNote></num><heading>Transitional provision to the amendment of 30 March 2022</heading><paragraph eId="art_24_b/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Applications that are pending when the amendments of 30 March 2022 come into force are dealt with under the previous law<span>.</span></p></content></paragraph><paragraph eId="art_24_b/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The extension of export licences<span> that were granted before the </span>amendments of 30 March 2022 come into force is dealt with under the previous law<span>.</span></p></content></paragraph><paragraph eId="art_24_b/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> A new application for a licence must be submitted for war materiel whose export was licensed <span>before the </span>amendments of 30 March 2022 come into force<span> and which could not be exported or could not be exported in full within the period of validity of the licence or its extension. The new application shall be dealt with under the previous law.</span></p></content></paragraph></article><article eId="art_25"><num><b>Art. 25</b></num><heading>...</heading><paragraph eId="art_25/para_1_2"><num>1 and<sup> 2 </sup></num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">...<authorialNote>
+		<p>  Repealed by No I of the O of 21 Nov. 2001, with effect from 1 March 2002 (<ref href="https://fedlex.data.admin.ch/eli/oc/2002/68">AS <b>2002</b> 312</ref>).</p>
+	</authorialNote></p></content></paragraph><paragraph eId="art_25/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> ...<authorialNote>
+		<p>  Inserted by No I of the Ordinance on War Materiel of Nov. 2001 (<ref href="https://fedlex.data.admin.ch/eli/oc/2002/68">AS <b>2002</b> 312</ref>). Repealed by No IV 14 of the O of 22 Aug. 2007 on the formal revision of the FA, with effect from 1 Jan. 2008 (<ref href="https://fedlex.data.admin.ch/eli/oc/2007/633">AS <b>2007 </b>4477</ref>).</p>
+	</authorialNote></p></content></paragraph></article><article eId="art_26"><num><b>Art. 26</b></num><heading>Commencement</heading><paragraph eId="art_26/para"><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">This Ordinance comes into force on 1 April 1998.</p></content></paragraph></article></section></body><components><component><doc name="annex"><meta><identification source="#ch.bk"><FRBRWork><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/1998/808_808_808/20260701/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/1998/808_808_808/20260701"/><FRBRdate date="2026-07-01" name="jolux:dateApplicability"/><FRBRdate date="1998-02-25" name="jolux:dateDocument"/><FRBRdate date="1998-04-01" name="jolux:dateEntryInForce"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRcountry value="CH"/><FRBRnumber value="514.511"/><FRBRname xml:lang="de" value="Verordnung vom 25. Februar 1998 über das Kriegsmaterial (Kriegsmaterialverordnung, KMV)" shortForm="KMV"/><FRBRname xml:lang="it" value="Ordinanza del 25 febbraio 1998 concernente il materiale bellico (Ordinanza sul materiale bellico, OMB)" shortForm="OMB"/><FRBRname xml:lang="fr" value="Ordonnance du 25 février 1998 sur le matériel de guerre (OMG)" shortForm="OMG"/><FRBRname xml:lang="en" value="Ordinance of 25 February 1998  on War Material (War Material Ordinance, WMO)" shortForm="WMO"/><FRBRauthoritative value="true"/></FRBRWork><FRBRExpression><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/1998/808_808_808/20260701/en/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/1998/808_808_808/20260701/en"/><FRBRdate date="2026-07-01" name="jolux:dateApplicability"/><FRBRdate date="1998-02-25" name="jolux:dateDocument"/><FRBRdate date="1998-04-01" name="jolux:dateEntryInForce"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRlanguage language="en"/></FRBRExpression><FRBRManifestation><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/1998/808_808_808/20260701/en/xml/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/1998/808_808_808/20260701/en/xml"/><FRBRdate date="2026-07-01" name="jolux:dateApplicability"/><FRBRdate date="1998-02-25" name="jolux:dateDocument"/><FRBRdate date="1998-04-01" name="jolux:dateEntryInForce"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRformat value="xml"/></FRBRManifestation></identification></meta><preface><container name="headerOfAnnex"><block name="heading">Annex 1<inline name="man-font-style-normal"><authorialNote>
+		<p>  Revised in accordance with No I of the O of 25 Aug. 1999 (<ref href="https://fedlex.data.admin.ch/eli/oc/1999/376">AS <b>1999</b> 2454</ref>) and II of the O of 21 Nov. 2001, in force since 1 March 2002 (<ref href="https://fedlex.data.admin.ch/eli/oc/2002/68">AS <b>2002 </b>312</ref>).</p>
+	</authorialNote></inline></block></container></preface><mainBody><p>(Art. 2)</p><level eId="annex_1/lvl_u1"><heading>List of War Materiel</heading><intro><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Note:<br/>The goods listed as the Annex to the War Materiel Ordinance originate from the «Munitions List» (ML) in the Wassenaar Arrangement. The numbers allocated to the individual items correspond to those in the ML. Any goods that are not listed below, but which are contained in the ML are deemed to be «special military goods» and are subject to the provisions of the Goods Control Act of 13 December 1996 (SR <b>946.202</b>).</p></intro><level eId="annex_1/lvl_u1/lvl_u1"><heading>Table of Contents</heading><content><table border="1">
+			
+			
+			<tr>
+				
+				
+				<th xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">
+					
+					<p>Item</p>
+				</th>
+				<th colspan="2" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">
+					
+					<p>Description of goods</p>
+				</th>
+			</tr>
+			<tr>
+				
+				
+				<th colspan="3" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">
+					
+					
+				</th>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 1</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Hand guns and small arms of any calibre</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 2</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Weapons of any calibre (but excluding hand guns and small arms controlled by ML 1)</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 3</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Ammunition for the weapons controlled by ML 1, 2 or 12 </p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 4</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Bombs, torpedoes, rockets, and missiles</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 5</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Fire control equipment</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 6</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Armoured vehicles and other ground vehicles</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 7</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Tear gases and other irritants</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 8</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Military explosives, combustible substances and fuels</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 9</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Vessels of war </p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 10</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Manned and unmanned aircraft including aero-engines</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 11</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Electronic equipment</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 12</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">High velocity kinetic energy weapons systems </p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 13</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Special armoured or protective equipment</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 14</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">(Contains no war materiel; listed in order that numbering corresponds to ML)</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 15</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">(Contains no war materiel; listed in order that numbering corresponds to ML)</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 16</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Forgings, castings and other unfinished products</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 17</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Miscellaneous equipment (robots, etc.)</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 18</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">(Contains no war materiel; listed in order that numbering corresponds to ML)</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 19</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Directed energy weapons systems (e.g. laser systems)</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 20</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Cryogenic (low temperature) and superconductive equipment</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 21</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Software</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 22</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">(Contains no war materiel; listed in order that numbering corresponds to ML)</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					
+				</td>
+				<td colspan="2">
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					
+				</td>
+				<td colspan="2">
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 1</p>
+				</td>
+				<td><blockList><listIntroduction eId="annex_1/lvl_u1/lvl_u1" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Hand guns and small arms of any calibre and accessories and specially designed components therefor, but not including:</listIntroduction><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Clearly recognisable hunting and sports weapons (e.g. as per ISSF standard) that cannot also be used as military weapons in the same form;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Single-shot firearms and muzzle-loading firearms;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Small arms and repeating rifles for rimfire ammunition;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">d. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Antique weapons for which usable ammunition is no longer produced or which are no longer available on the public market.</p></item></blockList><blockList><listIntroduction eId="annex_1/lvl_u1/lvl_u1" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Note:<br/>ML 1.d. also controls the following weapons:</listIntroduction><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">1.  </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Muskets, rifles and carbines manufactured before 1890 , and their reproductions;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">2.  </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Revolvers, pistols and machine guns manufactured before 1890 , and their reproductions.</p></item></blockList><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 1.a. to ML 1.d. also control weapons specially designed to fire dummy ammunition, which cannot fire ammunition controlled by ML 3.</p></td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					
+				</td>
+				<td colspan="2">
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 2</p>
+				</td>
+				<td colspan="2"><blockList><listIntroduction eId="annex_1/lvl_u1/lvl_u1" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Weapons and armaments of any calibre (but not including handguns and small arms controlled by ML 1), projectors and accessories as follows, and specially designed components therefor:</listIntroduction><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Guns, howitzers, cannon, mortars, anti-tank weapons, projectile launchers, military flame throwers and recoilless weapons;</p></item></blockList><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Note:<br/>ML 2.a. includes injectors, metering devices, storage tanks and specially designed components for use with liquid propelling charges for any of the equipment controlled by ML 2.a.</p><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Military smoke and gas projectors, military pyrotechnic projectors or generators.</p></item></blockList><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Note:<br/>ML 2.b. does not control signal pistols.</p></td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					
+				</td>
+				<td colspan="2">
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 3</p>
+				</td>
+				<td colspan="2"><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Ammunition for weapons controlled by ML 1, ML 2 or ML 12 as well as specially designed components therefor</p><blockList><listIntroduction eId="annex_1/lvl_u1/lvl_u1" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Notes:</listIntroduction><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">1. </num><blockList><listIntroduction eId="annex_1/lvl_u1/lvl_u1" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Specially designed components include:</listIntroduction><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Metal or plastic components, e.g. primer anvils, bullet cups, cartridge links, rotating bands and other metal munitions parts;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Safing and arming devices, fuses, sensors and initiation devices;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Power supplies with high one-time operational output;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">d. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Combustible cases for propelling charges;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">e. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Submunitions including bomblets, minelets and terminally guided projectiles.</p></item></blockList></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">2. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 3 does not control ammunition without a projectile (blank star) and dummy ammunition with a pierced powder chamber.</p></item></blockList></td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					
+				</td>
+				<td colspan="2">
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 4</p>
+				</td>
+				<td colspan="2"><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Bombs, torpedoes, rockets, missiles and related equipment and accessories as follows, specially designed for military use, and specially designed components therefor:</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Bombs, torpedoes, grenades, smoke canisters, rockets, mines, missiles, depth charges, demolition charges and accessories, military pyrotechnics, flares and manoeuvre ammunition (i.e. equipment, simulating the characteristics of any of the items controlled by ML 4).</p><blockList><listIntroduction eId="annex_1/lvl_u1/lvl_u1" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Note:<br/>ML 4 includes:</listIntroduction><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">1. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Smoke grenades, fire bombs, incendiary munitions and explosive devices;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">2. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Missiles rocket nozzles and nose-tips for re-entry vehicles.</p></item></blockList></td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					
+				</td>
+				<td colspan="2">
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 5</p>
+				</td>
+				<td colspan="2"><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Fire control equipment specially designed for military use, as follows, as well as specially designed components and accessories therefor</p><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">weapons sights, bombing computers, gun laying equipment and weapon control systems;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">target acquisition, designation, range-finding, surveillance or tracking systems; detection or data merger devices (data merger) and sensor integration equipment.</p></item></blockList></td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					
+				</td>
+				<td colspan="2">
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 6</p>
+				</td>
+				<td colspan="2"><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Armoured and other ground vehicles, and components therefor, specially designed or modified for military use </p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Technical note:<br/>The term «ground vehicles» in ML 6 also includes specially equipped trailers.</p><blockList><listIntroduction eId="annex_1/lvl_u1/lvl_u1" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Remarks:</listIntroduction><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">1. </num><blockList><listIntroduction eId="annex_1/lvl_u1/lvl_u1" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 6 includes:</listIntroduction><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Armoured vehicles, with or without weapons, specifically designed or modified for military use (also includes armoured recovery vehicles);</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Other vehicles of any type that are specifically designed or modified for using weapons (e.g. combat vehicles, armed or unarmed, equipped with mountings for arms or equipment for mine laying or for the launching of munitions controlled under ML 4);</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Tracked vehicles that are specifically designed or modified for military use.</p></item></blockList></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">2. </num><blockList><listIntroduction eId="annex_1/lvl_u1/lvl_u1" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">The design or modification of the abovementioned ground vehicles for military use may entail a structural, electrical or mechanical modification, involving one or more specially designed components. Such components include:</listIntroduction><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Pneumatic tyre casings designed to be bullet-proof or to run when deflated;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Tyre inflation pressure control systems that can be operated from within a moving vehicle;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">armoured protection of vital parts (e.g. fuel tanks or vehicle cabins);</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">d. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">special reinforcements for the mounting of weapons.</p></item></blockList></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">3. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 6 does not control civilian automobiles or trucks designed or modified for transporting money or valuables that have armoured or ballistic protection.</p></item></blockList></td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					
+				</td>
+				<td colspan="2">
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 7</p>
+				</td>
+				<td colspan="2"><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Tear gases and other «riot control» agents:</p><p>1. CA: bromobenzyl cyanide (CAS-No. 5798-79-8);</p><p>2. CS: o- chlorobenzylidenemalononitrile (CAS-No. 2698-41-1);</p><p>3. CN: ω-chloroacetophenone (CAS-No. 532-27-4);</p><p>4. CR: Dibenz-b,f)1,4-oxazephine-b,f)1,4-oxazephine-(b,f)-1,4-oxazephine-(b,f)-1,4-oxazephine (CAS-No. 257-07-8).</p><blockList><listIntroduction eId="annex_1/lvl_u1/lvl_u1">Remarks:</listIntroduction><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">1. </num><blockList><listIntroduction eId="annex_1/lvl_u1/lvl_u1" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">The following are not controlled:</listIntroduction><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ethyl bromoacetate;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">xylyl bromide;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">benzyl bromide;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">d. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">benzyl iodide;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">e. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">bromo acetone;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">f. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">cyanogen bromide;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">g. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">bromo methylethylketone;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">h. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">chloro acetone;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">i. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ethyl iodoacetate;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">j. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">iodo acetone.</p></item></blockList></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">2. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Individually packaged tear gases or other irritants for personal self-defence purposes are not controlled.</p></item></blockList></td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					
+				</td>
+				<td colspan="2">
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 8</p>
+				</td>
+				<td><blockList><listIntroduction eId="annex_1/lvl_u1/lvl_u1" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Military explosives and combustible agents, including fuels:</listIntroduction><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><blockList><listIntroduction eId="annex_1/lvl_u1/lvl_u1" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Explosives and fuels that fulfil the following performance parameters:</listIntroduction><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">1. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Explosives with a detonation velocity exceeding 8700 m/s or a detonation pressure exceeding 34 GPa (340 kbar);</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">2. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Organic explosives yielding a detonation pressure of 25 GPa (250 kbar) or more that will remain stable at temperatures of 250°C (523 K) or higher for periods of 5 min or longer;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">3. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Solid propellants in UN Class 1.1 with a theoretical specific impulse (under standard conditions) of more than 250 seconds for non-metalised, or more than 270 seconds for aluminised compositions;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">4. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Solid propellants in UN Class 1.3 with a theoretical specific impulse of more than 230 seconds for non-halogenised, 250 seconds for non-metalised, and 266 seconds for metalised compositions;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">5. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Propellent powder with a force constant exceeding 1200 kJ/kg;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">6. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Explosives, fuels or pyrotechnics that can sustain a steady-state linear burning rate of more than 38 mm/s at 6.89 MPa (68,9 bar) pressure and 21°C (294 K); or</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">7. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Elastomer modified cast double base propellants (EMCDB) with an extensibility at maximum stress of more than 5% at -40 °C (233 K);</p></item></blockList></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Military pyrotechnics;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><blockList><listIntroduction eId="annex_1/lvl_u1/lvl_u1" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Other substances as follows:</listIntroduction><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">1. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Aircraft fuels specially designed for military use;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">2. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Military materials containing thickeners for hydrocarbon fuels specially developed for use in flame throwers or incendiary munitions, such as metal stearates or palmates (octal) (CAS-No. 637-12-7) and M1, M2, and M3 thickeners;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">3. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Liquid oxidisers comprised of or containing inhibited red fuming nitric acid (IRFNA) or oxygen difluoride.</p></item></blockList></item></blockList><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Note:<br/>Aircraft fuels that are controlled by ML 8.c.1. are finished products and not their constituents.</p></td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					
+				</td>
+				<td colspan="2">
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 9</p>
+				</td>
+				<td colspan="2"><blockList><listIntroduction eId="annex_1/lvl_u1/lvl_u1" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Vessels of war and accessories as follows as well as components therefor, specially designed for military use:</listIntroduction><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Combatant vessels or vessels (surface or underwater) specially designed or modified for offensive or defensive action, whether or not converted for non-military use, and regardless of current state of repair or operating condition or whether or not they contain weapons delivery systems or armour, as well as hulls or parts of hulls for such vessels;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><blockList><listIntroduction eId="annex_1/lvl_u1/lvl_u1" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Engines as follows:</listIntroduction><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">1. </num><blockList><listIntroduction eId="annex_1/lvl_u1/lvl_u1" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Diesel engines specially designed for submarines, with both of the following characteristics:</listIntroduction><item><num>a. </num><p>power output of 1.12 MW (1500 PS) or more; and</p></item><item><num>b. </num><p>rotary speed of 700 rpm or more;</p></item></blockList></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">2. </num><blockList><listIntroduction eId="annex_1/lvl_u1/lvl_u1" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Electric motors specially designed for submarines, with all of the following characteristics:</listIntroduction><item><num>a. </num><p>power output of more than 0.75 MW (1000 PS);</p></item><item><num>b. </num><p>quick reversing;</p></item><item><num>c. </num><p>liquid cooled; and </p></item><item><num>d. </num><p>totally enclosed;</p></item></blockList></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">3. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Non-magnetic diesel engines with a power output of  37.3 kW (50 PS) or more and with a non-magnetic content of more than 75% of the total mass.</p></item></blockList></item></blockList></td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 10</p>
+				</td>
+				<td colspan="2"><blockList><listIntroduction eId="annex_1/lvl_u1/lvl_u1" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Aircraft, unmanned aircraft, aero-engines, aircraft equipment, related equipment and components, specially designed or modified for military use, as follows:</listIntroduction><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Combat aircraft and helicopters and specially designed components therefor;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Other aircraft, specially designed or modified for military use;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Aero-engines for aircraft under letters a and b above and specially designed components therefor;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">d. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Unmanned aircraft including remotely piloted air vehicles (RPVs) and autonomous, programmable vehicles, specially designed or modified for military use, as well as their launchers, ground support equipment and related equipment for command and control.</p></item></blockList><blockList><listIntroduction eId="annex_1/lvl_u1/lvl_u1" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Notes:</listIntroduction><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">1.  </num><blockList><listIntroduction eId="annex_1/lvl_u1/lvl_u1" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 10.b. does not control aircraft or variants of such aircraft that are specially designed for military use that:</listIntroduction><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">are not configured for military use and are not fitted with technical equipment or attachments that are specially designed or modified for military use; and</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">have been certified for civil use by a civil aviation authority in a participating state.</p></item></blockList></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">2.  </num><blockList><listIntroduction eId="annex_1/lvl_u1/lvl_u1" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 10.c. does not control:</listIntroduction><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Aero-engines designed or modified for military use that have been certified by the civil aviation authority of a participating state for use in civil aircraft, as well as specially designed components therefor;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">reciprocating engines or specially designed components therefor.</p></item></blockList></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">3. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">The control in ML 10.b. and ML 10.c. on specially designed components and related equipment for non-military aircraft or aero-engines modified for military use applies only to those military components and related military equipment required for the modification for military use.</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">4. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 10.d does not include reconnaissance drones.</p></item></blockList></td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					
+				</td>
+				<td colspan="2">
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 11</p>
+				</td>
+				<td colspan="2"><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Electronic equipment specially designed for military use not controlled elsewhere in this list, and specially designed components therefor</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Note:</p><blockList><listIntroduction eId="annex_1/lvl_u1/lvl_u1">ML 11 includes the following:</listIntroduction><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Equipment for electronic countermeasures (ECM) and electronic counter-countermeasure equipment (ECCM), including electronic jamming and counter-jamming equipment, i.e. equipment designed to introduce extraneous signals or erroneous signals into radar or radio communication receivers or otherwise hinder the reception, operation or effectiveness of adversary receivers including their countermeasures equipment;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Equipment for underwater countermeasures including acoustic and magnetic jamming and decoy that introduce extraneous signals or erroneous signals into sonar receivers.</p></item></blockList></td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					
+				</td>
+				<td colspan="2">
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 12</p>
+				</td>
+				<td colspan="2"><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">High velocity kinetic energy weapon systems as follows, as well as specially designed components therefor:</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Kinetic energy weapon systems specially designed for the destruction or defence against (mission abort) of a target.</p><blockList><listIntroduction eId="annex_1/lvl_u1/lvl_u1" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Notes:</listIntroduction><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">1. </num><blockList><listIntroduction eId="annex_1/lvl_u1/lvl_u1" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 12 includes the following when specially designed for kinetic energy weapons systems:</listIntroduction><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Launch propulsion systems capable of accelerating masses larger than 1 g to velocities in excess of 1.6 km/s in single rapid fire modes;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Prime power, electric armour, energy storage, thermal management, conditioning, switching or fuel handling equipment, electrical interfaces between power supply, gun and other tower electric drive functions;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">target acquisition, tracking, fire control or damage assessment systems;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">d. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">homing seeker, guidance or divert propulsion (lateral acceleration) systems for projectiles.</p></item></blockList></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">2. </num><blockList><listIntroduction eId="annex_1/lvl_u1/lvl_u1" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 12 controls systems using any of the following methods of propulsion:</listIntroduction><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">electromagnetic;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">electrothermal;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">plasma;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">d. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">light gas; or</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">e. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">chemical (when used in combination with any of the above).</p></item></blockList></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">3. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 12 does not control the technology for magnetic induction in the permanent propulsion of civil transport systems.</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">4. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Weapons that use sub-calibre ammunition or work solely by chemical propulsion, and ammunition therefor: see ML 1, ML 2, ML 3 and ML 4.</p></item></blockList></td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					
+				</td>
+				<td colspan="2">
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 13</p>
+				</td>
+				<td colspan="2"><blockList><listIntroduction eId="annex_1/lvl_u1/lvl_u1" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Special armoured or protective equipment and constructions and components, as follows:</listIntroduction><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><blockList><listIntroduction eId="annex_1/lvl_u1/lvl_u1" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Armoured plate as follows:</listIntroduction><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">1. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">manufactured to comply with military standard or specification; or</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">2. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">suitable for military use;</p></item></blockList></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Constructions of metallic and non-metallic materials or combinations thereof specially designed to provide ballistic protection for military systems.</p></item></blockList><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Note:<br/>ML 13.b. includes materials specially designed to form explosive reactive armour or to construct military shelters.</p></td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					
+				</td>
+				<td colspan="2">
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 14</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">(Contains no war materiel; listed in order that numbering corresponds to ML)</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					
+				</td>
+				<td colspan="2">
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 15</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">(Contains no war materiel; listed in order that numbering corresponds to ML)</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					
+				</td>
+				<td colspan="2">
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 16</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Forgings, castings and other unfinished products the use of which in a controlled product is identifiable by material composition, geometry or function, and which are specially designed for any products controlled by ML 1, ML 2, ML 3, ML 4, ML 6, ML 9, ML 10, ML 12 or ML 19</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					
+				</td>
+				<td colspan="2">
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 17</p>
+				</td>
+				<td colspan="2"><blockList><listIntroduction eId="annex_1/lvl_u1/lvl_u1" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Miscellaneous equipment, materials and libraries, as follows, and specially designed components therefor:</listIntroduction><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Robots, robot controllers and robot-end-effectors specially designed for Military use;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Libraries (parametric technical databases) specially designed for military use with equipment controlled by this list;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Nuclear power generating equipment or propulsion equipment including nuclear reactors, specially designed for military use, and components therefore specially designed or modified for military use.</p></item></blockList><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Technical Note:<br/>For the purpose of ML 17, the term «library» (parametric technical database) means a collection of technical information of a military nature, reference to which may enhance the performance of military equipment or systems.</p></td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					
+				</td>
+				<td colspan="2">
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 18</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">(Contains no war materiel; listed in order that numbering corresponds to ML)</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					
+				</td>
+				<td colspan="2">
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 19</p>
+				</td>
+				<td colspan="2"><blockList><listIntroduction eId="annex_1/lvl_u1/lvl_u1" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Directed energy weapon systems as follows and specially designed components therefor:</listIntroduction><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Laser systems specially designed for the destruction or defence against (mission abort) of a target;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Particle beam systems capable of the destruction or defence against (mission abort) of a target;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">High power radio-frequency systems capable of the destruction or defence against (mission abort) of a target.</p></item></blockList><blockList><listIntroduction eId="annex_1/lvl_u1/lvl_u1" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Notes:</listIntroduction><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">1. </num><blockList><listIntroduction eId="annex_1/lvl_u1/lvl_u1" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Directed energy weapon systems controlled by ML 19 include systems whose capability is derived from the controlled application of: </listIntroduction><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">lasers with sufficient continuous wave or pulsed power to effect destruction comparable with that of conventional ammunition;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">particle accelerators that project a charged or neutral particle beam with destructive power;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">radio frequency beam transmitters with high pulsed power or high average power that produce fields sufficiently intense to disable electronic circuitry in a distant target.</p></item></blockList></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">2. </num><blockList><listIntroduction eId="annex_1/lvl_u1/lvl_u1" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 19 includes the following when specially designed for directed energy weapon systems:</listIntroduction><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Prime power generation, energy storage, switching, energy conditioning and fuel-handling equipment;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Target acquisition and tracking systems;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Systems for assessing target damage, destruction or mission abort;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">d. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Beam-handling, propagation or pointing equipment;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">e. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Equipment with rapid beam slew capability for rapid multiple target operations;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">f. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Adaptive optics and phase conjugators;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">g. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Current injectors for negative hydrogen ion beams; </p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">h. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Space qualified accelerator components;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">i. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Negative ion beam funnelling equipment;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">j. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Equipment for controlling and slewing a high energy ion beam;</p></item><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">k. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Space qualified foils for neutralising negative hydrogen isotope beams.</p></item></blockList></item></blockList></td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					
+				</td>
+				<td colspan="2">
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 20</p>
+				</td>
+				<td colspan="2"><blockList><listIntroduction eId="annex_1/lvl_u1/lvl_u1" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Cryogenic (low temperature) and superconductive equipment, as follows, and specially designed components and accessories therefor:</listIntroduction><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Equipment specially designed or configured for installation in a vehicle for military ground, marine, airborne or space applications as per this list capable while in motion of producing or maintaining temperatures below –170 °C (103 K); </p></item></blockList><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Note:<br/>ML 20.a. includes mobile systems incorporating or employing accessories and components manufactured from non-metallic or non-electrical conductive materials, such as plastics or epoxy-impregnated materials. </p><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Superconductive electrical equipment (rotating machinery and transformers), specially designed or configured to be installed in a vehicle for military ground, marine, airborne or space applications as per this list, and capable of operating while in motion.</p></item></blockList><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Note:<br/>ML 20.b. does not control direct-current hybrid, homopolar generators that have single-pole, normal metal armatures that rotate in a magnetic field produced by superconductive windings, provided those windings are the only superconductive component in the generator.</p></td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					
+				</td>
+				<td colspan="2">
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 21</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Software, as follows:</p>
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Software specially designed or modified for the use of products that are controlled by this list.</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					
+				</td>
+				<td colspan="2">
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ML 22</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">(Contains no war materiel; listed in order that numbering corresponds to ML)</p>
+				</td>
+			</tr>
+			
+		</table></content></level></level></mainBody></doc></component><component><doc name="annex"><meta><identification source="#ch.bk"><FRBRWork><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/1998/808_808_808/20260701/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/1998/808_808_808/20260701"/><FRBRdate date="2026-07-01" name="jolux:dateApplicability"/><FRBRdate date="1998-02-25" name="jolux:dateDocument"/><FRBRdate date="1998-04-01" name="jolux:dateEntryInForce"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRcountry value="CH"/><FRBRnumber value="514.511"/><FRBRname xml:lang="de" value="Verordnung vom 25. Februar 1998 über das Kriegsmaterial (Kriegsmaterialverordnung, KMV)" shortForm="KMV"/><FRBRname xml:lang="it" value="Ordinanza del 25 febbraio 1998 concernente il materiale bellico (Ordinanza sul materiale bellico, OMB)" shortForm="OMB"/><FRBRname xml:lang="fr" value="Ordonnance du 25 février 1998 sur le matériel de guerre (OMG)" shortForm="OMG"/><FRBRname xml:lang="en" value="Ordinance of 25 February 1998  on War Material (War Material Ordinance, WMO)" shortForm="WMO"/><FRBRauthoritative value="true"/></FRBRWork><FRBRExpression><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/1998/808_808_808/20260701/en/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/1998/808_808_808/20260701/en"/><FRBRdate date="2026-07-01" name="jolux:dateApplicability"/><FRBRdate date="1998-02-25" name="jolux:dateDocument"/><FRBRdate date="1998-04-01" name="jolux:dateEntryInForce"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRlanguage language="en"/></FRBRExpression><FRBRManifestation><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/1998/808_808_808/20260701/en/xml/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/1998/808_808_808/20260701/en/xml"/><FRBRdate date="2026-07-01" name="jolux:dateApplicability"/><FRBRdate date="1998-02-25" name="jolux:dateDocument"/><FRBRdate date="1998-04-01" name="jolux:dateEntryInForce"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRformat value="xml"/></FRBRManifestation></identification></meta><preface><container name="headerOfAnnex"><block name="heading">Annex 2<inline name="man-font-style-normal"><authorialNote>
+		<p> Amended by No I of the O of 27 May 2026, in force since 1 July 2026 (<ref href="https://fedlex.data.admin.ch/eli/oc/2026/310">AS <b>2026</b> 310</ref>).</p>
+	</authorialNote></inline></block></container></preface><mainBody><p>(Art. 6 para. 2, 7, 9<i>e</i> para. 2)</p><level eId="annex_2/lvl_u1"><heading>List of states for which no specific licences are required</heading><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Argentina</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Austria</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Azerbaijan</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Belgium</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Bulgaria</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Canada</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Croatia</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Cyprus</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Czechia</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Denmark</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Estonia</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Finland</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">France</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Germany</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Greece</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Hungary</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Iceland</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Ireland</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Italy</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Japan</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Latvia</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Lithuania</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Luxembourg</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Malta</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Netherlands</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">New Zealand</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Norway</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Poland</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Portugal</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Romania</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Slovakia</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Slovenia</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Spain</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Sweden</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">United Kingdom</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">United States</p></content></level></mainBody></doc></component><component><doc name="annex"><meta><identification source="#ch.bk"><FRBRWork><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/1998/808_808_808/20260701/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/1998/808_808_808/20260701"/><FRBRdate date="2026-07-01" name="jolux:dateApplicability"/><FRBRdate date="1998-02-25" name="jolux:dateDocument"/><FRBRdate date="1998-04-01" name="jolux:dateEntryInForce"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRcountry value="CH"/><FRBRnumber value="514.511"/><FRBRname xml:lang="de" value="Verordnung vom 25. Februar 1998 über das Kriegsmaterial (Kriegsmaterialverordnung, KMV)" shortForm="KMV"/><FRBRname xml:lang="it" value="Ordinanza del 25 febbraio 1998 concernente il materiale bellico (Ordinanza sul materiale bellico, OMB)" shortForm="OMB"/><FRBRname xml:lang="fr" value="Ordonnance du 25 février 1998 sur le matériel de guerre (OMG)" shortForm="OMG"/><FRBRname xml:lang="en" value="Ordinance of 25 February 1998  on War Material (War Material Ordinance, WMO)" shortForm="WMO"/><FRBRauthoritative value="true"/></FRBRWork><FRBRExpression><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/1998/808_808_808/20260701/en/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/1998/808_808_808/20260701/en"/><FRBRdate date="2026-07-01" name="jolux:dateApplicability"/><FRBRdate date="1998-02-25" name="jolux:dateDocument"/><FRBRdate date="1998-04-01" name="jolux:dateEntryInForce"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRlanguage language="en"/></FRBRExpression><FRBRManifestation><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/1998/808_808_808/20260701/en/xml/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/1998/808_808_808/20260701/en/xml"/><FRBRdate date="2026-07-01" name="jolux:dateApplicability"/><FRBRdate date="1998-02-25" name="jolux:dateDocument"/><FRBRdate date="1998-04-01" name="jolux:dateEntryInForce"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRformat value="xml"/></FRBRManifestation></identification></meta><preface><container name="headerOfAnnex"><block name="heading">Annex 3<inline name="man-font-style-normal"><sup><authorialNote>
+		<p> Inserted by Annex 4 No II 2 of the Weapons Ordinance of 2 July 2008, in force since 12 Dec. 2008 (<ref href="https://fedlex.data.admin.ch/eli/oc/2008/767">AS <b>2008</b> 5525</ref>).</p>
+	</authorialNote></sup></inline></block></container></preface><mainBody><p>(Art. 6<i>a</i> para. 4)</p><level eId="annex_3/lvl_u1"><heading>Schengen Association Agreements</heading><content><blockList><listIntroduction eId="annex_3/lvl_u1/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">The Schengen Association Agreements comprise:</listIntroduction><item eId="annex_3/lvl_u1/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the Agreement of 26 October 2004<authorialNote>
+		<p> <ref fedlex:rs-uri="https://fedlex.data.admin.ch/eli/cc/2008/113" fedlex:rs="0.362.31" href="https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1513">SR <b>0.362.31</b></ref></p>
+	</authorialNote> between the Swiss Confederation, the European Union and the European Community on the association of that State with the implementation, application and development of the Schengen Acquis (SAA);</p></item><item eId="annex_3/lvl_u1/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the Agreement of 26 October 2004<authorialNote>
+		<p> <ref fedlex:rs-uri="https://fedlex.data.admin.ch/eli/cc/2008/117" fedlex:rs="0.362.1" href="https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1508">SR <b>0.362.1</b></ref></p>
+	</authorialNote> in the form of an exchange of letters between the Council of the European Union and the Swiss Confederation on the Committees that assist the European Commission in the exercise of its executive powers;</p></item><item eId="annex_3/lvl_u1/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the Agreement of 17 December 2004<authorialNote>
+		<p> <ref fedlex:rs-uri="https://fedlex.data.admin.ch/eli/cc/2008/116" fedlex:rs="0.362.32" href="https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519">SR <b>0.362.32</b></ref></p>
+	</authorialNote> between the Swiss Confederation, the Republic of Iceland and the Kingdom of Norway on the Implementation, Application and Development of the Schengen Acquis and on the Criteria and Procedure for determining the State responsible for examining an application for asylum lodged in Switzerland, Iceland or Norway;</p></item><item eId="annex_3/lvl_u1/lbl_d"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">d. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the Agreement of 28 April 2005<authorialNote>
+		<p> <ref fedlex:rs-uri="https://fedlex.data.admin.ch/eli/cc/2008/114" fedlex:rs="0.362.33" href="https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1520">SR <b>0.362.33</b></ref></p>
+	</authorialNote> between the Swiss Confederation and the Kingdom of Denmark on the implementation, application and development of those parts of the Schengen Acquis that are based on the provisions of Title IV of the Treaty establishing the European Community;</p></item><item eId="annex_3/lvl_u1/lbl_e"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">e. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the Protocol of 28 February 2008<authorialNote>
+		<p> <ref fedlex:rs-uri="https://fedlex.data.admin.ch/eli/cc/2011/205" fedlex:rs="0.362.311" href="https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1514">SR <b>0.362.311</b></ref></p>
+	</authorialNote> between the Swiss Confederation, the European Union, the European Community and the Principality of Liechtenstein on the accession of the Principality of Liechtenstein to the Agreement between the Swiss Confederation, the European Union and the European Community on the association of the Swiss Confederation with the implementation, application and development of the Schengen Acquis.</p></item></blockList></content></level></mainBody></doc></component></components></act></akomaNtoso>

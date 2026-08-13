@@ -1,0 +1,6 @@
+name: Radiological Protection Ordinance (RPO) (RPO)
+description: SR 814.501 — Radiological Protection Ordinance of 26 April 2017 (RPO). Unofficial English mirror of the Fedlex consolidation of 1 January 2022. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Federal Council ordinance", "jurisdiction": "Switzerland", "reference": "SR 814.501", "dateInForce": "2018-01-01", "adopted": "2017-04-26", "consolidated": "2022-01-01", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/2017/502"}

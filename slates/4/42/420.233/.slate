@@ -1,0 +1,6 @@
+name: Innosuisse Remuneration Ordinance
+description: SR 420.233 — Ordinance of the Swiss Innovation Agency of 20 September 2017 on the Fees and other Contractual Conditions for Members of the Innovation Council and on the Remuneration of Experts (Innosuisse Remuneration Ordinance). Unofficial English mirror of the Fedlex consolidation of 1 January 2021. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Legislation from independent enterprises and institutions", "jurisdiction": "Switzerland", "reference": "SR 420.233", "dateInForce": "2018-01-01", "adopted": "2017-09-20", "consolidated": "2021-01-01", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/2017/737"}

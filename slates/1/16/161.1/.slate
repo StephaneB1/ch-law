@@ -1,0 +1,6 @@
+name: Federal Act on Political Rights
+description: SR 161.1 — Federal Act of 17 December 1976 on Political Rights. Unofficial English mirror of the Fedlex consolidation of 23 October 2022. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Federal act", "jurisdiction": "Switzerland", "reference": "SR 161.1", "dateInForce": "1978-07-01", "adopted": "1976-12-17", "consolidated": "2022-10-23", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/1978/688_688_688"}

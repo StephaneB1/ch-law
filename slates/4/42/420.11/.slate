@@ -1,0 +1,6 @@
+name: Research and Innovation Promotion Ordinance (RIPO)
+description: SR 420.11 — Ordinance of 29 November 2013 the Federal Act on the Promotion of Research and Innovation (Research and Innovation Promotion Ordinance, RIPO). Unofficial English mirror of the Fedlex consolidation of 1 February 2026. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Federal Council ordinance", "jurisdiction": "Switzerland", "reference": "SR 420.11", "dateInForce": "2014-01-01", "adopted": "2013-11-29", "consolidated": "2026-02-01", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/2013/814"}

@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:fedlex="http://fedlex.admin.ch/"><act name="publicLaw"><meta><identification source="#ch.bk"><FRBRWork><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/2019/684/20230101/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/2019/684/20230101"/><FRBRdate date="2020-01-01" name="jolux:dateEntryInForce"/><FRBRdate date="2019-11-06" name="jolux:dateDocument"/><FRBRdate date="2023-01-01" name="jolux:dateApplicability"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRcountry value="CH"/><FRBRnumber value="941.319"/><FRBRname xml:lang="fr" value="Ordonnance du 6 novembre 2019 réglant la perception d’émoluments et de taxes de surveillance par le contrôle des métaux précieux (OEmol-CMP)" shortForm="OEmol-CMP"/><FRBRname xml:lang="de" value="Verordnung vom 6. November 2019 über die Erhebung von Gebühren und Aufsichtsabgaben durch die Edelmetallkontrolle (GebV-EMK)" shortForm="GebV-EMK"/><FRBRname xml:lang="en" value="Ordinance of 6 November 2019 on the Fees for Precious Metal Control (PMC-FeeO)" shortForm="PMC-FeeO"/><FRBRname xml:lang="it" value="Ordinanza del 6 novembre 2019 sulla riscossione di emolumenti e tasse di vigilanza da parte del controllo dei metalli preziosi (OEm-CMP)" shortForm="OEm-CMP"/><FRBRauthoritative value="true"/></FRBRWork><FRBRExpression><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/2019/684/20230101/en/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/2019/684/20230101/en"/><FRBRdate date="2020-01-01" name="jolux:dateEntryInForce"/><FRBRdate date="2019-11-06" name="jolux:dateDocument"/><FRBRdate date="2023-01-01" name="jolux:dateApplicability"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRlanguage language="en"/></FRBRExpression><FRBRManifestation><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/2019/684/20230101/en/xml/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/2019/684/20230101/en/xml"/><FRBRdate date="2020-01-01" name="jolux:dateEntryInForce"/><FRBRdate date="2019-11-06" name="jolux:dateDocument"/><FRBRdate date="2023-01-01" name="jolux:dateApplicability"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRformat value="xml" fedlex:generator="2025-q2-rel-1.7.2"/></FRBRManifestation></identification><references source="#ch.bk"><TLCOrganization eId="ch.bk" href="https://fedlex.data.admin.ch/vocabulary/legal-institution/2" showAs="Federal Chancellery"/><TLCRole eId="publisher" href="http://data.legilux.public.lu/resource/ontology/jolux#publisher" showAs="Editeur"/><TLCRole eId="rightsHolder" href="http://data.legilux.public.lu/resource/ontology/jolux#rightsHolder" showAs="Détenteur des droits"/><TLCReference name="language" href="http://publications.europa.eu/resource/authority/language/ENG" showAs="en"/><TLCReference name="format" href="https://fedlex.data.admin.ch/vocabulary/user-format/xml" showAs="xml"/></references></meta><preface><p><docNumber>941.319 </docNumber></p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.</p><p><docTitle>Ordinance<br/>on the Collection of Fees and <br/>Supervisory Levies for Precious Metal Control<inline name="man-font-weight-normal"><authorialNote>
+		<p> Amended by Annex No 5 of the O of 31 Aug. 2022, in force since 1 Jan. 2023  (<ref href="https://fedlex.data.admin.ch/eli/oc/2022/552" xmlns:data="urn:com:c-moria:legi4ch:xslt:data" xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">AS <b>2022</b> 552</ref>).</p>
+	</authorialNote></inline></docTitle></p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">(PMC-FeeO)</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">of 6 November 2019 (Status as of 1 January 2023)</p></preface><preamble><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">The Swiss Federal Council,</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">based on Article 18 paragraph 1, 19, 34 paragraph 2 and 37 paragraph 3 of the Precious Metals Control Act of 20 June 1933<authorialNote>
+		<p>  <ref href="https://fedlex.data.admin.ch/eli/cc/50/345_357_401" xmlns:data="urn:com:c-moria:legi4ch:xslt:data" xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">SR <b>941.31</b></ref></p>
+	</authorialNote> (PMCA) <br/>and Article 46<i>a </i>of the Government and Administration Organisation Act <br/>of 21 March 1997<authorialNote>
+		<p>  <ref href="https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022" xmlns:data="urn:com:c-moria:legi4ch:xslt:data" xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">SR <b>172.010</b></ref></p>
+	</authorialNote>,<authorialNote>
+		<p> Amended by Annex No 5 of the O of 31 Aug. 2022, in force since 1 Jan. 2023  (<ref href="https://fedlex.data.admin.ch/eli/oc/2022/552" xmlns:data="urn:com:c-moria:legi4ch:xslt:data" xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">AS <b>2022</b> 552</ref>).</p>
+	</authorialNote> </p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ordains:</p></preamble><body><section eId="sec_1"><num>Section 1</num><heading>General Provisions</heading><article eId="art_1"><num><b>Art. 1</b></num><heading>Subject matter</heading><paragraph eId="art_1/para"><content><blockList><listIntroduction eId="art_1/para/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">This Ordinance governs the fees and supervisory levies for precious metals control, namely:<authorialNote>
+		<p> Amended by Annex No 5 of the O of 31 Aug. 2022, in force since 1 Jan. 2023  (<ref href="https://fedlex.data.admin.ch/eli/oc/2022/552" xmlns:data="urn:com:c-moria:legi4ch:xslt:data" xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">AS <b>2022</b> 552</ref>).</p>
+	</authorialNote></listIntroduction><item eId="art_1/para/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">fees for the services and decisions of the Central Office for Precious Metals Control, the federal assay offices and the cantonal assay offices;</p></item><item eId="art_1/para/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">fees for assays of fineness carried out by trade assayers in accordance with Article 41 of the Precious Metals Control Act;</p></item><item eId="art_1/para/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c.  </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">fees for services provided by the Central Office;</p></item><item eId="art_1/para/lbl_d"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">d.<authorialNote>
+		<p> Inserted by Annex No 5 of the O of 31 Aug. 2022, in force since 1 Jan. 2023  (<ref href="https://fedlex.data.admin.ch/eli/oc/2022/552" xmlns:data="urn:com:c-moria:legi4ch:xslt:data" xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">AS <b>2022</b> 552</ref>).</p>
+	</authorialNote>  </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">supervisory levies for costs that are not covered by the fees for supervision of commercial purchases of melt material in accordance with Article 36 paragraph 2 letter e PMCA or supervision in accordance with Article 42<sup>ter</sup> PMCA.</p></item></blockList></content></paragraph></article><article eId="art_2"><num><b>Art. 2</b><authorialNote>
+		<p> Amended by Annex No 5 of the O of 31 Aug. 2022, in force since 1 Jan. 2023  (<ref href="https://fedlex.data.admin.ch/eli/oc/2022/552" xmlns:data="urn:com:c-moria:legi4ch:xslt:data" xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">AS <b>2022</b> 552</ref>).</p>
+	</authorialNote></num><heading>Liability to pay fees</heading><paragraph eId="art_2/para_1"><num>1</num><content><blockList><listIntroduction eId="art_2/para_1/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> A fee must be paid by any person who: </listIntroduction><item eId="art_2/para_1/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">requests a decision in accordance with Article 1 letter a;</p></item><item eId="art_2/para_1/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">uses a service in accordance with Article 1 letter a;</p></item><item eId="art_2/para_1/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">requests supervisory proceedings which do not culminate in a decision or which are abandoned.</p></item></blockList></content></paragraph><paragraph eId="art_2/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Federal, cantonal and communal authorities are not required to pay for precious metals control services in the context of legal and administrative assistance.</p></content></paragraph></article><article eId="art_3"><num><b>Art. 3</b></num><heading>Applicability of the General Fees Ordinance</heading><paragraph eId="art_3/para"><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Unless otherwise stipulated in this Ordinance, the provisions of the General Fees Ordinance of 8 September 2004<authorialNote>
+		<p>  <ref href="https://fedlex.data.admin.ch/eli/cc/2004/677" xmlns:data="urn:com:c-moria:legi4ch:xslt:data" xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">SR <b>172.041.1</b></ref></p>
+	</authorialNote> apply.</p></content></paragraph></article><article eId="art_4"><num><b>Art. 4</b></num><heading>Calculation<authorialNote>
+		<p> Amended by Annex No 5 of the O of 31 Aug. 2022, in force since 1 Jan. 2023  (<ref href="https://fedlex.data.admin.ch/eli/oc/2022/552" xmlns:data="urn:com:c-moria:legi4ch:xslt:data" xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">AS <b>2022</b> 552</ref>).</p>
+	</authorialNote></heading><paragraph eId="art_4/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The fees and supervisory levies are calculated in accordance with the rates specified in the Annex.<authorialNote>
+		<p> Amended by Annex No 5 of the O of 31 Aug. 2022, in force since 1 Jan. 2023  (<ref href="https://fedlex.data.admin.ch/eli/oc/2022/552" xmlns:data="urn:com:c-moria:legi4ch:xslt:data" xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">AS <b>2022</b> 552</ref>).</p>
+	</authorialNote> </p></content></paragraph><paragraph eId="art_4/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> For services and decisions for which no rate is specified in the Annex, the fee is based on time spent (Art. 14).</p></content></paragraph><paragraph eId="art_4/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Fees and levies are periodically adjusted to take account of the services actually performed, the costs incurred and technological developments.<authorialNote>
+		<p> Amended by Annex No 5 of the O of 31 Aug. 2022, in force since 1 Jan. 2023  (<ref href="https://fedlex.data.admin.ch/eli/oc/2022/552" xmlns:data="urn:com:c-moria:legi4ch:xslt:data" xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">AS <b>2022</b> 552</ref>).</p>
+	</authorialNote></p></content></paragraph></article></section><section eId="sec_2"><num>Section 2</num><heading>Official Analysis and Hallmarking</heading><article eId="art_5"><num><b>Art. 5</b></num><heading>Principles</heading><paragraph eId="art_5/para"><content><blockList><listIntroduction eId="art_5/para/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">The fees for the official Swiss hallmarking of watch-cases and other precious metal articles and mixed metal articles comprise:</listIntroduction><item eId="art_5/para/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the fee for conformity testing;</p></item><item eId="art_5/para/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the hallmarking fee.</p></item></blockList></content></paragraph></article><article eId="art_6"><num><b>Art. 6</b></num><heading>Fee for conformity testing</heading><paragraph eId="art_6/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> For conformity testing of watch-cases and other precious metal articles and mixed metal articles, the fees specified in the Annex apply.</p></content></paragraph><paragraph eId="art_6/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> For objects comprised of a combination of several precious metals, the rates for each individual metal are added together.</p></content></paragraph><paragraph eId="art_6/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Certified material means precious metals and precious metal alloys whose fineness before production is confirmed with a conformity certificate that is issued or recognised by one of the bodies under Article 1 letter a.</p></content></paragraph></article><article eId="art_7"><num><b>Art. 7</b></num><heading>Hallmarking fees</heading><paragraph eId="art_7/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> For applying the hallmark on precious metal and mixed metal watch-cases or other articles, the fees specified in the Annex apply.</p></content></paragraph><paragraph eId="art_7/para_2"><num>2</num><content><blockList><listIntroduction eId="art_7/para_2/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> A single mark is:</listIntroduction><item eId="art_7/para_2/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the official Swiss hallmark; or</p></item><item eId="art_7/para_2/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the international hallmark in accordance with the Convention of 15 November 1972<authorialNote>
+		<p>  <ref href="https://fedlex.data.admin.ch/eli/cc/1975/1013_1014_1013" xmlns:data="urn:com:c-moria:legi4ch:xslt:data" xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">SR <b>0.941.31</b></ref></p>
+	</authorialNote> on the Control and Marking of Articles of Precious Metals.</p></item></blockList></content></paragraph><paragraph eId="art_7/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> A double mark is the combined Swiss/international hallmark. The double mark is applied as a single unit. The fee for a double mark is charged even if individual marks are applied separately and by the manufacturer itself.</p></content></paragraph></article><article eId="art_8"><num><b>Art. 8</b></num><heading>Acceptance fee</heading><paragraph eId="art_8/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> If a series of fewer than ten objects is submitted for official hallmarking, an acceptance fee as specified in the Annex will be charged.</p></content></paragraph><paragraph eId="art_8/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The acceptance fee is not charged if the official hallmarks are applied by the applicant itself. </p></content></paragraph></article><article eId="art_9"><num><b>Art 9</b></num><heading>Official hallmarking agreements</heading><paragraph eId="art_9/para_1"><num>1</num><content><blockList><listIntroduction eId="art_9/para_1/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> For the conclusion of an agreement in accordance with Article 97 paragraph 2 and Article 117<i>a</i> paragraph 3 of the Ordinance on the Control of the Trade in Precious Metals and Precious Metal Articles of 8 May 1934<authorialNote>
+		<p>  <ref href="https://fedlex.data.admin.ch/eli/cc/50/363_375_420" xmlns:data="urn:com:c-moria:legi4ch:xslt:data" xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">SR <b>941.311</b></ref></p>
+	</authorialNote> (PMCO), the fees specified in the Annex apply:</listIntroduction><item eId="art_9/para_1/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">for creating the dossier and reviewing the application;</p></item><item eId="art_9/para_1/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">for the audits carried out during the term of the agreement in accordance with Article 97 PMCO or for its renewal;</p></item><item eId="art_9/para_1/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">for the additional audit in the case of a request for an agreement in accordance with Article 117<i>a</i> PMCO.</p></item></blockList></content></paragraph><paragraph eId="art_9/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The fees specified in paragraph 1 are payable before the conclusion or renewal of the agreement.</p></content></paragraph><paragraph eId="art_9/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The fee for onsite supervision based on Article 117<i>a</i> paragraph 2 PMCO is based on time spent (Art. 14).</p></content></paragraph><paragraph eId="art_9/para_4"><num>4</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The Central Office charges an annual fee for the accreditation of suppliers and testing laboratories for certified material in accordance with the Annex. </p></content></paragraph></article></section><section eId="sec_3"><num>Section 3</num><heading>Fees for Fineness Assays</heading><article eId="art_10"><num><b>Art. 10</b></num><heading>Assay of the fineness of samples</heading><paragraph eId="art_10/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> A sample is defined as an object, a piece or any type of specimen taken from the same material which does not correspond to a parcel or a melted product.</p></content></paragraph><paragraph eId="art_10/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> For assaying the fineness of samples, the fees specified in the Annex apply.</p></content></paragraph><paragraph eId="art_10/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The fee covers the number of analyses necessary to assay the fineness of the sample.</p></content></paragraph><paragraph eId="art_10/para_4"><num>4</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Reduced-scope fineness assays include analyses for conformity with the legal standard of fineness on a single analysed metal.</p></content></paragraph><paragraph eId="art_10/para_5"><num>5</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The fee for assaying the fineness is doubled in the case of arbitration analysis.</p></content></paragraph><paragraph eId="art_10/para_6"><num>6</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> For assays of fineness that cannot be carried out using standardised testing methods, the fees are based on time spent.</p></content></paragraph></article><article eId="art_11"><num><b>Art. 11</b></num><heading>Assay of the fineness of melted products</heading><paragraph eId="art_11/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> For assaying the fineness of melted products, the fees specified in the Annex apply.</p></content></paragraph><paragraph eId="art_11/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> For the assay and marking of each melted product, an additional fee is charged as specified in the Annex.</p></content></paragraph></article><article eId="art_12"><num><b>Art. 12</b></num><heading>Fees for conversion into analysable form</heading><paragraph eId="art_12/para"><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">For the conversion into analysable form of material, solutions, salts and other materials which, due to their composition, require prior chemical and physical digestion, further fees as specified in the Annex are charged in addition to the fees set out in Articles 10 and 11.</p></content></paragraph></article></section><section eId="sec_4"><num>Section 4</num><heading>Other Flat-Rate Fees</heading><article eId="art_13"><num><b>Art. 13</b></num><paragraph eId="art_13/para_1"><num>1</num><content><blockList><listIntroduction eId="art_13/para_1/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Other flat-rate fees apply to:</listIntroduction><item eId="art_13/para_1/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">licences; </p></item><item eId="art_13/para_1/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">registrations of responsibility marks; </p></item><item eId="art_13/para_1/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">awarding of diplomas;</p></item><item eId="art_13/para_1/lbl_d"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">d.<authorialNote>
+		<p> Amended by Annex No 5 of the O of 31 Aug. 2022, in force since 1 Jan. 2023  (<ref href="https://fedlex.data.admin.ch/eli/oc/2022/552" xmlns:data="urn:com:c-moria:legi4ch:xslt:data" xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">AS <b>2022</b> 552</ref>).</p>
+	</authorialNote>  </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ongoing supervision of trade assayers, melters, commercial purchasers of melt material and the cantonal assay offices;</p></item><item eId="art_13/para_1/lbl_e"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">e. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">courses for precious metal assayers from industry or the cantonal assay offices;</p></item><item eId="art_13/para_1/lbl_f"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">f. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">conformity testing of new coatings and materials.</p></item></blockList></content></paragraph><paragraph eId="art_13/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The fees are calculated in accordance with the rates specified in the Annex.</p></content></paragraph></article></section><section eId="sec_5"><num>Section 5</num><heading>Hourly Fees</heading><article eId="art_14"><num><b>Art. 14</b></num><heading>Principle<authorialNote>
+		<p> Inserted by Annex No 5 of the O of 31 Aug. 2022, in force since 1 Jan. 2023  (<ref href="https://fedlex.data.admin.ch/eli/oc/2022/552" xmlns:data="urn:com:c-moria:legi4ch:xslt:data" xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">AS <b>2022</b> 552</ref>).</p>
+	</authorialNote> </heading><paragraph eId="art_14/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> For services, in particular expert opinions and decisions, for which no rate is specified in the Annex, a fee of CHF 90 to 135 per hour is charged.</p></content></paragraph><paragraph eId="art_14/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The exact fee within the range given in paragraph 1 is determined on the basis of the expertise required.</p></content></paragraph><paragraph eId="art_14/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Hours may be divided into quarters of an hour. Each fraction of a quarter of an hour is counted as one full quarter of an hour.</p></content></paragraph></article><article eId="art_14_a"><num><b>Art. 14</b><i>a</i><authorialNote>
+		<p> Inserted by Annex No 5 of the O of 31 Aug. 2022, in force since 1 Jan. 2023  (<ref href="https://fedlex.data.admin.ch/eli/oc/2022/552" xmlns:data="urn:com:c-moria:legi4ch:xslt:data" xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">AS <b>2022</b> 552</ref>).</p>
+	</authorialNote></num><heading>Fees relating to the supervision of trading in banking precious metals</heading><paragraph eId="art_14_a/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The fees for audits, supervisory proceedings and decisions relating to trading in banking precious metals (Art. 42<sup>ter</sup> PMCA) are based on time spent.</p></content></paragraph><paragraph eId="art_14_a/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The hourly rate for the fees specified in paragraph 1 is CHF 250–350, depending on the specialist knowledge and functional level of the person carrying out the task at the Central Office.</p></content></paragraph></article></section><section eId="sec_5_a"><num>Section 5<i>a</i>:<inline name="man-font-weight-normal"><authorialNote>
+		<p> Inserted by Annex No 5 of the O of 31 Aug. 2022, in force since 1 Jan. 2023  (<ref href="https://fedlex.data.admin.ch/eli/oc/2022/552" xmlns:data="urn:com:c-moria:legi4ch:xslt:data" xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">AS <b>2022</b> 552</ref>).</p>
+	</authorialNote></inline></num><heading>Supervisory Levies</heading><article eId="art_14_b"><num><b>Art. 14</b><i>b</i></num><heading>Principle, scope and calculation basis</heading><paragraph eId="art_14_b/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Purchasers of melt material in accordance with Article 31<i>a</i> PMCA, trade assayers and group companies in accordance with Article 42<sup>bis</sup> PMCA must pay an annual supervisory levy to the Central Office.</p></content></paragraph><paragraph eId="art_14_b/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Purchasers of melt material in accordance with Article 31<i>a</i> PMCA shall pay the levy in the form of a lump sum for a period of four years.</p></content></paragraph><paragraph eId="art_14_b/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Trade assayers and group companies in accordance with Article 42<sup>bis</sup> PMCA that hold a licence for commercial trading in banking precious metals from the Central Office shall pay the levy in the form of a fixed basic levy and a variable supplementary levy.</p></content></paragraph><paragraph eId="art_14_b/para_4"><num>4</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The supplementary levy covers the costs that are not covered by the basic levy.</p></content></paragraph></article><article eId="art_14_c"><num><b>Art. 14</b><i>c</i></num><heading>Basic levy</heading><paragraph eId="art_14_c/para"><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">For the basic levy in accordance with Article 14<i>b</i> paragraph 3, the rate in the Annex applies.</p></content></paragraph></article><article eId="art_14_d"><num><b>Art. 14</b><i>d</i></num><heading>Supplementary levy</heading><paragraph eId="art_14_d/para"><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">As regards the amount to be covered via the supplementary levy in accordance with Article 13<i>b</i> paragraph 3, one tenth of such levy shall be based on the balance sheet total and nine tenths on the gross revenue.</p></content></paragraph></article><article eId="art_14_e"><num><b>Art. 14</b><i>e</i></num><heading>Calculation of the supplementary levy</heading><paragraph eId="art_14_e/para_1"><num>1</num><content><blockList><listIntroduction eId="art_14_e/para_1/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> For calculating the supplementary levy based on the balance sheet total and gross revenue, the profit and loss account of the entity subject to the levy in accordance with Article 959<i>b</i> of the Code of Obligations<sup><authorialNote>
+		<p> <ref href="https://fedlex.data.admin.ch/eli/cc/27/317_321_377" xmlns:data="urn:com:c-moria:legi4ch:xslt:data" xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">SR <b>220</b></ref></p>
+	</authorialNote></sup>, as reported in the approved financial statements for the year preceding the year to which the levy applies, shall be decisive. The following may be deducted for trading in banking precious metals:</listIntroduction><item eId="art_14_e/para_1/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">if a profit and loss account by nature of expense is used: volume changes in unfinished and finished goods, as well as the cost of purchased materials; </p></item><item eId="art_14_e/para_1/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">if a profit and loss account by function of expense is used: the costs of procuring or manufacturing the purchased products.</p></item></blockList></content></paragraph><paragraph eId="art_14_e/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The decisive factor in calculating the supplementary levy based on the balance sheet total and gross revenue shall be the result in the financial statements for the year preceding the year to which the levy applies.</p></content></paragraph><paragraph eId="art_14_e/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The calculation of the supplementary levy according to gross revenue shall be based exclusively on the gross revenue of the business activity subject to the licence requirement in accordance with Article 42<sup>bis</sup> PMCA.</p></content></paragraph></article><article eId="art_14_f"><num><b>Art. 14</b><i>f</i></num><heading>Start and end of levy liability</heading><paragraph eId="art_14_f/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Levy liability shall begin with the granting of the licence and end with its withdrawal or the discharge from supervision.</p></content></paragraph><paragraph eId="art_14_f/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> If the start or end of levy liability does not coincide with the start or end of the year to which the levies apply, the basic levy and supplementary levy shall be payable <i>pro rata temporis</i>.</p></content></paragraph><paragraph eId="art_14_f/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> A right to reimbursement based on paragraph 2 at the end of levy liability shall exist only for amounts exceeding CHF 1000. </p></content></paragraph></article><article eId="art_14_g"><num><b>Art. 14</b><i>g</i></num><heading>Collection of levies</heading><paragraph eId="art_14_g/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The Central Office shall collect the supervisory levies from the licence holders in accordance with Article 42<sup>bis</sup> PMCA based on its cost accounting for the year preceding the year to which the levies apply.</p></content></paragraph><paragraph eId="art_14_g/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> After finalising its cost accounting, the Central Office shall produce an invoice for each entity subject to the levies. </p></content></paragraph></article><article eId="art_14_h"><num><b>Art. 14</b><i>h</i></num><heading>Invoicing, due dates, deferral and expiry</heading><paragraph eId="art_14_h/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The Central Office shall produce invoices for the supervisory levies.</p></content></paragraph><paragraph eId="art_14_h/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> If the entities subject to the levies do not agree with the final invoice, they may request an appealable decision.</p></content></paragraph><paragraph eId="art_14_h/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Due dates, deferral and expiry shall be based by analogy on the provisions of the General Fees Ordinance of 8 September 2004<authorialNote>
+		<p> <ref href="https://fedlex.data.admin.ch/eli/cc/2004/677" xmlns:data="urn:com:c-moria:legi4ch:xslt:data" xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">SR <b>172.041.1</b></ref></p>
+	</authorialNote>.</p></content></paragraph></article></section><section eId="sec_6"><num>Section 6</num><heading>Compensation for Services provided by the Central Office</heading><article eId="art_15"><num><b>Art. 15</b></num><paragraph eId="art_15/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The cantonal assay offices pay an annual fee to the Central Office.</p></content></paragraph><paragraph eId="art_15/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> This consists of a fixed sum and a variable amount depending on the gross turnover generated by the fees charged in accordance with Articles 5 to 9.</p></content></paragraph><paragraph eId="art_15/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The compensation is governed by an administrative service level agreement.</p></content></paragraph></article></section><section eId="sec_7"><num>Section 7</num><heading>Final Provisions</heading><article eId="art_16"><num><b>Art. 16</b></num><heading>Repeal of existing legislation</heading><paragraph eId="art_16/para"><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">The Ordinance of 17 August 2005<authorialNote>
+		<p>  [<ref href="https://fedlex.data.admin.ch/eli/oc/2005/561" xmlns:data="urn:com:c-moria:legi4ch:xslt:data" xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">AS <b>2005</b> 4317</ref>, <ref href="https://fedlex.data.admin.ch/eli/oc/2010/316" xmlns:data="urn:com:c-moria:legi4ch:xslt:data" xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp"><b>2010</b> 2219 </ref>n. II]</p>
+	</authorialNote> on the Fees for Precious Metal Control is repealed.</p></content></paragraph></article><article eId="art_17"><num><b>Art. 17</b></num><heading>Amendment of existing legislation</heading><paragraph eId="art_17/para"><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">...<authorialNote>
+		<p> The amendments may be consulted under <ref href="https://fedlex.data.admin.ch/eli/oc/2019/684" xmlns:data="urn:com:c-moria:legi4ch:xslt:data" xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">AS <b>2019</b> 3771</ref>. </p>
+	</authorialNote></p></content></paragraph></article><article eId="art_18"><num><b>Art. 18</b></num><heading>Commencement</heading><paragraph eId="art_18/para"><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">This Ordinance comes into force on 1 January 2020.</p></content></paragraph></article></section></body><components><component><doc name="annex"><meta><identification source="#ch.bk"><FRBRWork><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/2019/684/20230101/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/2019/684/20230101"/><FRBRdate date="2020-01-01" name="jolux:dateEntryInForce"/><FRBRdate date="2019-11-06" name="jolux:dateDocument"/><FRBRdate date="2023-01-01" name="jolux:dateApplicability"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRcountry value="CH"/><FRBRnumber value="941.319"/><FRBRname xml:lang="fr" value="Ordonnance du 6 novembre 2019 réglant la perception d’émoluments et de taxes de surveillance par le contrôle des métaux précieux (OEmol-CMP)" shortForm="OEmol-CMP"/><FRBRname xml:lang="de" value="Verordnung vom 6. November 2019 über die Erhebung von Gebühren und Aufsichtsabgaben durch die Edelmetallkontrolle (GebV-EMK)" shortForm="GebV-EMK"/><FRBRname xml:lang="en" value="Ordinance of 6 November 2019 on the Fees for Precious Metal Control (PMC-FeeO)" shortForm="PMC-FeeO"/><FRBRname xml:lang="it" value="Ordinanza del 6 novembre 2019 sulla riscossione di emolumenti e tasse di vigilanza da parte del controllo dei metalli preziosi (OEm-CMP)" shortForm="OEm-CMP"/><FRBRauthoritative value="true"/></FRBRWork><FRBRExpression><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/2019/684/20230101/en/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/2019/684/20230101/en"/><FRBRdate date="2020-01-01" name="jolux:dateEntryInForce"/><FRBRdate date="2019-11-06" name="jolux:dateDocument"/><FRBRdate date="2023-01-01" name="jolux:dateApplicability"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRlanguage language="en"/></FRBRExpression><FRBRManifestation><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/2019/684/20230101/en/xml/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/2019/684/20230101/en/xml"/><FRBRdate date="2020-01-01" name="jolux:dateEntryInForce"/><FRBRdate date="2019-11-06" name="jolux:dateDocument"/><FRBRdate date="2023-01-01" name="jolux:dateApplicability"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRformat value="xml"/></FRBRManifestation></identification></meta><preface><container name="headerOfAnnex"><block name="heading">Annex<inline name="man-font-style-normal"><authorialNote>
+		<p> Revised by Annex No 5 of the O of 31 Aug. 2022, in force since 1 Jan. 2023  (<ref href="https://fedlex.data.admin.ch/eli/oc/2022/552" xmlns:data="urn:com:c-moria:legi4ch:xslt:data" xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">AS <b>2022</b> 552</ref>).</p>
+	</authorialNote></inline></block></container></preface><mainBody><level eId="annex_u1/lvl_1"><num>1. </num><heading>Conformity testing (Art. 6), per object made of gold, silver, platinum or palladium:</heading><content><table border="1">
+			
+			
+			<tr>
+				
+				<td>
+					
+					
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">CHF</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">1.1 </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">made of certified material</p></item></blockList></td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">1.30</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">1.2 </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">made of uncertified material</p></item></blockList></td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">1.90</p>
+				</td>
+			</tr>
+			
+		</table></content></level><level eId="annex_u1/lvl_2"><num>2. </num><heading>Hallmarking (Art. 7)</heading><content><table border="1">
+			
+			
+			<tr>
+				
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Fee</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Per single mark</p>
+				</td>
+				<td>
+					
+					
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Per double mark</p>
+				</td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Mechanical CHF</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Laser<br/>CHF</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Mechanical CHF</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Laser<br/>CHF</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">2.1 </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">by the assay office</p></item></blockList></td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">1.00</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">3.00</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">1.30</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">3.80</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">2.2 </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">by the manufacturer</p></item></blockList></td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">0.80</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">0.80</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">1.10</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">1.10</p>
+				</td>
+			</tr>
+			
+		</table></content></level><level eId="annex_u1/lvl_3"><num>3.</num><heading>Acceptance fee (Art. 8)</heading><content><table fedlex:function="layout">
+			
+			
+			<tr>
+				
+				<td>
+					
+					
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">CHF</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num><placeholder fedlex:message="E40S10-TAB">[tab]</placeholder></num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Fee for series of less than ten objects</p></item></blockList></td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">20.00</p>
+				</td>
+			</tr>
+			
+		</table></content></level><level eId="annex_u1/lvl_4"><num>4. </num><heading>Official hallmarking agreements (Art. 9 paras. 1 and 4)</heading><content><table border="1">
+			
+			
+			<tr>
+				
+				<td>
+					
+					
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">CHF</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">4.1 </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">non-recurring fee for creating a dossier</p></item></blockList></td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">  500.00</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">4.2 </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">additional fee for conducting an audit</p></item></blockList></td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">2000.00</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">4.3 </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">non-recurring fee for additional audits in accordance with Article 117<i>a</i> of the PMCO</p></item></blockList></td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">  250.00</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">4.4 </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">annual fee for accreditation of suppliers and testing laboratories for certified material</p></item></blockList></td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">2000.00</p>
+				</td>
+			</tr>
+			
+		</table></content></level><level eId="annex_u1/lvl_5"><num>5. </num><heading>Assay of fineness of objects or samples (Art. 10)</heading><content><table border="1">
+			
+			
+			<tr>
+				
+				<td>
+					
+					
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Gold<br/>CHF</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Silver<br/>CHF</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Platinum<br/>CHF</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Palladium<br/>CHF</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">5.1 </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Fee for reduced-scope fineness assay</p></item></blockList></td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">  80.00</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">55.00</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">170.00</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">170.00</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">5.2 </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Fee for fineness assay</p></item></blockList></td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">105.00</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">80.00</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">210.00</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">210.00</p>
+				</td>
+			</tr>
+			
+		</table></content></level><level eId="annex_u1/lvl_6"><num>6. </num><heading>Assay of fineness of melted products (Art. 11)</heading><content><table fedlex:function="layout">
+			
+			
+			<tr>
+				
+				<td>
+					
+					
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Gold<br/>CHF</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Silver<br/>CHF</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Platinum<br/>CHF</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Palladium<br/>CHF</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">6.1 </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Fee for fineness assay</p></item></blockList></td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">105.00</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">80.00</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">210.00</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">210.00</p>
+				</td>
+			</tr>
+			
+		</table><table fedlex:function="layout">
+			
+			
+			<tr>
+				
+				<td>
+					
+					
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">CHF</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">6.2 </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Fee for assay and marking of a melted product</p></item></blockList></td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">50.00</p>
+				</td>
+			</tr>
+			
+		</table></content></level><level eId="annex_u1/lvl_7"><num>7. </num><heading>Conversion into analysable form (Art. 12)</heading><content><table border="1">
+			
+			
+			<tr>
+				
+				<td>
+					
+					
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Fee per parcel sampled<br/>CHF</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">7.1 </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Fee for pre-ground material that is to be broken down by lead (or other metal) melting</p></item></blockList></td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">300.00</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">7.2 </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Fee for clean solutions and salts</p></item></blockList></td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">100.00</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">7.3 </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Fee for contaminated solutions and salts normally destined for refining or recovery</p></item></blockList></td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">300.00</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">7.4 </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Fee for breaking down materials not listed in this table</p></item></blockList></td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">120.00</p>
+				</td>
+			</tr>
+			
+		</table></content></level><level eId="annex_u1/lvl_8"><num>8. </num><heading>Other flat-rate fees (Art. 13)</heading><content><table border="1">
+			
+			
+			<tr>
+				
+				<td>
+					
+					
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">CHF</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">8.1 </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Issue or renewal of a melter's licence with a melter's mark</p></item></blockList></td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">1000.00</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">8.2 </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Non-recurring fee for issue of an additional melter's mark</p></item></blockList></td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">  200.00</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">8.3 </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Issue or renewal of individual melter's licence with individual melter's mark</p></item></blockList></td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">  200.00</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">8.4 </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Non-recurring fee for issue of a trade assayer's licence</p></item></blockList></td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">1500.00</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">8.4<i>a</i> </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Granting of a licence for trading in banking precious metals</p></item></blockList></td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">2500.–</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">8.5 </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Registration or renewal of an individual responsibility mark</p></item></blockList></td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">  800.00</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">8.6 </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Registration or renewal of a collective responsibility mark:</p></item></blockList></td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">1. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">per mark and</p></item></blockList></td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">  800.00</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">2. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">per participant</p></item></blockList></td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">  200.00</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">8.6<i>a</i> </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Granting or renewal of a purchase licence</p></item></blockList></td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">  500.–</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">8.7 </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Modifications and cancellations of licences and marks in accordance with sections 8.1 to 8.6<i>a</i></p></item></blockList></td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">    –.–</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">8.8 </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Exam registration fee for the federal diploma for sworn assayers</p></item></blockList></td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">  150.00</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">8.9 </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Issue of the federal diploma for sworn assayers</p></item></blockList></td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">  600.00</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">8.10 </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Annual fees for ongoing supervision:</p></item></blockList></td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">1 </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">trade assayers, includes activities as a melter if applicable</p></item></blockList></td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">5000.00</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">2 </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">melters</p></item></blockList></td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">1000.00</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">3 </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">cantonal assay offices</p></item></blockList></td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">5000.00</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">8.11 </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Course fees for assayers from industry or a cantonal assay office, per person and day</p></item></blockList></td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">  500.00</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td><blockList><item><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">8.12 </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Conformity testing of new coatings and materials is charged according to time spent.</p></item></blockList></td>
+				<td>
+					
+					
+				</td>
+			</tr>
+			
+		</table></content></level><level eId="annex_u1/lvl_9"><num>9. </num><heading>Other lump sum levies (Art. 14<i>a</i> para. 2)</heading><content><table border="1">
+			
+			
+			<tr>
+				
+				
+				<th colspan="2" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">
+					
+					
+				</th>
+				<th xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">
+					
+					<p>CHF</p>
+				</th>
+			</tr>
+			<tr>
+				
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"><inline name="man-color-auto">9.1</inline><inline name="man-color-auto"> Supervisory levy for purchasers of melt material in accordance with Article 31</inline><i><inline name="man-color-auto">a</inline></i><inline name="man-color-auto"> paragraphs 2 and 3 PMCA (lump sum for a period of four years)</inline></p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"><inline name="man-color-auto">2000.–</inline></p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"><inline name="man-color-auto">9.2</inline><inline name="man-color-auto"> Basic levy for licence holders in accordance with Article 42</inline><inline name="man-color-auto"><sup xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">bis</sup></inline><inline name="man-color-auto"> PMCA</inline></p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"><inline name="man-color-auto">5000. –</inline> </p>
+				</td>
+			</tr>
+			
+		</table><p><docTitle/></p></content></level></mainBody></doc></component></components></act></akomaNtoso>

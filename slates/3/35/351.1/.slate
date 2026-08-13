@@ -1,0 +1,6 @@
+name: Mutual Assistance Act (IMAC)
+description: SR 351.1 — Federal Act of 20 March 1981 on International Mutual Assistance  in Criminal Matters (Mutual Assistance Act, IMAC). Unofficial English mirror of the Fedlex consolidation of 1 January 2024. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Federal act", "jurisdiction": "Switzerland", "reference": "SR 351.1", "dateInForce": "1983-01-01", "adopted": "1981-03-20", "consolidated": "2024-01-01", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/1982/846_846_846"}

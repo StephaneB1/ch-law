@@ -1,0 +1,6 @@
+name: Collective Investment Schemes Ordinance (CISO)
+description: SR 951.311 — Ordinance of 22 November 2006 on Collective Investment Schemes (Collective Investment Schemes Ordinance, CISO). Unofficial English mirror of the Fedlex consolidation of 25 November 2025. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Federal Council ordinance", "jurisdiction": "Switzerland", "reference": "SR 951.311", "dateInForce": "2007-01-01", "adopted": "2006-11-22", "consolidated": "2025-11-25", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/2006/859"}

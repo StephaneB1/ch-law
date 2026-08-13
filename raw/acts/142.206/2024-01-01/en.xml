@@ -1,0 +1,2473 @@
+<?xml version="1.0" encoding="UTF-8"?><akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:fedlex="http://fedlex.admin.ch/"><act name="publicLaw"><meta><identification source="#ch.bk"><FRBRWork><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/2021/734/20240101/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/2021/734/20240101"/><FRBRdate date="2024-01-01" name="jolux:dateApplicability"/><FRBRdate date="2022-05-01" name="jolux:dateEntryInForce"/><FRBRdate date="2021-11-10" name="jolux:dateDocument"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRcountry value="CH"/><FRBRnumber value=""/><FRBRname xml:lang="fr" value="Ordonnance du 10 novembre 2021 sur le système d’entrée et de sortie (OEES)" shortForm="OEES"/><FRBRname xml:lang="it" value="Ordinanza del 10 novembre 2021 sul sistema di ingressi/uscite (OEES)" shortForm="OEES"/><FRBRname xml:lang="en" value="Ordinance of 10 November 2021 on the Entry/Exit System (EESO)" shortForm="EESO"/><FRBRname xml:lang="de" value="Verordnung vom 10. November 2021 über das Einreise- und Ausreisesystem (EESV)" shortForm="EESV"/><FRBRauthoritative value="true"/></FRBRWork><FRBRExpression><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/2021/734/20240101/en/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/2021/734/20240101/en"/><FRBRdate date="2024-01-01" name="jolux:dateApplicability"/><FRBRdate date="2022-05-01" name="jolux:dateEntryInForce"/><FRBRdate date="2021-11-10" name="jolux:dateDocument"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRlanguage language="en"/></FRBRExpression><FRBRManifestation><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/2021/734/20240101/en/xml/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/2021/734/20240101/en/xml"/><FRBRdate date="2024-01-01" name="jolux:dateApplicability"/><FRBRdate date="2022-05-01" name="jolux:dateEntryInForce"/><FRBRdate date="2021-11-10" name="jolux:dateDocument"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRformat value="xml" fedlex:generator="2025-q3-rel-1.8.2"/></FRBRManifestation></identification><references source="#ch.bk"><TLCOrganization eId="ch.bk" href="https://fedlex.data.admin.ch/vocabulary/legal-institution/2" showAs="Federal Chancellery"/><TLCRole eId="publisher" href="http://data.legilux.public.lu/resource/ontology/jolux#publisher" showAs="Editeur"/><TLCRole eId="rightsHolder" href="http://data.legilux.public.lu/resource/ontology/jolux#rightsHolder" showAs="Détenteur des droits"/><TLCReference name="language" href="http://publications.europa.eu/resource/authority/language/ENG" showAs="en"/><TLCReference name="format" href="https://fedlex.data.admin.ch/vocabulary/user-format/xml" showAs="xml"/></references></meta><preface><p><docNumber>142.206 </docNumber></p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.</p><p><docTitle>Ordinance<br/>on the Entry/Exit System</docTitle></p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">(EESO)</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">of 10 November 2021 (Last amended on 1 January 2024)</p></preface><preamble><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">The Swiss Federal Council,</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">based on Article 103<i>f</i> of the Foreign Nationals and Integration Act of <br/>16 December 2005<authorialNote>
+		<p> <ref fedlex:rs-uri="https://fedlex.data.admin.ch/eli/cc/2007/758" fedlex:rs="142.20" href="https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851">SR <b>142.20</b></ref></p>
+	</authorialNote> (FNIA),</p><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">ordains:</p></preamble><body><section eId="sec_1"><num>Section 1</num><heading>Subject Matter and Definitions</heading><article eId="art_1"><num><b>Art. 1</b></num><heading>Subject matter</heading><paragraph eId="art_1/para"><content><blockList><listIntroduction eId="art_1/para/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">This Ordinance governs:</listIntroduction><item eId="art_1/para/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the list of data in the Entry/Exit System (EES), the bodies with rights of access thereto and the scope of rights of access in accordance with Regulation (EU) 2017/2226<authorialNote>
+		<p> Regulation (EU) 2017/2226 of the European Parliament and of the Council of 30 November 2017 <span>establishing an Entry/Exit System (EES) to register entry and exit data and refusal of entry data of third-country nationals crossing the external borders of the Member States and determining the conditions for access to the EES for law enforcement purposes, and amending the Convention implementing the Schengen Agreement and Regulations (EC) No 767/2008 and (EU) No 1077/2011</span>, last amended by OJ L 327, 9.12.2017, p. 20.</p>
+	</authorialNote>;</p></item><item eId="art_1/para/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the procedures for consulting and accessing EES data;</p></item><item eId="art_1/para/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">access to EES data via the central access point for law enforcement;</p></item><item eId="art_1/para/lbl_d"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">d. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the correction, amendment and erasure of data;</p></item><item eId="art_1/para/lbl_e"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">e. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the rights of data subjects, data protection, data security and the supervision of data processing.</p></item></blockList></content></paragraph></article><article eId="art_2"><num><b>Art. 2</b></num><heading>Definitions</heading><paragraph eId="art_2/para_1"><num>1 </num><content><blockList><listIntroduction eId="art_2/para_1/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">In this Ordinance:</listIntroduction><item eId="art_2/para_1/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"><i>Schengen State</i> means a State bound by one of the Schengen Association Agreements;</p></item><item eId="art_2/para_1/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"><i>Schengen external borders</i> means borders established in accordance with Article 29 paragraph 1 of the Ordinance of 15 August 2018<authorialNote>
+		<p> <ref fedlex:rs-uri="https://fedlex.data.admin.ch/eli/cc/2018/493" fedlex:rs="142.204" href="https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4856">SR <b>142.204</b></ref></p>
+	</authorialNote> on Entry and the Granting of Visas;</p></item><item eId="art_2/para_1/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"><i>third-country national </i>means a national of a State that is neither a Member State of the European Union (EU) nor of the European Free Trade Association;</p></item><item eId="art_2/para_1/lbl_d"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">d. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"><i>terrorist offence</i> means an offence under Annex 1<i>a</i> of the N-SIS Ordinance of 8 March 2013<authorialNote>
+		<p> <ref fedlex:rs-uri="https://fedlex.data.admin.ch/eli/cc/2013/179" fedlex:rs="362.0" href="https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6314">SR <b>362.0</b></ref></p>
+	</authorialNote>;</p></item><item eId="art_2/para_1/lbl_e"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">e. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"><i>other serious offence </i>means an offence under Annex 1<i>b</i> of the N-SIS Ordinance.</p></item></blockList></content></paragraph><paragraph eId="art_2/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The Schengen Association Agreements are listed in Annex 1.</p></content></paragraph></article></section><section eId="sec_2"><num>Section 2</num><heading>List of EES Data and Access Authorisations</heading><subheading fedlex:role="reference" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">(Art. 103<i>c</i> para. 1, 2 and 5 and 103<i>f</i> let. a and c FNIA)</subheading><article eId="art_3"><num><b>Art. 3</b></num><paragraph eId="art_3/para"><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">The list of data in the EES, the bodies with rights of access thereto and the scope of the rights of access are set out in Annex 2.</p></content></paragraph></article></section><section eId="sec_3"><num>Section 3</num><heading>Procedure for Consulting and Accessing EES data</heading><article eId="art_4"><num><b>Art. 4</b></num><heading>Consultation for checking visa applications and making visa decisions</heading><paragraph eId="art_4/para_1"><num>1 </num><content><blockList><listIntroduction eId="art_4/para_1/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">The EES shall be consulted directly via the national visa system (ORBIS) to check visa applications and to decide on such applications or to decide on the annulment, revocation or extension of a visa, using one or more of the following data:</listIntroduction><item eId="art_4/para_1/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">surname, first name, date of birth, gender, nationality (personal data);</p></item><item eId="art_4/para_1/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">type and number of the travel document, code of the issuing State, expiry date (travel document data);</p></item><item eId="art_4/para_1/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">number of the visa sticker, code of the issuing State (visa-related data);</p></item><item eId="art_4/para_1/lbl_d"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">d. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">fingerprints, facial image (biometric data).</p></item></blockList></content></paragraph><paragraph eId="art_4/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> If the search produces a hit, the authorised body may request the data in categories I-VI in accordance with Annex 2.</p></content></paragraph></article><article eId="art_5"><num><b>Art. 5</b></num><heading>Consultation during checks at Schengen external borders or on Swiss territory</heading><paragraph eId="art_5/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The EES shall be consulted during checks on third-country nationals at the Schengen external borders or to verify the legal residence of third-country nationals on Swiss territory on the basis of one or more items of personal data or travel document data.</p></content></paragraph><paragraph eId="art_5/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> If the search produces a hit, the biometric data of the person concerned recorded live shall be compared with their stored biometric data.</p></content></paragraph><paragraph eId="art_5/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> If the comparison results in a match, the authorised body may consult the data in Categories I-VI in accordance with Annex 2.</p></content></paragraph><paragraph eId="art_5/para_4"><num>4</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> If the search does not produce any hits or if the consulting body has doubts about the identity of the person concerned, the consulting body shall consult the EES for identification purposes.</p></content></paragraph></article><article eId="art_6"><num><b>Art. 6</b></num><heading>Collection and updating of data</heading><paragraph eId="art_6/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> If consultation of the EES during checks on third-country nationals in accordance with Article 5 reveals that no personal EES dossier has yet been created for the person concerned, the consulting body may create one.</p></content></paragraph><paragraph eId="art_6/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> If consultation reveals that the time of entry into or exit from the Schengen area or the refusal of entry was not recorded in the EES for the person concerned, the consulting body may record this.<authorialNote>
+		<p> Erratum of 13 Sept. 2023, concerns only the Italian text (<ref href="https://fedlex.data.admin.ch/eli/oc/2023/508" xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">AS <b>2023</b> 508</ref>).</p>
+	</authorialNote></p></content></paragraph><paragraph eId="art_6/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> If consultation reveals that data on the person concerned has already been recorded in the EES, the consulting body may update this data.</p></content></paragraph></article><article eId="art_7"><num><b>Art. 7</b></num><heading>Consultation for identification purposes</heading><paragraph eId="art_7/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Consultation of the EES in order to identify third-country nationals who may already have been registered under a different identity or who do not or who no longer fulfil the requirements for entry to or residence in the Schengen area shall carried out using the biometric data recorded live.</p></content></paragraph><paragraph eId="art_7/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> If the search produces a hit, the authorised body may consult the data in categories I-VI in accordance with Annex 2.</p></content></paragraph></article><article eId="art_8"><num><b>Art. 8</b></num><heading>Consultation of the automated calculator</heading><subheading fedlex:role="reference" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> (Art. 103<i>c</i> para. 3 FNIA)</subheading><paragraph eId="art_8/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The authorised bodies may consult the automated calculator online in order to determine whether the third-country national concerned has exceeded the authorised period of stay in the Schengen area.</p></content></paragraph><paragraph eId="art_8/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The calculator provides the data for category VI in accordance with Annex 2.</p></content></paragraph></article><article eId="art_9"><num><b>Art. 9</b></num><heading>Access to the list generated by the information mechanism</heading><subheading fedlex:role="reference" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> (Art. 103<i>f</i> let. j FNIA)</subheading><paragraph eId="art_9/para_1"><num>1</num><content><blockList><listIntroduction eId="art_9/para_1/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The following SEM bodies may access the list of third-country nationals who have exceeded the authorised period of stay in the Schengen area generated by the information mechanism in accordance with Article 12 of Regulation (EU) 2017/2226<authorialNote>
+		<p> See footnote to Art. 1 let. a.</p>
+	</authorialNote>:</listIntroduction><item eId="art_9/para_1/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the Planning and Resources Directorate: to compile statistics;</p></item><item eId="art_9/para_1/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the Immigration and Integration Directorate: to fulfil their tasks in relation to visas, travel documents and identification.</p></item></blockList></content></paragraph><paragraph eId="art_9/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The list contains the data of categories I, II, V and VI according to Annex 2.</p></content></paragraph></article></section><section eId="sec_4"><num>Section 4</num><heading>Access to EES Data via the Central Access Point for Security and Law Enforcement</heading><article eId="art_10"><num><b>Art. 10</b></num><heading>Authorised entities</heading><subheading fedlex:role="reference" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> (Art. 103<i>c</i> para. 4 FNIA)</subheading><paragraph eId="art_10/para_1"><num>1</num><content><blockList><listIntroduction eId="art_10/para_1/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The following federal bodies in accordance with Article 103<i>c</i> paragraph 4 letters a-c FNIA may request EES data from the fedpol Operations and Alarm Centre (OAC fedpol) for the prevention, detection or investigation of terrorist offences or other serious criminal offences within the scope of their statutory duties:</listIntroduction><item eId="art_10/para_1/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><blockList><listIntroduction eId="art_10/para_1/lbl_a/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">at fedpol:</listIntroduction><item eId="art_10/para_1/lbl_a/lbl_1"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">1. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the Directorate of Federal Criminal Police,</p></item><item eId="art_10/para_1/lbl_a/lbl_2"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">2. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the Directorate of International Police Cooperation;</p></item></blockList></item><item eId="art_10/para_1/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><blockList><listIntroduction eId="art_10/para_1/lbl_b/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">at the Federal Intelligence Service:</listIntroduction><item eId="art_10/para_1/lbl_b/lbl_1"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">1. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the Procurement Section,</p></item><item eId="art_10/para_1/lbl_b/lbl_2"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">2. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the Evaluation Section,</p></item><item eId="art_10/para_1/lbl_b/lbl_3"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">3. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Counter Terrorism Coordination,</p></item><item eId="art_10/para_1/lbl_b/lbl_4"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">4. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Intelligence Service Coordination,</p></item><item eId="art_10/para_1/lbl_b/lbl_5"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">5. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Counter Extremism Coordination,</p></item><item eId="art_10/para_1/lbl_b/lbl_6"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">6. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Non-Proliferation Coordination,</p></item><item eId="art_10/para_1/lbl_b/lbl_7"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">7.  </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the Aliens Service Division;</p></item></blockList></item><item eId="art_10/para_1/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><blockList><listIntroduction eId="art_10/para_1/lbl_c/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">at the Office of the Attorney General of Switzerland:</listIntroduction><item eId="art_10/para_1/lbl_c/lbl_1"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">1. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the Judgment Enforcement Unit: for the enforcement of decisions by the federal criminal justice authorities where the cantons do not have jurisdiction, in particular in application of Article 82 paragraph 1 of the Ordinance of 24 October 2007<authorialNote>
+		<p> <ref fedlex:rs-uri="https://fedlex.data.admin.ch/eli/cc/2007/759" fedlex:rs="142.201" href="https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852">SR <b>142.201</b></ref></p>
+	</authorialNote> on Admission, Period of Stay and Employment,</p></item><item eId="art_10/para_1/lbl_c/lbl_2"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">2. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the divisions for state security and criminal organisations, white-collar crime, mutual legal assistance, terrorism, international criminal law and cybercrime in Bern and in the branches in Lausanne, Lugano and Zurich: for the investigation and prosecution of criminal offences that are subject to federal jurisdiction under Articles 23 and 24 of the Criminal Procedure Code<authorialNote>
+		<p> <ref fedlex:rs-uri="https://fedlex.data.admin.ch/eli/cc/2010/267" fedlex:rs="312.0" href="https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214">SR <b>312.0</b></ref></p>
+	</authorialNote> or specific federal primary legislation.</p></item></blockList></item></blockList></content></paragraph><paragraph eId="art_10/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The police and prosecution authorities of the cantons in accordance with Article 103<i>c</i> paragraph 4 letter d FNIA may request EES data from the OAC fedpol for the prevention, detection or investigation of terrorist offences or other serious criminal offences within the scope of their statutory duties.</p></content></paragraph></article><article eId="art_11"><num><b>Art. 11</b></num><heading>Procedure for obtaining the data</heading><subheading fedlex:role="reference" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> (Art. 103<i>f</i> let. b FNIA)</subheading><paragraph eId="art_11/para"><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">In order to obtain EES data, the authorised agencies must submit a request to the OAC fedpol stating the reasons therefor.</p></content></paragraph></article><article eId="art_12"><num><b>Art. 12</b></num><heading>Conditions for obtaining the data</heading><subheading fedlex:role="reference" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> (Art. 103<i>f</i> let. b and h FNIA)</subheading><paragraph eId="art_12/para_1"><num>1</num><content><blockList><listIntroduction eId="art_12/para_1/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The conditions for obtaining the data are that:</listIntroduction><item eId="art_12/para_1/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><blockList><listIntroduction eId="art_12/para_1/lbl_a/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the requested data are required:</listIntroduction><item eId="art_12/para_1/lbl_a/lbl_1"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">1. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">to identify previous journeys and stays on the territory of any Schengen States by known persons who are suspected of terrorist offences or other serious criminal offences, have committed such offences or are suspected victims of such offences, or</p></item><item eId="art_12/para_1/lbl_a/lbl_2"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">2. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">to identify unknown persons who are suspected of terrorist offences or other serious criminal offences, have committed such offences or are suspected victims of such offences;</p></item></blockList></item><item eId="art_12/para_1/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the disclosure of data is proportionate; and</p></item><item eId="art_12/para_1/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">there is evidence or reason to believe that the disclosure of the data will contribute to the fulfilment of the purpose pursued.</p></item></blockList></content></paragraph><paragraph eId="art_12/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The OAC fedpol shall check whether the requirements are met before disclosing the data.</p></content></paragraph><paragraph eId="art_12/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The receipt of data for the identification of unknown persons in accordance with paragraph 1 letter a number 2 additionally requires that the authorities authorised to access the data have searched the Automated Fingerprint Identification System (AFIS) in accordance with the Ordinance of 6 December 2013<authorialNote>
+		<p> <ref fedlex:rs-uri="https://fedlex.data.admin.ch/eli/cc/2014/23" fedlex:rs="361.3" href="https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6311">SR <b>361.3</b></ref></p>
+	</authorialNote> on the Processing of Biometric Identification Data.</p></content></paragraph><paragraph eId="art_12/para_4"><num>4</num><content><blockList><listIntroduction eId="art_12/para_4/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> No prior search of the AFIS is required in cases where:</listIntroduction><item eId="art_12/para_4/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a search appears to be futile from the outset; or</p></item><item eId="art_12/para_4/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">an imminent threat to life must be averted in connection with a terrorist offence or other serious criminal offence.</p></item></blockList></content></paragraph></article><article eId="art_13"><num><b>Art. 13</b></num><heading>Procedure in urgent cases</heading><paragraph eId="art_13/para"><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">In urgent cases in which an imminent threat to life must be averted in connection with a terrorist offence or other serious criminal offence, the OAC fedpol shall process the application without delay and subsequently check whether the requirements of Article 12 were met and whether the case was indeed urgent.</p></content></paragraph></article><article eId="art_14"><num><b>Art. 14</b></num><heading>Retrieval and transmission of data</heading><subheading fedlex:role="reference" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> (Art. 103<i>f</i> let. b FNIA)</subheading><paragraph eId="art_14/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> If the conditions for obtaining the data are met, the OAC fedpol shall request the data from the EES.</p></content></paragraph><paragraph eId="art_14/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> For the purpose referred to in Article 12 paragraph 1 letter a number 1, the search shall be based on personal data, travel document data, visa-related data or biometric data. If the search results in one or more hits, the OAC fedpol may transmit the data in categories I-VI in accordance with Annex 2 to the requesting authority.</p></content></paragraph><paragraph eId="art_14/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> For the purpose set out in Article 12 paragraph 1 letter a number 2, the search shall be based on biometric data. If the search results in a hit, the OAC fedpol may transmit the category I data in accordance with Annex 2 to the requesting authority.</p></content></paragraph></article><article eId="art_15"><num><b>Art. 15</b></num><heading>Exchange of information with EU Member States that do not apply Regulation (EU) 2017/2226</heading><subheading fedlex:role="reference" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> (Art. 103<i>c</i> para. 4, 103<i>e</i> and 103<i>f</i> let. i FNIA)</subheading><paragraph eId="art_15/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The EU Member States referred to in Article 103<i>e</i> FNIA may address their requests to obtain the data to the authorities authorised to access the data in accordance with Article 10.</p></content></paragraph><paragraph eId="art_15/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The procedure, conditions for obtaining the data, and the retrieval and transmission of the data are governed by Articles 11-14 <i>mutatis mutandis</i>.</p></content></paragraph></article></section><section eId="sec_5"><num>Section 5</num><heading>Correction, Completion and Erasure of Data</heading><article eId="art_16"><num><b>Art. 16</b></num><heading>Erasure of data of third-country nationals who are no longer subject to the EES</heading><subheading fedlex:role="reference" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> (Art. 103<i>f</i> let. d FNIA)</subheading><paragraph eId="art_16/para"><content><blockList><listIntroduction eId="art_16/para/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">The data in categories I-VI according to Annex 2 of third-country nationals who are no longer subject to the EES shall be deleted by SEM as soon as the person concerned:</listIntroduction><item eId="art_16/para/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">has submitted an application for asylum in Switzerland;</p></item><item eId="art_16/para/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">has obtained a visa for a longer-term stay in Switzerland;</p></item><item eId="art_16/para/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">holds a residence permit in Switzerland; or</p></item><item eId="art_16/para/lbl_d"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">d. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">has acquired Swiss citizenship.</p></item></blockList></content></paragraph></article><article eId="art_17"><num><b>Art. 17</b></num><heading>Correction, completion or erasure of data from the information mechanism</heading><subheading fedlex:role="reference" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> (Art. 103<i>f</i> let. d FNIA)</subheading><paragraph eId="art_17/para"><content><blockList><listIntroduction eId="art_17/para/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">On request, SEM shall correct, complete or delete data of third-country nationals who are reported by the information mechanism if the person making the request can prove that:</listIntroduction><item eId="art_17/para/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">they were forced by unforeseeable, serious events to exceed the duration of their authorised stay in the Schengen area;</p></item><item eId="art_17/para/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">they are now authorised to stay in the Schengen area.</p></item></blockList></content></paragraph></article></section><section eId="sec_6"><num>Section 6</num><heading>Rights of Data Subjects, Data Protection, Data Security and Supervision of Data Processing</heading><article eId="art_18"><num><b>Art. 18</b></num><heading>Right of data subjects to information about the data</heading><paragraph eId="art_18/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The right to information is governed by the Data Protection Act of 25 September 2020<authorialNote>
+		<p> <ref fedlex:rs-uri="https://fedlex.data.admin.ch/eli/cc/2022/491" fedlex:rs="235.1" href="https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993">SR <b>235.1</b></ref></p>
+	</authorialNote>.<authorialNote>
+		<p> Amended by Annex 2 No II 5 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 (<ref href="https://fedlex.data.admin.ch/eli/oc/2022/568" xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">AS <b>2022</b> 568</ref>).</p>
+	</authorialNote></p></content></paragraph><paragraph eId="art_18/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> SEM processes the requests for information.</p></content></paragraph></article><article eId="art_19"><num><b>Art. 19</b></num><heading>Right of data subjects to rectification, completion or erasure of data</heading><subheading fedlex:role="reference" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> (Art. 103<i>f</i> let. d FNIA)</subheading><paragraph eId="art_19/para_1"><num>1 </num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">The procedure for exercising the right to rectify, complete or erase data in the EES is governed by Article 52 of Regulation (EU) 2017/2226<authorialNote>
+		<p> See footnote to Art. 1 let. a.</p>
+	</authorialNote>.</p></content></paragraph><paragraph eId="art_19/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> SEM processes requests to correct, complete or delete data.</p></content></paragraph></article><article eId="art_20"><num><b>Art. 20</b></num><heading>Data security</heading><subheading fedlex:role="reference" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> (Art. 103<i>f</i> let. e FNIA)</subheading><paragraph eId="art_20/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> For authorised entities, data security is governed by Article 43 of Regulation (EU) 2017/2226<authorialNote>
+		<p> See footnote to Art. 1 let. a.</p>
+	</authorialNote>. They shall take the required measures to ensure data security.</p></content></paragraph><paragraph eId="art_20/para_2"><num>2</num><content><blockList><listIntroduction eId="art_20/para_2/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> Data security for the federal authorities is also governed by:</listIntroduction><item eId="art_20/para_2/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a.<authorialNote>
+		<p> Amended by Annex 2 No II 5 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 (<ref href="https://fedlex.data.admin.ch/eli/oc/2022/568" xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">AS <b>2022</b> 568</ref>).</p>
+	</authorialNote> </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the Data Protection Ordinance of 31 August 2022<authorialNote>
+		<p> <ref fedlex:rs-uri="https://fedlex.data.admin.ch/eli/cc/2022/568" fedlex:rs="235.11" href="https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994">SR <b>235.11</b></ref></p>
+	</authorialNote>;</p></item><item eId="art_20/para_2/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b.<authorialNote>
+		<p> Amended by Annex 2 No II 3 of the Information Security Ordinance of 8 Nov. 2023, in force since 1 Jan. 2024 (<ref href="https://fedlex.data.admin.ch/eli/oc/2023/735" xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">AS <b>2023</b> 735</ref>).</p>
+	</authorialNote> </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the Information Security Ordinance of 8 November 2023<authorialNote>
+		<p> <ref fedlex:rs-uri="https://fedlex.data.admin.ch/eli/cc/2023/735" fedlex:rs="128.1" href="https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166">SR <b>128.1</b></ref></p>
+	</authorialNote>.</p></item></blockList></content></paragraph></article><article eId="art_21"><num><b>Art. 21</b></num><heading>Statistics</heading><paragraph eId="art_21/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> SEM may compile statistics on the EES in cooperation with the Federal Statistical Office.</p></content></paragraph><paragraph eId="art_21/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The rights of access for this purpose are set out in Annex 2.</p></content></paragraph><paragraph eId="art_21/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The statistics must not allow any conclusions to be drawn about the persons concerned.</p></content></paragraph></article><article eId="art_22"><num><b>Art. 22</b></num><heading>Responsibility for data processing</heading><subheading fedlex:role="reference" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> (Art. 103<i>f</i> let. g FNIA)</subheading><paragraph eId="art_22/para"><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">SEM is the national authority pursuant to Article 39(1) of Regulation (EU) 2017/2226<authorialNote>
+		<p> See footnote to Art. 1 let. a.</p>
+	</authorialNote>. It is responsible for performing the tasks defined therein.</p></content></paragraph></article><article eId="art_23"><num><b>Art. 23</b></num><heading>Supervision of data processing</heading><subheading fedlex:role="reference" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> (Art. 103<i>f</i> let. f FNIA)</subheading><paragraph eId="art_23/para_1"><num>1</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> The cantonal data protection authorities and the Federal Data Protection and Information Commissioner (FDPIC) shall work together within the scope of their respective responsibilities and coordinate the supervision of the processing of personal data.</p></content></paragraph><paragraph eId="art_23/para_2"><num>2</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> In fulfilling its duties, the FDPIC shall work with the European Data Protection Supervisor, for whom the FDPIC is the national contact point.</p></content></paragraph><paragraph eId="art_23/para_3"><num>3</num><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"> It is the national supervisory authority in accordance with Article 55(2) of Regulation (EU) 2017/2226<authorialNote>
+		<p> See footnote to Art. 1 let. a.</p>
+	</authorialNote>. It is responsible for the fulfilment of the tasks defined therein.</p></content></paragraph></article></section><section eId="sec_7"><num>Section 7</num><heading>Commencement</heading><article eId="art_24"><num><b>Art. 24</b></num><paragraph eId="art_24/para"><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">This Ordinance comes into force on 1 May 2022.</p></content></paragraph></article></section></body><components><component><doc name="annex"><meta><identification source="#ch.bk"><FRBRWork><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/2021/734/20240101/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/2021/734/20240101"/><FRBRdate date="2024-01-01" name="jolux:dateApplicability"/><FRBRdate date="2022-05-01" name="jolux:dateEntryInForce"/><FRBRdate date="2021-11-10" name="jolux:dateDocument"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRcountry value="CH"/><FRBRnumber value=""/><FRBRname xml:lang="fr" value="Ordonnance du 10 novembre 2021 sur le système d’entrée et de sortie (OEES)" shortForm="OEES"/><FRBRname xml:lang="it" value="Ordinanza del 10 novembre 2021 sul sistema di ingressi/uscite (OEES)" shortForm="OEES"/><FRBRname xml:lang="en" value="Ordinance of 10 November 2021 on the Entry/Exit System (EESO)" shortForm="EESO"/><FRBRname xml:lang="de" value="Verordnung vom 10. November 2021 über das Einreise- und Ausreisesystem (EESV)" shortForm="EESV"/><FRBRauthoritative value="true"/></FRBRWork><FRBRExpression><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/2021/734/20240101/en/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/2021/734/20240101/en"/><FRBRdate date="2024-01-01" name="jolux:dateApplicability"/><FRBRdate date="2022-05-01" name="jolux:dateEntryInForce"/><FRBRdate date="2021-11-10" name="jolux:dateDocument"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRlanguage language="en"/></FRBRExpression><FRBRManifestation><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/2021/734/20240101/en/xml/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/2021/734/20240101/en/xml"/><FRBRdate date="2024-01-01" name="jolux:dateApplicability"/><FRBRdate date="2022-05-01" name="jolux:dateEntryInForce"/><FRBRdate date="2021-11-10" name="jolux:dateDocument"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRformat value="xml"/></FRBRManifestation></identification></meta><preface><container name="headerOfAnnex"><block name="heading">Annex 1</block></container></preface><mainBody><p>(Art. 2 para. 2)</p><level eId="annex_1/lvl_u1"><heading>Schengen Association Agreements</heading><content><blockList><listIntroduction eId="annex_1/lvl_u1/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">The Schengen Association Agreements comprise:</listIntroduction><item eId="annex_1/lvl_u1/lbl_a"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">a. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the Agreement of 26 October 2004<authorialNote>
+		<p> <ref fedlex:rs-uri="https://fedlex.data.admin.ch/eli/cc/2008/113" fedlex:rs="0.362.31" href="https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1513">SR <b>0.362.31</b></ref></p>
+	</authorialNote> between the Swiss Confederation, the European Union and the European Community on the association of that State with the implementation, application and development of the Schengen acquis (SAA);</p></item><item eId="annex_1/lvl_u1/lbl_b"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">b. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the Agreement of 26 October 2004<authorialNote>
+		<p> <ref fedlex:rs-uri="https://fedlex.data.admin.ch/eli/cc/2008/117" fedlex:rs="0.362.1" href="https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1508">SR <b>0.362.1</b></ref></p>
+	</authorialNote> in the form of an exchange of letters between the Council of the European Union and the Swiss Confederation on the Committees that assist the European Commission in the exercise of its executive powers;</p></item><item eId="annex_1/lvl_u1/lbl_c"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">c. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the Arrangement of 22 September 2011<authorialNote>
+		<p> <ref fedlex:rs-uri="https://fedlex.data.admin.ch/eli/cc/2012/283" fedlex:rs="0.362.11" href="https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1509">SR <b>0.362.11</b></ref></p>
+	</authorialNote> between the European Union and the Republic of Iceland, the Principality of Liechtenstein, the Kingdom of Norway and the Swiss Confederation on the participation by those States in the work of the committees which assist the European Commission in the exercise of its executive powers as regards the implementation, application and development of the Schengen acquis;</p></item><item eId="annex_1/lvl_u1/lbl_d"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">d. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the Agreement of 17 December 2004<authorialNote>
+		<p> <ref fedlex:rs-uri="https://fedlex.data.admin.ch/eli/cc/2008/116" fedlex:rs="0.362.32" href="https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519">SR <b>0.362.32</b></ref></p>
+	</authorialNote> between the Swiss Confederation, the Republic of Iceland and the Kingdom of Norway on the Implementation, Application and Development of the Schengen acquis and on the Criteria and Procedure for determining the State responsible for examining an application for asylum lodged in Switzerland, Iceland or Norway;</p></item><item eId="annex_1/lvl_u1/lbl_e"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">e. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the Agreement of 28 April 2005<authorialNote>
+		<p> <ref fedlex:rs-uri="https://fedlex.data.admin.ch/eli/cc/2008/114" fedlex:rs="0.362.33" href="https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1520">SR <b>0.362.33</b></ref></p>
+	</authorialNote> between the Swiss Confederation and the Kingdom of Denmark on the implementation, application and development of those parts of the Schengen acquis that are based on the provisions of Title IV of the Treaty establishing the European Community;</p></item><item eId="annex_1/lvl_u1/lbl_f"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">f. </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">the Protocol of 28 February 2008<authorialNote>
+		<p> <ref fedlex:rs-uri="https://fedlex.data.admin.ch/eli/cc/2011/205" fedlex:rs="0.362.311" href="https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1514">SR <b>0.362.311</b></ref></p>
+	</authorialNote> between the Swiss Confederation, the European Union, the European Community and the Principality of Liechtenstein on the accession of the Principality of Liechtenstein to the Agreement between the Swiss Confederation, the European Union and the European Community on the association of the Swiss Confederation with the implementation, application and development of the Schengen acquis.</p></item></blockList></content></level></mainBody></doc></component><component><doc name="annex"><meta><identification source="#ch.bk"><FRBRWork><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/2021/734/20240101/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/2021/734/20240101"/><FRBRdate date="2024-01-01" name="jolux:dateApplicability"/><FRBRdate date="2022-05-01" name="jolux:dateEntryInForce"/><FRBRdate date="2021-11-10" name="jolux:dateDocument"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRcountry value="CH"/><FRBRnumber value=""/><FRBRname xml:lang="fr" value="Ordonnance du 10 novembre 2021 sur le système d’entrée et de sortie (OEES)" shortForm="OEES"/><FRBRname xml:lang="it" value="Ordinanza del 10 novembre 2021 sul sistema di ingressi/uscite (OEES)" shortForm="OEES"/><FRBRname xml:lang="en" value="Ordinance of 10 November 2021 on the Entry/Exit System (EESO)" shortForm="EESO"/><FRBRname xml:lang="de" value="Verordnung vom 10. November 2021 über das Einreise- und Ausreisesystem (EESV)" shortForm="EESV"/><FRBRauthoritative value="true"/></FRBRWork><FRBRExpression><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/2021/734/20240101/en/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/2021/734/20240101/en"/><FRBRdate date="2024-01-01" name="jolux:dateApplicability"/><FRBRdate date="2022-05-01" name="jolux:dateEntryInForce"/><FRBRdate date="2021-11-10" name="jolux:dateDocument"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRlanguage language="en"/></FRBRExpression><FRBRManifestation><FRBRthis value="https://fedlex.data.admin.ch/eli/cc/2021/734/20240101/en/xml/main-text"/><FRBRuri value="https://fedlex.data.admin.ch/eli/cc/2021/734/20240101/en/xml"/><FRBRdate date="2024-01-01" name="jolux:dateApplicability"/><FRBRdate date="2022-05-01" name="jolux:dateEntryInForce"/><FRBRdate date="2021-11-10" name="jolux:dateDocument"/><FRBRauthor href="#ch.bk" as="#publisher"/><FRBRauthor href="#ch.bk" as="#rightsHolder"/><FRBRformat value="xml"/></FRBRManifestation></identification></meta><preface><container name="headerOfAnnex"><block name="heading">Annex 2</block></container></preface><mainBody><p>(Art. 3, 4 para. 2, 5 para. 3, 7 para. 2, 8 para. 2, 9 para. 2, 14 para. 2 and 3, 16 and 21 para. 2)</p><level eId="annex_2/lvl_u1"><heading>List of data, authorised entities and scope of rights of access in the EES</heading><content><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Key:</p><blockList eId="annex_2/lvl_u1/list_u1"><listIntroduction eId="annex_2/lvl_u1/list_u1/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Scope of rights of access:</listIntroduction><item eId="annex_2/lvl_u1/list_u1/lbl_A"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Online enquiry</p></item><item eId="annex_2/lvl_u1/list_u1/lbl_B"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Online input and editing</p></item><item eId="annex_2/lvl_u1/list_u1/bull_u3"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Empty </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">No access</p></item><item eId="annex_2/lvl_u1/list_u1/lbl_1"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration"><sup>1</sup> </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Only directly via ORBIS</p></item></blockList><blockList eId="annex_2/lvl_u1/list_u2"><listIntroduction eId="annex_2/lvl_u1/list_u2/listintro" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Authorised entities:</listIntroduction><item eId="annex_2/lvl_u1/list_u2/bull_u1"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">SEM </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">State Secretariat for Migration</p></item><item eId="annex_2/lvl_u1/list_u2/lbl_I"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">–   I </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Planning and Resources Directorate</p></item><item eId="annex_2/lvl_u1/list_u2/bull_u3"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">–   II </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Immigration and Integration Directorate</p></item><item eId="annex_2/lvl_u1/list_u2/bull_u4"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">–   III </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">International Affairs Directorate</p></item><item eId="annex_2/lvl_u1/list_u2/bull_u5"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">OAC fedpol </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Operations and Alarm Centre fedpol</p></item><item eId="annex_2/lvl_u1/list_u2/bull_u6"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">FR </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Swiss foreign representations and missions</p></item><item eId="annex_2/lvl_u1/list_u2/bull_u7"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">EDA </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Federal Department of Foreign Affairs: State Secretariat and Consular Directorate</p></item><item eId="annex_2/lvl_u1/list_u2/bull_u8"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">FOCBS </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Federal Office for Customs and Border Security: Staff responsible for controls on persons</p></item><item eId="annex_2/lvl_u1/list_u2/bull_u9"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">CAPO </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">Cantonal or communal police authorities carrying out duties under the law on foreign nationals on Swiss territory</p></item><item eId="annex_2/lvl_u1/list_u2/bull_u10"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">BORPO </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">cantonal police authorities responsible for controlling Schengen external borders</p></item><item eId="annex_2/lvl_u1/list_u2/bull_u11"><num xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">MIGRA </num><p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">cantonal migration authorities or communal authorities to which the cantons have delegated the relevant powers</p></item></blockList></content></level><level eId="annex_2/lvl_u2"><heading>List of EES data</heading><content><table border="1">
+			
+			
+			<tr>
+				
+				
+				<th xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">
+					
+					<p>Name of EES data fields</p>
+				</th>
+				<th colspan="2" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">
+					
+					<p>SEM</p>
+				</th>
+				<th colspan="2" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">
+					
+					
+				</th>
+				<th xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">
+					
+					
+				</th>
+				<th colspan="7" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">
+					
+					
+				</th>
+			</tr>
+			<tr>
+				
+				
+				<th xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">
+					
+					
+				</th>
+				<th xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">
+					
+					<p>I</p>
+				</th>
+				<th colspan="2" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">
+					
+					<p>II</p>
+				</th>
+				<th colspan="2" xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">
+					
+					<p>III</p>
+				</th>
+				<th xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">
+					
+					<p>OAC fedpol</p>
+				</th>
+				<th xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">
+					
+					<p>FR</p>
+				</th>
+				<th xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">
+					
+					<p>FDFA</p>
+				</th>
+				<th xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">
+					
+					<p>FOCBS</p>
+				</th>
+				<th xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">
+					
+					<p>CAPO</p>
+				</th>
+				<th xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">
+					
+					<p>BORPO</p>
+				</th>
+				<th xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">
+					
+					<p>MIGRA</p>
+				</th>
+			</tr>
+			<tr>
+				
+				<td colspan="13">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">I. Personal EES dossier</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td colspan="13">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">1. Personal data </p>
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p>Surname</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p>First name</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p>Date of birth</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p>Sex</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+			</tr>
+			<tr>
+				
+				
+				<td>
+					
+					<p>Nationalities</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td colspan="13">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">2. Biometric data</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Facial image</p>
+				</td>
+				<td>
+					
+					
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Fingerprints</p>
+				</td>
+				<td>
+					
+					
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Reasons why fingerprints not taken or facial image not taken</p>
+				</td>
+				<td>
+					
+					
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td colspan="13">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">3. Data on travel document</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Type and number of travel document:</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Code of the issuing country of travel document</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Date of expiry of validity of travel document</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td colspan="13">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">II Entry and exit data</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td colspan="13">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">1. Entry data</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Date and time of entry</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Border crossing point of entry</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Competent authority</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Family member of third-country national in accordance with Art. 2 para. 3 let. b of Regulation (EU) 2017/2226<authorialNote>
+		<p> See footnote to Art. 1 let. a.</p>
+	</authorialNote> (yes/no)</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Number of visa sticker</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Code of the issuing country of the visa sticker</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Period of validity of visa: start date and expiry date</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>End date of the maximum duration of the authorised stay</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Number of authorised entries during validity</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Information on the limited territorial validity of the visa</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td colspan="13">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">2. Exit data</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Date and time of exit</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Border crossing point of exit</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td colspan="13">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">III. Data in the event of annulment or revocation of a visa and non-extension or revocation of a stay</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Status information: annulled, revoked</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Place and date of decision</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Authority and location</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Reasons for annulment or revocation</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td colspan="13">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">IV. Data on extending a visa or a stay</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Status information: extended</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Place and date of decision</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Authority and location</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Extension start date and expiry date</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Commencement and expiry date of extension</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Visa sticker number for extended visa</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Duration of extension of authorised stay:</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Reasons for extension</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Code of the issuing country</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td colspan="13">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">V. Entry refusal data</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Date and time of decision</p>
+				</td>
+				<td>
+					
+					
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Border crossing point for refusal of entry</p>
+				</td>
+				<td>
+					
+					
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Authority responsible</p>
+				</td>
+				<td>
+					
+					
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Reasons for refusal of entry</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Number of visa sticker</p>
+				</td>
+				<td>
+					
+					
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">B</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td colspan="13">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">VI Automated calculator</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Maximum remaining duration of authorised stay based on the data on intended entries</p>
+				</td>
+				<td>
+					
+					
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A<sup xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">1</sup></p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A<sup xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">1</sup></p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Number of entries still authorised for visas issued for a single entry or two entries</p>
+				</td>
+				<td>
+					
+					
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					
+				</td>
+				<td>
+					
+					
+				</td>
+				<td>
+					
+					
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Duration of overstay</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					
+				</td>
+				<td>
+					
+					
+				</td>
+				<td>
+					
+					
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Maximum duration of authorised stay on entry</p>
+				</td>
+				<td>
+					
+					
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A<sup xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">1</sup></p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A<sup xmlns:tmp="urn:com:c-moria:legi4ch:xslt:temp">1</sup></p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td colspan="13">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">VII. Information on national facilitation programmes</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Member State that operates a National Facilitation Programme (NFP)</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Name of the NFP</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+			</tr>
+			<tr>
+				
+				<td>
+					
+					<p>Validity of the granted NFP status</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td colspan="2">
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+				<td>
+					
+					<p xmlns:mig="urn:com:c-moria:legi4ch:xslt:migration">A</p>
+				</td>
+			</tr>
+		</table></content></level></mainBody></doc></component></components></act></akomaNtoso>

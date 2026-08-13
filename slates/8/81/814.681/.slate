@@ -1,0 +1,6 @@
+name: OCRCS
+description: SR 814.681 — Ordinance of 26 September 2008 on the Charge for the Remediation of Contaminated Sites (OCRCS). Unofficial English mirror of the Fedlex consolidation of 1 January 2016. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Federal Council ordinance", "jurisdiction": "Switzerland", "reference": "SR 814.681", "dateInForce": "2009-01-01", "adopted": "2008-09-26", "consolidated": "2016-01-01", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/2008/670"}

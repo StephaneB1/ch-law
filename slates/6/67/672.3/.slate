@@ -1,0 +1,6 @@
+name: Federal Act on the Recognition of Private…
+description: SR 672.3 — Federal Act of 17 June 2011 on the Recognition of Private Agreements  for the Avoidance of Double Taxation with respect to Taxes on Income and on Capital. Unofficial English mirror of the Fedlex consolidation of 15 November 2011. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Federal act", "jurisdiction": "Switzerland", "reference": "SR 672.3", "dateInForce": "2011-11-15", "adopted": "2011-06-17", "consolidated": "2011-11-15", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/2011/685"}

@@ -16,6 +16,7 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import collections
 import json
 import pathlib
 import re
@@ -31,7 +32,14 @@ SLATES_DIR = ROOT / "slates"
 AKN = "{http://docs.oasis-open.org/legaldocml/ns/akn/3.0}"
 
 # Elements that divide an act above article level, in the order Fedlex nests them.
-DIVISIONS = ("book", "part", "title", "chapter", "section", "subsection")
+# Only these open a page; anything else that holds articles is still walked into.
+DIVISIONS = ("book", "part", "title", "chapter", "section", "subsection", "subchapter")
+
+# Elements that carry an article's own text rather than structure.
+CONTENT = ("content", "p", "blockList", "paragraph", "intro", "wrapUp", "table")
+
+# Metadata on a container, read by labelled() rather than walked into.
+LABELS = ("num", "heading", "subheading", "authorialNote")
 
 MONTHS = (
     "January", "February", "March", "April", "May", "June",
@@ -52,6 +60,12 @@ DISCLAIMER = (
 TITLE_DATE = re.compile(r"\s+of\s+\d{1,2}\s+\w+\s+\d{4}")
 
 NAME_LIMIT = 50
+
+# Elements that sit inside a run of text rather than breaking it. "Art. 305bis"
+# is a <sup> inside a <num>, and the ordinal has to close up against the number.
+INLINE = frozenset(
+    ("sup", "sub", "b", "i", "u", "inline", "ref", "span", "docNumber", "docTitle", "date")
+)
 
 
 class ParseError(RuntimeError):
@@ -109,12 +123,13 @@ def eid_label(eid: str) -> str:
 def slate_path(sr: str) -> pathlib.Path:
     """slates/<class>/<group>/<sr> — one directory per digit group.
 
-    Class 0 (international treaties) subdivides differently and is left to tree.py,
-    which owns the taxonomy; refusing here is better than inventing a layout that
-    the tree stage would then have to contradict.
+    Class 0 is the international treaties, whose numbers carry the class in front
+    of the dot: SR 0.810.3 belongs to group 0.81 exactly as SR 231.1 belongs to
+    group 23. Same rule, read one component to the right.
     """
-    if sr.startswith("0"):
-        raise NotImplementedError(f"SR {sr}: class 0 layout belongs to tree.py")
+    if sr.startswith("0."):
+        digits = sr.split(".")[1]
+        return SLATES_DIR / "0" / f"0.{digits[:2]}" / sr
     digits = sr.split(".")[0]
     return SLATES_DIR / digits[0] / digits[:2] / sr
 
@@ -226,30 +241,92 @@ def content_lines(content: ET.Element) -> list[str]:
     return lines
 
 
+def one_paragraph(para: ET.Element) -> list[str]:
+    """A numbered paragraph: its blocks, with the number leading the first line."""
+    num = para.find(f"{AKN}num")
+    marker = text_of(num) if num is not None else ""
+
+    # Every child is read, not only <content>: SR 101 hangs tables straight off
+    # the paragraph, and a walker that looked for <content> alone lost them.
+    blocks: list[str] = []
+    for child in para:
+        tag = child.tag[len(AKN):]
+        if tag in ("num", "authorialNote"):
+            continue
+        if tag == "content":
+            blocks.extend(content_lines(child))
+        elif tag == "blockList":
+            blocks.extend(block_lines(child))
+        else:
+            written = text_of(child)
+            if written:
+                blocks.append(written)
+    if not blocks:
+        return []
+
+    # The paragraph number leads its first line; Fedlex prints it as a
+    # superscript, which chext has no way to express.
+    blocks[0] = f"{marker} {blocks[0]}".strip() if marker else blocks[0]
+    return blocks
+
+
+def own_text(node: ET.Element) -> list[str]:
+    """Text belonging to a node itself, outside any article beneath it.
+
+    A <transitional> block carries its provisions as bare <paragraph> children,
+    with no article in sight. Reading only articles loses every word of them.
+    """
+    lines: list[str] = []
+    for element in node:
+        tag = element.tag[len(AKN):]
+        if tag == "paragraph":
+            lines.extend(one_paragraph(element))
+        elif tag == "content":
+            lines.extend(content_lines(element))
+        elif tag == "blockList":
+            lines.extend(block_lines(element))
+        elif tag in CONTENT:
+            written = text_of(element)
+            if written:
+                lines.append(written)
+    return lines
+
+
+def nested_text(node: ET.Element) -> list[str]:
+    """Structure nested inside an article, headings and all.
+
+    The Federal Constitution keeps its transitional provisions as <subdivision>
+    blocks under the article they amend, so an article is not always a flat list
+    of paragraphs.
+    """
+    lines: list[str] = []
+    for child in node:
+        tag = child.tag[len(AKN):]
+        if tag in CONTENT or tag in LABELS or tag == "article":
+            continue
+        label = labelled(child)
+        if label:
+            lines.append(label)
+        subtitle = subheading_of(child)
+        if subtitle:
+            lines.append(subtitle)
+        lines.extend(own_text(child))
+        lines.extend(nested_text(child))
+    return lines
+
+
 def paragraph_lines(article: ET.Element) -> list[str]:
     """One chext line per paragraph, list item, or bare block of an article."""
     lines: list[str] = []
 
     for para in article.findall(f"{AKN}paragraph"):
-        num = para.find(f"{AKN}num")
-        marker = text_of(num) if num is not None else ""
-
-        blocks: list[str] = []
-        for content in para.findall(f"{AKN}content"):
-            blocks.extend(content_lines(content))
-
-        if not blocks:
-            continue
-        # The paragraph number leads its first line; Fedlex prints it as a
-        # superscript, which chext has no way to express.
-        blocks[0] = f"{marker} {blocks[0]}".strip() if marker else blocks[0]
-        lines.extend(blocks)
+        lines.extend(one_paragraph(para))
 
     # A few articles carry content directly, with no numbered paragraphs at all.
     if not lines:
         for content in article.findall(f"{AKN}content"):
             lines.extend(content_lines(content))
-    return lines
+    return lines + nested_text(article)
 
 
 def chip(marker: str, lines: list[str], group: str) -> tuple[str, list[str], str]:
@@ -335,6 +412,17 @@ def labelled(node: ET.Element) -> str:
     )
 
 
+def subheading_of(node: ET.Element) -> str:
+    """An article's or division's subtitle.
+
+    Fedlex uses it for the cross-reference under a heading — SR 951.311 puts
+    "(Art. 2 para. 2 let. f CISA)" there — which is text of the act, not metadata,
+    and reading only <num> and <heading> silently dropped 1,395 words of it.
+    """
+    element = node.find(f"{AKN}subheading")
+    return text_of(element) if element is not None else ""
+
+
 def heading_only(node: ET.Element) -> str:
     name = node.find(f"{AKN}heading")
     written = text_of(name) if name is not None else ""
@@ -391,13 +479,18 @@ def render(act: dict, root: ET.Element) -> tuple[dict[str, list[str]], dict]:
             if notes:
                 out.append(chip(":NOTE", notes, "preamble"))
 
-    counts = {"articles": 0, "divisions": 0, "footnotes": 0, "repealed": 0}
+    counts = {"articles": 0, "divisions": 0, "footnotes": 0, "repealed": 0, "empty": 0, "loose": 0}
+    empty: list[str] = []   # articles the source leaves with a heading and no text
 
     def division_notes(node: ET.Element) -> list[str]:
         """A division's own footnote — anything deeper belongs to an article."""
         own = [
             text_of(note)
-            for element in (node.find(f"{AKN}num"), node.find(f"{AKN}heading"))
+            for element in (
+                node.find(f"{AKN}num"),
+                node.find(f"{AKN}heading"),
+                node.find(f"{AKN}subheading"),
+            )
             if element is not None
             for note in element.findall(f".//{AKN}authorialNote")
         ]
@@ -413,24 +506,53 @@ def render(act: dict, root: ET.Element) -> tuple[dict[str, list[str]], dict]:
         return section["id"]
 
     def emit(node: ET.Element, out: list) -> None:
+        # Text the node carries directly, before any of its sub-structure.
+        direct = own_text(node)
+        if direct:
+            out.append(chip(":INFO", direct, section["id"]))
+            counts["loose"] += 1
+            # Loose text has footnotes too, and only articles and labelled
+            # divisions were having theirs collected.
+            adrift = [
+                f"{anchor} — {written}" if anchor else written
+                for element in node
+                if element.tag[len(AKN):] in CONTENT
+                for anchor, written in notes_in(element)
+            ]
+            if adrift:
+                out.append(chip(":NOTE", adrift, section["id"]))
+                counts["footnotes"] += len(adrift)
+
         for child in node:
             tag = child.tag[len(AKN):]
-            if tag in DIVISIONS:
+            if tag in LABELS or tag in CONTENT:
+                continue  # collected by own_text() above
+            if tag != "article":
+                # Anything that is not an article is a container, whether or not
+                # this parser has heard of it. Fedlex nests articles under <level>,
+                # <proviso> and <transitional> as well as the named divisions, and
+                # an emitter that only recursed into a fixed list dropped 1,674 of
+                # the Code of Obligations' 1,686 articles without a word.
                 label = labelled(child)
                 if label:
                     # A divider, not a card: :PATH renders a heading on its own.
                     here = open_section()
-                    out.append(chip(":PATH", [label], here))
+                    subtitle = subheading_of(child)
+                    out.append(chip(":PATH", [label, subtitle] if subtitle else [label], here))
                     counts["divisions"] += 1
                     own = division_notes(child)
                     if own:
                         out.append(chip(":NOTE", own, here))
                         counts["footnotes"] += len(own)
+
                 emit(child, out)
-            elif tag == "article":
+            else:
                 label = labelled(child)
                 found = notes_in(child)
                 lines = paragraph_lines(child)
+                subtitle = subheading_of(child)
+                if subtitle:
+                    lines = [subtitle, *lines]
                 notes = [
                     f"{anchor} — {written}" if anchor else written
                     for anchor, written in found
@@ -443,10 +565,16 @@ def render(act: dict, root: ET.Element) -> tuple[dict[str, list[str]], dict]:
                     # A repealed article is an empty shell whose footnote is the
                     # only thing left of it — Art. 64 is "Repealed by Annex I …".
                     # Dropping the note would leave a heading with no text at all.
-                    if not notes:
-                        raise ParseError(f"{label or child.get('eId')} has no text")
-                    lines, notes = notes, []
-                    counts["repealed"] += 1
+                    if notes:
+                        lines, notes = notes, []
+                        counts["repealed"] += 1
+                    else:
+                        # Genuinely empty in the source: SR 443.14 Art. 4 carries a
+                        # heading and nothing else. The article exists in the act,
+                        # so it is emitted as its heading and counted, rather than
+                        # invented, hidden, or allowed to fail the whole ordinance.
+                        counts["empty"] += 1
+                        empty.append(label or child.get("eId", "?"))
 
                 out.append(chip(":INFO", [label, *lines], section["id"]))
                 counts["articles"] += 1
@@ -468,8 +596,18 @@ def render(act: dict, root: ET.Element) -> tuple[dict[str, list[str]], dict]:
     # One page per top-level division. An act is far easier to read as its own
     # Titles than as one scroll of a thousand lines, and the division is the unit
     # the drafters themselves chose. Acts with no divisions stay on home.
-    divisions = [c for c in body if c.tag[len(AKN):] in DIVISIONS and labelled(c)]
-    loose = [c for c in body if c.tag[len(AKN):] == "article"]
+    # Any labelled container at body level earns a page, not only the named
+    # divisions: the Code of Obligations keeps 83 articles in <transitional> and
+    # <proviso> blocks — its transitional and final provisions — and a page list
+    # built from DIVISIONS alone dropped every one of them.
+    divisions = [
+        c for c in body
+        if c.tag[len(AKN):] not in CONTENT + LABELS
+        and c.tag[len(AKN):] != "article"
+        and labelled(c)
+    ]
+    paged = {id(c) for c in divisions}
+    loose = [c for c in body if id(c) not in paged]
     pages: dict[str, list[str]] = {}
 
     banner = [
@@ -491,6 +629,10 @@ def render(act: dict, root: ET.Element) -> tuple[dict[str, list[str]], dict]:
         page: list[tuple[str, list[str], str]] = []
 
         # No chip repeating the division's own name: the page is named after it.
+        # Its subtitle is different — that is text, not a restatement of the name.
+        subtitle = subheading_of(division)
+        if subtitle:
+            page.append(chip(":PATH", [subtitle], "head"))
         own = division_notes(division)
         if own:
             page.append(chip(":NOTE", own, "head"))
@@ -518,11 +660,12 @@ def render(act: dict, root: ET.Element) -> tuple[dict[str, list[str]], dict]:
 
     # Articles sitting at body level, outside every division, stay on home.
     if loose:
+        # Whatever sits at body level outside a paged division stays on home, in
+        # document order, so nothing can fall between the pages.
         open_section()
-        for article in loose:
-            holder = ET.Element(f"{AKN}wrapper")
-            holder.append(article)
-            emit(holder, out)
+        holder = ET.Element(f"{AKN}wrapper")
+        holder.extend(loose)
+        emit(holder, out)
 
     out.append(chip(":INFO", ["Contents", *contents], "contents"))
     out.append(fedlex)
@@ -612,25 +755,112 @@ def build(sr: str, census: dict) -> dict:
     return {"sr": sr, "path": folder.relative_to(ROOT), "pages": len(pages), **counts}
 
 
+def verify(sr: str, act: dict, result: dict) -> list[str]:
+    """Compare the emitted slate against the source document.
+
+    Structural loss here is silent by nature: an emitter that skips a container it
+    does not recognise produces a perfectly valid slate that is simply missing 83
+    articles. Counting the articles in the XML and in the output is what catches
+    that, so it runs over the whole corpus rather than over the two acts that
+    happened to be checked by hand.
+    """
+    root = ET.parse(ACTS_DIR / sr / act["consolidated_en"] / "en.xml").getroot()
+    body = root.find(f".//{AKN}body")
+    complaints = []
+
+    expected = len(list(body.iter(f"{AKN}article")))
+    if expected != result["articles"]:
+        complaints.append(f"{expected} articles in source, {result['articles']} emitted")
+
+    # Every word of the source has to appear somewhere in the pages. Reading the
+    # document with itertext() would not do: joining its pieces with spaces splits
+    # "Art. 305bis" into two words, and joining them without spaces welds
+    # "…Provisions" onto "Art. 1". Inline elements close up, blocks take a space.
+    def flat(element: ET.Element) -> str:
+        parts = [element.text or ""]
+        for child in element:
+            inner = flat(child)
+            parts.append(inner if child.tag[len(AKN):] in INLINE else f" {inner} ")
+            parts.append(child.tail or "")
+        return "".join(parts)
+
+    joined: list[str] = []
+    for element in (root.find(f".//{AKN}preamble"), body):
+        if element is not None:
+            joined.extend(re.findall(r"[\w']+", flat(element).lower()))
+
+    # Comment lines are kept: a paged division's own label ("Title 1 Subject-
+    # Matter") is carried by the page name rather than by a chip, and the header
+    # comment is where it appears in the file.
+    pages = (slate_path(sr) / "pages").glob("*.chext")
+    text = re.sub(
+        r"^(:[A-Z]+.*|\|)$", "", "\n".join(p.read_text(encoding="utf-8") for p in pages),
+        flags=re.M,
+    )
+    emitted = collections.Counter(re.findall(r"[\w']+", text.lower()))
+    missing = sum(
+        count - emitted[token]
+        for token, count in collections.Counter(joined).items()
+        if count > emitted[token]
+    )
+    if missing > len(joined) * 0.001:
+        complaints.append(f"{missing} of {len(joined)} source words missing from pages")
+    return complaints
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("sr", nargs="+", help="SR numbers to emit")
+    parser.add_argument(
+        "sr", nargs="*", help="SR numbers to emit; default every act already fetched"
+    )
+    parser.add_argument("--quiet", action="store_true", help="only totals and failures")
+    parser.add_argument("--verify", action="store_true", help="check output against source")
     args = parser.parse_args()
 
     census = json.loads(CENSUS_PATH.read_text(encoding="utf-8"))
-    for sr in args.sr:
+    by_sr = {a["sr"]: a for a in census["acts"]}
+    wanted = args.sr or [
+        a["sr"]
+        for a in census["acts"]
+        if (ACTS_DIR / a["sr"] / a["consolidated_en"] / "en.xml").exists()
+    ]
+
+    totals = collections.Counter()
+    failures: list[tuple[str, str]] = []
+    for sr in wanted:
         try:
             result = build(sr, census)
-        except (ParseError, NotImplementedError) as exc:
+        except (ParseError, NotImplementedError, ET.ParseError) as exc:
+            # Collect and carry on: one odd document should not hide what the
+            # other 255 would have told us about the parser.
             print(f"  FAIL {sr}: {exc}", file=sys.stderr)
-            return 1
-        print(
-            f"  {result['sr']:<14} {result['pages']:>2} pages, {result['articles']:>4} articles, "
-            f"{result['divisions']:>3} divisions, {result['footnotes']:>3} footnotes, "
-            f"{result['repealed']:>2} repealed"
-            f"  → {result['path']}"
-        )
-    return 0
+            failures.append((sr, str(exc)))
+            continue
+        for key in ("pages", "articles", "divisions", "footnotes", "repealed", "empty", "loose"):
+            totals[key] += result[key]
+        totals["acts"] += 1
+        if args.verify:
+            for complaint in verify(sr, by_sr[sr], result):
+                print(f"  LOST {sr}: {complaint}", file=sys.stderr)
+                failures.append((sr, complaint))
+        if not args.quiet:
+            print(
+                f"  {result['sr']:<14} {result['pages']:>2} pages, "
+                f"{result['articles']:>4} articles, {result['divisions']:>3} divisions, "
+                f"{result['footnotes']:>4} footnotes, {result['repealed']:>2} repealed"
+                f"  → {result['path']}"
+            )
+
+    print(
+        f"\n{totals['acts']} acts, {totals['pages']} pages, {totals['articles']} articles, "
+        f"{totals['divisions']} divisions, {totals['footnotes']} footnotes, "
+        f"{totals['repealed']} repealed, {totals['empty']} empty in source"
+    )
+    if failures:
+        print(f"\n{len(failures)} failed:")
+        for sr, why in failures:
+            print(f"  {sr:<14} {why}")
+    return 1 if failures else 0
 
 
 if __name__ == "__main__":

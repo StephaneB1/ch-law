@@ -1,0 +1,6 @@
+name: Sport Promotion Act (SpoPA)
+description: SR 415.0 — Federal Act of 17 June 2011 on the Prommotion of Sport and Exercise (Sport Promotion Act, SpoPA). Unofficial English mirror of the Fedlex consolidation of 1 September 2023. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Federal act", "jurisdiction": "Switzerland", "reference": "SR 415.0", "dateInForce": "2012-10-01", "adopted": "2011-06-17", "consolidated": "2023-09-01", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/2012/460"}

@@ -1,0 +1,6 @@
+name: O-NIRSA
+description: SR 814.711 — Ordinance of 27 February 2019 to the Federal Act on Protection against the Risks associated with Non-Ionising Radiation and with Sound (O-NIRSA). Unofficial English mirror of the Fedlex consolidation of 31 August 2022. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Federal Council ordinance", "jurisdiction": "Switzerland", "reference": "SR 814.711", "dateInForce": "2019-06-01", "adopted": "2019-02-27", "consolidated": "2022-08-31", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/2019/183"}

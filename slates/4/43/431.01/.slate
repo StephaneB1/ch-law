@@ -1,0 +1,6 @@
+name: Federal Statistics Act (FStatA) (FStatA)
+description: SR 431.01 — Federal Statistics Act of 9 October 1992 (FStatA). Unofficial English mirror of the Fedlex consolidation of 1 January 2024. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Federal act", "jurisdiction": "Switzerland", "reference": "SR 431.01", "dateInForce": "1993-08-01", "adopted": "1992-10-09", "consolidated": "2024-01-01", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080"}

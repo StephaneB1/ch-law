@@ -1,0 +1,6 @@
+name: Federal Constitution of the Swiss Confederation
+description: SR 101 — Federal Constitution of 18 April 1999 of the Swiss Confederation. Unofficial English mirror of the Fedlex consolidation of 3 March 2024. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Federal decree subject to mandatory referendum", "jurisdiction": "Switzerland", "reference": "SR 101", "dateInForce": "2000-01-01", "adopted": "1999-04-18", "consolidated": "2024-03-03", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/1999/404"}

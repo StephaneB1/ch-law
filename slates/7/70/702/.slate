@@ -1,0 +1,6 @@
+name: Second Homes Act (SHA)
+description: SR 702 — Federal Act of 20 March 2015 on Second Homes (Second Homes Act, SHA). Unofficial English mirror of the Fedlex consolidation of 1 October 2024. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Federal act", "jurisdiction": "Switzerland", "reference": "SR 702", "dateInForce": "2016-01-01", "adopted": "2015-03-20", "consolidated": "2024-10-01", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/2015/886"}

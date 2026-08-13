@@ -1,0 +1,6 @@
+name: Tax Administrative Assistance Act (TAAA)
+description: SR 651.1 — Federal Act of 28 September 2012 on International Administrative Assistance in Tax Matters (Tax Administrative Assistance Act, TAAA). Unofficial English mirror of the Fedlex consolidation of 1 September 2023. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Federal act", "jurisdiction": "Switzerland", "reference": "SR 651.1", "dateInForce": "2013-02-01", "adopted": "2012-09-28", "consolidated": "2023-09-01", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/2013/31"}

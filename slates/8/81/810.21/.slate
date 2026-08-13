@@ -1,0 +1,6 @@
+name: Transplantation Act
+description: SR 810.21 — Federal Act of 8 October 2004 on the Transplantation of Organs, Tissues and Cells (Transplantation Act). Unofficial English mirror of the Fedlex consolidation of 1 February 2021. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Federal act", "jurisdiction": "Switzerland", "reference": "SR 810.21", "dateInForce": "2007-07-01", "adopted": "2004-10-08", "consolidated": "2021-02-01", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/2007/279"}

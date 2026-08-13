@@ -1,0 +1,6 @@
+name: Federal Act on Private International Law (PILA)
+description: SR 291 — Federal Act on Private International Law (PILA). Unofficial English mirror of the Fedlex consolidation of 1 January 2026. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Federal act", "jurisdiction": "Switzerland", "reference": "SR 291", "dateInForce": "1989-01-01", "adopted": "1987-12-18", "consolidated": "2026-01-01", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776"}

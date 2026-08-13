@@ -1,0 +1,6 @@
+name: Oversight Ordinance FAOA (OO-FAOA)
+description: SR 221.302.33 — Ordinance of the Federal Audit Oversight Authority of 17 March 2008 on the Oversight of Audit Firms (Oversight Ordinance FAOA, OO-FAOA). Unofficial English mirror of the Fedlex consolidation of 15 December 2025. No legal force.
+type: LEGAL
+visibility: PUBLIC
+thumbnail: cover.png
+schema: {"@context": {"@vocab": "https://schema.org/", "eli": "http://data.europa.eu/eli/ontology#", "documentType": "legislationType", "jurisdiction": "legislationJurisdiction", "reference": "legislationIdentifier", "dateInForce": "eli:first_date_entry_in_force", "adopted": "legislationDate", "consolidated": "legislationDateVersion"}, "@type": "Legislation", "documentType": "Legislation from independent enterprises and institutions", "jurisdiction": "Switzerland", "reference": "SR 221.302.33", "dateInForce": "2008-04-01", "adopted": "2008-03-17", "consolidated": "2025-12-15", "legislationLegalForce": "https://schema.org/InForce", "inLanguage": "en", "isBasedOn": "https://fedlex.data.admin.ch/eli/cc/2008/188"}
