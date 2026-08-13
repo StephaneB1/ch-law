@@ -201,9 +201,25 @@ seed. `.slate` names `thumbnail: cover.png` unconditionally — chext ignores a
 thumbnail that is not in `assets/`, so the stages can run in any order.
 
 This is the one stage that needs a dependency (Pillow); census, fetch and parse are
-stdlib-only. PNGs are written down to a 64-colour palette, which is visually
-identical for flat greys and one red but turns 505 KB into 32 KB — across the full
-corpus, 13 MB in git rather than 200 MB.
+stdlib-only.
+
+Output is a 512-pixel PNG quantised to 64 colours — about **10 KB per slate**, or
+some 4.5 MB across the full corpus. That combination was measured rather than
+assumed, and JPEG lost badly:
+
+| | 1024px | 512px |
+|---|---|---|
+| PNG, 64 colours | 32.8 KB | **10.0 KB** |
+| JPEG q85 | 73.3 KB | 33.2 KB |
+| JPEG q75 | 56.7 KB | 25.7 KB |
+| WEBP | 36.8 KB | 20.4 KB |
+
+Flat fills, hard edges and film grain are precisely what JPEG is worst at, so it
+comes out two to five times heavier *and* rings around the red. Quantising to 16
+colours is heavier than 64, because forcing the dither pattern costs more than the
+palette saves. The grain is the single most expensive thing in the file — noise is
+what a palette PNG cannot compress — and `--no-grain` drops 10 KB to 3.5 KB for
+anyone who wants the composition flat.
 
 ### `schema:` — the attribute table
 

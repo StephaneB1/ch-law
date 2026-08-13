@@ -32,7 +32,10 @@ from parse import slate_path  # noqa: E402
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 CENSUS_PATH = ROOT / "data" / "census.json"
 
-SIZE = 1024
+# 512 is plenty for a thumbnail and a third of the weight of 1024. The seed decides
+# the composition in relative units, so changing this re-renders the same picture
+# at a different resolution rather than drawing a different one.
+SIZE = 512
 SUPER = 2  # drawn at 2x and reduced, which is the cheapest anti-aliasing there is
 
 PAPER = (242, 240, 236)
@@ -183,7 +186,7 @@ def accent(
         draw.rectangle([x, y, x + width, y + height], fill=SWISS_RED)
 
 
-def compose(seed: str, size: int = SIZE) -> Image.Image:
+def compose(seed: str, size: int = SIZE, grain: bool = True) -> Image.Image:
     """The whole picture, decided entirely by the seed."""
     digest = hashlib.sha256(seed.encode("utf-8")).digest()
     rng = random.Random(int.from_bytes(digest, "big"))
@@ -210,10 +213,14 @@ def compose(seed: str, size: int = SIZE) -> Image.Image:
     accent(ImageDraw.Draw(image), rng, canvas, block)
 
     image = image.resize((size, size), Image.LANCZOS)
+    if not grain:
+        return image
 
-    # Paper grain, so the flat fills do not read as a screenshot of a chart.
-    grain = Image.effect_noise((size, size), 5).convert("RGB")
-    return ImageChops.overlay(image, grain.filter(ImageFilter.GaussianBlur(0.6)))
+    # Paper grain, so the flat fills do not read as a screenshot of a chart. It is
+    # the most expensive thing in the file — noise is exactly what a palette PNG
+    # cannot compress — so it roughly triples the weight: 3.5 KB becomes 10 KB.
+    noise = Image.effect_noise((size, size), 5).convert("RGB")
+    return ImageChops.overlay(image, noise.filter(ImageFilter.GaussianBlur(0.6)))
 
 
 def save(image: Image.Image, path: pathlib.Path) -> None:
@@ -232,11 +239,14 @@ def main() -> int:
     parser.add_argument("--seed", help="draw an arbitrary seed instead of an act")
     parser.add_argument("--out", help="output path, with --seed")
     parser.add_argument("--size", type=int, default=SIZE)
+    parser.add_argument(
+        "--no-grain", action="store_true", help="drop the paper grain; ~3x lighter"
+    )
     args = parser.parse_args()
 
     if args.seed:
         target = pathlib.Path(args.out or "thumbnail.png")
-        save(compose(args.seed, args.size), target)
+        save(compose(args.seed, args.size, not args.no_grain), target)
         print(f"  {args.seed!r} → {target}")
         return 0
 
@@ -252,7 +262,7 @@ def main() -> int:
             return 1
         assets = slate_path(sr) / "assets"
         assets.mkdir(parents=True, exist_ok=True)
-        save(compose(f"SR {sr}", args.size), assets / "cover.png")
+        save(compose(f"SR {sr}", args.size, not args.no_grain), assets / "cover.png")
         print(f"  {sr:<14} seed 'SR {sr}' → {(assets / 'cover.png').relative_to(ROOT)}")
     return 0
 
