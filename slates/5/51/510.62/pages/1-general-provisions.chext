@@ -26,6 +26,10 @@ c. official geodata means geodata that is based on a legislative enactment of th
 d. official geodata of proprietary nature means official geodata that binds by law all persons with a legal interest in a particular land parcel;
 e. official geodata binding public authorities means official geodata that is legally binding for federal, cantonal or communal authorities in the execution of their public duties;
 f. geospatial reference data means official geodata which serves as the geometric basis for other geodata;
+|
+
+:INFO
+Art. 3 (continued)
 g. geospatial metadata means formal descriptions of the characteristics of geodata describing, for example, the origin, content, structure, validity, up-to-dateness, accuracy, rights of use, access or methods of processing;
 h. geodata models means descriptions of reality determining the structure and content of geodata independent from the used hard- and software systems;
 i. presentation models means descriptions of graphical presentations for the visualization of geodata e.g. in the form of maps and plans;

@@ -25,6 +25,10 @@ Para. 3 — Inserted by Annex 1 No II 94 of the Data Protection Act of 25 Sept. 
 Art. 15 Duty to provide information
 1 Banks, financial market infrastructures, financial institutions as defined in Article 2 paragraph 1 of the Financial Institutions Act of 15 June 2018, and authorised parties in accordance with Article 13 paragraph 2 of the Collective Investment Schemes Act of 23 June 2006 must provide the National Bank with statistical data relating to their activities.
 2 To the extent necessary for an analysis of financial market developments, for an overview of payment transactions, for drawing up the balance of payments or for statistics on foreign assets, the National Bank may collect statistical data on the business activities from other natural persons or legal entities, including entities for the issuing of payment instruments or for the processing, clearing and settlement of payment transactions, insurance companies, occupational pension institutions and investment and holding companies.
+|
+
+:INFO
+Art. 15 (continued)
 3 The National Bank shall lay down in an ordinance what data are to be provided and with what frequency; furthermore, it shall lay down the organisation and procedure after having consulted the reporting institutions.
 |
 
@@ -65,6 +69,10 @@ a. assessment of market developments and identification of relevant risk factors
 b. exposure to risk factors to be determined by the National Bank;
 c. resilience to disruptions affecting the stability of the financial system.
 2 The National Bank shall inform FINMA about its intention to request information and documents. It shall refrain from procuring information and documents if the information is already available elsewhere or can easily be obtained, namely from FINMA.
+|
+
+:INFO
+Art. 16a (continued)
 3 It shall inform the affected financial market participants about:
 a. the purpose of the procurement of the information;
 b. the type and scope of the information and documents requested;
@@ -85,6 +93,10 @@ Art. 17 Purpose and scope of application
 Art. 18 Features
 1 The National Bank shall fix the rate for minimum reserves which the banks must hold on average for a specific period of time. Minimum reserves shall consist of Swiss franc denominated coins, banknotes and sight deposit accounts which the banks hold with the National Bank.
 2 The rate for minimum reserves shall not exceed four percent of the banks’ short-term liabilities denominated in Swiss francs. Short-term liabilities are deemed to be sight liabilities and liabilities with a residual maturity not exceeding three months as well as liabilities arising from customer deposits that are repayable on demand (excluding tied-up pension fund monies). To the extent permitted by the purpose of this Act, individual categories of liabilities can be partially or fully exempt from the reserve requirement.
+|
+
+:INFO
+Art. 18 (continued)
 3 The National Bank shall apply the provisions on minimum reserves mutatis mutandis to banking groups with collective liquidity management. It may request groups of banks to hold minimum reserves on a consolidated basis.
 4 The banks shall regularly provide evidence to the National Bank that they are holding the required level of minimum reserves.
 5 The National Bank shall lay down the details in an ordinance after having consulted the competent supervisory authority for the Swiss financial market.
@@ -119,6 +131,10 @@ Art. 20 Modalities and instruments
 1 Central counterparties, central securities depositories, payment systems and DLT trading facilities in accordance with Article 73a FinMIA shall provide the National Bank, upon request, with all of the information and documents it requires to identify risks for the stability of the financial system at an early stage and to assess systemic importance.
 2 Systemically important financial market infrastructures and their audit firms must give the National Bank all of the information and documents it requires to fulfil its tasks. Moreover, they must immediately notify the National Bank of all incidents that are of substantial importance for oversight.
 3 In the case of systemically important financial market infrastructures, the National Bank may carry out audits directly or have them conducted by audit firms mandated by financial market infrastructures in accordance with Article 84 FinMIA.
+|
+
+:INFO
+Art. 20 (continued)
 4 If an audit firm is appointed, the financial market infrastructure must provide it with all of the information it requires to fulfil its tasks.
 5 The National Bank shall set out the details in an ordinance.
 |
@@ -144,6 +160,10 @@ Section 4 Review and Sanctions
 :INFO
 Art. 22 Review of compliance with the duties to provide information and to hold minimum reserves
 1 The National Bank shall require the audit firms and the competent supervisory organisations to examine compliance with the duty to provide information and, in the case of banks, the duty to hold minimum reserves and shall report their findings to the National Bank. If the audit firms and the competent supervisory organisations ascertain any violation, in particular if incorrect information has been provided or if the duty to hold minimum reserves has been breached, they shall notify the National Bank and the competent supervisory authority.
+|
+
+:INFO
+Art. 22 (continued)
 2 The National Bank may itself review, or may have audit firms or supervisory organisations review, whether the duty to provide information and the duty to hold minimum reserves have been duly observed. Should any violation of these provisions be ascertained, the party required to provide information or to hold minimum reserves shall bear the costs of the review.
 3 The National Bank shall file a complaint with the Federal Department of Finance (the Department) if the duty to provide information or the duty to hold minimum reserves has been breached, or if a review ordered or carried out by the National Bank has been obstructed.
 |
@@ -157,6 +177,10 @@ Para. 2 — Amended by Annex No II 12 of the Financial Institutions Act of 15 Ju
 Art. 23 Administrative sanctions
 1 Any bank that fails to hold the required amount of minimum reserves must pay the National Bank interest on the shortfall for the period during which the required minimum reserve ratio has not been observed. The National Bank shall set the relevant interest rate, which may be up to five percentage points above the money market rate for interbank credits for the same period.
 2 If the National Bank notices that a systemically important financial market infrastructure does not comply with the special requirements in accordance with Article 23 FinMIA, it shall bring this to the attention of FINMA as well as the other competent Swiss or foreign supervisory or oversight authorities. It shall observe the conditions set out in Article 21 letter b of this Act in doing so.
+|
+
+:INFO
+Art. 23 (continued)
 3 Furthermore, the National Bank may:
 a. refuse to open a sight deposit account for the financial market infrastructure, or terminate an existing sight deposit account;
 b. in the event of a refusal to comply with an enforceable order, publish this order in the Swiss Official Gazette of Commerce («Schweizerisches Handelsamtsblatt») or bring it to the attention of the public in any other manner, provided such measure has been preceded by a warning.
@@ -176,6 +200,10 @@ b. prevents a review ordered or carried out by the National Bank;
 shall be liable to a fine not exceeding 200,000 Swiss francs.
 2 If the offending party acts through negligence, the penalty shall be a fine not exceeding 100,000 Swiss francs.
 3 The Department shall prosecute and adjudicate such offences in accordance with the provisions of the Federal Act of 22 March 1974 on Administrative Criminal Law.
+|
+
+:INFO
+Art. 24 (continued)
 3bis The ascertainment of the criminally liable persons may be dispensed with and instead the business operation may be ordered to pay the fine (Art. 7 of the Administrative Criminal Law Act of 22 March 1974) where:
 a. the ascertainment of the persons who are criminally liable under Article 6 of the Administrative Criminal Law Act of 22 March 1974 requires investigative measures that are disproportionate in comparison with the penalty incurred; and
 b. a fine of a maximum of CHF 50,000 is under consideration for the violations of the criminal provisions of this Act or the financial market acts in accordance with Article 1 of Financial Market Supervision Act of 22 June 2007.

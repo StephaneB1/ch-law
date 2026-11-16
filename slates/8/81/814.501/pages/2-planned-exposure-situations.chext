@@ -19,6 +19,10 @@ the handling of contained gaseous material whose absolute activity exceeds the l
 the discharge to the environment of material whose specific activity exceeds the clearance limit and whose absolute activity is greater than the activity of 1 kg of a material whose specific activity is equal to the clearance limit;
 the distribution of material whose specific activity exceeds the clearance limit and whose absolute activity is greater than the activity of 1 kg of a material whose specific activity is equal to the clearance limit;
 e. the use of radionuclides in the human body;
+|
+
+:INFO
+Art. 9 (continued)
 f. the deployment of occupationally exposed persons as defined in Article 51 paragraphs 1 and 2 at one’s own or at another enterprise in Switzerland or abroad;
 g. the performance of quality assurance measures on installations, nuclear medicine imaging equipment and activimeters, or image receptor and display systems used in medical diagnostics;
 h. the further use of radiological legacies as specified in Article 150 paragraph 2;
@@ -36,18 +40,30 @@ The following are exempt from mandatory licensing:
 a. the transport of radioactive material which does not exceed the activity concentration limits for exempt material or the activity limits for exempt consignments specified in:
 1. Annex A, Subsection 2.2.7.2, Tables 2.2.7.2.2.1 and 2.2.7.2.2.2, of the European Agreement of 30 September 1957 concerning the International Carriage of Dangerous Goods by Road (ADR), and in the Ordinance of 29 November 2002 on the Carriage of Dangerous Goods by Road (SDR), or
 2. the Regulations concerning the International Carriage of Dangerous Goods by Rail (RID) in accordance with Appendix C, Subsection 2.2.7.2, Tables 2.2.7.2.2.1 and 2.2.7.2.2.2, to the Protocol of 3 June 1999 modifying the Convention concerning International Carriage by Rail (COTIF) of 9 May 1980, and in the Ordinance of 31 October 2012 on the Carriage of Dangerous Goods by Rail and Cableway (RSD);
+|
+
+:INFO
+Art. 10 (continued)
 b. the transport of radioactive substances as excepted packages:
 1. in accordance with Annex A, Section 3.2.1, Table A (UN numbers 2908, 2909, 2910, 2911 and 3507) of the ADR, and the SDR,
 2. in accordance with Section 3.2.1, Table A (UN Numbers 2908, 2909, 2910, 2911 and 3507) of the RID, and the RSD,
 3. in accordance with Article 16 of the Ordinance of 17 August 2005 on Air Transport (LTrV),
 4. in accordance with the Ordinance of 2 March 2010 on the Implementation of the European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways;
 c. the transport of radioactive substances by air (UN numbers 2908, 2909, 2910, 2911, 2912, 2913, 2915, 2916, 2978, 3321, 3322, 3332 and 3507) in accordance with Annex 18 to the Convention on International Civil Aviation of 7 December 1944 and the associated Technical Instructions;
+|
+
+:INFO
+Art. 10 (continued)
 d. the distribution, use, storage and transport, as well as the import, export and transit, of finished timepieces containing radioactive sources, provided that they comply with the standards ISO 3157 and ISO 4168, and of no more than 1000 timepiece components with radioactive tritium-based luminous paint;
 e. the handling of stray radiation sources, where:
 the electron acceleration voltage does not exceed 30 kV, and
 the ambient dose rate at a distance of 10 cm from the surface does not exceed 1 μSv per hour;
 f. the handling of mineral and rock collections with a specific activity below the NORM clearance limits, or if they contain less than 10 g natural thorium or 100 g natural uranium;
 g. the handling of radiation sources, with the exception of distribution, for which a type licence has been granted;
+|
+
+:INFO
+Art. 10 (continued)
 h. activities and radiation sources which are subject to mandatory licensing or a decommissioning order under the Nuclear Energy Act of 21 March 2003 (NEA);
 i. the deployment of occupationally exposed aircrew by aircraft operators.
 |
@@ -59,9 +75,18 @@ let. a let. 2 — SR 0.742.403.12.The Appendices to COTIF are not published in t
 let. a let. 2 — SR 742.412
 let. b let. 3 — SR 748.411
 let. b let. 4 — SR 747.224.141
+|
+
+:NOTE
 let. c — SR 0.748.0. This Annex is not published either in the Official Compilation (AS). It can be consulted free of charge on the website of the Federal Office of Civil Aviation (FOCA) at www.bazl.admin.ch > Dokumentation > Rechtliche Grundlagen > Internationales Recht, or purchased from the International Civil Aviation Organization (ICAO, Sales Department, 999 Robert‑Bourassa Boulevard, Montréal, Quebec H3C 5H7, Canada).
+|
+
+:NOTE
 let. c — The Technical Instructions are not published in the Official Compilation (AS). They can be consulted free of charge on the website of the Federal Office of Civil Aviation (FOCA) at www.bazl.admin.ch > Dokumentation > Rechtliche Grundlagen > Internationales Recht, or purchased from the International Civil Aviation Organization (ICAO, Sales Department, 999 Robert‑Bourassa Boulevard, Montréal, Quebec H3C 5H7, Canada). They can also be consulted free of charge, in English and French, at the national airports’ information centres. They are not translated into German or Italian.
 let. d — International Organization for Standardization. The ISO standards referred to in this Ordinance can be consulted free of charge at the Federal Office of Public Health, CH‑3003 Bern. They can be purchased from the Swiss Association for Standardisation, Sulzerallee 70, 8404 Winterthur; www.snv.ch .
+|
+
+:NOTE
 let. d — ISO 3157: 1991-11, Radioluminescence for time measurement instruments – Specifications.
 let. d — ISO 4168: 2003-09, Timekeeping instruments – Conditions for carrying out checks on radioluminescent deposits.
 let. e — Sv = sievert; mSv = millisievert; μSv = microsievert
@@ -118,6 +143,10 @@ a. they are designed or measures are taken so as to prevent inadmissible exposur
 b. it is assured that, if necessary, they will be delivered to the federal collection centre as radioactive waste at the end of their useful life.
 2 The FOPH shall review the application documents submitted for completeness, form, content and extent.
 3 It shall subject the radiation sources for which a type licence is sought to type testing. It may engage other bodies for this purpose.
+|
+
+:INFO
+Art. 15 (continued)
 4 When granting a type licence, it shall specify:
 a. under what conditions the radioactive material may be handled;
 b. whether and how radioactive material at the end of its useful life must be delivered to the federal collection centre as radioactive waste;
@@ -153,6 +182,10 @@ e. addresses for electronic communication;
 f. category of enterprise;
 g. the information specified in Article 179 paragraph 3 concerning the radiological protection experts;
 h. enterprise identification number (UID) in accordance with the Federal Act of 18 June 2010 on the Enterprise Identification Number;
+|
+
+:INFO
+Art. 18 (continued)
 i. Swiss Accident Insurance Fund (Suva) customer number.
 4 In addition, technical information on radiation sources may be stored in the database.
 5 The following individual access rights apply:
@@ -264,6 +297,10 @@ Art. 29 Justification of individual applications
 2 Any person who prescribes procedures must establish and document an indication and forward this to the physician performing the procedure.
 3 Hospitals, radiology centres and referrers must prescribe procedures in accordance with the current state of science and technology. This is reflected in particular by referral guidelines based on national or international guidelines or recommendations.
 4 Each application must be justified in advance by the physician performing the procedure, taking into account the current state of science and technology, the indication and the characteristics of the individual involved.
+|
+
+:INFO
+Art. 29 (continued)
 5 A diagnostic or therapeutic procedure which is not justified in accordance with Article 28 may nonetheless, depending on the circumstances, be justified as a specific, individual application. This must be documented on a case-by-case basis, with the reasons stated, by the physician performing the procedure.
 |
 
@@ -297,6 +334,10 @@ d. quality assurance;
 e. assessment and evaluation of the patient dose or the administered activity;
 f. use of appropriate set-up parameters or appropriate radionuclides;
 g. use of sensitive detectors;
+|
+
+:INFO
+Art. 32 (continued)
 h. for every medical installation, use of the elements required for the protection of patients.
 4 The dose received by personnel must be taken into account in the optimisation process.
 5 The FDHA may issue technical optimisation provisions for the protection of patients.
@@ -439,6 +480,10 @@ a. the marketing authorisation of radiopharmaceuticals in accordance with Articl
 b. the simplified authorisation of radiopharmaceuticals in accordance with Article 14 of the TPA;
 c. the authorisation of radiopharmaceuticals for a limited period in accordance with Article 9 paragraph 4 of the TPA.
 3 The FOPH shall grant approval based on the documents received as part of the application for authorisation, and on the assessment and reasoning of the Expert Commission for Radiopharmaceuticals.
+|
+
+:INFO
+Art. 46 (continued)
 4 Radiopharmaceuticals must be labelled as such. Their package labelling must include at least the following radiological protection-related information:
 a. the preparation name;
 b. the hazard warning symbol in accordance with Annex 8;
@@ -513,6 +558,10 @@ b. work or undergo training at least once a week in controlled areas as defined 
 c. work or undergo training at least once a week in supervised areas as defined in Article 85 and may thus be exposed to an increased ambient dose rate.
 2 Persons who are subject solely to radon exposure at their workplace are only deemed to be occupationally exposed if they may thereby accumulate an effective dose of more than 10 mSv per year (Art. 167 para. 3).
 3 The licence holder, or in the case of aircrew the aircraft operator, shall designate all occupationally exposed persons within the enterprise.
+|
+
+:INFO
+Art. 51 (continued)
 4 Licence holders, or in the case of aircrew the aircraft operator, shall inform the occupationally exposed persons regularly of:
 a. the radiation doses to be expected in the course of their work;
 b. the dose limits applicable for them;
@@ -532,6 +581,10 @@ a. may accumulate the following doses per calendar year in the course of their w
 b. as a result of radon exposure at the workplace receive an effective dose greater than 10 mSv per calendar year; or
 c. work as internal personnel at a nuclear installation.
 3 Category B comprises all occupationally exposed persons not belonging to category A.
+|
+
+:INFO
+Art. 52 (continued)
 4 Persons engaged in activities where the risk of accumulating doses as specified in paragraph 2 letter a is negligible shall be assigned to category B for the performance of these activities. This includes in particular activities:
 a. involving the operation of diagnostic X-ray systems in medical, dental and veterinary practices, except in the high-dose range;
 b. as occupationally exposed aircrew.
@@ -603,6 +656,10 @@ a. data concerning any early effects detected;
 b. data concerning illnesses or special predispositions making it necessary to declare the person unfit for radiation work;
 c. biological dosimetry data.
 4 If the person concerned is an employee, the physician shall also report the data to Suva.
+|
+
+:INFO
+Art. 59 (continued)
 5 Suva, or the supervisory authority in the case of persons not in employment, shall take the necessary measures. It may order a temporary or permanent exclusion from activities involving occupational exposure.
 |
 
@@ -653,6 +710,10 @@ b. furnish them with a written summary of all doses:
 1. upon termination of employment,
 2. prior to deployment at another enterprise;
 c. provide Suva with the operational, personal and dosimetry data required for preventive occupational medicine;
+|
+
+:INFO
+Art. 64 (continued)
 d. when a reporting threshold as specified in Article 63 is reached, provide the supervisory authority, if so requested, with an explanation of the cause of the dose; the explanation must be provided in writing within two weeks;
 e. communicate to the appointed personal dosimetry service the data specified in Article 73 paragraph 1 letters a–e and g–i for all occupationally exposed persons within the enterprise;
 f. report directly to the Central Dose Registry doses accumulated by occupationally exposed persons working abroad which were not determined by a Swiss personal dosimetry service; the report must be submitted within a month after the end of the assignment in a form prescribed by the FOPH.
@@ -665,6 +726,10 @@ a. the data specified in Article 73: to the Central Dose Registry (Art. 72);
 b. the radiation doses determined by calculation: to the Central Dose Registry within a period specified by the FOPH in a form prescribed by the FOPH;
 c. the reaching of a reporting threshold as specified in Article 63: to the supervisory authority no later than ten days after the radiation dose has been calculated;
 d. a suspected exceedance of a dose limit: within one working day, to the supervisory authority and, if the person concerned is an employee, to Suva.
+|
+
+:INFO
+Art. 65 (continued)
 2 For enterprises within the area supervised by ENSI, this authority shall issue additional guidelines concerning the reporting of radiation doses determined by calculation.
 
 :PATH
@@ -705,6 +770,10 @@ a. Within a month after the end of the monitoring period, it shall report the da
 2. the Central Dose Registry (Art. 72), in a form prescribed by the FOPH;
 3. in the case of data from the area supervised by ENSI: also directly to ENSI.
 b. If a reporting threshold per monitoring period as specified in Article 63 is reached, the personal dosimetry service shall notify the licence holder and the supervisory authority no later than ten working days after receipt of the dosimeter.
+|
+
+:INFO
+Art. 69 (continued)
 c. In the event of a suspected exceedance of a dose limit, the personal dosimetry service shall report the result to the licence holder, or, in the case of aircrew, to the aircraft operator, and to the supervisory authority within one working day. If the person concerned is an employee, it shall also inform Suva.
 d. For personal dosimetry services approved by ENSI, this authority shall issue reporting guidelines.
 |
@@ -716,6 +785,10 @@ Art. 70 Further duties of the personal dosimetry service
 3 If a personal dosimetry service wishes to cease its activities, it must give the competent authority, its clients and the supervisory authorities responsible for its clients at least six months’ advance notice.
 4 The personal dosimetry service ceasing its activities shall transfer its archived data to the new personal dosimetry services designated by its clients.
 5 In exceptional cases, the competent authority shall determine the steps to be taken.
+|
+
+:INFO
+Art. 70 (continued)
 6 If a client terminates its contractual relationship with the personal dosimetry service, the latter must draw the client’s attention to its duties as a licence holder as specified in Article 64 and inform the supervisory authority of the termination.
 |
 
@@ -835,6 +908,10 @@ c. areas in which airborne contamination may exceed 0.05 CA as specified in Anne
 3 The supervisory authority may request that further areas be established as controlled areas if this is appropriate for organisational reasons.
 4 The licence holder must ensure that access to controlled areas is only possible for authorised persons.
 5 Controlled areas must be clearly delimited and marked as specified in Annex 8.
+|
+
+:INFO
+Art. 80 (continued)
 6 The licence holder must supervise compliance with guidance values for ambient dose rates, contamination and indoor air activity concentrations, and compliance with protection measures and safety provisions within controlled areas.
 |
 
@@ -847,6 +924,10 @@ b. type B: an activity from 1 to 10 000 times the licensing limit;
 c. type A: an activity from 1 times the licensing limit to an upper limit defined in the licensing procedure.
 3 For the storage of radioactive materials in working areas, the supervisory authority may increase the values specified in paragraph 2 by up to a factor of 100.
 4 The supervisory authority may allow exceptions to paragraph 1 on operational grounds, provided that radiological protection is assured.
+|
+
+:INFO
+Art. 81 (continued)
 5 The supervisory authority may in exceptional cases, where handling involves a low risk of intakes, increase the values specified in paragraph 2 by up to a factor of 10, provided that radiological protection is assured.
 6 The supervisory authority may in individual cases, taking into account the risk of intakes, assign working areas to a different type from that specified in paragraph 2, provided that only activities involving a low risk of inhalation are carried out therein.
 7 The FDHA, in consultation with ENSI, shall issue the necessary regulations concerning protection measures.
@@ -886,6 +967,10 @@ b. zones of type 0 as specified in Annex 10;
 c. areas in which persons may accumulate an effective dose of more than 1 mSv per calendar year from external radiation exposure.
 3 The licence holder must ensure that, if elevated ambient dose rates occur during the operation of installations or the handling of sealed radioactive sources, only authorised persons can be present in supervised areas.
 4 The licence holder must monitor compliance with the guidance values for ambient dose rates and compliance with protection measures and safety provisions within supervised areas.
+|
+
+:INFO
+Art. 85 (continued)
 5 Supervised areas must be marked as specified in Annex 8.
 6 The establishment of supervised areas is not necessary for occupationally exposed aircrew.
 7 In rooms in which only compact dental X-ray systems are operated, the establishment of supervised areas is not necessary.
@@ -1100,6 +1185,10 @@ b. one of the following requirements is met:
 1. the specific activity is below the clearance limit,
 2. the absolute activity is less than the activity of 1 kg of a material whose specific activity is equal to the clearance limit.
 2 If persons may be contaminated when handling material cleared in accordance with paragraph 1, it must additionally be ensured by a measurement that the surface contamination guidance value specified in Annex 3 Column 12 is complied with.
+|
+
+:INFO
+Art. 106 (continued)
 3 For the averaging of the values measured in accordance with paragraphs 1 and 2 to ensure non-exceedance of the clearance limit or the surface contamination guidance values specified in Annex 3 Column 12, the following quantities must be complied with:
 for the measurement of activity: 100 kg;
 for the measurement of surface contamination: 100 cm2.
@@ -1109,6 +1198,10 @@ a. the maximum ambient dose rate at a distance of 10 cm from the surface, allowi
 b. paragraph 2 is complied with; and
 c. one of the following requirements is met:
 1. it can be demonstrated that the clearance limit is not exceeded by an assessment of the materials used or by excluding activation,
+|
+
+:INFO
+Art. 106 (continued)
 2. the supervisory authority has approved the models and calculations used to demonstrate that the clearance limit is not exceeded.
 6 The supervisory authority may define the conditions under which the results of a clearance measurement must be reported to it prior to the clearance of the materials.
 |
@@ -1155,6 +1248,10 @@ Art. 111 Principles
 a. the maximum ambient dose rate at a distance of 10 cm from the surface, allowing for natural radiation, is less than 0.1 µSv per hour;
 b. the requirement specified in Article 106 paragraph 2 is met; and
 c. the total activity per week and licence is not greater than the activity of 10 kg of a material whose specific activity is equal to the clearance limit.
+|
+
+:INFO
+Art. 111 (continued)
 5 Prior to the discharge of radioactive waste, labels, hazard warning symbols or other markings indicating radioactivity must be removed.
 |
 
@@ -1182,6 +1279,10 @@ a. overall, taking into account other materials present in the landfill, the cle
 b. at no time can an effective dose of 10 µSv per calendar year be accumulated as a result of the disposal.
 2 The FOPH shall monitor compliance with the permissible effective dose via the sampling and measurement programme specified in Article 193.
 3 The specific activity of radioactive waste thus disposed of must not exceed 100 times the clearance limit and, for waste containing artificial radium, 1000 times the clearance limit.
+|
+
+:INFO
+Art. 114 (continued)
 4 For the disposal of radioactive waste containing technically enhanced radium, the following conditions must additionally be met:
 a. The waste arose before 1 October 1994.
 b. Disposal via the usual channels would be impossible or would involve disproportionate efforts.
@@ -1213,6 +1314,10 @@ Section 3 Treatment of Radioactive Waste
 Art. 117 Decay storage
 1 Radioactive waste exclusively containing radionuclides with a half-life of 100 days or less must, whenever possible, be retained at the sites where it arises until its activity has decayed to such an extent that it can be measured for clearance in accordance with Article 106 or discharged within the licensed discharge rate in accordance with Article 112 paragraph 2.
 2 In the absence of an alternative that is more favourable overall for people and the environment, radioactive waste whose activity, as a result of radioactive decay, will have decreased no later than 30 years after the end of use of the original material to such an extent that it can be measured for clearance in accordance with Article 106 or recycled in accordance with Article 115 must be stored until this point has been reached. It must be separated from radioactive waste which does not fulfil this condition.
+|
+
+:INFO
+Art. 117 (continued)
 3 During the decay period, waste as specified in paragraphs 1 and 2 must be:
 a. packaged and stored in such a way as to prevent the uncontrolled release of radioactive substances and avoid creating a fire hazard;
 b. marked and provided with documentation indicating the type of waste, activity content and time of possible clearance.
@@ -1279,9 +1384,17 @@ a. For failures with an expected frequency of more than 10-1 per year, it must b
 b. For failures with an expected frequency of between 10–1 and 10–2 per year, a single such event must not lead to an additional dose which exceeds the relevant source-related dose constraints.
 c. For failures with an expected frequency of between 10-2 and 10-4 per year, the dose resulting from a single such event for members of the public must not be greater than 1 mSv.
 d. For failures with an expected frequency of between 10-4 and 10-6 per year, the dose resulting from a single such event for members of the public must not be greater than 100 mSv; the licensing authority may specify a lower dose in individual cases.
+|
+
+:INFO
+Art. 123 (continued)
 3 The enterprise must be designed in such a way that only a small number of failures as specified in paragraph 2 letters c or d can occur.
 4 For failures as specified in paragraph 2 letters c and d and for failures which have an expected frequency of less than 10-6 per year, but which could have major impacts, the supervisory authority shall require the enterprise to adopt the necessary preparedness measures.
 5 The supervisory authority shall specify on a case-by-case basis the methodology and boundary conditions for the analysis of failures and for their assignment to the frequency classes specified in paragraph 2 letters b–d. The effective dose or the equivalent doses arising from failure-related exposure of persons must be determined in accordance with the current state of science and technology, using the assessment quantities and dose coefficients specified in Annexes 3, 5 and 6.
+|
+
+:INFO
+Art. 123 (continued)
 6 For enterprises where failures as specified in paragraph 2 letter d may occur, the supervisory authority may order:
 a. the measurement of installation parameters which are required to monitor the course of an accident, to produce diagnoses and forecasts, and to determine the measures necessary to protect the public;
 b. the continuous transmission of the installation parameters to the supervisory authorities via a network tolerant of an failure.
@@ -1307,6 +1420,10 @@ Art. 125 Preparedness measures
 4 They must ensure that staff receive regular instruction on rules of behaviour, are trained in emergency measures and are familiarised with the location and use of the relevant resources.
 5 They must take appropriate measures to ensure that, in a particular case, the persons deployed to manage failures and their effects do not receive an effective dose of more than 50 mSv or, to save human lives, more than 250 mSv.
 6 They must inform the competent cantonal authorities and emergency services of the radioactive materials present in the enterprise.
+|
+
+:INFO
+Art. 125 (continued)
 7 The supervisory authority may require that exercises be conducted to test reporting channels, the functionality of resources and the necessary skills of staff. It may organise exercises itself.
 
 :PATH

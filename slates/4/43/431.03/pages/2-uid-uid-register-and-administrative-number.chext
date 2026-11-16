@@ -37,6 +37,10 @@ a. Key data:
 5. LEI for a UID entity and status of the entry in the «Global Legal Entity Identifier Foundation» register (GLEIF register);
 b. Additional data: Data serving to distinguish the UID entity more specifically, notably a more detailed designation of the UID entity and information about its economic activity;
 c. System data: technical or organisational data that are required to maintain the UID register, particularly the date of entry in the UID register.
+|
+
+:INFO
+Art. 6 (continued)
 3 The UID register also contains data concerning the attributes required to identify administrative entities.
 4 The Federal Council designates the additional data and system data of the UID entities.
 |

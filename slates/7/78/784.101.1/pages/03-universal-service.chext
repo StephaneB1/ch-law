@@ -14,6 +14,10 @@ Art. 12 Granting the universal service licence
 2 A bidder for a universal service licence must additionally submit in its concept the business plan for the entire term of the licence, indicating the assumed prices and the envisaged investments.
 3 The universal service licence shall be granted to the bidder who meets the decision-making criteria and who does not request financial compensation. When several bidders meet the criteria and do not request financial compensation, the licence is granted to the bidder who best satisfies the criteria employed for qualitative evaluation.
 4 When all the bidders who meet the criteria request financial compensation, the one whose bid offers the best ratio between the result of the qualitative evaluation and the required compensation shall receive the licence.
+|
+
+:INFO
+Art. 12 (continued)
 5 The Federal Communications Commission (ComCom) shall call on one or more telecommunications service providers to assure the universal service when:
 a. it is apparent from the outset that the invitation to tender cannot take place under competitive conditions;
 b. the invitation to tender has not produced any candidates;
@@ -38,6 +42,10 @@ c. the capital yield on investments is that typical of the sector, and must be w
 d. the depreciation method takes the lifetime of the investments into account; this must correspond to their economic lifetime;
 e. direct and indirect revenues must be subtracted from the costs.
 2 The net total costs of the universal service are equivalent to the sum of the net costs assessed separately for the individual services following deduction of intangible advantages.
+|
+
+:INFO
+Art. 14 (continued)
 3 The data used for the calculation must be supported, i.e. it must be transparent and must derive from dependable sources. For this purpose, the professional recommendations on the presentation of accounts (FER), the internationally recognised accounting standards (IAS) or comparable internationally recognised accounting guidelines must be applied.
 
 :PATH
@@ -72,9 +80,17 @@ d. an internet access service with one of the following specified transmission r
 2. 80 Mbit/s for downloading and 8 Mbit/s for uploading;
 e. the following services for the hearing-impaired:
 1. provision of a transcription service for the hearing-impaired including emergency calls and an SMS relay service, both of which are available round the clock,
+|
+
+:INFO
+Art. 15 (continued)
 2. provision of an operator service by video telephony that is available from Monday to Friday from 8am to 9pm, and on Saturday, Sunday and on public holidays recognised by federal law from 10am to 5pm;
 f. directory and operator service for the visually impaired and people with limited mobility: access to directory data of the customers of all providers of services forming part of the public telephony service in Switzerland via a speech-based information service in the three official languages and provision of an operator service around the clock; provided the universal service licensee offers a communication establishment service this operator service also enables a connection to customers who are not entered in a directory in accordance with Article 11 paragraph 4 but who consent to be contacted as part of a communication establishment service.
 2 The universal service licensee is obliged to provide these services for the full term of the licence.
+|
+
+:INFO
+Art. 15 (continued)
 3 OFCOM shall fix the specifications applicable to the services of the universal service. These specifications shall be based on harmonised international standards.
 |
 
@@ -145,6 +161,10 @@ Art. 19a — Inserted by No I of the O of 16 Dec. 2022, in force since 1 Jan. 20
 Art. 20 Eligibility and conditions of provision
 1 The universal service licensee shall decide within 45 days of receipt of the request whether it will provide a connection in accordance with Article 16. If it intends not to conclude a contract under Article 14a, it shall verify whether another connection operated by a different provider is available and shall ascertain in such a case whether this provider can provide a comparable offer in terms of Article 14b. The requested provider must respond to the universal service licensee’s request within 15 days.
 2 If providing the connection in accordance with Article 16 gives rise to costs in excess of the amount specified in Article 18 paragraph 2, the universal service licensee must provide the person interested with an offer free of charge and within 90 days of receiving the required information; the technology used must be specified.
+|
+
+:INFO
+Art. 20 (continued)
 3 The universal service licensee must provide the service within twelve months of signature of the contract. If no civil engineering work is required, the period shall be six months.
 4 In the event of any disagreement as to the amount of the additional costs, OFCOM may instruct an independent specialist to conduct a review at the expense of the person interested. In the event of any clearly improper conduct by the universal service licensee, it shall bear the costs of the review.
 |
@@ -172,6 +192,10 @@ c. concerning the internet access service:
 4. data transmission quality;
 d. response times for services for persons with disabilities;
 e. billing accuracy.
+|
+
+:INFO
+Art. 21 (continued)
 2 OFCOM shall regulate the technical details and set the target performance values for the quality criteria. In this context it shall be guided by advances in quality and take technical developments into account.
 3 The universal service licensee must guarantee OFCOM access to the measuring equipment and the raw data of the measurement results so that the latter can check whether the target performance values for the quality criteria are being met.
 4 OFCOM may appoint an independent expert to determine whether the target performance values for the quality criteria are being met. The findings of such an investigation may be published.
@@ -190,6 +214,10 @@ b. internet access service:
 2. with a specified transmission rate of 80/8 Mbit/s (Art. 15 para. 1 let. d No 2), including connection (Art. 16): 60 francs per month;
 c. public telephony service with one number (Art. 15 para. 1 let. a) with either one or two entries in the directory (Art. 15 para. 1 let. c) and an internet access service:
 1. with a specified transmission rate of 10/1 Mbit/s (Art. 15 para. 1 let. d No 1), including connection (Art. 16): 50 francs per month,
+|
+
+:INFO
+Art. 22 (continued)
 2. with a specified transmission rate of 80/8 Mbit/s (Art. 15 para. 1 let. d No 2), including connection (Art. 16): 65 francs per month;
 d. offering services in accordance with letters a–c: a non-recurring fee of 40 francs on conclusion of the contract; changing between the services offered must be free of charge;
 e. national connections as part of public telephony service (Art. 15 para. 1 let. a) to fixed-network connections charged according to the number of seconds and rounded up to the next 10 cents: 7.5 cents per minute;
@@ -226,6 +254,10 @@ Art. 24 Setting the financial compensation
 2 The provisional costs must be submitted to OFCOM by 31 July of the year prior to that for which the budget has been prepared. If the universal service licence is put out to tender, the anticipated costs for the first two years of the licence shall be set out directly in the universal service licensee’s application.
 3 The actual costs must be submitted to OFCOM two months following the end of the year at the latest. The universal service licensee must provide OFCOM with all data necessary for monitoring the actual costs.
 4 ComCom shall establish the amount of the financial compensation on the basis of the actual costs. The differences between the provisional and actual costs must be conclusively substantiated in order to be the object of a claim for compensation.
+|
+
+:INFO
+Art. 24 (continued)
 5 The licensee shall advance the annual financial compensation. Interest is charged on the advance at a rate which applies for federal obligations with the same or a comparable term at the time of the compensation.
 6 OFCOM may demand an audit of the bookkeeping data and cost calculations.
 7 If the licensee does not submit the required information within twelve months of the year-end, any claim to a contribution lapses.
@@ -243,6 +275,10 @@ Art. 25 Fees for the financing of the universal service
 2 Telecommunications service providers shall provide OFCOM with information on the previous year’s turnover by 30 April at the latest, and for the first time in 2009.
 3 If a provider does not submit the data necessary for calculation of the fees, OFCOM shall make its calculation on the basis of the total turnover subject to value-added tax.
 4 OFCOM may provide for an external monitoring system to test the accuracy of the data provided by telecommunications service providers.
+|
+
+:INFO
+Art. 25 (continued)
 5 If a defaulting provider does not pay the amounts it owes within one year of the period set in the reminder, these are carried forward to the net total costs of the period following this appraisal. The transfer does not cancel the payment obligation. Amounts which are subsequently paid are transferred to the facility which the financing mechanism manages and deducted from the net total costs for the period following receipt of the payment.
 6 Providers with a definitive annual turnover (para. 1) of less than five million francs are exempt from the fee.
 7 OFCOM shall issue administrative regulations for determining turnover and the information necessary for apportioning costs.

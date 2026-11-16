@@ -64,6 +64,10 @@ a. pledge or transfer collateral to the fund management company or SICAV for the
 b. are liable vis-à-vis the fund management company or SICAV for:
 1. the prompt, unconditional payment of any income accruing during the securities lending period,
 2. the assertion of other proprietary rights such as conversion and subscription rights, and
+|
+
+:INFO
+Art. 7 (continued)
 3. the contractually agreed return of securities of the same type, quantity and quality;
 c. assign all securities available for the securities lending transaction to the individual lenders on the basis of objective and transparent criteria.
 4 The framework agreement should also set out:
@@ -153,6 +157,10 @@ a. the lender is liable vis-à-vis the borrower for:
 2. the assertion of other proprietary rights such as conversion and subscription rights, and
 3. the contractually agreed return of securities of the same type, quantity and quality;
 b. the borrower is liable vis-à-vis the lender for:
+|
+
+:INFO
+Art. 17 (continued)
 1. the prompt, unconditional payment of any compensating payments to be made during the term of the repurchase agreement pursuant to Article 16, and
 2. the repurchase of the securities under the repo transaction in compliance with the terms of the agreement;
 c. claims for money and securities arising from repurchase agreements may not be netted with claims of the counterparty or intermediary.
@@ -199,6 +207,10 @@ Art. 22 Inventory, statement of net assets, or balance sheet and profit and loss
 2 Money obligations arising from repos must be disclosed in the statement of net assets, or the balance sheet, under «Liabilities from repurchase agreements» at the value assigned on the calculation date based on the assumption of a linear development in value.
 3 In the case of repos, repo interest must be disclosed in the profit and loss account under «Interest payable».
 4 Securities purchased through reverse repos are not included in the inventory of the securities fund’s assets, nor in the statement of net assets, or the balance sheet.
+|
+
+:INFO
+Art. 22 (continued)
 5 Money claims arising from reverse repos must be disclosed in the statement of net assets, or the balance sheet, under «Claims from repurchase agreements» at the value assigned on the calculation date based on the assumption of a linear development in value.
 6 In the case of reverse repos, repo interest must be disclosed in the profit and loss account under «Income from reverse repos».
 
@@ -220,17 +232,29 @@ a. «basic type of derivative»:
 3. a swap, the payments of which are dependent on the value of the underlying or on an absolute amount in both a linear and a path-independent manner,
 4. a future or forward transaction the value of which is linearly dependent on the value of the underlying;
 b. «exposure-increasing»: derivative exposure, the financial effect of which is similar to the purchase of an underlying (e.g. the purchase of a call option, purchase of a future, sale of a put option, exchanging of variable for fixed interest payments or the conclusion of a credit default swap as protection seller);
+|
+
+:INFO
+Art. 23 (continued)
 c. «exposure-reducing»: a derivative exposure the financial effect of which is similar to the sale of an underlying (in particular, the sale of a call option, sale of a future, purchase of a put option, exchanging of fixed for variable interest payments or the conclusion of a credit default swap as secured party);
 d. «exotic derivative» means a derivative with a mode of operation that cannot be described as a basic form of derivative or a combination of basic forms of derivatives (for instance, a path-dependent option, an option with several factors or an option with contract modifications);
 e. «contract size»: number of underlying securities or nominal value of a derivative contract;
 f. «contract value»:
 1. in the case of a swap, the product of the nominal value of the underlying and the contract size,
 2. in the case of all other derivatives, the product of the underlying’s market value and the contract size;
+|
+
+:INFO
+Art. 23 (continued)
 g. «OTC (over the counter)»: the conclusion of transactions off an exchange or any other regulated market which is open to the public;
 h. «synthetic liquidity»: underlyings whose market risk and potential credit risk are hedged with derivatives that have a symmetric payment profile;
 i. «overall exposure»: exposure to the fund’s net assets, the net overall exposure to derivatives and investment techniques under Article 55 CISA, including short-selling;
 j. «gross overall exposure to derivatives»: total amount of capital requirements eligible from derivatives, including derivative components;
 k. «net overall exposure to derivatives»: total amount of capital requirements eligible from derivatives, including derivative components, taking account of permissible netting, hedging transactions and other rules set out in Articles 35 and 36;
+|
+
+:INFO
+Art. 23 (continued)
 l. «leverage»: effect of derivatives, derivative components investment techniques, including short-selling on the fund’s net assets, by building up over-proportionally high positions in an underlying when compared to the capital invested.
 |
 
@@ -250,6 +274,10 @@ Art. 26 Structured products, derivative components and warrants
 2 If a structured product has one or more derivative components, these must be treated in accordance with the provisions in this section.
 3 To establish the amount eligible for the overall exposure and the risk diversification requirements, the structured product is to be broken down into its components, if it has leverage. The components are to be considered individually. The breakdown is to be documented.
 4 If structured products that cannot be broken down are used as a not negligible part of the fund’s assets, the model approach as a risk measurement procedure is to be applied.
+|
+
+:INFO
+Art. 26 (continued)
 5 Derivative components of a financial instrument must be taken into account in compliance with statutory and regulatory risk diversification provisions, and are eligible for the overall exposure to derivatives.
 6 Warrants must be treated as derivatives in accordance with the provisions of this section. An option belonging to a warrant bond is deemed a warrant.
 |
@@ -289,6 +317,10 @@ b. ensure proper execution of the contract; and
 c. meet the credit rating requirements stipulated in Article 31 paragraph 1.
 3 It must be possible to reliably and verifiably value an OTC derivative on a daily basis and to sell or close out the derivative at market value at any time.
 4 If the market price for an OTC derivative is not available, it must be possible at all times to determine the price at any time using appropriate valuation models that are recognised in practice, based on the market value of the underlyings from which the derivative was derived;
+|
+
+:INFO
+Art. 30 (continued)
 5 Before concluding a contract for a derivative under paragraph 4, specific offers must be obtained from at least two potential counterparties. The contract is to be concluded with the counterparty providing the most favourable offer in terms of price. A deviation from this principle is possible for reasons relating to risk diversification, or where other parts of the contract such as credit rating or the range of services offered by the counterparties in another offer seem are more advantageous overall for the investors.
 6 If it is in the investors’ best interests, obtaining offers from at least two potential counterparties may be dispensed with. The reasons for doing so must be clearly documented.
 7 The conclusion of the transaction and pricing must be clearly documented.
@@ -323,6 +355,10 @@ Art. 34 Commitment approach I
 2 Exposure-reducing derivatives must at all times be covered by the relevant underlyings. If the delta has been calculated, it may be taken into account when calculating the necessary underlyings. Article 44 paragraph 3 also applies mutatis mutandis.
 3 Covering with other investments is permitted if the exposure-reducing derivative is indexed by an independent external office. The index must be representative of the underlyings and there must be an adequate correlation between the index and such investments.
 4 The underlying equivalents (Art. 35 para. 2) of exposure-increasing derivatives must at all times be covered by highly liquid assets.
+|
+
+:INFO
+Art. 34 (continued)
 5 The following assets are considered highly liquid:
 a. liquid assets as defined in Article 75 CISO;
 b. money market instruments as defined in Article 74 CISO;
@@ -342,15 +378,27 @@ Para. 5 let. a — SR 951.311
 Art. 35 Commitment approach II: determination of the overall exposure
 1 To establish the overall exposure of a securities fund using commitment approach II, the fund management company shall determine the individual conversion amounts of the respective derivatives and derivative components as well as the conversion amounts arising from investment techniques.
 2 In the case of basic types of derivatives, the conversion amount for the overall exposure arising from derivatives is normally the underlying equivalent, based on the market value of the underlying assets of the derivatives. The underlying equivalents are calculated in accordance with Annex 1. The nominal value or the forward price of futures contracts calculated on each trading day may be taken as the basis, if the result is a more conservative calculation.
+|
+
+:INFO
+Art. 35 (continued)
 3 The conversion amount for the overall exposure is the basic commitment from the net fund assets and the sum of the following absolute values:
 a. conversion amounts of the individual derivatives and derivative components pursuant to Annex 1 that are not included in netting pursuant to Article 36;
 b. conversion amounts after permitted netting pursuant to Article 36; and
 c. conversion amounts from permitted investment techniques.
 4 The following transactions may be disregarded when determining the conversion amount for the overall exposure arising from derivatives pursuant to paragraph 3:
 a. swaps by means of which the performance of the underlyings directly held by the securities fund is swapped with the performance of other underlyings (total return swaps), provided that:
+|
+
+:INFO
+Art. 35 (continued)
 1. the market risk of the swapped underlyings is completely eliminated from the securities fund so that these assets have no impact on the change in the value of the securities fund, and
 2. the swap does not grant option rights or contain leverage or other additional market risks that exceed those of a direct investment in the relevant underlyings;
 b. derivatives to which corresponding highly liquid assets are assigned so that the combination of derivative and highly liquid assets is equivalent to a direct investment in the underlying asset and neither an additional market risk nor leverage is generated. The highly liquid assets used to cover the derivative position may not be used for more than one combination simultaneously.
+|
+
+:INFO
+Art. 35 (continued)
 5 Securities lending and repurchase transactions must be taken into account when calculating the overall exposure if these generate leverage on the fund assets through the reinvestment of collateral. Where collateral is reinvested in financial assets that provide a return in excess of the risk-free interest rate, the amount received must be included when determining the overall exposure if cash collateral is held.
 |
 
@@ -360,12 +408,20 @@ Art. 36 Commitment approach II: rules on netting and hedging transactions
 a. the derivative transaction was concluded with the sole purpose of eliminating the risks associated with the derivatives or investments acquired;
 b. no material risks are disregarded in the process; and
 c. the conversion amount of the derivatives is determined pursuant to Article 35.
+|
+
+:INFO
+Art. 36 (continued)
 2 If the derivatives in hedging transactions do not relate to the same underlying as the asset that is to be hedged, the following additional conditions must be met for netting:
 a. The derivative transaction is not based on an investment strategy that serves to generate a profit.
 b. The derivative results in a demonstrable reduction in the risk of the securities fund.
 c. The general and special risks of the derivative are balanced out.
 d. The derivatives, underlyings or assets that are to be netted relate to the same class of financial instruments.
 e. The hedging strategy remains effective even under exceptional market conditions.
+|
+
+:INFO
+Art. 36 (continued)
 3 Where interest rate derivatives are predominantly used, the amount to be included in the overall exposure arising from derivatives can be determined using internationally recognised duration-netting rules provided that:
 a. the rules result in a correct determination of the risk profile of the securities fund;
 b. the material risks are taken into account;
@@ -401,6 +457,10 @@ a. gamma and vega risks in the case of option positions;
 b. specific risks in the form of residual risks;
 c. event, default and liquidity risks as part of stress tests.
 4 The calculations must be clearly documented.
+|
+
+:INFO
+Art. 39 (continued)
 5 Variance from the confidence interval, the holding period or the observation period is possible owing to exceptional market circumstances, and must have the prior approval of FINMA.
 |
 
@@ -409,6 +469,10 @@ Art. 40 Model approach: benchmark portfolio
 1 The benchmark portfolio of a securities fund is assets without any leverage and generally without any derivatives.
 2 The composition of the benchmark portfolio corresponds to the information in the fund regulations, prospectus and information necessary for the securities fund’s investors, specifically concerning its investment objectives, investment policy and limits.
 3 It must be reviewed periodically, but at least once a quarter. The respective composition and any changes thereto must be documented clearly.
+|
+
+:INFO
+Art. 40 (continued)
 4 Where a benchmark, such as an equity index for benchmark portfolios, is defined in the fund regulations or in the prospectus and information necessary for the securities fund’s investors, it may be used for calculating the VaR of the benchmark portfolios. The benchmark must be:
 a. derivative-free and not have any leverage;
 b. calculated by an independent, external office; and
@@ -416,6 +480,10 @@ c. representative of the investment objectives, investment policy and limits of 
 5 The benchmark portfolio may include derivatives, where:
 a. according to the fund regulations or prospectus, the securities fund is implementing a long/short strategy, and in the benchmark portfolio the short exposure is shown as derivatives;
 b. according to the fund regulations or prospectus, the securities fund is implementing a currency hedge investment policy and a currency hedge benchmark portfolio is used as a benchmark.
+|
+
+:INFO
+Art. 40 (continued)
 6 If it is not possible to construct a representative benchmark portfolio on the basis of the specific investment objectives and investment policy of a securities fund, a VaR limit may be agreed upon with FINMA (absolute VaR limit). This must be stated in the prospectus.
 |
 
@@ -459,6 +527,10 @@ a. debt securities and rights the remaining time to maturity of which is more th
 b. shares traded on an exchange or another regulated market open to the public.
 3 It must be possible at all times to turn collateral as defined in paragraph 2 into liquid assets within seven banking days.
 4 Shares may only be included as cover at market value less a security margin. This security margin must take account of the volatility of the corresponding share and must amount to at least 15 percent.
+|
+
+:INFO
+Art. 45 (continued)
 5 If an investment may require an additional payment, it is deemed an obligation to pay.
 |
 
@@ -498,6 +570,10 @@ Art. 49 Disclosure
 2 The prospectus must indicate whether the derivatives are used as part of the investment strategy or solely to hedge investment positions. In addition, the prospectus must explain how the use of derivatives affects the risk profile of the securities fund.
 3 The fund regulations and prospectus must state which risk assessment process is applied to the securities fund. The risk assessment process must also be described in the prospectus. If the model approach is used, the gross overall exposure to derivatives must be shown. If the relative VaR approach is used, the benchmark portfolio must be disclosed in the prospectus.
 4 If a securities fund exhibits increased volatility or leverage due to the use of derivatives, special reference must be made to this in the prospectus and advertising material.
+|
+
+:INFO
+Art. 49 (continued)
 5 Reference must be made to the counterparty risks of derivatives in the prospectus.
 
 :PATH
@@ -528,9 +604,17 @@ Art. 52 Management of collateral
 The fund management company, SICAV or their agents must comply with the following duties and requirements when managing the collateral:
 a. They must diversify the collateral appropriately in terms of countries, markets and issuers. Appropriate diversification of issuers is deemed to have been achieved if the collateral of a single issuer held does not correspond to more than 20 percent of the net asset value. Deviation from this rule is permitted if the collateral meets the requirements of Article 83 paragraph 1 CISO or the approval conditions set out in Article 83 paragraph 2 CISO are met. If collateral is provided by more than one counterparty, an aggregate perspective must be ensured.
 b. They must be able to obtain power of disposal over, and authority to dispose of, the collateral received at any time in the event of default by the counterparty, without involving the counterparty or obtaining its consent.
+|
+
+:INFO
+Art. 52 (continued)
 c. They may not re-lend, re-pledge, sell or reinvest collateral pledged or transferred to them or use it as part of a repurchase transaction or to hedge obligations arising from derivative financial instruments. They may only use cash collateral received in the corresponding currency as liquid assets or invest it in high-quality government bonds and directly or indirectly in short-term money market instruments or use it as a reverse repo.
 d. If they accept collateral representing more than 30 percent of the fund assets, they must ensure that the liquidity risks can be captured and monitored appropriately. Regular stress tests must be carried out that take account of both normal and exceptional liquidity conditions. The controls carried out must be documented.
 e. They must take account of the risks associated with the management of collateral in their risk management process.
+|
+
+:INFO
+Art. 52 (continued)
 f. They must be in a position to attribute any uncovered claims remaining after the realisation of collateral to the securities funds whose assets were the subject of the underlying transactions.
 |
 
@@ -586,12 +670,20 @@ b. the name of the master fund;
 c. the investment objective and the investment policy of the master fund;
 d. the nature, amount and method of calculation of all remuneration as well as incidental costs that result from the investment in the master fund and that are permitted to be charged to the fund assets or the investors;
 e. a statement that the fund contract or investment regulations, the prospectus, the key investor information document, as well as the annual and semi-annual reports of the master fund may be obtained free of charge;
+|
+
+:INFO
+Art. 57 (continued)
 f. a statement that the feeder fund may continue to exist after the dissolution of the master fund or after merger, conversion or transfer of the assets of the master fund up until the application is approved pursuant to Article 63 or 64.
 2 In addition to the information set out in Article 106 CISO, the prospectus of a feeder fund shall in particular contain the following:
 a. a statement that the fund is a feeder fund which invests at least 85 percent of its assets in a specific master fund;
 b. a description of the master fund including the investment strategy and risk profile;
 c. a summary of the most important content of the agreements on cooperation and duties of disclosure concluded in accordance with Articles 58, 61 and 62;
 d. the location from which further information about the master fund and the agreements on cooperation and duties of disclosure concluded may be obtained free of charge.
+|
+
+:INFO
+Art. 57 (continued)
 3 The annual report of the feeder fund shall indicate the location from which the annual and semi-annual reports of the master fund may be obtained free of charge.
 4 The marketing documents and the key investor information document on the feeder fund shall include a statement that it is a feeder fund which invests at least 85 percent of its assets in a specific master fund.
 |
@@ -608,11 +700,19 @@ a. the principles regarding the transfer of the relevant documents and further i
 b. the master fund’s duty of disclosure to the feeder fund regarding the delegation of tasks to third parties;
 c. the violations of statutory and contractual provisions which the master fund is required to report to the feeder fund and the form and timing of such reports;
 d. the duty of the master fund to inform the feeder fund of the overall exposure arising from derivative financial instruments;
+|
+
+:INFO
+Art. 58 (continued)
 e. the master fund’s duty of disclosure to the feeder fund if it concludes additional agreements regarding the exchange of information with third parties;
 f. the ways in which the feeder fund may invest in the master fund as well as details of the costs and expenses to be borne by the feeder fund;
 g. the principles and arrangements for implementing the measures set out in paragraph 4;
 h. the arrangements for reporting the deferral of issues and redemptions and for reporting errors in the setting of prices by the master fund;
 i. the principles for reconciling the audit reports of the master fund and feeder fund.
+|
+
+:INFO
+Art. 58 (continued)
 3 If the master fund and feeder fund are managed by the same fund management company or SICAV, the agreement on cooperation and duties of disclosure may be replaced by internal regulations. These must contain measures to prevent conflicts of interest. In all other respects, the internal regulations must meet the requirements set out in paragraph 2 letters f–i.
 4 The master fund and feeder fund shall take measures to coordinate the schedules for calculating and publishing the net asset value in order to prevent market timing and possibilities for arbitrage.
 |
@@ -643,11 +743,19 @@ a. errors in the calculation of the net asset value of the master fund;
 b. errors in transactions, in the settlement of purchases and sales or of orders to issue or redeem units of the master fund by the feeder fund;
 c. errors in the distribution or reinvestment of income from the master fund;
 d. violations of statutory provisions or of the investment objectives, limits, policy or strategy of the master fund described in the fund contracts or investment regulations, the prospectus or the key investor information document.
+|
+
+:INFO
+Art. 61 (continued)
 2 If the master fund and feeder fund have different custodian banks, the latter shall, with the approval of the master fund and feeder fund, conclude an agreement on cooperation and duties of disclosure to ensure the fulfilment of their duties. This agreement shall, as a minimum, contain the following points:
 a. a description of the documents and categories of information that the two custodian banks exchange on a regular basis, including the arrangements for and timing of such exchanges;
 b. the principles regarding the handling of operational issues, including the calculation of the net asset value, protection against market timing, and the processing of orders of the feeder fund;
 c. the arrangements for the reporting of violations of statutory and contractual provisions by the master fund;
 d. other points that are necessary for the cooperation between the custodian banks.
+|
+
+:INFO
+Art. 61 (continued)
 3 When exchanging data, the custodian banks shall comply with their statutory and contractual obligations regarding the disclosure of data and data protection.
 |
 
@@ -655,6 +763,10 @@ d. other points that are necessary for the cooperation between the custodian ban
 Art. 62 Duties of the audit company
 1 In its short-form report for the feeder fund, the audit company shall take account of the short-form report for the master fund. If the master fund and feeder fund have different accounting years, the master fund shall compile an interim financial statement as of the reporting date of the feeder fund. Based on this, the audit company shall compile an ad-hoc short-form report for the master fund as of the reporting date of the feeder fund.
 2 In its short-form report for the feeder fund, the audit company shall mention any deviations from the standard wording contained in the short-form report for the master fund as well as any other material information, together with any influence on the feeder fund.
+|
+
+:INFO
+Art. 62 (continued)
 3 If the master fund and feeder fund have different audit companies, the latter shall conclude an agreement on cooperation and duties of disclosure to ensure the fulfilment of their duties. This shall contain, as a minimum:
 a. a description of the documents and categories of information that the two audit companies exchange on a regular basis, including the arrangements for and timing of such exchanges;
 b. the coordination of the role of the audit companies in the process of compiling the annual financial statements for the master fund and feeder fund;

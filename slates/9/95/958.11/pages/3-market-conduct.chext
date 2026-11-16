@@ -60,6 +60,10 @@ Art. 81 Fulfilment of duties under foreign law
 a. clearing duty under Article 97 FinMIA, if the clearing in question largely reduces the systemic and counterparty risks of standardised OTC derivatives;
 b. reporting duty under Article 104 FinMIA, if the report contains at least the information set out in the Article 105 paragraph 2 FinMIA;
 c. the risk mitigation duty under Articles 107 to 110 FinMIA, if the corresponding measures largely reduce the systemic and counterparty risks of non-standardised OTC derivatives;
+|
+
+:INFO
+Art. 81 (continued)
 d. the platform trading duty under Article 112 FinMIA, if pre-trade and post-trade transparency in the derivatives market is appropriately improved through the trading of standardised derivatives via trading venues or organised trading facilities.
 3 A Swiss counterparty can fulfil its derivatives trading duties with another Swiss counterparty under foreign supervisory legislation recognised by FINMA if the derivatives transaction in question or a counterparty to this transaction has an objective connection with this legislation. The simply choice of law does not create an objective connection.
 |
@@ -102,6 +106,10 @@ Art. 86 Transactions not covered
 (Art. 94 para. 4 and 97 para. 2 FinMIA)
 1 Transactions with counterparties that are subject to the clearing duty for the first time in accordance with Article 98 paragraph 2 or Article 99 paragraph 2 FinMIA do not need to be cleared through a central counterparty if they were concluded prior to subjection to the clearing duty.
 2 Derivatives transactions with counterparties which have their registered office or domicile in Switzerland to which the derivatives trading provisions do not apply do not have to be cleared through a central counterparty.
+|
+
+:INFO
+Art. 86 (continued)
 3 Derivatives transactions in which a covered bond issuer or a legal entity of a cover pool for covered bonds is involved do not have to be cleared via a central counterparty if the following prerequisites are met:
 a. The derivatives transaction serves the sole purpose of hedging interest rate or currency risks arising from the covered bond for the cover pool.
 b. The derivatives transaction is not terminated in the event of restructuring or bankruptcy proceedings brought against the covered bond issuer or the legal entity of the cover pool.
@@ -109,6 +117,10 @@ c. The counterparty of the covered bond issuer or of the legal entity of the cov
 1. the counterparty is the defaulting or affected party; or
 2. the counterparty renounces pari passu status.
 d. The other derivatives transactions entered into as part of the netting set are linked to the cover pool.
+|
+
+:INFO
+Art. 86 (continued)
 e. The cover pool's collateral ratio is at least 102%.
 |
 
@@ -124,6 +136,10 @@ Derivatives transactions intended to reduce risks are directly associated with t
 a. serve to hedge the risks of a change in value of assets or liabilities which the non-financial counterparty or its group can reasonably be considered to hold, in keeping with its business activity;
 b. serve to hedge the risks to the value of assets and liabilities that result from indirect repercussions of fluctuations in interest rates, inflation rates, currency movements or credit risks;
 c. are recognised as hedging transactions according to an accounting standard that is recognised under Article 1 of the Ordinance of 21 November 2012 on Recognised Accounting Standards; or
+|
+
+:INFO
+Art. 87 (continued)
 d. are concluded as fixed hedging transactions in the context of the management of business risks (portfolio hedging or macro hedging) or are concluded according to the approximation method (proxy hedging) in keeping with recognised international standards.
 |
 
@@ -152,6 +168,10 @@ b. Positions from OTC derivatives transactions are factored into the calculation
 c. Positions of fully-consolidated group companies, including those with their registered office outside Switzerland, shall be factored in irrespective of the registered office of the parent company if these group companies would count as financial or non-financial counterparties in Switzerland.
 d. Adjustments to the nominal amount during the term shall be factored in if these were contractually envisaged at the start of the transaction.
 e. Transactions in the subsequent transaction chain of hedging transactions of a non-financial counterparty likewise count as hedging transactions.
+|
+
+:INFO
+Art. 89 (continued)
 f. The netting of opposing positions in derivatives is permitted insofar as these positions relate to the same underlying instrument, are denominated in the same currency and have the same maturity date. In such case, the reference interest rates for variable-interest positions, the fixed interest rates and the interest-setting reference dates must be identical.
 g. Derivatives not covered by the clearing duty under Article 101 paragraph 3 letter b FinMIA shall not be factored in.
 |
@@ -217,6 +237,10 @@ Art. 96 Portfolio reconciliation
 a. every business day if there are 500 or more OTC derivatives transactions outstanding between the counterparties;
 b. once a week if there are between 51 and 499 OTC derivatives transactions outstanding between the counterparties at any point during the week;
 c. once a quarter if there are 50 or less OTC derivatives transactions outstanding between the counterparties at any point during the quarter.
+|
+
+:INFO
+Art. 96 (continued)
 5 Derivatives not covered by the clearing duty under Article 101 paragraph 3 letter b FinMIA are not factored in for purposes of determining outstanding transactions in accordance with paragraph 4.
 |
 
@@ -248,6 +272,10 @@ b. the range of plausible fair value estimates is significant and the probabilit
 2 A market for an OTC derivatives transaction is viewed as inactive if:
 a. the quoted prices are not automatically and regularly available; and
 b. the prices available do not represent market transactions that take place regularly and under standard market conditions.
+|
+
+:INFO
+Art. 99 (continued)
 3 If a valuation is permissible on the basis of model prices, the model must:
 a. take into consideration all factors that the counterparties would take into account when determining a price, including the greatest possible use of market valuation information;
 b. be in line with recognised economic processes for determining the prices of financial instruments;
@@ -262,6 +290,10 @@ Art. 100 Duty to exchange collateral
 1 If counterparties have to exchange collateral, this shall take the form of:
 a. an initial margin that is suitable for protecting the transaction partners from the potential risk that there could be market price changes during the closing and replacement of the position in the event of default on the part of a counterparty; and
 b. a variation margin that is suitable for protecting the transaction partners from the ongoing risk of market price changes following execution of the transaction.
+|
+
+:INFO
+Art. 100 (continued)
 2 The duty to supply an initial margin applies only to counterparties whose aggregated month-end average gross position of OTC derivatives not cleared through a central counterparty, including derivatives in accordance with Article 107 paragraph 2 letter b of the FinMIA, is greater than CHF 8 billion at group or financial or insurance group level for the months of March, April and May of the year; in this regard, intra-group transactions are not counted several times from the viewpoint of each group company.
 3 The duty under paragraph 2 always applies for the entirety of the subsequent calendar year.
 |
@@ -277,6 +309,10 @@ Art. 100a Exceptions to the duty to exchange collateral
 a. the collateral to be exchanged would amount to less than CHF 500,000;
 b. small non-financial counterparties are involved in the transaction.
 2 The exchange of initial margins may be waived if such margins would have to be provided for the currency components of currency derivatives where the nominal amount and interest in one currency are exchanged against the nominal amount and interest in another currency at a predefined time and according to a predefined method.
+|
+
+:INFO
+Art. 100a (continued)
 3 If one of the counterparties to a derivatives transaction is a covered bond issuer or a legal entity of a cover pool for covered bonds, that counterparty may, subject to the conditions set out in Article 86 paragraph 3, agree with its counterparty that:
 a. an exchange of initial margins will be dispensed with; or
 b. the covered bond issuer or the legal entity of a cover pool for covered bonds will pay no variation margins, and the counterparty will pay variation margins in cash.
@@ -319,6 +355,10 @@ Art. 101a Timing of variation margin calculation and payment
 4 Notwithstanding paragraph 3, variation margins may be paid up to two business days after the calculation day if:
 a. A counterparty not obliged to pay an initial margin provided additional collateral before the calculation day and the following conditions are met:
 1. the additional collateral was calculated taking account of a 99% one-tailed confidence interval for the valuation of the OTC derivatives transactions to be secured for the relevant margin period of risk,
+|
+
+:INFO
+Art. 101a (continued)
 2. the margin period of risk is at least as many days as the number of days between the calculation day and the variation margin payment day, whereby the calculation day and payment day also have to be counted; or
 b. the counterparties paid initial margins taking account of a margin period of risk spanning at least the following periods:
 1. the period from the last variation margin payment day to the possible counterparty default, plus the days from the calculation day to the variation margin payment day, and
@@ -336,6 +376,10 @@ Art. 102 Treatment of initial margins
 2 Initial margins paid in cash must be held with a central bank or a Swiss bank independent of the paying counterparty or an independent foreign bank subject to appropriate regulation and supervision.
 3 Initial margins not paid in cash may be held by the receiving counterparty or by a third party mandated by the counterparty. The third party may be the paying counterparty.
 4 The use of initial margins for other purposes is not permissible. This does not apply to the reutilisation of initial margins paid in cash by a custodial third party, provided it is contractually ensured that the reutilisation does not adversely affect the security and its usability.
+|
+
+:INFO
+Art. 102 (continued)
 5 The receiving counterparty and the custodial third party must keep the non-cash initial margins received separate from their own assets and conclude a segregation agreement. This shall prescribe in particular that:
 a. the initial margin payment should be immediately available to the receiving counterparty in the event of bankruptcy or default on the part of the other counterparty; and
 b. the counterparty making the initial margin payment should be sufficiently hedged against the possibility of bankruptcy or default on the part of the receiving party or the custodial third party.
@@ -357,10 +401,18 @@ d. 5% for credit derivatives with a residual term of two to five years;
 e. 6% for foreign currency derivatives;
 f. 10% for credit derivatives with a residual term of more than five years;
 g. 15% for equity, commodity and all other derivatives.
+|
+
+:INFO
+Art. 103 (continued)
 3 If a transaction can be classified in more than one derivative category in accordance with paragraph 2, it shall be assigned:
 a. to the derivative category with the greatest risk factor insofar as this can be clearly identified in the transaction in question;
 b. to the derivative category with the highest percentage discount if the greatest risk factor cannot be clearly identified in the transaction in question.
 4 The initial margin for a netting set is calculated in accordance with Annex 3.
+|
+
+:INFO
+Art. 103 (continued)
 5 Financial counterparties that use a market risk model approach approved by FINMA in accordance with Article 88 CAO for calculating positions according to risk weighting, or that use a market model approved by FINMA in accordance with Articles 50a to 50d of the Insurance Oversight Ordinance of 9 November 2005 for calculating solvency as part of the Swiss Solvency Test (SST), may calculate the initial margin payment on that basis so long as no internationally harmonised standard model that is recognised throughout the industry has been established. FINMA shall regulate the technical criteria that the model approach or the market model must meet.
 6 ...
 |
@@ -385,6 +437,10 @@ g. money market funds;
 h. units in securities funds in accordance with Article 53 of the Federal Act of 23 June 2006 on Collective Investment Schemes, if:
 1. the units are valued daily, and
 2. the securities funds invest solely in assets in accordance with letters a to g or in derivatives that hedge such assets.
+|
+
+:INFO
+Art. 104 (continued)
 2 Collateral is deemed to be high value if it is highly liquid, has a strong track record of preserving its value even in a period of stress and can be monetised within an appropriate period.
 3 Resecuritisation positions are not admissible as collateral.
 4 The collateral must be valued anew each day.
@@ -405,6 +461,10 @@ Art. 105 Discounts on collateral
 a. the currency of the initial margin paid is different from the currency agreed for the termination payment;
 b. the currency of non-cash variation margins provided is different from the currencies agreed in the derivatives contract, the netting framework agreement or the credit support annex for variation margins.
 3 Counterparties may ascertain the discounts that apply using their own estimates of market price and exchange rate volatility if they meet the qualitative and quantitative minimum standards in accordance with Annex 5.
+|
+
+:INFO
+Art. 105 (continued)
 4 They shall take measures to:
 a. exclude risk concentrations with respect to certain types of collateral;
 b. rule out the possibility that the collateral accepted was issued by the collateral provider or a company associated with the collateral provider;
@@ -422,11 +482,19 @@ Art. 106 Cross-border transactions
 2 No collateral has to be exchanged if the foreign counterparty:
 a. has its registered office in a country whose legislation is recognised by FINMA as being equivalent; and
 b. does not have to exchange collateral under the legislation of that country.
+|
+
+:INFO
+Art. 106 (continued)
 2bis The Swiss counterparty may dispense with the payment of initial margins and variation margins to the foreign counterparty if an independent legal review showed that:
 a. the netting or guarantee agreements vis-à-vis the foreign counterparty are not definitely legally enforceable at all times; or
 b. agreements on the separation of collateral are not in line with internationally recognised standards.
 2ter It can dispense with requiring the foreign counterparty to pay initial margins and variation margins if the conditions under paragraph 2bis letter a or b are met and:
 a. an independent legal review showed that the acceptance of initial or variation margin payments from the foreign counterparty in accordance with the provisions of the FinMIA or this Ordinance would not be possible; and
+|
+
+:INFO
+Art. 106 (continued)
 b. the unsecured transactions concluded and outstanding after the entry into force of the duty to call for the payment of initial margins and variation margins account for less than 2.5% of all OTC derivatives transactions, whereby intra-group transactions are not to be included in the calculation.
 3 The other risk mitigation duties that would require the involvement of the counterparty may be fulfilled unilaterally insofar as this corresponds to recognised international standards.
 |
@@ -514,6 +582,10 @@ Art. 114 Auditing and notifications
 3 The auditor in accordance with Article 727 of the Swiss Code of Obligations (CO) shall set out the results of its audit in a comprehensive report for the board of directors in accordance with Article 728b paragraph 1 CO.
 4 The auditor in accordance with Article 727a CO shall inform the responsible body of the audited company of the results of the audit.
 5 If the auditor identifies violations of the provisions on derivatives trading, it shall incorporate these into its report in accordance with paragraphs 3 and 4. It shall set a deadline for rectification of the reported violations.
+|
+
+:INFO
+Art. 114 (continued)
 6 If the audited company has not executed any derivatives transactions during the audit period and no derivatives transactions are outstanding at the end of this period, the reports required under paragraphs 3 and 4 may be waived.
 7 The auditor shall report the violations to the FDF if the company does not remedy the violations in accordance with paragraph 5 by the deadline set, or if it repeats these violations.
 |
@@ -551,6 +623,10 @@ a. 0.05% for amounts up to CHF 250 million;
 b. 0.02% for the part between CHF 250 million and CHF 625 million;
 c. 0.01% for the part in excess of CHF 625 million.
 3 The fee shall amount to at least CHF 50,000 and a maximum of CHF 250,000. In special cases, the fee may be reduced or increased by up to 50% depending on the scope and complexity of the transaction in question.
+|
+
+:INFO
+Art. 117 (continued)
 4 If securities listed on the stock exchange are offered for exchange, the total amount of the offer shall be ascertained on the basis of the volume-weighted average closing price over the last 60 trading days prior to submission of the offer, or prior to the offer being reported to the Swiss Takeover Board. For illiquid or unlisted securities, the fee shall be ascertained on the basis of the auditor's valuation.
 5 In special cases, in particular if the target company or a qualified shareholder causes the Swiss Takeover Board an unusual amount of work, the Swiss Takeover Board may also require the target company or the qualified shareholder to pay a fee. This shall amount to at least CHF 20,000, but no more than the fee payable by the offeror.
 |
@@ -605,17 +681,29 @@ c. the scope of the buyback does not exceed 25% of the average daily volume trad
 d. the purchase price is not greater than:
 1. the last independently achieved closing price on the regular trading line, or
 2. the best current independent bid price on the regular trading line, provided this is below the price referred to in item 1;
+|
+
+:INFO
+Art. 123 (continued)
 e. no prices are provided during breaks in trading and during the opening or closing auction;
 f. sales of own equity securities during the buyback programme are made solely to fulfil employee participation programmes or meet the following conditions:
 1. they are reported to the stock exchange on the trading day following their execution,
 2. they are published by the issuer no later than the fifth trading day after their execution, and
 3. their scope does not exceed 5% of the average daily volume traded on the regular trading line during the 30 days prior to the publication of the buyback programme;
 g. the key content of the buyback programme is published by means of a buyback notice before the start of the buyback programme and remains publicly accessible for the duration of the buyback programme; and
+|
+
+:INFO
+Art. 123 (continued)
 h. the individual buybacks are reported to the stock exchange as part of the buyback program no later than the fifth trading day following the buyback and are published by the issuer.
 2 The buyback of own equity securities at a fixed price or through the issuance of put options in accordance with Article 142 paragraph 1 letter a and Article 143 paragraph 1 FinMIA is permissible, subject to Article 124, if:
 a. the buyback programme lasts for at least ten trading days;
 b. the scope of the buyback programme does not exceed a total of 10% of the capital and voting rights and 20% of the free float of the equity securities;
 c. the key content of the buyback programme is published by means of a buyback notice before the start of the buyback programme and remains publicly accessible for the duration of the buyback programme; and
+|
+
+:INFO
+Art. 123 (continued)
 d. the individual buybacks are published by the issuer no later than one stock market day after the end of the buyback programme.
 3 In individual cases, the Swiss Takeover Board may authorise buybacks of a larger scope than those referred to in paragraph 1 letters b and c and paragraph 2 letter b if this is compatible with the interests of investors.
 4 It is assumed that Article 142 paragraph 1 letter a and Article 143 paragraph 1 FinMIA are not violated if the purchase price paid on a separate trading line is a maximum of 2% higher than:
@@ -633,6 +721,10 @@ c. more than nine months after the reference date of the last published consolid
 2 The buyback at market price remains reserved if this is undertaken by:
 a. a securities firm that was commissioned prior to the start of the buyback programme, and the security firm's decisions are made within the parameters originally prescribed by the issuer without the latter having any further influence;
 b. a trading unit that is segregated with information barriers, insofar the issuer itself is a securities firm.
+|
+
+:INFO
+Art. 124 (continued)
 3 The parameters under paragraph 2 letter a must have been set prior to publication of the buyback offer and may be adjusted once a month for the duration of the buyback programme. If the parameters are set or adjusted within one of the periods set out in paragraph 1, the buyback may be performed only after a waiting period of 90 days.
 |
 
@@ -656,6 +748,10 @@ Securities transactions which are intended to stabilise the price of a security 
 a. they are carried out within 30 days of the public placement of the securities to be stabilised;
 b. they are executed at a price that is no higher than the issue price, or, in the case of trading with subscription or conversion rights, at a price that is no higher than the market price;
 c. the maximum period during which the securities transactions can be carried out and the identity of the securities firm responsible for carrying them out are published before the start of trading with the securities to be stabilised;
+|
+
+:INFO
+Art. 126 (continued)
 d. they are reported to the trading venue or DLT trading facility at the latest on the fifth trading day following their execution and published by the issuer at the latest on the fifth trading day after the expiry of the deadline under letter a; and
 e. the issuer informs the public at the latest on the fifth trading day following the exercising of an overallotment option (greenshoe) about the timing of the exercising, as well as the number and type of the securities concerned.
 |
@@ -676,6 +772,10 @@ b. securities transactions carried out in the course of the fulfilment of public
 2. the SNB,
 3. the BIS, and
 4. multilateral development banks in accordance with Article 63 paragraph 2 letter c CAO.
+|
+
+:INFO
+Art. 127 (continued)
 2 Paragraph 1 may also be declared applicable to securities transactions carried out by the following parties as long as the transactions are carried out in connection with public tasks and not for investment purposes, and as long as reciprocal rights are granted and an exception does not stand in contradiction to the legislative purpose:
 a. foreign central banks;
 b. the ECB;

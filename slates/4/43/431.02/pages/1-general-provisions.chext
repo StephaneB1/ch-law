@@ -25,6 +25,10 @@ c. the Ordipro information system of the Federal Department of Foreign Affairs;
 d. the information system for the networked administration of data on and for the Swiss Abroad (E-VERA) maintained by the Federal Department of Foreign Affairs;
 e. the Central Register of Insured Persons, the Central Pensions Register and the Register of Benefits-in-Kind of the Central Compensation Office in accordance with Article 71 of the Federal Act of 20 December 1946 on Old-Age and Survivors’ Insurance (OASIA);
 f. the information system of the Central Compensation Office for processing data related to supplementary benefits in accordance with Article 71 OASIA.
+|
+
+:INFO
+Art. 2 (continued)
 2 It also applies to the cantonal and communal:
 a. registers of residents;
 b. electoral registers that serve as the basis for federal popular votes and elections to the National Council.
@@ -44,12 +48,20 @@ Art. 3 Definitions
 In this Act the terms below are defined as follows:
 a. register of residents: register maintained manually or electronically by the canton or the commune, in which anyone who is permanently settled or is resident in the canton or in the commune is recorded;
 b. commune of permanent settlement: commune in which a person resides with the intention of remaining there permanently, in order to establish the focus of his or her life there, as must be recognisable to others; a person is regarded as permanently settled in the commune in which he or she has deposited the required document, and may have only one commune of permanent settlement;
+|
+
+:INFO
+Art. 3 (continued)
 c. commune of residence: commune in which a person resides for a specific purpose, without the intention of remaining there permanently, for a minimum of three consecutive months or three months within a single year; residency for the purpose of attending a educational institution or school and the accommodation of a person in a corrective, residential, or penal institution or hospital constitute a commune of residence;
 d. household: unit comprising everyone who lives in the same dwelling;
 e. identifier: non-descriptive and invariable number which, as a functional element in a database, permits the clear identification of a person or article;
 f. attribute: property of a person or article that may be objectively recorded and described;
 g. attribute characteristic: specific value that an attribute may acquire;
 h. nomenclature: system for the classification and presentation of attribute characteristics;
+|
+
+:INFO
+Art. 3 (continued)
 i. coding key: code collection that enables the transcription of attribute characteristics recorded in text form into numerical values that can be processed in the computer systems.
 |
 

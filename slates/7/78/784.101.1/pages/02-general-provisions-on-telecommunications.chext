@@ -53,6 +53,10 @@ Art. 5 — Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 
 Art. 6 Right to connect telecommunications terminal equipment
 1 The telecommunications service provider may not refuse for technical reasons to connect telecommunications terminal equipment that meets the requirements of Article 7 of the Ordinance of 25 November 2015 on Telecommunications Installations (TIO) to the corresponding interfaces.
 2 OFCOM may grant a telecommunications service provider approval to refuse or cease connection of telecommunications terminal equipment that meets the requirements of Article 7 TIO or to cease the service for this equipment if there is a risk that the equipment will cause radio interference or that it will have a damaging effect on the network or network operation. OFCOM may also take other appropriate measures.
+|
+
+:INFO
+Art. 6 (continued)
 3 In an emergency, a provider may immediately disconnect telecommunications equipment from the network if this is required to protect the network and if the user can be offered an alternative immediately and free of charge. The provider shall immediately inform OFCOM.
 |
 
@@ -66,6 +70,10 @@ Art. 7 Interfaces for telecommunications networks and services
 1 Telecommunications service providers must publish the technical specifications of the interfaces required for physical access to telecommunications networks.
 2 They must on request inform OFCOM, customers and manufacturers of telecommunications installations and telecommunications service software of the types of interfaces they provide for internet access services and for services provided using the resources specified in Article 4 paragraph 1 TCA. They must provide the information free of charge within a reasonable time.
 3 The information specified in paragraphs 1 and 2 must be sufficiently detailed so that it is possible to manufacture and use telecommunications terminal equipment for all services provided by the provider concerned using the corresponding interface.
+|
+
+:INFO
+Art. 7 (continued)
 4 Providers must on request inform customers free of charge of the identification features and access data required to access telecommunications networks and to use services in accordance with paragraphs 1 and 2.
 5 OFCOM shall issue the required administrative and technical regulations.
 |
@@ -99,6 +107,10 @@ Para. 1 — Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021
 Art. 10 Price transparency
 1 If, in the case of calls between customers of different providers of mobile telecommunications services, higher prices are charged than for calls to the same provider’s customers, then the caller shall be informed of this when the connection is established, free of charge, without advertising and in simple terms. This also applies to calls between different customer groups of the same provider. Providers must make it possible for their customers to forgo the indication free of charge.
 1bis If customers are charged higher prices for calls to numbers in company-wide telecommunications networks than for calls to numbers with geographical codes, customers shall be informed of this when the connection is established, free of charge, without advertising and in simple terms. Providers must make it possible for their customers to forgo the indication free of charge.
+|
+
+:INFO
+Art. 10 (continued)
 2 In the case of telecommunications services with limited free or discounted elements, the provider must make it possible for customers to find out free of charge how much has already been consumed and how much remains.
 3 Paragraphs 1–2 do not apply to calls to value-added services, international connections and the use of foreign mobile communications networks (international roaming).
 |
@@ -115,6 +127,10 @@ a. how and where customers can find the currently applicable tariffs and the tar
 b. the option of setting a cost limit and of blocking access;
 c. the option of deactivating and reactivating the information when switching to a mobile communications network abroad;
 d. the option of not receiving all the information required when switching to a mobile communications network abroad.
+|
+
+:INFO
+Art. 10a (continued)
 2 When a customer switches to a mobile communications network abroad, the mobile communications provider shall inform the customer immediately, free of charge and in a manner which is easy to understand of the maximum costs of the following international roaming services which may be incurred:
 calls to Switzerland;
 incoming calls;
@@ -180,6 +196,10 @@ c. compile the results and inform their customers and the public about the quali
 2 For each service offered, they must as a minimum:
 a. measure and publish the data transmission rate effectively achieved, the delay and, in the case of mobile communications connections, the signal strength;
 b. measure and publish the contractually agreed data transmission rate, variations in delay and the loss of data packets during transmission.
+|
+
+:INFO
+Art. 10e (continued)
 3 The information on quality must allow comparisons to be made between the offers of the various providers. It must also be published in the form of geographical maps.
 4 In the case of fixed-network internet access, the obligation to measure and publish applies to all providers with at least 300 000 customers. In the case of mobile internet access, it applies to all providers with at least 300 000 customers and a mobile communications licence.
 5 OFCOM shall issue provisions in the technical and administrative regulations on how providers must measure the quality variables and publish the results.
@@ -210,6 +230,10 @@ b. the first name and surname or the company name;
 c. the customer’s address in full;
 d. where applicable, the indication that the customer does not wish to receive advertising messages from persons with whom they have no commercial relationship and that data relating to them may not be forwarded for purposes of direct advertising (Art. 88 para. 1);
 e. the price indication in accordance with Article 11abis and 13a of the Ordinance of 11 December 1978 on Price Indication (PIO) insofar as the entry relates to an addressing resource of a value-added service subject to a charge.
+|
+
+:INFO
+Art. 11 (continued)
 2 A customer may apply for several entries in accordance with paragraph 1 with the same addressing element, provided that all persons affected by the entries have given their consent to this.
 3 If the entry only serves to establish communication, the entry shall be limited to data mentioned in paragraph 1 letters a–c.
 4 If a customer agrees to be contacted via a communication establishment service, their telecommunications service provider must expressly inform them that the data mentioned in paragraph 1 letters a–c will on request be passed on to every provider of such a service.

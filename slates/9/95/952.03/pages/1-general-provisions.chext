@@ -49,21 +49,37 @@ Art. 4 Definitions
 a. regulated stock exchange means an institution that is appropriately regulated and supervised according to internationally recognised standards, whose purpose is to enable the simultaneous purchase and sale of securities among several securities firms and that also ensures this by means of sufficient market liquidity;
 b. main index means an index comprising all securities traded on a regulated stock exchange (total market index) or a selection of key securities on such an exchange, or an index comprising the key securities of various regulated stock exchanges;
 c. regulated entity means an entity operating in the financial sector that must comply with appropriate capital adequacy requirements, particularly with regard to business risks, and that is regulated according to internationally recognised standards and supervised by a banking, securities or insurance supervisory authority;
+|
+
+:INFO
+Art. 4 (continued)
 d. equity security means a security representing a financial interest in the share capital of an entity;
 dbis. equity-like instrument means a financial instrument that, irrespective of voting rights, has a direct or indirect legal or economic link to the assets or revenue of a company, including equity securities, but excluding shares in managed collective assets;
 e. equity instrument means equity securities that qualify as Common Equity Tier 1 capital or additional Tier 1 capital, as well as debt instruments that qualify as additional Tier 1 capital or Tier 2 capital;
 f. corresponding deduction approach means the corresponding deduction approach described in paragraphs 30.21, 30.26 and 30.30 of the Basel Minimum Standards on the definition of capital (CAP);
 fbis. interest rate instrument means an instrument in which interest rates are the predominant risk factor;
 g. qualifying interest rate instrument means an interest rate instrument that has:
+|
+
+:INFO
+Art. 4 (continued)
 1. an external rating of between 1 and 4 from at least two rating agencies recognised by the Swiss Financial Supervisory Authority (FINMA) in accordance with Article 6,
 2. an external rating of between 1 and 4 from one FINMA-recognised rating agency in accordance with Article 6, provided that it does not have a lower external rating from another recognised rating agency,
 3. no external rating from a FINMA-recognised rating agency in accordance with Article 6, but has a yield to maturity and residual maturity comparable to those of securities with an external rating of between 1 and 4, provided that the issuer's securities are traded on a regulated stock exchange or on a market where at least three market makers independent of each other normally quote rates on a daily basis that are published regularly, or
+|
+
+:INFO
+Art. 4 (continued)
 4. no external rating from a FINMA-recognised rating agency in accordance with Article 6, but has an internal bank rating corresponding to a rating of between 1 and 4, provided that the issuer's securities are traded on a regulated stock exchange or on a market where at least three market makers independent of each other normally quote rates on a daily basis that are published regularly;
 h. managed collective assets means capital collected from investors that is collectively invested and managed on their behalf according to a fixed investment strategy, irrespective of domicile and legal form, especially:
 1. collective capital investments,
 2. investment clubs in accordance with Article 2 paragraph 2 letter f of the Collective Investment Schemes Act of 23 June 2006 (CISA),
 3. investment companies, even if not subject to the CISA,
 4. in-house funds in accordance with Article 71 of the Financial Services Act of 15 June 2018,
+|
+
+:INFO
+Art. 4 (continued)
 5. foundations established under foreign law, whose aim is the management of collective assets;
 i. leverage ratio means the leverage ratio in accordance with the Basel Minimum Standards on the leverage ratio (LEV).
 2 The following instruments in particular shall be deemed to be equity-like instruments:
@@ -75,6 +91,10 @@ d. financial instruments that are realised solely through:
 2. the sale of the rights to the relevant financial instruments,
 3. the liquidation of the issuer,
 4. repayment via the issuance of equity securities by the issuer, if:
+|
+
+:INFO
+Art. 4 (continued)
 – in the event of a mandatory repayment or a repayment at the issuer's discretion: upon issuance of a variable number of equity securities, any change in the exposure value is aligned, comparable and linked with the change in value of a given number of equity securities in the company's capital
 – in the event of a repayment at the discretion of the holder of the financial instrument: FINMA rejects the bank's request for it to be treated as a financial asset.
 |
@@ -90,6 +110,9 @@ Para. 1 let. h — Amended by No I of the O of 29 Nov. 2023, in force since 1 Ja
 Para. 1 let. h let. 2 — SR 951.31
 Para. 1 let. h let. 4 — SR 950.1
 Para. 1 let. i — Inserted by No I of the O of 29 Nov. 2023, in force since 1 Jan. 2025 (AS 2024 13).
+|
+
+:NOTE
 Para. 1 let. i — The LEV is listed in Annex 1 No 7.
 Para. 2 let. d let. 4 — Inserted by No I of the O of 29 Nov. 2023, in force since 1 Jan. 2025 (AS 2024 13).
 |
@@ -130,6 +153,10 @@ a. short-term resale;
 b. profiting from short-term price movements;
 c. locking in arbitrage profits;
 d. hedging risks arising from the instruments held for the purposes under letters a to c.
+|
+
+:INFO
+Art. 5 (continued)
 3 The following instruments must be assigned to the trading book, unless they are instruments under Article 4b letters a to h:
 a. instruments held as accounting trading assets or liabilities;
 b. instruments resulting from market-making activities;
@@ -139,10 +166,18 @@ c. units in managed collective assets that meet at least one of the following co
 d. listed equity-like instruments;
 e. trading-related repo and repo-style transactions;
 f. derivative instruments, including embedded derivatives from instruments that the bank issued itself and that relate to credit or equity risk;
+|
+
+:INFO
+Art. 5 (continued)
 g. instruments that would give rise to a net short credit or equity exposure in the banking book;
 h. instruments in the correlation trading portfolio;
 i. instruments resulting from underwriting commitments from securities issuance, where the securities are expected to be actually purchased by the bank on the settlement date.
 4 In derogation from paragraph 3, the instruments under paragraph 3 letters a to g may be assigned to the banking book. FINMA shall issue technical implementing provisions. It shall base these on the Basel Minimum Standards on risk-based capital requirements (RBC). As regards deviating assignments under paragraph 25.10 RBC, it shall make provision for less stringent requirements.
+|
+
+:INFO
+Art. 5 (continued)
 5 FINMA shall issue technical implementing provisions on the documentation requirement and the procedure for assigning instruments to the trading and banking books. It shall base these on the RBC. As regards the auditing of banks' compliance with internal directives under paragraph 25.13 RBC, it shall make provision for less stringent requirements.
 |
 
@@ -186,6 +221,10 @@ d. the rating agency discloses its rating methodology, its code of conduct, its 
 e. the rating agency has sufficient resources;
 f the rating agency and its ratings are credible;
 g. the rating agency does not use unsolicited ratings to put pressure on rated entities into obtaining solicited ratings; and
+|
+
+:INFO
+Art. 6 (continued)
 h. the rating agency declares its willingness to cooperate with FINMA, especially if it notifies it of significant changes to methodologies and provides it with access to its external ratings and other relevant data.
 2 It shall publish a list of recognised rating agencies, including information on the market segment for which it has granted recognition.
 3 If it finds that a recognised rating agency no longer meets the recognition requirements, it shall withdraw such recognition.
@@ -207,6 +246,10 @@ Art. 7 Consolidation requirement
 a. subject to Article 12, participations in the insurance sector shall be consolidated only within the framework of the risk diversification requirements;
 b. the management of collective investments on behalf of investors or the holding of the initial capital of investment companies shall not imply a requirement to consolidate the collective investment.
 3 If the bank holds equity instruments in an unconsolidated entity under paragraph 2 letter a, these shall be subject to the corresponding deduction approach.
+|
+
+:INFO
+Art. 7 (continued)
 4 If the bank holds equity instruments in an unconsolidated entity under paragraph 2 letter b, these shall be subject to the corresponding deduction approach without application of a threshold.
 |
 
@@ -222,6 +265,10 @@ Art. 8 Consolidation types and options available to the bank
 3 In the case of minority interests of at least 20% in entities subject to consolidation over which the bank directly or indirectly exerts a controlling influence together with other shareholders, the bank may opt for proportionate consolidation or the corresponding deduction approach.
 4 The corresponding deduction approach shall be applied for all other minority interests.
 5 With proportionate consolidation, eligible and required capital and risk concentrations must be recognised in proportion to the participation in question.
+|
+
+:INFO
+Art. 8 (continued)
 6 Participations recognised under the corresponding deduction approach shall not be included in risk diversification.
 7 The deduction approach under paragraphs 2 and 3 shall not involve the application of a threshold.
 |
@@ -234,6 +281,10 @@ b. significant group entities held for less than a year.
 2 Participations conferring more than 50% of the voting rights may exceptionally be consolidated on a proportionate basis with the audit firm's consent if it is contractually stipulated that:
 a. the support for the entity subject to consolidation is limited to the bank's proportionate share; and
 b. the other shareholders or partners are obliged to provide support to the extent of their proportionate share and are legally and financially capable of fulfilling that obligation.
+|
+
+:INFO
+Art. 9 (continued)
 3 Participations that are exempt from the consolidation requirement in accordance with paragraph 1 shall be subject to the corresponding deduction approach without application of a threshold.
 |
 

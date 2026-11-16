@@ -33,11 +33,19 @@ b. online system means the part of the system that is used to verify eligibility
 c. the trustworthy part of the system is the part of the system that includes one or more groups of control components; the trustworthiness of this part of the system arises from the fact that misuse can be detected even if only one of a group’s control components is functioning correctly;
 d. control components are separate components of the system that are designed in a variety of ways, operated by different persons and secured by special means;
 e. system operator means the authority or private company that operates and maintains the online system at a ballot as directed by the canton;
+|
+
+:INFO
+Art. 2 (continued)
 f. operation means any action, including maintenance, with a technical, administrative or legal aspect and related management activities, carried out by a canton, system operator or printing office that are required to conduct electronic ballots;
 g. operating body means an organisation or organisational unit responsible for operation, such as a cantonal chancellery, a system operator or printing office;
 h. auditor means a person who checks on behalf of the canton that the ballot is correctly conducted;
 i. infrastructure means hardware, software of third-party components in accordance with Article 11 paragraph 2 letter a, network elements, premises, services and equipment of any nature at any operating bodies that are required for the secure operation of electronic voting;
 j. software means the entire implementation originating from the cryptographic protocol for complete verifiability that is carried out by the system developer for electronic voting;
+|
+
+:INFO
+Art. 2 (continued)
 k. cryptographic protocol means a protocol with cryptographic security functions to meet the requirements in Number 2 of the Annex; the cryptographic protocol is located in the model level and therefore does not contain direct instructions for implementation, but instead abstract security functions;
 l. user device means any multifunctional, programmable device that is connected to the internet and is used to vote, such as a conventional computer, a smartphone or a tablet;
 m. registered vote means a vote the final casting of which has been acknowledged by the trustworthy part of the system;
@@ -47,10 +55,18 @@ n. partial vote:
 o. vote cast in conformity with the system is a vote:
 1. that complies with a predetermined way of completing a ballot paper in a vote or election,
 2. that a sender has confirmed as final,
+|
+
+:INFO
+Art. 2 (continued)
 3. in respect of which the client-side authentication credentials used or the resulting authentication messages match the server authentication credentials established in the preparatory phase of the ballot and assigned to an voter, and
 4. that has been cast using authentication credentials that have not already been used to cast a vote that has already been registered by the trustworthy part of the online system;
 p. client-side authentication credential means a piece of information, such as a PIN, given to an individual voter that he or she requires, in some cases with other client-side authentication credentials, to be able to vote;
 q. server-side authentication credential means a piece of information that is required, in some cases with other server-side authentication credentials, to authenticate the sender of a vote as a voter based on authentication messages;
+|
+
+:INFO
+Art. 2 (continued)
 r. authentication message means any information that a user device sends to the online system on submission of the client-side authentication credential so that the online system authenticates the sender of a vote as the voter;
 s. a certificate is a document that confirms that an examined item conforms to a certain reference framework or standard;
 t. an electronic certificate is a data record that confirms certain characteristics of a person or object and whose authenticity and integrity can be verified by cryptographic procedures; the electronic certificate is mainly used to identify and authenticate the holder, but also to encrypt messages;
@@ -79,6 +95,10 @@ c. availability and operability of the voting system;
 d. protecting personal information relating to voters;
 e. protecting information intended for voters from manipulation;
 f. ensuring that evidence of voting behaviour is not maliciously exploited.
+|
+
+:INFO
+Art. 4 (continued)
 4 Each risk must be identified and clearly described on the basis of the documentation on the system and its operation with regard to the following criteria:
 a. security objectives;
 b. any data records related to the security objectives;
@@ -91,6 +111,10 @@ Art. 5 Requirements for complete verifiability
 1 It must be possible to detect any manipulation that leads to a falsification of the result while preserving voting secrecy (complete verifiability). This is considered to be the case if requirements for individual and universal verifiability are met.
 2 The requirements for individual verifiability are as follows:
 a. The person voting is given the opportunity to ascertain whether the vote as entered on the user device has been manipulated or intercepted on the user device or during transmission; to this end, the person voting receives proof that the trustworthy part of the system (Art. 8) has registered the vote as it was entered by the person voting on the user device as being in conformity with the system; proof of correct registration is provided for each partial vote.
+|
+
+:INFO
+Art. 5 (continued)
 b. A voter who has not cast his or her vote electronically can request proof after the electronic voting system is closed and within the statutory appeal deadlines that the trustworthy part of the system has not registered any vote cast using the client-side authentication credential of the voter.
 3 The requirements for universal verifiability are as follows:
 a. The auditors receive proof that the result has been established correctly; the proof confirms that the result ascertained includes the following votes:
@@ -137,6 +161,10 @@ c. the security of infrastructure and operation (Annex No 26.3);
 d. the protection against attempts to infiltrate the infrastructure (Annex No 26.4).
 2 The canton shall ensure that the system operator has an information security management system (ISMS) and this is examined by independent entities (Annex No 26.5). The ISMS shall as a minimum comprise the system operator’s processes and infrastructure that are relevant to achieving the security objectives.
 3 The canton shall ensure that the Federal Chancellery and the independent entities that it commissions to conduct the examinations under paragraph 1 are given access to the system and the required documents.
+|
+
+:INFO
+Art. 10 (continued)
 4 The authorities responsible for the examinations under paragraphs 1 and 2 shall publish the evidential documents and certificates. Further documents must also be published if they are relevant for comprehensibility. Documents or parts of documents do not need to be published if there is a justified exemption, in particular under the law on freedom of information or data protection.
 |
 
@@ -151,6 +179,10 @@ e. instructions and other documents that experts require to be able to compile, 
 f. technical specifications of the main components of the system;
 g. the process documentation for operating, maintaining and securing the system;
 h. information on and descriptions of known flaws.
+|
+
+:INFO
+Art. 11 (continued)
 2 The following need not be published:
 a. the source code for third-party components such as operating systems, databases, web and application servers, rights management systems, firewalls or routers, provided they are widely used and regularly updated;
 b. the source code for portals of authorities that are connected to the system;
@@ -164,6 +196,10 @@ Art. 12 Disclosure modalities
 a. available online in a simple process that is free of charge and does not require registration; and
 b. made available in good time before the planned use of the system.
 3 Any person may examine, modify, compile and execute the source code for ideational purposes and write reports thereon. They may publish reports and findings relating to flaws. They may have discussions with others, in particular in order to identify flaws, and in doing so may quote from the published information.
+|
+
+:INFO
+Art. 12 (continued)
 4 The proprietor of the source code may:
 a. permit the source code to be used for other purposes;
 b. set specific conditions for submitting suggestions for improving the system; it may call for flaws to be reported without delay and specify a date before which reports on suspected flaws may not be published.
@@ -190,6 +226,10 @@ c. drawing up risk management policy;
 d. defining and implementing measures to ensure compliance with the policies in letters a–c;
 e. appointing a system operator and drawing up the requirements for its supervision and monitoring;
 f. setting the deadlines for carrying out critical actions and operations;
+|
+
+:INFO
+Art. 14 (continued)
 g. supervising and monitoring the system operator’s work;
 h. supporting and instructing the auditors;
 i. assessing and communicating the accuracy of the result of the ballot based on the proofs under Article 5 and other indicators.

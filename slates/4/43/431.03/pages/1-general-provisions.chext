@@ -33,12 +33,20 @@ c. UID entities:
 3. natural persons who operate a commercial business or exercise a liberal profession and do not come under no.1 or 2, whereby the UID is allocated for each individual business,
 4. corporate bodies lacking legal capacity that need to be identified for administrative purposes due to their economic activity,
 5. foreign or international legal persons that have a place of business in Switzerland or need to be identified for the implementation of Swiss law,
+|
+
+:INFO
+Art. 3 (continued)
 6. all businesses and persons subject to agricultural, forestry, epizootic, animal protection or food legislation that need to be identified for administrative purposes,
 7. administrative units of the Confederation, cantons and communes that need to be identified due to their administrative duties or for statistical reasons,
 8. all institutions that are charged with the execution of public law duties;
 9. associations and foundations that are neither subject to VAT nor registered in the commercial register but pay OASI contributions;
 d. UID services: Administrative entities of the Confederation, cantons and communes, institutions of public law and private institutions charged with public law duties that keep databases on UID entities due to their economic activity;
 e. administrative number: Number to identify administrative entities that are not considered UID entities but need to be identified, however, by certain UID services for the fulfilment of duties;
+|
+
+:INFO
+Art. 3 (continued)
 f. UID register: central register of all UID entities and administrative entities;
 g. LEI: a uniform, non-speaking number pursuant to the requirements of the «Global Legal Entity Identifier System» (GLEIS) that clearly identifies on an international level a UID entity and legal entities that manage these such as funds or subsidiaries.
 2 The Federal Council shall describe the UID entities and the UID services in further detail.

@@ -5,7 +5,7 @@
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
 :PATH
-Section 1 Documentation and Reporting of Events and Notificationof Safety and Protection Measures
+Section 1 Documentation and Reporting of Events and Notification of Safety and Protection Measures
 |
 
 :INFO
@@ -36,11 +36,19 @@ any serious adverse event that has a causal relationship with the device to be i
 any device deficiency that might have led to a serious adverse event if appropriate action had not been taken, intervention had not occurred, or circumstances had been less fortunate;
 any new findings in relation to any event referred to in points a and b.
 2 For category C clinical trials, the reports specified in paragraph 1 shall also be submitted to Swissmedic.
+|
+
+:INFO
+Art. 33 (continued)
 3 For conformity-related clinical trials in sub-categories C1 and C2 that are also being conducted abroad, the sponsor shall also notify Swissmedic and the competent ethics committee without delay of all events, device deficiencies and findings as specified in paragraph 1 which arise from the conduct of the clinical trial abroad.
 4 In order to ensure reporting without delay, the sponsor may initially submit an incomplete report.
 5 The reports specified in paragraph 1 shall also be submitted to the contracting states in which the clinical trial is conducted or due to be conducted:
 for conformity-related performance studies in sub-category A2;
 for conformity-related clinical trials in sub-categories C1 and C2.
+|
+
+:INFO
+Art. 33 (continued)
 6 For category A clinical investigations and sub-category A1 performance studies, the sponsor is responsible for ensuring that the competent ethics committee is informed, without delay, of any serious adverse event for which a causal relationship between the event and the test procedure used in the clinical trial has been ascertained. Paragraph 4 is applicable.
 7 For category A clinical trials, the sponsor is responsible for reporting serious adverse events to Swissmedic in application of Article 66 MedDO or Article 59 IvDO.
 |
@@ -57,6 +65,10 @@ Art. 34 Notification of safety and protective measures
 1bis For clinical trials that are also being conducted or are also due to be conducted in EU or EEA states, the sponsor shall also notify the ethics committee within two days of all imposed or voluntary safety and protective measures that are being implemented in EU or EEA states and the circumstances that necessitated them.
 2 The sponsor must notify any clinical trial that is terminated prematurely or interrupted for reasons of safety in accordance with Article 36 paragraph 4.
 3 For category C clinical trials, the notifications specified in paragraphs 1 and 1bis must also be made to Swissmedic.
+|
+
+:INFO
+Art. 34 (continued)
 4 For conformity-related performance studies in sub-category A2 and clinical trials in sub-categories C1 and C2, the sponsor shall, within 2 days, also provide notifications in accordance with paragraph 1 to the contracting states in which the clinical trial is conducted or due to be conducted.
 |
 
@@ -89,6 +101,10 @@ Art. 36 Notification of the completion, premature termination and interruption o
 4 If the trial is terminated prematurely or interrupted for reasons of safety, the following shall apply:
 a. The notification must be made within 24 hours.
 b. The notification must also be made to those contracting states in which the clinical trial is being conducted or is due to be conducted.
+|
+
+:INFO
+Art. 36 (continued)
 4bis For clinical trials that are also being conducted in EU or EEA states, the sponsor must also notify the ethics committee of any premature termination or interruption of the trial in EU or EEA states within 24 hours if the premature termination or interruption was for reasons of safety.
 5 If a multi-centre clinical trial is terminated prematurely or interrupted at one of the trial sites, the sponsor must also notify the other ethics committees concerned in accordance with paragraphs 3 and 4.
 |
@@ -130,6 +146,10 @@ Art. 39 Assessment, notification and reporting in relation to the use of ionisin
 2 If the permitted dose constraint is exceeded at any time, the investigator or sponsor shall notify the competent ethics committee within seven working days of it becoming known.
 3 For category C trials of devices that emit ionising radiation, notification in accordance with paragraph 2 must also be made to Swissmedic.
 4 The competent ethics committee and Swissmedic may obtain expert advice from the FOPH in order to assess the dose calculation or the dose estimation and to decide what further measures are required.
+|
+
+:INFO
+Art. 39 (continued)
 5 For clinical trials in accordance with paragraph 1, the sponsor shall document in the final report all information of relevance for radiological protection, and in particular the retrospective dose estimation for the participants.
 6 The reporting requirements specified in paragraph 5 do not apply in the case of radiopharmaceuticals used in accordance with the authorisation and medical devices used in accordance with the instructions for use and bearing conformity markings as specified in Article 13 MedDO.
 7 Within the framework of the opinion delivered in accordance with Article 14, or on request, the FOPH may specify further exemptions from the reporting requirements specified in paragraph 5.

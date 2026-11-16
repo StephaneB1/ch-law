@@ -177,6 +177,10 @@ Art. 973d
 2. Its integrity is secured through adequate technical and organisational measures, such as joint management by several independent participants, to protect it from unauthorised modification.
 3. The content of the rights, the functioning of the ledger and the registration agreement are recorded in the ledger or in linked accompanying data.
 4. Creditors can view relevant information and ledger entries, and check the integrity of the ledger contents relating to themselves without intervention by a third party.
+|
+
+:INFO
+Art. 973d (continued)
 3 The obligor must ensure that the securities ledger is organised in accordance with its intended purpose. In particular, it must be ensured that the ledger operates in accordance with the registration agreement at all times.
 |
 
@@ -192,6 +196,10 @@ Art. 973e
 1 The obligor under a ledger-based security is entitled and obliged to render performance only to the creditor indicated in the securities ledger and subject to appropriate modification of the ledger.
 2 By rendering the performance due at maturity to the creditor indicated in the securities ledger, the obligor is released from the obligation even if the indicated creditor is not the actual creditor, unless the obligor is guilty of malice or gross negligence.
 3 When acquiring a ledger-based security in a securities ledger from the creditor indicated therein, the acquirer is protected even if the seller was not entitled to dispose of the ledger-based security, unless the acquirer acted in bad faith or with gross negligence.
+|
+
+:INFO
+Art. 973e (continued)
 4 The obligor may raise against a claim deriving from a ledger-based security only those objections which:
 1. are aimed at contesting the validity of the registration or derive from the securities ledger itself or its accompanying data;
 2. he or she is personally entitled to raise against the current creditor of the ledger-based security; or
@@ -791,7 +799,7 @@ V. Maturity
 
 :INFO
 Art. 1023
-1 A bill of exchange may be drawn:on sight;for a specified time after sight;for a specified time after drawing;on a specified date.
+1 A bill of exchange may be drawn: on sight; for a specified time after sight; for a specified time after drawing; on a specified date.
 2 Bills of exchange with other maturity dates or with several consecutive maturity dates are void.
 
 :PATH
@@ -880,6 +888,10 @@ Art. 1031
 1 Where the bill of exchange is denominated in a currency other than that of the bill domicile, the bill amount may be paid in the national currency at its value as at the maturity date. Where the obligor delays in making the payment, the holder is free to choose whether the bill amount is converted into the national currency at the rate that applies on the maturity date or the rate that applies on the payment date.
 2 The value of the foreign currency is determined according to customary commercial practice at the bill domicile. However, the drawer may stipulate an exchange rate for the bill amount on the bill of exchange.
 3 The provisions of the two previous paragraphs do not apply if the drawer has stipulated payment in a specified currency (actual currency clause).
+|
+
+:INFO
+Art. 1031 (continued)
 4 Where the bill of exchange is denominated in a currency which has the same name but a different value in the country in which the bill was drawn and that in which it is payable, the presumption is that the currency meant is that of the bill domicile.
 
 :PATH
@@ -922,6 +934,10 @@ Art. 1034
 2 Protest for non-acceptance must be made within the time limit applicable for presentation for acceptance. Where, in the case of Article 1014 paragraph 1, the bill of exchange was presented for the first time on the last day of the time limit, protest may still be made on the following day.
 3 In the case of bills of exchange payable on a specific day or for a certain time after they were drawn or after sight, protest for non-payment must be made on one of the two working days following the payment date. Protest for non-payment of sight bills must be made within the same time limits for protest for non-acceptance as envisaged in the previous paragraph.
 4 Where protest for non-acceptance has been made, neither presentation for payment nor protest for non-payment is required.
+|
+
+:INFO
+Art. 1034 (continued)
 5 Where the drawee has suspended his payments, regardless of whether he has accepted the bill of exchange or not, or compulsory execution has been levied on his assets without success, the holder may have recourse only once the bill has been presented to the drawee for payment and protest has been made.
 6 Where the assets of the drawee, regardless of whether he has accepted the bill of exchange or not, or the assets of the drawer of a bill of exchange whose presentation for acceptance is prohibited are subject to insolvency proceedings, presentation of the court order commencing such proceedings is sufficient to exercise the right of recourse.
 
@@ -1006,6 +1022,10 @@ Art. 1042
 1 The holder must notify the immediately preceding endorser and the drawer of the lack of acceptance or payment within four working days of the date on which the protest was made or, in the case of the comment “No protest”, within four working days of the date of presentation. Within two working days of receipt of such notification, every endorser must pass on the news received to the immediately preceding endorser and give him the names and addresses of the persons from whom he received it, and so on in sequence until the drawer. All time limits run as of receipt of the previous notification.
 2 Where notification is made pursuant to the previous paragraph to a person whose signature is appended to the bill of exchange, the same notification must be made within the same time limit to his bill guarantor.
 3 Where an endorser has omitted to give his address or has written it illegibly, it is sufficient if his immediately preceding endorser is notified.
+|
+
+:INFO
+Art. 1042 (continued)
 4 The notification may be made in any form, including the mere return of the bill of exchange.
 5 Persons under a duty to notify must show that they complied with it within the prescribed time limit. The time limit is deemed observed where a letter containing such notification was posted within the time limit.
 6 A person who fails to notify in good time does not forfeit his right of recourse; he is liable for any losses arising from his failure to notify, but only up to the bill amount.
@@ -1018,6 +1038,10 @@ Art. 1042
 Art. 1043
 1 By appending and signing the comment “No protest” or words to the same effect on the bill of exchange, the drawer and any endorser or bill guarantor may release the holder from his obligation to arrange protest for non-acceptance or non-payment in order to exercise his right of recourse.
 2 The comment does not release the holder from the obligation to present the bill of exchange in good time and to make the requisite notification. The burden of proving that the time limit was not observed lies with any party relying on such point against the holder.
+|
+
+:INFO
+Art. 1043 (continued)
 3 Where the comment was appended by the drawer, it is effective as against all parties liable on the bill; where it was appended by an endorser or a bill guarantor, it is effective only as against them. If the holder arranges for protest to be made in spite of the comment appended by the drawer, he must bear the costs. Where the comment was appended by an endorser or a bill guarantor, all parties liable on the bill must bear the costs of any protest made in spite of it.
 
 :PATH
@@ -1113,6 +1137,10 @@ Art. 1051
 2 The holder is obliged to notify the immediately preceding endorser of the force majeure event without delay and to note such notification together with the date and place and his signature on the bill of exchange or an annex thereto; in other respects, the provisions set out in Article 1042 are applicable.
 3 Once the force majeure ceases to apply, the holder must present the bill for acceptance or for payment without delay and, where necessary, make protest.
 4 In the event that the force majeure lasts for longer than 30 days after maturity, recourse may be had without need for presentation or protest.
+|
+
+:INFO
+Art. 1051 (continued)
 5 In the case of sight bills or after-sight bills, the thirty-day time limit commences on the date on which the holder notified the immediately preceding endorser of the force majeure event; such notification may be made even before expiry of the time limit for presentation. In the case of after-sight bills, the thirty-day time limit is extended by the fixed period after sight indicated on the bill of exchange.
 6 Facts pertaining purely to the person of the holder or a person charged with the task of presenting the bill of exchange or making protest do not count as force majeure events.
 
@@ -1621,6 +1649,10 @@ amendments (Art. 1068);
 prescription (Art. 1069–1071);
 annulment (Art. 1072–1080);
 public holidays, computation of time limits, exclusion of days of respite, place for actions in connection with bills of exchange, and signatures (Art. 1081–1085).
+|
+
+:INFO
+Art. 1098 (continued)
 2 Further, promissory notes are subject to the provisions governing bills of exchange in relation to bills domiciled with a third party or at a place other than the drawee’s domicile (Art. 994 and 1017), the interest rate comment (Art. 995), discrepancies in the specification of the amount (Art. 996), the consequences of invalid signatures (Art. 997) or of signatures by persons lacking power of representation or exceeding such power (Art. 998), and blank bills (Art. 1000).
 3 Likewise, promissory notes are subject to the provisions governing bills of exchange in relation to bill guarantees (Art. 1020–1022); in the case of Article 1021 paragraph 4, where the declaration does not indicate the party for whom it is made, the bill guarantee is deemed given for the maker of the promissory note.
 
@@ -1868,6 +1900,10 @@ Art. 1122
 1 Where the cheque is denominated in a currency other than that of the place of payment, the cheque amount may be paid in the national currency at its value as at the date of presentation. Where payment is not made on presentation, the bearer is free to choose whether the cheque amount is converted into the national currency at the rate applicable on the date of presentation or the rate applicable on the payment date.
 2 The value of the foreign currency is determined according to customary commercial practice at the place of payment. However, the drawer may stipulate an exchange rate for the bill amount on the bill of exchange.
 3 The provisions of the two previous paragraphs are not applicable if the drawer has stipulated payment in a specified currency (actual currency clause).
+|
+
+:INFO
+Art. 1122 (continued)
 4 Where the cheque is denominated in a currency which has the same name but a different value in the country in which the cheque was issued and that in which it is payable, the presumption is that the currency meant is that of the place of payment.
 
 :PATH
@@ -1979,6 +2015,10 @@ Art. 1131
 1 Where insuperable obstacles (statutory provisions enacted by a state or some other instance of force majeure) militate against the timely presentation of the cheque or timely protest or equivalent declaration, the time limits for such actions are extended.
 2 The bearer is obliged to notify the immediately preceding endorser of the force majeure event without delay and to note such notification together with the date and place and his signature on the cheque or an annex thereto; in other respects, the provisions set out in Article 1042 are applicable.
 3 Once the force majeure ceases to apply, the holder must present the cheque for acceptance or for payment without delay and, where necessary, make protest or similar declaration.
+|
+
+:INFO
+Art. 1131 (continued)
 4 In the event that the force majeure lasts for longer than 15 days after the date on which the bearer himself notified the preceding endorser of the force majeure event prior to expiry of the time limit for presentation, recourse may be had without need for presentation or protest or similar declaration.
 5 Facts pertaining purely to the person of the bearer or a person charged with the task of presenting the cheque or making protest or arranging for an equivalent declaration do not count as force majeure events.
 
@@ -2095,6 +2135,10 @@ The law of the country in whose territory the cheque is payable determines:
 6. whether the bearer has specific rights to the cover and what the nature of such rights is;
 7. whether the drawer may revoke the cheque or protest against payment of the cheque;
 8. the measures to be taken in the event of the loss or theft of the cheque;
+|
+
+:INFO
+Art. 1141 (continued)
 9. whether a protest or equivalent declaration is required to preserve the right of recourse against the endorser, the drawer and the other parties liable for the cheque.
 
 :PATH
@@ -2124,6 +2168,10 @@ Art. 1143
 10. Article 1042 on notification;
 11. Article 1043 on the waiver of protest;
 12. Articles 1044 on the joint and several liability of the parties;
+|
+
+:INFO
+Art. 1143 (continued)
 13. Articles 1046 and 1047 on the right of recourse on payment of the bill of exchange and the right to take possession of bills of exchange, protest and receipts;
 14. Article 1052 on claims for unjust enrichment;
 15. Article 1053 on devolution of cover;
@@ -2134,6 +2182,10 @@ Art. 1143
 20. Articles 1083–1085 on exclusion of days of respite, the place for actions in connection with bills of exchange and signatures by hand;
 21. Articles 1086, 1088 and 1089 on applicable jurisdiction with regard to capacity to incur liability as a party to bills, actions to exercise and safeguard rights under bills of exchange and exercise of the right of recourse.
 2 None of the provisions relating to acceptance of bills of exchange laid down in these Articles is applicable.
+|
+
+:INFO
+Art. 1143 (continued)
 3 With regard to their applicability to cheques, Article 1042 paragraph 1, Article 1043 paragraph 1 and 3 and Article 1047 are supplemented in the sense that a declaration equivalent to protest as defined in Article 1128 letters 2 and 3 may substitute for protest itself.
 
 :PATH
@@ -2484,6 +2536,10 @@ Art. 1170
 2. waiver of up to five years’ worth of interest within a seven-year period;
 3. decrease of the interest rate by up to one-half of the rate envisaged in the bond issue conditions or conversion of a fixed interest rate into a rate dependent on the business results, both measures to last for up to ten years, with the option of an extension for up to five years;
 4. extension of the redemption time limit by up to ten years by means of a reduction in the annual payment or an increase in the number of the redemption shares or temporary suspension of such payments, with the option of an extension for up to five years;
+|
+
+:INFO
+Art. 1170 (continued)
 5. suspension of a bond issue now due or maturing within five years or of portions thereof for up to ten years, with the option of an extension for up to five years;
 6. authorisation of an early redemption of the bond capital;
 7. granting of a priority lien for new capital raised for the issuing company and changes to the collateral provided for a bond issue or full or partial waiver of such collateral;

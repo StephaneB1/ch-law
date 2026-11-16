@@ -37,6 +37,10 @@ c. be secured by bank assets.
 4 Capital instruments that do not only provide for contingent conversion or write-off at point of non-viability (Art. 29) shall be recognised as capital components commensurate with their characteristics prior to conversion or write-off. This shall be without prejudice to:
 a. recognition to cover the capital buffer requirement under Article 43 paragraph 1 and Annex 8; and
 b. the provisions for the convertible capital of systemically important banks under Title 5.
+|
+
+:INFO
+Art. 20 (continued)
 5 FINMA shall issue technical implementing provisions on the eligibility of capital.
 |
 
@@ -61,6 +65,10 @@ d. retained earnings;
 e. the profit for the current business year after deducting the estimated earnings distribution, to the following extent, subject to the existence of a full income statement in accordance with FINMA's implementing provisions based on Article 42 of the BankO, or of a full income statement in accordance with an international standard recognised by FINMA:
 1. 100% if the income statement has been audited according to FINMA's requirements,
 2. 70% if the income statement has not been audited; in justified cases, FINMA may request an attestation for the recognition.
+|
+
+:INFO
+Art. 21 (continued)
 2 Minority interests in fully consolidated regulated entities shall be eligible to the extent that they are eligible in these entities themselves. Capital surpluses attributable to minority interests, calculated on the basis of requirements that include capital buffers and additional capital, are not eligible. FINMA shall issue technical implementing provisions. It shall base these on the CAP.
 |
 
@@ -82,6 +90,10 @@ e. it is perpetual and not subject to any provision to the contrary in the bank'
 f. distributions to the owners are carried out from distributable reserves without any obligations or privileges; and
 g. owners do not have any privileges or senior claims to the proceeds in the event of liquidation.
 1bis If equity securities do not absorb going-concern losses equally, only those for primary loss absorption may be recognised as CET1 capital.
+|
+
+:INFO
+Art. 22 (continued)
 2 Preferred stock and participation capital shall be eligible as CET1 if:
 a. they meet the criteria under paragraph 1;
 b. they are equivalent to common share capital in the form of CET1 capital as regards loss absorption; and
@@ -150,6 +162,10 @@ d. the bank indicates at the time of issuance that the supervisory authority wil
 2. sufficient capital that is at least equivalent is issued to replace it;
 e. it does not have any characteristics which would in any way complicate an increase in the bank's share capital;
 f. distributions by the bank to the capital providers are made solely on a discretionary basis and only if distributable reserves are available; and
+|
+
+:INFO
+Art. 27 (continued)
 g. increases in distributions to the capital providers during the term as a result of issuer-specific credit risk are excluded.
 2 Equity securities shall be eligible as AT1 capital if they meet the criteria under paragraph 1.
 3 Liabilities that meet the criteria under paragraph 1 shall be eligible as AT1 capital if, in the occurrence of a contractually defined event (trigger) but no later than when the CET1 capital ratio falls below 5.125%, they cease to exist due to:
@@ -157,6 +173,10 @@ a. a write-off; or
 b. conversion to CET1 capital.
 4 The terms and conditions of issuance for a conditional write-off capital instrument may grant the capital provider a deferred conditional right to participate in an improvement in the bank's financial situation. This must not substantially impair the strengthening of the bank's capital base at the time of the write-off.
 4bis FINMA may issue technical implementing provisions on the eligibility of AT1 capital.
+|
+
+:INFO
+Art. 27 (continued)
 5 Before a capital instrument is issued, FINMA shall approve:
 a. the contractually defined trigger event under paragraph 3; and
 b. the extent to which a right to participate in an improvement under paragraph 4 is permissible.
@@ -188,6 +208,10 @@ Art. 29 Point of non-viability (PONV)
 2 The conversion to CET1 capital or the write-off shall take place if FINMA:
 a. identifies a recourse to public sector assistance in which the conversion or write-off for the investors takes effect before the assistance is availed of; or
 b. orders this to avoid insolvency.
+|
+
+:INFO
+Art. 29 (continued)
 3 In the case of equity securities that are recognised as AT1 capital and do not have a loss absorption mechanism in accordance with paragraph 1, the contract or articles of association must make provision for the irrevocable waiver of any privileges with respect to the share capital that qualifies as CET1 capital at the point of non-viability. In each individual case, FINMA shall define the time at which the privilege ceases to apply.
 |
 
@@ -209,6 +233,10 @@ d. the bank indicates at the time of issuance that the supervisory authority wil
 1. the remaining capital continues to meet the requirements under Article 41; or
 2. sufficient capital that is at least equivalent is issued to replace it; and
 e. increases in distributions to the capital providers during the term as a result of issuer-specific credit risk are excluded.
+|
+
+:INFO
+Art. 30 (continued)
 2 In the last five years prior to final maturity, the recognition of Tier 2 capital instruments shall decrease by 20% of the nominal amount each year. They shall not be recognised at all in the last year.
 3 Article 21 paragraph 2, Article 28 and Article 29 paragraphs 1 and 2 shall apply by analogy.
 4 FINMA shall issue technical implementing provisions defining the criteria for the inclusion of additional Tier 2 capital components, in particular:
@@ -252,10 +280,18 @@ b. the unsecured valuation adjustments and provisions for the current financial 
 c. goodwill, including any goodwill included in the valuation of significant interests in financial sector entities outside the scope of consolidation, and intangible assets other than mortgage servicing rights (MSR);
 d. deferred tax assets (DTA) whose realisation depends on future profitability, subject to offsetting against deferred tax liabilities under paragraph 2; deferred tax assets which result from temporary differences and which are subject to the deductions according to the thresholds under Articles 39 and 40, shall be excluded from the deduction;
 e. revenue from sales related to securitisation transactions;
+|
+
+:INFO
+Art. 32 (continued)
 f. balance sheet claims against defined-benefit occupational pension institutions; these claims must be deducted in accordance with the corresponding requirements of the CAP;
 g. directly or indirectly held own equity securities which form part of CET1 capital, in the amount of the net long exposures under Article 52, unless these securities have already been recognised in the statement of financial performance;
 h. qualifying financial interests in the capital of another financial sector entity, where such entity also has a stake in the capital of the bank (reciprocal cross-holdings);
 i. deductions resulting from a deduction option chosen by the bank within the framework of the consolidation provisions under Article 7 paragraph 4, Article 8 paragraphs 2 and 3 and Article 9 paragraphs 1 and 3.
+|
+
+:INFO
+Art. 32 (continued)
 2 Deferred tax assets under paragraph 1 letter d may be netted against deferred tax liabilities within the same geographical and actual tax jurisdiction, provided that the relevant tax authority permits netting.
 3 Banks that apply the internal ratings-based approach (IRB; Article 77) must, in addition to the deductions under paragraph 1, also deduct the amount by which the expected losses calculated under the IRB exceed the value adjustments under the CAP.
 4 In the context of the individual entity calculation, if FINMA does not permit risk weighting in accordance with Annex 4 Nos 1 or 2, the net long exposures of the directly held financial interests in financial sector entities subject to consolidation, calculated in accordance with Article 52, are to be deducted in addition to the deductions under paragraph 1.
@@ -311,6 +347,10 @@ Art. 37 Equity securities in financial sector entities up to 10%
 1 If a bank holds a maximum of 10% in equity securities in a financial sector entity in the form of CET1 capital, it shall deduct from its own capital components the portion of the total carrying value of all equity instruments in such financial sector entities which exceeds threshold 1. This shall also apply if the bank holds only equity instruments in a financial sector entity that do not constitute CET1 capital.
 2 When applying the corresponding deduction approach, the amount to be deducted under paragraph 1 shall be divided proportionately among the equity instruments held by the bank in the relevant financial sector entities before the deduction.
 2bis In addition to the threshold 1 limit under paragraph 1, a bank may hold bail-in bonds in accordance with Article 33 paragraph 1bis up to 5% of CET1 capital without deducting them from its own capital components. FINMA may issue corresponding implementing provisions.
+|
+
+:INFO
+Art. 37 (continued)
 3 The portion of the aggregated carrying values under paragraph 1 that is below the threshold shall be weighted according to risk. The calculation of the risk-weighted assets for each capital component shall be based on its allocation to the banking or trading book before the deduction.
 |
 
@@ -366,6 +406,10 @@ c. The cantonal bank:
 1. may pay compensation only if it meets the regulatory requirements after making the payment,
 2. must pay compensation if it meets the criteria in paragraph 1 and:
 - has a defined capital buffer or
+|
+
+:INFO
+Art. 40a (continued)
 - distributes funds to the canton in order to cover the latter's costs for refinancing the capital it has provided in the resolution.
 3 Before issuing debt instruments in accordance with this article, the cantonal bank must submit the terms and conditions of issuance, as well as a resolution concept drawn up together with the canton, to FINMA for approval. In particular, the resolution concept must describe:
 a. the mechanism for paying the subsequent compensation, including the form, terms and legal feasibility;

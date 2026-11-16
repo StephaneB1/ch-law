@@ -13,9 +13,17 @@ Art. 26a Transmission of numbers
 1 Providers of the public telephony service which generate connections must ensure that at least one number in conformity with the Swiss E.164 numbering plan is transmitted as the telephone number of the calling line.
 2 They must transmit the number that is allocated to the customer for the service within the framework of which the connection is established. The other telecommunications service providers involved in the connection shall not modify transmitted numbers.
 3 Providers of the public telephony service may enable their customers to transmit other numbers when the connection is established, provided they can demonstrate a right of use. If providers are aware that customers are transmitting numbers for which they do not have a right of use, they must take appropriate measures to prevent the transmission of these numbers.
+|
+
+:INFO
+Art. 26a (continued)
 3bis If customers provide prima facie evidence that unauthorised third parties are using their numbers, the providers of a public telephony service may with the consent of the customers concerned block calls that transmit the relevant numbers. The foregoing does not apply to calls that are actually made from the connections of the customers concerned.
 4 Transmitted numbers must be provided with an identifier which indicates whether they are based on information from the calling customer or on information from the provider generating the connection, and whether the latter has verified the customer’s number information.
 5 No numbers from the ranges 0900, 0901 or 0906 shall be transmitted as numbers of calling lines.
+|
+
+:INFO
+Art. 26a (continued)
 6 If providers are aware that a transmitted number is invalid or is being used without the right to do so, or if it is a number in accordance with paragraph 5, they must take appropriate measures and coordinate among themselves to prevent the transmission of this number or to prevent the call from being made.
 |
 
@@ -74,6 +82,10 @@ Art. 29b Location of emergency calls: Operating a caller location service
 2 The co-operation between the universal service licensee and the other public telephony service providers and the use of the caller location service by the alarm centres is based on the cost-oriented principles indicated in Article 54.
 3 The providers of the public telephony service shall bear the investment and operating costs for providing caller location.
 4 The recurring costs of providing the service shall be settled among the public telephony service providers at wholesale level based on the number of emergency calls to be expected annually.
+|
+
+:INFO
+Art. 29b (continued)
 5 The alarm centres shall bear only the costs of using the caller location service.
 |
 
@@ -86,6 +98,10 @@ Art. 30 Special provisions concerning emergency calls
 1 If, in the case of voice transmission over internet protocol, correct routing and caller identification of emergency calls is not technically possible for every location, they must be guaranteed only for calls from the main location cited in the subscription contract.
 2 Public telephony service providers must ensure that customers are informed of this limitation and have explicitly confirmed that they are aware of it. They shall inform the customers that whenever possible a means of communication should be used with which correct routing and caller identification of emergency calls is technically possible.
 2 If the chosen technology so permits, in extraordinary situations emergency calls must not be interrupted by priority treatment of civil telecommunications traffic by customers who have important duties to perform in such situations.
+|
+
+:INFO
+Art. 30 (continued)
 3 Emergency calls must not be interrupted by prioritised telecommunications services for security communication (Art. 90 para. 2).
 |
 

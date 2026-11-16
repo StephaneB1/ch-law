@@ -39,6 +39,10 @@ c. the SNB;
 d. the Bank for International Settlements;
 e. other natural persons and legal entities, provided that they declare that they are participating in their own name and for their own account.
 2 Participants domiciled in Switzerland must provide FINMA with all information and documents that it requires to carry out its tasks. The DLT trading facility must ensure that foreign-domiciled participants provide the relevant information and documents if FINMA so requires.
+|
+
+:INFO
+Art. 73c (continued)
 3 The provisions on the record-keeping duty (Art. 38) and the reporting duty (Art. 39) of participants also apply to participants in a DLT trading facility. The Federal Council may make exceptions for participants under paragraph 1 letter e.
 4 The Federal Council shall regulate the details regarding the admission, duties and exclusion of participants.
 5 The DLT trading facility shall issue regulations on the admission, duties and exclusion of participants, thereby observing in particular the principle of equal treatment.
@@ -54,6 +58,10 @@ Para. 1 let. b — SR 956.1
 Art. 73d Admission of DLT securities and other assets
 1 The DLT trading facility shall issue regulations on the admission of DLT securities to trading and to the other services it provides. In particular, it shall set out therein the requirements to be met by the DLT securities and the issuers or third parties in connection with the admission. The duty to publish a prospectus is governed exclusively by Articles 35–57 of the Financial Services Act of 15 June 2018.
 2 A DLT trading facility that, in addition to DLT securities, admits other assets to trading or to its other services shall issue regulations on the admission of such assets.
+|
+
+:INFO
+Art. 73d (continued)
 3 The Federal Council may:
 a. require that DLT securities be admitted to DLT trading facilities only if they meet certain minimum requirements, in particular as regards their integrity and the availability of public information;
 b. specify which DLT securities and other assets must not be admitted to DLT trading facilities in order to protect financial market participants or the stability or integrity of the financial system.
@@ -77,6 +85,10 @@ f. liquidity;
 g. procedure in the event of a participant's default;
 h. segregation.
 3 The Federal Council shall base the requirements under paragraph 2 on the requirements for central securities depositories (Arts. 61–73).
+|
+
+:INFO
+Art. 73e (continued)
 4 Where necessary in order to take account of technology-specific risks, the Federal Council may authorise FINMA to draw up the requirements under paragraph 2.
 5 The competence of the SNB to specify special requirements for systemically important DLT trading facilities by virtue of Article 23 is reserved.
 |
@@ -87,6 +99,10 @@ Art. 73f Easing of requirements for small DLT trading facilities
 a. separation of the bodies responsible for business management from those responsible for overall management, supervision and control (Art. 8);
 b. the provision of ancillary services not subject to authorisation or approval by virtue of the financial market legislation (Art. 10);
 c. the independence of the self-regulatory organisation (Art. 27 para. 2) and of the appeal body (Art. 37 para. 1).
+|
+
+:INFO
+Art. 73f (continued)
 2 DLT trading facilities are deemed to be small if they pose a low risk in terms of the protection of financial market participants and the proper functioning and stability of the financial system, in particular because the number of participants, the trading volume, the volume of custody assets or the clearing and settlement volume is limited. The Federal Council shall set thresholds.
 3 DLT trading facilities that are subject to eased requirements in accordance with this Article shall disclose this to their clients. The Federal Council shall regulate the details.
 
@@ -129,6 +145,10 @@ Art. 78 Data access for foreign authorities
 a. The foreign financial market supervisory authority is subject to a statutory confidentiality duty.
 b. Forwarding of the data by the foreign financial market supervisory authority to other foreign authorities is permitted only if, on transfer to a criminal authority, mutual assistance in accordance with the Mutual Assistance Act of 20 March 1981 is possible.
 c. The Swiss authorities mentioned in Article 77 paragraph 1 have immediate access to trade repositories in the state of the foreign financial market supervisory authority.
+|
+
+:INFO
+Art. 78 (continued)
 2 The Federal Council shall regulate access to data concerning central bank transactions, taking account of recognised international standards.
 |
 
@@ -157,6 +177,10 @@ b. if the competent foreign supervisory authorities:
 3 A trade repository is deemed recognised if FINMA finds that:
 a. the state in which the foreign trade repository has its registered office regulates and supervises its trade repositories adequately; and
 b. the conditions in accordance with paragraph 2 letter b are met.
+|
+
+:INFO
+Art. 80 (continued)
 4 FINMA may refuse recognition if the state in which the foreign trade repository has its registered office does not grant Swiss trade repositories actual access to its markets or does not offer them the same competitive opportunities as those granted to the trade repositories of the state in question. Any deviating international commitments are reserved.
 
 :PATH
@@ -241,9 +265,17 @@ Para. 1 — Amended by Annex No 9 of the FA of 17 Dec. 2021 (Insolvency and Depo
 :INFO
 Art. 89 System protection
 1 Insofar as this is possible and to the extent that they are concerned, FINMA shall inform central counterparties, central securities depositories, payment systems and those DLT trading facilities that provide comparable central custody, clearing or settlement services, in Switzerland and abroad, of the insolvency measures it intends to take against a participant and which limit the participant's power of disposal. It shall also inform them of the precise time of entry into effect of the measures.
+|
+
+:INFO
+Art. 89 (continued)
 2 The orders given to a central counterparty, central securities depository, payment system or a DLT trading facility that provides comparable central custody, clearing or settlement services by a participant against which such an insolvency measure has been taken shall be legally enforceable and binding on third parties if:
 a. they were introduced before the measure was ordered and were unalterable in accordance with the rules of the financial market infrastructure; or
 b. they were executed on the business day defined by the rules of the financial market infrastructure during which the measure was ordered and the financial market infrastructure proves that it was not and should not have been aware of the measure being ordered.
+|
+
+:INFO
+Art. 89 (continued)
 3 Paragraph 2 applies if:
 a. the financial market infrastructure is authorised in Switzerland;
 b. the foreign financial market infrastructure is recognised or supervised in Switzerland and grants Swiss participants direct access to its facilities; or
@@ -265,6 +297,10 @@ a. the offsetting of receivables, including the agreed method and valuation;
 b. the direct realisation of collateral in the form of securities or other financial instruments, including cash collateral (excluding physical cash), whose value can be determined objectively;
 c. the transfer of receivables and liabilities, and collateral in the form of securities or other financial instruments, including cash collateral (excluding physical cash), whose value can be determined objectively.
 2 Following the netting or realisation carried out by the central counterparty in accordance with paragraph 1 letters a and b, the participant's remaining entitlements shall be segregated in favour of its clients and indirect participants.
+|
+
+:INFO
+Art. 90 (continued)
 3 Measures to the contrary ordered within the scope of the postponement of the termination of contracts by FINMA are reserved.
 |
 

@@ -51,6 +51,10 @@ bbis. data on visas issued, if there is a visa requirement;
 bter. data on ETIAS travel authorisations issued, if there is an obligation to do so;
 c. the time of entry into and exit from the Schengen area, the border crossing point and the authority responsible for the border checks;
 d. refusals of entry.
+|
+
+:INFO
+Art. 103b (continued)
 3 If third-country citizens are visa-exempt, in addition to the data under paragraph 2, the responsible authority shall fingerprint the persons concerned and transfer the fingerprints to the EES.
 4 The EES data in accordance with paragraph 2 letters a and b and paragraph 3 shall be stored automatically in the Common Identity Repository (CIR).
 |
@@ -58,10 +62,19 @@ d. refusals of entry.
 :NOTE
 Art. 103b — Inserted by the Annex to the FD of 21 June 2019 (Adoption of the Legislation for Establishing and Using an Entry and Exit System [EES], Regulations [EU] 2017/2226 and 2017/2225), in force since 1 May 2022 (AS 2021 732; BBl 2019 175).
 Para. 1 — Regulation (EU) 2017/2226 of the European Parliament and of the Council of 30 November 2017 establishing an Entry/Exit System (EES) to register entry and exit data and refusal of entry data of third-country nationals crossing the external borders of the Member States and determining the conditions for access to the EES for law enforcement purposes, and amending the Convention implementing the Schengen Agreement and Regulations (EC) No 767/2008 and (EU) No 1077/2011, last amended by OJ L 327 of 9.12.2017, p. 20.
+|
+
+:NOTE
 Para. 1 — Amended by Annex No 1 of the FD of 16 Dec. 2022 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of Regulations (EU) 2021/1150 and 2021/1152 as regards the establishment of the conditions for accessing other EU information systems for the purposes of the European Travel Information and Authorisation System (ETIAS), in force since 15 June 2025 (AS 2025 349; BBl 2022 1449).
 Para. 2 let. a — Amended by Annex 1 No 1 of the FD of 19 March 2021 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of Regulations (EU) 2019/817 and (EU) 2019/818 on Establishing a Framework for Interoperability between EU Information Systems, in force since 15 June 2025 (AS 2025 347; BBl 2020 7983).
+|
+
+:NOTE
 Para. 2 let. bbis — Inserted by Annex 1 No 1 of the FD of 19 March 2021 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of Regulations (EU) 2019/817 and (EU) 2019/818 on Establishing a Framework for Interoperability between EU Information Systems, in force since 15 June 2025 (AS 2025 347; BBl 2020 7983).
 Para. 2 let. bter — Inserted by Annex No 1 of the FD of 16 Dec. 2022 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of Regulations (EU) 2021/1150 and 2021/1152 as regards the establishment of the conditions for accessing other EU information systems for the purposes of the European Travel Information and Authorisation System (ETIAS), in force since 15 June 2025 (AS 2025 349; BBl 2022 1449).
+|
+
+:NOTE
 Para. 4 — Inserted by Annex 1 No 1 of the FD of 19 March 2021 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of Regulations (EU) 2019/817 and (EU) 2019/818 on Establishing a Framework for Interoperability between EU Information Systems, in force since 15 June 2025 (AS 2025 347; BBl 2020 7983).
 |
 
@@ -71,12 +84,24 @@ Art. 103c Recording, consulting and processing data in the EES
 a. the Border Guard and the cantonal police authorities responsible for the controlling the Schengen external borders: to fulfil their duties in relation to border control;
 b. SEM, the Swiss representations abroad and the missions, the cantonal migration authorities responsible for issuing visas and the communal authorities to which the cantons have delegated such responsibilities: in relation to the revocation, cancellation or extension of a visa or of a permitted stay of a maximum of 90 days in any period of 180 days;
 c. the Border Guard, the cantonal and communal police authorities and the cantonal and communal migration authorities: to verify that a stay in Switzerland is lawful and to create and update the EES file.
+|
+
+:INFO
+Art. 103c (continued)
 2 The following authorities may consult the data in the EES online:
 a. the Border Guard and the cantonal police authorities responsible for controlling the Schengen external borders: to conduct the controls at the Schengen external border crossing points and on Swiss sovereign territory;
 b. SEM, the Swiss representations abroad and the missions, the cantonal migration authorities responsible for issuing visas and the communal authorities to which the cantons have delegated such responsibilities, the FDFA State Secretariat and Directorate of Political Affairs, and the Border Guard and the cantonal police border posts: in relation to the visa procedure via the Central Visa Information System (C-VIS) (Art. 109a);
+|
+
+:INFO
+Art. 103c (continued)
 c. the Border Guard, the cantonal and communal police authorities that carry out checks on persons, SEM and the cantonal and communal migration authorities: for the purpose of checking the requirements for entry or stay in Switzerland and in order to identify foreign nationals who may have been registered in the EES under another identity or who do not or no longer meet the requirements for entering or staying in Switzerland;
 d. SEM: as part of the fulfilment of its tasks as the national unit for the European Travel Information and Authorisation System (ETIAS) (ETIAS National Unit).
 3 The authorities under paragraph 2 may consult the data online that the automated calculator under Article 11 of Regulation (EU) 2017/2226 provides.
+|
+
+:INFO
+Art. 103c (continued)
 4 The following authorities may request EES data from the central access point under paragraph 6 in order to prevent, detect or investigate terrorist or other serious offences:
 a. fedpol;
 b. the FIS;
@@ -92,6 +117,9 @@ Art. 103c — Inserted by the Annex to the FD of 21 June 2019 (Adoption of the L
 Para. 1 — See footnote to Art. 103b para. 1.
 Para. 2 let. d — Inserted by Annex No 1 of the FD of 16 Dec. 2022 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of Regulations (EU) 2021/1150 and 2021/1152 as regards the establishment of the conditions for accessing other EU information systems for the purposes of the European Travel Information and Authorisation System (ETIAS), in force since 15 June 2025 (AS 2025 349; BBl 2022 1449).
 Para. 4 — Amended by No I of the FA of 25 Sept. 2020 (Application of the Schengen Data Protection Act to the Federal Intelligence Service), in force since 1 April 2023 (AS 2023 147; BBl 2020 2885).
+|
+
+:NOTE
 Para. 4 let. e — Inserted by No I of the FA of 16 Dec. 2022 (Access to the CIR and to Data from three EU Information Systems), in force since 15 June 2025 (AS 2025 350; BBl 2022 1421).
 Para. 5 — Repealed by No III of the FA of 25 Sept. 2020 (Application of the Schengen Data Protection Act to the Federal Intelligence Service), with effect from 1 Sept. 2023 (AS 2023 147; BBl 2020 2885).
 Para. 6 — Inserted by No I of the FA of 25 Sept. 2020 (Application of the Schengen Data Protection Act to the Federal Intelligence Service), in force since 1 April 2023 (AS 2023 147; BBl 2020 2885).
@@ -171,9 +199,17 @@ b. combat unlawful entry into the Schengen area and transit through the internat
 c. combat international organised crime and terrorism, espionage and preparations for illegal trading in weapons and radioactive materials and illegal technology transfers.
 1bis The API System contains the data in accordance with Article 92a paragraph 3 and the results of comparisons in accordance with paragraph 4.
 2 In order to check whether air carriers are fulfilling their duty to provide data, and to enforce penalties under Article 122b, SEM may retrieve data in accordance with Article 92a paragraph 3 from the API System.
+|
+
+:INFO
+Art. 104a (continued)
 3 In order to improve border controls and to combat unlawful entry into the Schengen area and transit through the international transit zones of the airports, the authorities responsible for checks on persons at the Schengen external borders may retrieve data in accordance with Article 92a paragraph 3 from the API System.
 3bis If it is suspected that a person is preparing for or committing offences under Article 92a paragraph 1bis letter a, fedpol may retrieve the data in accordance with Article 92a paragraph 3.
 4 The data in accordance with Article 92a paragraph 3 letters a and b shall be automatically and systematically compared with the data from RIPOL, the SIS, the ZEMIS and the Interpol database for stolen and lost travel documents (ASF-SLTD).
+|
+
+:INFO
+Art. 104a (continued)
 5 The data in accordance with Article 92a paragraph 3 and the results of the comparisons in accordance with paragraph 4 may only be used following the arrival of the flight concerned in order to conduct criminal or asylum proceedings, or proceedings under the law on foreign nationals. It must be erased:
 a. when it is established that no proceedings of this type will be conducted, or two years after the date of the flight concerned at the latest;
 b. on the day after the ruling in proceedings of this type takes full legal effect.
@@ -184,10 +220,19 @@ b. on the day after the ruling in proceedings of this type takes full legal effe
 Art. 104a — Inserted by No I of the FA of 20 June 2014 (Violations of the Duty of Care and to Report by Air Carriers, Information Systems), in force since 1 Oct. 2015 (AS 2015 3023; BBl 2013 2561).
 Art. 104a — Amended by Annex 1 No 1 of the FD of 19 March 2021 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of Regulations (EU) 2019/817 and (EU) 2019/818 on Establishing a Framework for Interoperability between EU Information Systems, in force since 15 June 2025 (AS 2025 347; BBl 2020 7983).
 Para. 1 let. c — Amended by No I of the FA of 14 Dec. 2018 (Procedural Regulations and Information Systems), in force since 1 June 2019 (AS 2019 1413; BBl 2018 1685).
+|
+
+:NOTE
 Para. 1bis — Inserted by No I of the FA of 14 Dec. 2018 (Procedural Regulations and Information Systems) (AS 2019 1413; BBl 2018 1685). Amended by Annex 1 No 1 of the FD of 19 March 2021 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of Regulations (EU) 2019/817 and (EU) 2019/818 on Establishing a Framework for Interoperability between EU Information Systems, in force since 15 June 2025 (AS 2025 347; BBl 2020 7983).
 Para. 2 — Amended by Annex 1 No 1 of the FD of 19 March on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of Regulations (EU) 2019/817 and (EU) 2019/818 on Establishing a Framework for Interoperability between EU Information Systems, in force since 15 June 2025 (AS 2025 347; BBl 2020 7983).
+|
+
+:NOTE
 Para. 3 — Amended by Annex 1 No 1 of the FD of 19 March 2021 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of Regulations (EU) 2019/817 and (EU) 2019/818 on Establishing a Framework for Interoperability between EU Information Systems, in force since 15 June 2025 (AS 2025 347; BBl 2020 7983).
 Para. 3bis — Inserted by No I of the FA of 14 Dec. 2018 (Procedural Regulations and Information Systems) (AS 2019 1413; BBl 2018 1685). Amended by Annex 1 No 1 of the FD of 19 March 2021 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of Regulations (EU) 2019/817 and (EU) 2019/818 on Establishing a Framework for Interoperability between EU Information Systems, in force since 15 June 2025 (AS 2025 347; BBl 2020 7983).
+|
+
+:NOTE
 Para. 4 — Amended by Annex 1 No 1 of the FD of 19 March 2021 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of Regulations (EU) 2019/817 and (EU) 2019/818 on Establishing a Framework for Interoperability between EU Information Systems, in force since 15 June 2025 (AS 2025 347; BBl 2020 7983).
 Para. 5 — Amended by Annex 1 No 1 of the FD of 19 March 2021 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of Regulations (EU) 2019/817 and (EU) 2019/818 on Establishing a Framework for Interoperability between EU Information Systems, in force since 15 June 2025 (AS 2025 347; BBl 2020 7983).
 |
@@ -250,6 +295,9 @@ b. for whom there are factual indications or reasonable grounds to believe that 
 Art. 108a — Inserted by Annex No 1 of the FD of 25 Sept. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of Regulation (EU) 2018/1240 establishing a European Travel Information and Authorisation System (ETIAS) (AS 2025 346; BBl 2020 2885).
 Para. 1 — See footnote to Art. 5 para. 1 let. abis.
 Para. 1 — Amended by Annex No 1 of the FD of 16 Dec. 2022 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of Regulations (EU) 2021/1150 and 2021/1152 as regards the establishment of the conditions for accessing other EU information systems for the purposes of the European Travel Information and Authorisation System (ETIAS), in force since 15 June 2025 (AS 2025 349; BBl 2022 1449).
+|
+
+:NOTE
 Para. 3 — Inserted by Annex No 1 of the FD of 16 Dec. 2022 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of Regulations (EU) 2021/1150 and 2021/1152 as regards the establishment of the conditions for accessing other EU information systems for the purposes of the European Travel Information and Authorisation System (ETIAS), in force since 15 June 2025 (AS 2025 349; BBl 2022 1449).
 |
 
@@ -280,6 +328,10 @@ Art. 108d Issue, refusal, annulment or revocation of ETIAS travel authorisations
 2 In exceptional cases, SEM may issue an ETIAS travel authorisation with limited territorial validity for Switzerland on humanitarian grounds, for reasons of national interest or because of international obligations.
 3 ETIAS travel authorisations are valid for three years or until the expiry date of the travel document. They do not confer a right of entry into Switzerland.
 4 SEM is responsible for annulling or revoking ETIAS travel authorisations that have already been issued. If an ETIAS travel authorisation is refused, annulled or revoked, SEM shall issue a ruling using a standard form.
+|
+
+:INFO
+Art. 108d (continued)
 5 The procedure for issuing, refusing, annulling or revoking the ETIAS travel authorisation is governed by the Administrative Procedure Act of 20 December 1968 (APA). Articles 11b paragraph 1, 22a and 24 APA do not apply. In order to implement Regulation (EU) 2018/1240 and the legal instruments adopted by the European Commission on the basis of this EU Regulation, the Federal Council may issue provisions that derogate from the APA on:
 a. electronic submissions and communications (Art. 11b para. 2, 21a and 34 para. 1bis APA);
 b. preliminary hearings (Art. 30 APA);
@@ -299,6 +351,10 @@ Art. 108dbis ETIAS appeal procedure: General procedural provisions
 2 The time limits under Article 22a paragraph 1 APA do not apply to the ETIAS appeal procedure.
 3 The appeal and other submissions to the Federal Administrative Court may be filed in one of the four official languages or in English. In the case of submissions in English, the Federal Administrative Court determines one of the four official languages as the language of proceedings.
 4 The judgment and procedural orders shall be issued in the language of proceedings. If the appeal was filed in English, the conclusions of the judgment shall also be translated into English for information purposes.
+|
+
+:INFO
+Art. 108dbis (continued)
 5 Obviously unfounded appeals shall be dismissed by a single judge if:
 a. a travel document has been used that is reported in the SIS as lost, stolen, misappropriated or declared invalid;
 b. the person concerned is the subject of an alert in the SIS for the purposes of refusing entry or stay; or
@@ -338,6 +394,10 @@ Art. 108dquinquies ETIAS appeal procedure: Procedural provisions for using the E
 2 Parties who submit requests via the ETIAS transmission platform and who live abroad are not required to provide an address for service in Switzerland.
 3 When an appeal is filed via the ETIAS submission platform, the appellant shall be automatically requested to pay an advance on costs. If the payment deadline is not met, the appeal will be dismissed. An application for legal aid in accordance with Article 65 APA remains reserved.
 4 Rulings and judgments issued via the ETIAS transmission platform must bear an electronic signature in accordance with the Federal Act of 18 March 2016 on Electronic Signatures.
+|
+
+:INFO
+Art. 108dquinquies (continued)
 5 Communications to the parties to the proceedings that are transmitted via the ETIAS transmission platform are deemed to have been made at the moment they are retrieved from the platform, but no later than the seventh day after they were made available on the platform.
 6 The Federal Council shall regulate the following aspects of the procedure for using the ETIAS transmission platform:
 a. the signature to be used for rulings and judgments;
@@ -360,6 +420,10 @@ Art. 108e Recording and consultation of data in ETIAS
 a. SEM, the employees of the Federal Office for Customs and Border Security (FOCBS) responsible for checks on persons within Switzerland, the cantonal and communal police authorities and the cantonal and communal migration authorities: to check the requirements for entry and residence in Switzerland;
 b. the FOCBS employees responsible for checks on persons at the border and the cantonal police authorities responsible for checks at the Schengen external borders: to fulfil their border control tasks at the Schengen external borders;
 c. air carriers: to verify whether the third-country national is in possession of a valid ETIAS travel authorisation.
+|
+
+:INFO
+Art. 108e (continued)
 3 The following authorities may request EES data from the central access point under paragraph 5 in order to prevent, detect or investigate terrorist or other serious offences:
 a. fedpol;
 b. the FIS;
@@ -390,6 +454,9 @@ b. by the authorities in accordance with Article 108e paragraph 3: in exceptiona
 Art. 108f — Inserted by Annex No 1 of the FD of 25 Sept. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of Regulation (EU) 2018/1240 establishing a European Travel Information and Authorisation System (ETIAS), in force since 15 June 2025 (AS 2025 346; BBl 2020 2885).
 Art. 108f — Amended by Annex No 1 of the FD of 16 Dec. 2022 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of Regulations (EU) 2021/1150 and 2021/1152 as regards the establishment of the conditions for accessing other EU information systems for the purposes of the European Travel Information and Authorisation System (ETIAS), in force since 15 June 2025 (AS 2025 349; BBl 2022 1449).
 Para. 2 let. a — See footnote to Art. 5 para. 1 let. abis.
+|
+
+:NOTE
 Para. 3 — Inserted by Annex No 1 of the FD of 16 Dec. 2022 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of Regulations (EU) 2021/1150 and 2021/1152 as regards the establishment of the conditions for accessing other EU information systems for the purposes of the European Travel Information and Authorisation System (ETIAS), in force since 15 June 2025 (AS 2025 349; BBl 2022 1449).
 |
 
@@ -437,6 +504,10 @@ Art. 108h Principles
 a. recording and processing personal data, including processing sensitive personal data, and contact data as well as supplementary application data, information and copies of documents relating to foreign nationals for the purpose of examining of ETIAS travel authorisation applications for which Switzerland is responsible
 b. consulting with national and cantonal authorities when examining ETIAS travel authorisation applications;
 c. recording and processing personal and contact data relating to foreign nationals who are added to the ETIAS watchlist at the request of fedpol or the FIS
+|
+
+:INFO
+Art. 108h (continued)
 d. generating statistics.
 |
 
@@ -456,6 +527,10 @@ c. the contact data;
 d. health data collected as part of the epidemic risk assessment in accordance with Article 3 paragraph 1 letter 8 of Regulation (EU) 2018/1240;
 e. supplementary information and copies of the applicant's documents;
 f. the results of the consultation with federal and cantonal authorities as well as the results of enquiries as to facts, considerations and information on the status of the procedure;
+|
+
+:INFO
+Art. 108i (continued)
 g. the data from ORBIS, RIPOL, N-SIS, the national police index, ASF-SLTD, VOSTRA and ZEMIS to which the ETIAS National Unit has access;
 h. the data from the EES, C-VIS, SIS and CIR to which the ETIAS National Unit has access;
 i. the data that SEM receives as the ETIAS National Unit from administrative assistance provided by the Confederation and the cantons;
@@ -480,6 +555,10 @@ a. SEM:
 b. the FIS and fedpol: to the data specified in Article 108i paragraph 2 letters a–i for processing and responding to consultation requests when processing ETIAS applications;
 c. the FIS and fedpol: to the data specified in Article 108i paragraph 2 letters k and l for carrying out their tasks as the requesting authority for the processing of data on the ETIAS watchlist.
 2 The Federal Administrative Court shall receive an extract of the procedural dossier in electronic form via the ETIAS transmission platform in accordance with Article Article 108dquater for the consideration of the appeals that it receives.
+|
+
+:INFO
+Art. 108j (continued)
 3 The disclosure of personal data stored in N-ETIAS is governed by Article 108f.
 |
 
@@ -523,9 +602,17 @@ Art. 109a Central Visa Information System
 2 The following authorities may consult C-VIS data online:
 a. SEM, Swiss representations abroad and missions, the cantonal migration authorities responsible for the visa and the communal authorities to which the cantons have delegated these responsibilities, the State Secretariat and the Directorate of Political Affairs of the FDFA, the Border Guard and the border posts of the cantonal police authorities: in the course of the visa procedure;
 b. SEM: to determine the state responsible for assessing an asylum application under Regulation (EC) No. 604/2013 and in the course of assessing an asylum application if Switzerland is responsible for its processing;
+|
+
+:INFO
+Art. 109a (continued)
 c. the Border Guard and the cantonal police authorities responsible for checks at the Schengen external borders: to conduct checks at the external border crossing points and on Swiss sovereign territory;
 d. the Border Guard and the cantonal and communal police authorities that conduct checks on persons: to identify persons who do not or who no longer fulfil the requirements for entry into Swiss sovereign territory or for a stay in Switzerland;
 e. SEM: in carrying out its tasks as the ETIAS National Unit.
+|
+
+:INFO
+Art. 109a (continued)
 3 The following authorities may request specific C-VIS data from the central access point under paragraph 5 pursuant to Regulation (EC) No 767/2008 in order to prevent, detect or investigate terrorist offences or other serious criminal offences:
 a. fedpol;
 b. FIS;
@@ -539,16 +626,28 @@ e. the FOCBS employees responsible for prosecutions.
 :NOTE
 Art. 109a — Inserted by Art. 2 No 1 of the FD of 11 Dec. 2009 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of the Regulation and Decision concerning the Visa Information System (VIS), in force since 11 Oct. 2011 (AS 2010 2063, 2011 4449; BBl 2009 4245).
 Art. 109a — Amended by Annex 1 No 1 of the FD of 19 March 2021 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of Regulations (EU) 2019/817 and (EU) 2019/818 on Establishing a Framework for Interoperability between EU Information Systems, in force since 15 June 2025 (AS 2025 347; BBl 2020 7983).
+|
+
+:NOTE
 Para. 1 — Regulation (EC) No 767/2008 of the European Parliament and of the Council of 9 July 2008 concerning the Visa Information System (VIS) and the exchange of data between Member States on short-stay visas (VIS Regulation), OJ. L 218 of 13.8.2008, p. 60; last amended by Regulation (EU) EU) 2021/1152, OJ. L 249 of 14.7.2021, p. 15.
 Para. 1 — Amended by Annex No 1 of the FD of 16 Dec. 2022 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of Regulations (EU) 2021/1150 and 2021/1152 as regards the establishment of the conditions for accessing other EU information systems for the purposes of the European Travel Information and Authorisation System (ETIAS), in force since 15 June 2025 (AS 2025 349; BBl 2022 1449).
+|
+
+:NOTE
 Para. 1bis — Inserted by Annex 1 No 1 of the FD of 19 March 2021 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of Regulations (EU) 2019/817 and (EU) 2019/818 on Establishing a Framework for Interoperability between EU Information Systems, in force since 15 June 2025 (AS 2025 347; BBl 2020 7983).
 Para. 2 let. a — Amended by No I of the FA of 26 Sept. 2014, in force since 1 March 2015 (AS 2015 533; BBl 2014 3373).
 Para. 2 let. b — Amended by Annex No I 1 of the FD of 26 Sept. 2014 (Adoption of R[EU] No 604/2013 establishing the criteria and mechanisms for determining the Member State responsible for examining an application for international protection), in force since 1 July 2015 (AS 2015 1841; BBl 2014 2675).
 Para. 2 let. b — See footnote to Art. 64a para. 1.
+|
+
+:NOTE
 Para. 2 let. d — Amended by No I of the FA of 14 Dec. 2018 (Procedural Arrangements and Information Systems), in force since 1 April 2020 (AS 2019 1413, 2020 881; BBl 2018 1685).
 Para. 2 let. e — Inserted by Annex No 1 of the FD of 16 Dec. 2022 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of Regulations (EU) 2021/1150 and 2021/1152 as regards the establishment of the conditions for accessing other EU information systems for the purposes of the European Travel Information and Authorisation System (ETIAS), in force since 15 June 2025 (AS 2025 349; BBl 2022 1449).
 Para. 3 — Amended by No I of the FA of 16 Dec. 2022 (Access to the CIR and to Data from three EU Information Systems), in force since 15 June 2025 (AS 2025 350; BBl 2022 1421).
 Para. 3 let. e — Inserted by No I of the FA of 16 Dec. 2022 (Access to the CIR and to Data from three EU Information Systems), in force since 15 June 2025 (AS 2025 350; BBl 2022 1421).
+|
+
+:NOTE
 Para. 4 — Repealed by No III of the FA of 25 Sept. 2020 (Application of the Schengen Data Protection Act to the Federal Intelligence Service), with effect from 1 Sept. 2023 (AS 2023 147; BBl 2020 2885).
 Para. 5 — Inserted by No I of the FA of 25 Sept. 2020 (Application of the Schengen Data Protection Act to the Federal Intelligence Service), in force since 1 April 2023 (AS 2023 147; BBl 2020 2885).
 |
@@ -563,6 +662,10 @@ c. the links between certain visa applications;
 d. the data from RIPOL and from the ASF-SLTD to which the visa authorities have access;
 e. the data from SIS to which the visa authorities have access, provided an alert has been issued under Regulation (EU) 2018/1861 or Regulation (EU) 2018/1860.
 2bis ORBIS also contains a subsystem with the files on the visa applicants in electronic form.
+|
+
+:INFO
+Art. 109b (continued)
 3 The following authorities may enter, modify and delete data in ORBIS in order to carry out their tasks under the visa procedure:
 a. SEM;
 b. Swiss representations abroad and missions;
@@ -575,13 +678,25 @@ e. the Federal Office for Customs and Border Security (FOCBS) and the cantonal p
 :NOTE
 Art. 109b — Inserted by Art. 2 No 1 of the FD of 11 Dec. 2009 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of the Regulation and Decision concerning the Visa Information System (VIS), in force since 20 Jan. 2014 (AS 2010 2063, 2014 1; BBl 2009 4245).
 Para. 1 — Amended by Annex 1 No 1 of the FD of 19 March 2021 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of Regulations (EU) 2019/817 and (EU) 2019/818 on Establishing a Framework for Interoperability between EU Information Systems, in force since 15 June 2025 (AS 2025 347; BBl 2020 7983).
+|
+
+:NOTE
 Para. 2 — Amended by Annex 1 No 1 of the FD of 19 March 2021 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of Regulations (EU) 2019/817 and (EU) 2019/818 on Establishing a Framework for Interoperability between EU Information Systems, in force since 15 June 2025 (AS 2025 347; BBl 2020 7983).
 Para. 2 let. d — Inserted by No I of the FA of 20 June 2014 (Violations of the Duty of Care and to Report by Air Carriers, Information Systems), in force since 1 Oct. 2015 (AS 2015 3023; BBl 2013 2561).
+|
+
+:NOTE
 Para. 2 let. e — Inserted by No I of the FA of 20 June 2014 (Violations of the Duty of Care and to Report by Air Carriers, Information Systems) (AS 2015 3023; BBl 2013 2561). Amended by Annex 1 No 1 of the FD of 18 Dec. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of the Legislation on the Establishment, Operation and Use of the Schengen Information System (SIS), in force since 22 Nov. 2022 (AS 2021 365; 2022 636; BBl 2020 3465).
 Para. 2 let. e — See footnote to Art. 68a para. 2.
 Para. 2 let. e — See footnote to Art. 68e para. 2.
+|
+
+:NOTE
 Para. 2bis — Inserted by No I of the FA of 20 June 2014 (Violations of the Duty of Care and to Report by Air Carriers, Information Systems) (AS 2015 3023; BBl 2013 2561). Amended by Annex 1 No 1 of the FD of 19 March 2021 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of Regulations (EU) 2019/817 and (EU) 2019/818 on Establishing a Framework for Interoperability between EU Information Systems, in force since 15 June 2025 (AS 2025 347; BBl 2020 7983).
 Para. 3 let. e — Amended by Annex 1 No 1 of the FD of 19 March 2021 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of Regulations (EU) 2019/817 and (EU) 2019/818 on Establishing a Framework for Interoperability between EU Information Systems, in force since 15 June 2025 (AS 2025 347; BBl 2020 7983).
+|
+
+:NOTE
 Para. 4 — Regulation (EC) No 767/2008 of the European Parliament and the Council of 9 July 2008 concerning the Visa Information System (VIS) and the exchange of data between Member States on short-stay visas (VIS Regulation), OJ. L 218 of 13.8.2008, p. 60.
 Para. 4 — Inserted by Annex 1 No 1 of the FD of 19 March 2021 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of Regulations (EU) 2019/817 and (EU) 2019/818 on Establishing a Framework for Interoperability between EU Information Systems, in force since 15 June 2025 (AS 2025 347; BBl 2020 7983).
 |
@@ -595,9 +710,17 @@ c. the State Secretariat and the Directorate of Political Affairs of the FDFA: t
 d. the Central Compensation Office: to assess applications for benefits and to allocate and check OASI insurance numbers;
 e. the cantonal and communal migration authorities and the cantonal and communal police authorities: to fulfil their duties in the field of immigration;
 f. the competent federal authorities in the field of internal security, international mutual legal assistance and policing:
+|
+
+:INFO
+Art. 109c (continued)
 1. in order to identify persons in connection with the exchange of police intelligence, security and criminal police duties, extradition proceedings, administrative and mutual legal assistance, law enforcement and the enforcement of penalties on behalf of others, combating money laundering, drug trafficking and organised crime, checking identity documents, tracing missing persons and checking entries in the computerised police search system under the Federal Act of 13 June 2008 on the Federal Police Information Systems,
 2. in order to check measures banning entry in order to safeguard Switzerland's internal and external security under the Federal Act of 21 March 1997 on Measures to Safeguard Internal Security;
 g. the Federal Appellate Authorities: for the preparatory briefing procedure for appeals;
+|
+
+:INFO
+Art. 109c (continued)
 h. the civil register offices and their supervisory authorities: to identify persons in connection with changes in civil status, to prepare for a marriage ceremony or the registration of a same-sex partnership, and to prevent circumvention of the law on foreign nationals in accordance with Article 97a paragraph 1 CC and Article 6 paragraph 2 of the Same-Sex Partnership Act of 18 June 2004;
 i. the ETIAS National Unit: in order to carry out its tasks.
 |
@@ -605,12 +728,18 @@ i. the ETIAS National Unit: in order to carry out its tasks.
 :NOTE
 Art. 109c — Inserted by Art. 2 No 1 of the FD of 11 Dec. 2009 on the Approval and Implementation of the Exchanges of Notes between Switzerland the EU on the Adoption of the Regulation and Decision concerning the Visa Information System (VIS), in force since 20 Jan. 2014 (AS 2010 2063, 2011 4449, 2014 1; BBl 2009 4245).
 Art. 109c — Amended by Annex 1 No 1 of the FD of 19 March 2021 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of Regulations (EU) 2019/817 and (EU) 2019/818 on Establishing a Framework for Interoperability between EU Information Systems, in force since 15 June 2025 (AS 2025 347; BBl 2020 7983).
+|
+
+:NOTE
 Amended by Annex 1 No 1 of the FD of 19 March 2021 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of Regulations (EU) 2019/817 and (EU) 2019/818 on Establishing a Framework for Interoperability between EU Information Systems, in force since 15 June 2025 (AS 2025 347; BBl 2020 7983).
 let. e — Amended by No I of the FA of 14 Dec. 2018 (Procedural Arrangements and Information Systems), in force since 1 April 2020 (AS 2019 1413, 2020 881; BBl 2018 1685).
 let. f let. 1 — SR 361
 let. f let. 2 — SR 120
 let. h — SR 210
 let. h — SR 211.231
+|
+
+:NOTE
 let. i — Inserted by Annex No 1 of the FD of 16 Dec. 2022 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of Regulations (EU) 2021/1150 and 2021/1152 as regards the establishment of the conditions for accessing other EU information systems for the purposes of the European Travel Information and Authorisation System (ETIAS), in force since 15 June 2025 (AS 2025 349; BBl 2022 1449).
 |
 
@@ -622,6 +751,9 @@ Member states of the EU to which Regulation (EC) No. 767/2008 does not yet apply
 :NOTE
 Art. 109d — Inserted by Art. 2 No 1 of the FD of 11 Dec. 2009 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of the Regulation and Decision concerning the Visa Information System (VIS) (AS 2010 2063; BBl 2009 4245). Amended by No I of the FA of 16 Dec. 2016 (Controlling Immigration and Improving Implementation of the Free Movement Agreements), in force since 1 July 2018 (AS 2018 733; BBl 2016 3007).
 Regulation (EC) No 767/2008 of the European Parliament and of the Council of 9 July 2008 concerning the Visa Information System (VIS) and the exchange of data between Member States on short-stay visas (VIS Regulation), OJ. L 218 of 13.8.2008, p. 60.
+|
+
+:NOTE
 Amended by Annex 1 No 1 of the FD of 19 March 2021 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of Regulations (EU) 2019/817 and (EU) 2019/818 on Establishing a Framework for Interoperability between EU Information Systems, in force since 15 June 2025 (AS 2025 347; BBl 2020 7983).
 |
 
@@ -658,6 +790,10 @@ Art. 109f Principles
 a. the processing of personal data pertaining to foreign nationals in connection with the enforcement of the return decisions, expulsion orders or judicial expulsion orders, voluntary return or return assistance or counselling, including the processing of sensitive personal data;
 b. the administration and supervision of the various phases of the return, expulsion or judicial expulsion procedure and the tasks related to return, including return assistance and counselling and the financial payments associated with return;
 c. the production of statistics;
+|
+
+:INFO
+Art. 109f (continued)
 d. the transmission of statistics and of personal data in accordance with Article 105 paragraph 2 to the European Union agency responsible for the surveillance of the Schengen external borders based on Regulation (EU) 2019/1896.
 |
 
@@ -680,6 +816,10 @@ b. the biometric data;
 c. the part of the electronic file relating to return under Article 4 paragraph 1 letter d of the Federal Act of 20 June 2003 on the Information System on Matters relating to Foreign Nationals and Asylum;
 d. the form of removal or voluntary return, the travel document used and the financial payments disbursed on departure;
 e. the data on counselling on return and the granting of return assistance;
+|
+
+:INFO
+Art. 109g (continued)
 f. the data on measures to obtain travel documents;
 g. the data required for the administration and supervision of the various phases of departure from Switzerland;
 h. the medical data required to assess the person’s fitness to travel;
@@ -690,6 +830,10 @@ l. details of the flight tickets and the itinerary;
 m. data on the persons entrusted with accompanying the person concerned for medical, social or policing reasons;
 n. the data required to prepare cost statements and make payments in connection with the return.
 3 The personal data under paragraph 2 letters a–c and j are copied automatically from ZEMIS. If these data are modified in the information system, the updated data are automatically copied into ZEMIS.
+|
+
+:INFO
+Art. 109g (continued)
 4 SEM shall inform persons whose data is recorded in the system of the reason for processing these data, the data categories and the data recipient.
 |
 
@@ -706,6 +850,10 @@ a. SEM employees:
 b. the cantonal authorities entrusted with carrying out the return procedure in order to report cases that require support from SEM under Article 71 (data under Art. 109g para. 2);
 c. the cantonal authorities responsible for return assistance (data under Art. 109g para. 2 let. a–h and k–n);
 d. the cantonal authorities responsible for cost statement (basic data under Art. 109g para. 2 let. a and data under Art. 109g para. 2 let. c–g, j and l–n);
+|
+
+:INFO
+Art. 109h (continued)
 e. the cantonal police authorities for accompanying persons being removed or expelled (basic data under Art. 109g para. 2 let. a and data under Art 109g para. 2 let. b, d, g and i–n);
 f. the cantonal police authorities at the airports and the Border Guard for tasks related to checks on departure (basic data under Art. 109g para. 2 let. a and data under Art. 109g para. 2 let. b, d, g and i–n);
 g. third parties delegated tasks under Article 109i.
@@ -719,6 +867,10 @@ a. for tasks in connection with return assistance and counselling;
 b. for tasks related to preparing for departure at the airport;
 c. for assessing the fitness of the person concerned to travel and for deciding on any medical assistance required.
 3 SEM shall ensure that the third parties comply with the regulations on data protection and on information technology security.
+|
+
+:INFO
+Art. 109i (continued)
 4 The Federal Council shall decide which categories personal data in the information system may be processed by the third parties that have been delegated tasks mentioned in paragraph 1 above.
 |
 
@@ -755,11 +907,23 @@ c. the date on which the fingerprints were taken;
 d. the Swiss code number for the fingerprints;
 e. the date on which the data was transmitted to the Central Unit.
 f. the user password.
+|
+
+:INFO
+Art. 109k (continued)
 3 The data recorded under paragraphs 1 and 2 shall be transmitted to the Central Unit within 72 hours of the person concerned being apprehended. If the person concerned is held in detention for longer than 72 hours, the data must be transmitted before the person is released.
 4 If the condition of the fingers of the person concerned do not allow fingerprints to be taken, the fingerprints must be transmitted to the Central Unit within 48 hours of fingerprints of acceptable quality being taken. If it is impossible to take fingerprints due to the state of health of the person concerned or due to public health measures, the fingerprints must be transmitted to the Central Unit within 48 hours of the impediment ceasing to apply.
 5 If the transmission of data is prevented by serious technical problems, an additional period of 48 hours shall be allowed in order to take the measures required to ensure that the system operates correctly again.
+|
+
+:INFO
+Art. 109k (continued)
 6 The border posts and the immigration and police authorities in the cantons and communes may obtain a full set of fingerprints from any foreign national who is over the age of 14 and who is residing illegally in Switzerland in order to establish whether they have already made an application for asylum in another state that is bound by any of the Dublin Association Agreements.
 7 The data obtained in accordance with paragraphs 1, 2 and 6 shall be transmitted to SEM for passing on to the Central Unit.
+|
+
+:INFO
+Art. 109k (continued)
 8 The data transmitted in accordance with paragraphs 1 and 2 shall be stored by the Central Unit in the Eurodac database and shall be automatically erased 18 months after the fingerprints are taken. SEM shall immediately request the Central Unit to erase the data before this date as soon as it is notified that the foreign national concerned:
 a. has been granted a residence permit in Switzerland;
 b. has left the sovereign territory of the states that are bound by any of the Dublin Association Agreements;

@@ -45,6 +45,10 @@ c. substances which may according to the method of their use enter into water an
 a. the limit value of 0.1 µg/l for pesticides or their degradation products is repeatedly and widely exceeded in waters used or intended for use for drinking water; or
 b. the ecotoxicological limit values for pesticides are repeatedly and widely exceeded in surface waters.
 4 The new decision on authorisation must ensure compliance with the limit values.
+|
+
+:INFO
+Art. 9 (continued)
 5 If it is not possible to achieve compliance with the limit values by imposing conditions of use, the authorisation for the pesticides in question or, in the case of plant protection products, the approval of their active substances must be withdrawn.
 6 If a measure under paragraph 5 would seriously reduce domestic supplies of important agricultural crops, the Federal Council may refrain from withdrawing authorisation or approval for a limited period of time.
 |
@@ -90,6 +94,10 @@ Art. 12 Special cases in areas covered by public sewers
 1 Those responsible for wastewater which does not meet the requirements laid down for discharge into the drainage system must subject such wastewater to pre-treatment. Such pre-treatment shall be regulated by the cantons.
 2 The cantonal authorities shall decide on the appropriate way to dispose of wastewater which is not suited for treatment by a central water treatment plant.
 3 Non-polluted wastewater with permanent flow shall not be passed through a central wastewater treatment plant either directly or indirectly. The cantonal authorities may authorise exceptions to this rule.
+|
+
+:INFO
+Art. 12 (continued)
 4 In a farm comprising a substantial stock of cattle or pigs, domestic wastewater may be used agriculturally together with the liquid manure (Art. 14) provided that:
 a. residential or industrial buildings and their adjoining land are situated in an area classified as an agricultural zone or the communal authority is taking the necessary measures, particularly in the field of area planning, to classify the buildings and their adjoining land in an agricultural zone;
 b. storage capacity is sufficient for domestic wastewater too and the wastewater is used on land which is either owned or leased by the farm in question.
@@ -108,6 +116,10 @@ Art. 14 Animal husbandry farms
 2 Farm manure shall be used in agriculture and horticulture in an environmentally compatible way and according to the state-of-the-art.
 3 The farm must have storage facilities with a capacity for at least three months. However, the cantonal authorities may require a higher storage capacity for establishments situated in mountain areas or in areas with unfavourable climatic or special crop growing conditions. Lower storage capacities may also be authorised for buildings which are occupied by livestock for only short periods of time.
 4 A maximum of three livestock units of manure may be spread on 1 ha of agricultural land. If part of the farm manure is used outside the normal local farming area, the number of animals kept must be such that at least half the manure produced by the farm may be used on the agricultural land owned or leased.
+|
+
+:INFO
+Art. 14 (continued)
 5 Farms that provide manure must record each delivery in the information system in accordance with Article 165f of the Agriculture Act of 29 April 1998.
 6 The cantonal authorities shall reduce the number of livestock units of manure permitted per hectare if the pollutant-bearing capacity of the soil, the altitude and topographical conditions so require.
 7 The Federal Council may authorise exceptions to the requirements for agricultural land in cases of:
@@ -196,6 +208,10 @@ Art. 22 General Requirements
 1 The persons responsible for installations for handling liquids which may pollute water must ensure that the structures and equipment required for the protection of the waters are provided, regularly inspected and properly operated and maintained. Storage installations that require a permit (Art. 19 para. 2) must be inspected at least every ten years; depending on the risk of pollution to the waters, the Federal Council may stipulate inspection intervals for other installations.
 2 Losses of liquid must be prevented at storage installations and transhipment areas and leaks of liquid shall be easily detected and retained.
 3 Installations with liquids which may pollute water may only be constructed, modified, inspected, filled, maintained, emptied and decommissioned by persons who due to their training, equipment and experience guarantee compliance with the state of the art.
+|
+
+:INFO
+Art. 22 (continued)
 4 Any person who manufactures parts for installations must test whether these parts correspond to the state of the art and document the results of the test.
 5 If installations with liquids which may pollute water are constructed, modified or decommissioned, the persons responsible must report this to the canton in accordance with cantonal regulations.
 6 If the person responsible for an installation with liquids which may pollute water or any person entrusted with the operation or maintenance thereof detects a leak, they shall report this immediately to the waters protection inspectorate. They shall, on their own initiative, take all reasonable measures to prevent the related pollution of waters.
@@ -266,12 +282,30 @@ c. for the supply of drinking water, at most 80 litres per second from a spring 
 :INFO
 Art. 31 Minimum residual flow
 1 When withdrawal takes place from a permanently flowing watercourse, the minimum residual flow must be as follows:
-up to a flow rate Q347 of 60 l/s 50 l/s and for each further 10 l/s of flow rate Q347 8 l/s , for a flow rate Q347 of 160 l/s 130 l/s and for each further 10 l/s of flow rate Q347 4.4 l/s more, for 500 l/s of flow rate Q347 280 l/s and for each further 100 l/s of flow rate Q347 31 l/s more, for 2,500 l/s of flow rate Q347 900 l/s and for each further 100 l/s of flow rate Q347 21.3 l/s more, for 10,000 l/s of flow rate Q347 2,500 l/s and for each further 1000 l/s of flow rate Q347 150 l/s more, from 60,000 l/s of flow rate Q347 10,000 l/s .
+up to a flow rate Q347 of 60 l/s | 50 l/s |
+and for each further 10 l/s of flow rate Q347 | 8 l/s | ,
+for a flow rate Q347 of 160 l/s | 130 l/s |
+and for each further 10 l/s of flow rate Q347 | 4.4 l/s | more,
+for 500 l/s of flow rate Q347 | 280 l/s |
+and for each further 100 l/s of flow rate Q347 | 31 l/s | more,
+for 2,500 l/s of flow rate Q347 | 900 l/s |
+and for each further 100 l/s of flow rate Q347 | 21.3 l/s | more,
+for 10,000 l/s of flow rate Q347 | 2,500 l/s |
+and for each further 1000 l/s of flow rate Q347 | 150 l/s | more,
+from 60,000 l/s of flow rate Q347 | 10,000 l/s | .
+|
+
+:INFO
+Art. 31 (continued)
 2 The minimum residual flow calculated according to paragraph 1 above shall be increased if the following requirements are not complied with and cannot be complied with as a result of other measures:
 a. The prescribed water quality of the surface waters must be maintained in spite of the water withdrawal and existing wastewater discharges.
 b. Groundwater resources must continue to be replenished such that the drinking water supply dependent on them remains available to the required extent and the water balance of soils used for agriculture is not substantially impaired.
 c. Rare habitats and biocoenoses which depend directly or indirectly on the type and size of a body of water must either be maintained or where possible be replaced by others of a similar value unless overriding reasons prevent this.
 d. The depth of water necessary for free fish migration must be maintained.
+|
+
+:INFO
+Art. 31 (continued)
 e. In the case of watercourses with a flow rate Q347 of up to 40 litres per second below an altitude of 800 metres above sea level which serve as spawning grounds or habitats for juvenile fish, the continuation of these functions must be guaranteed.
 |
 
@@ -281,6 +315,10 @@ The cantonal authorities may lay down lower minimum residual flow rates in the f
 a. if the flow rate Q347 of the body of water is lower than 50 l/s: over a 1,000 m long stretch below a point of withdrawal from a body of water situated at an altitude higher than 1,700 m above sea level or from a body of water not suitable as a habitat for fish and situated at an altitude between 1,500 and 1,700 m above sea level;
 b. in the case of water withdrawals from bodies of water not suitable as habitats for fish provided that the residual rate of flow represents at least 35 per cent of the flow rate Q347;
 bbis. on a 1000 m long stretch below a place of withdrawal in sections with negligible ecological potential, provided the natural functions of the body of water are not substantially impaired;
+|
+
+:INFO
+Art. 32 (continued)
 c. in the framework of a protection and utilisation planning for a limited area forming a topographical whole, in so far as an appropriate balance can be achieved in the same area by specific measures such as refraining from further withdrawals; such protection and utilisation plan shall require the approval of the Federal Council;
 d. in cases of necessity, for withdrawals limited in time, in particular for the supply of drinking water, for fire-fighting or for agricultural irrigation.
 |
@@ -298,12 +336,20 @@ a. public interests which may be served by the water withdrawal;
 b. economic interests of the area in which the water originates;
 c. economic interests of those wishing to withdraw the water;
 d. energy supply which may be served by the water withdrawal.
+|
+
+:INFO
+Art. 33 (continued)
 3 Interests against a water withdrawal are as follows:
 a. the significance of the waters as an element of the landscape;
 b. the significance of the waters as a natural habitat and for the conservation of the diversity of the dependent fauna and flora, in particular of the fish fauna, the income derived from fishing and the natural reproduction of fish;
 c. maintaining a rate of flow sufficient to satisfy the quality requirements of waters in the long run;
 d. maintaining a balanced groundwater regimen which guarantees future supplies of drinking water, land use customary to the area and vegetation suited to the location;
 e. ensuring agricultural irrigation.
+|
+
+:INFO
+Art. 33 (continued)
 4 Anyone wishing to withdraw water shall provide the authorities with a report on:
 a. the consequences of the water withdrawal, calculated at various rates of flow, on the interests served by the withdrawal, with particular regard to the production of electric energy and its costs;
 b. the interests which are likely to be adversely affected by the water withdrawal and measures which might be taken to prevent such impairment.
@@ -357,6 +403,10 @@ b. it is necessary for the provision of a navigable passage or for the use of hy
 c. it is necessary for the construction of a landfill that can only be constructed at the planned location and in which only unpolluted excavation material or spoil is deposited; or
 d. the condition of an already channelled or straightened body of surface water can be improved in terms of this Act.
 2 In the event of operations on surface waters, the natural course of the body of water must as far as possible be preserved or restored.
+|
+
+:INFO
+Art. 37 (continued)
 3 Surface waters and the space provided for waters must be developed and maintained in such a manner that:
 a. they provide a habitat for diversified fauna and flora;
 b. the interactions between surface and underground waters are maintained to the greatest extent possible;
@@ -411,6 +461,10 @@ c. the proportionality of the cost;
 d. the interests of flood protection;
 e. the energy policy goals relating to the promotion of renewable energy sources.
 3 Within the catchment area of the body of water concerned, the measures must be coordinated with each other after hearing the persons responsible for the hydropower plants concerned.
+|
+
+:INFO
+Art. 39a (continued)
 4 Retention basins constructed in application of paragraph 1 may be used for pumped storage without modification of the licence.
 |
 
@@ -443,6 +497,10 @@ Art. 43 Conservation of groundwater resources
 2 If a groundwater resource is impaired as a result of excessive withdrawal or through reduced recharge, the canton shall ensure that the situation is remedied as far as possible, either through reducing the rate of withdrawal or by artificial recharge or by underground storage of drinking water.
 3 Different groundwater resources may not be connected to each other on a permanent basis if such a connection may impair the quantity or quality of the groundwater.
 4 Storage volumes and flows of usable groundwater resources may not be substantially reduced on a permanent basis as a result of new installations of any kind.
+|
+
+:INFO
+Art. 43 (continued)
 5 Low dams shall not substantially impair the groundwater nor the vegetation which depends on the groundwater level. The authority may grant exceptions for existing installations.
 6 Drainage of a zone which results in a lowering of the groundwater table over a large area shall be permitted only if agricultural utilisation cannot be ensured in any other way.
 |

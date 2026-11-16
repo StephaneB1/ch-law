@@ -24,6 +24,10 @@ i. telecommunications service providers (TSPs);
 j. providers of derived communication services (PDCSs);
 k. operators of internal telecommunications networks;
 l. persons who allow third parties to use their access to a public telecommunications network;
+|
+
+:INFO
+Art. 1 (continued)
 m. professional retailers of cards and similar means of gaining access to a public telecommunications network.
 |
 
@@ -56,6 +60,10 @@ Art. 3 — Amended by No I of the O of 15 Nov. 2023, in force since 1 Jan. 2024 
 Art. 4 Conduct of surveillance
 1 The PTSS shall determine in specific cases the technical and organisational measures for conducting surveillance, unless these are directly specified in the applicable regulations, in particular for standardised types of information and surveillance.
 2 If, as a result of operational problems, a person or entity required to cooperate is unable to meet its obligations for post or telecommunications surveillance, it shall report this to the PTSS without delay and thereafter submit a written statement of the reasons. The PTSS shall inform the person or entity required to cooperate without delay if surveillance cannot be carried out because of operational problems on its side.
+|
+
+:INFO
+Art. 4 (continued)
 3 Irrespective of where the cause of the error lies, the person or entity required to cooperate must temporarily store at least the undelivered secondary telecommunications data from real-time surveillance and deliver it without delay. If the secondary telecommunications data from real-time surveillance is no longer available or incomplete, the person or entity required to cooperate must deliver without delay the secondary telecommunications data from retroactive surveillance in accordance with the instructions of the PTSS.
 |
 
@@ -74,6 +82,10 @@ Art. 5 Protection of official or professional secrecy
 If the PTSS establishes that the surveillance relates to a holder of official or professional secrets but that the statutory measures to protect these secrets have not been taken, it shall in the following situations notify the ordering authority and the approval authority without delay and initially shall not allow the former and the persons named in the surveillance order access to the surveillance data:
 a. if surveillance has been ordered by a civilian prosecution authority: in the case of persons from the professional groups specified in Articles 170–173 CrimPC unless measures have been taken in accordance with Article 271 CrimPC;
 b. if surveillance has been ordered by a military prosecution authority: in the case of persons from the professional groups specified in Article 75 letter b MCPC unless measures in accordance with Article 70b MCPC have been taken;
+|
+
+:INFO
+Art. 5 (continued)
 c. if surveillance has been ordered by the FIS: in the case of persons from the professional groups specified in Articles 171–173 CrimPC unless measures have been taken in accordance with Article 58 paragraph 3 of the Intelligence Service Act of 25 September 2015 in conjunction with Article 23 of the Intelligence Service Ordinance of 16 August 2017.
 |
 
@@ -117,6 +129,10 @@ g. the termination order;
 h. the correspondence relating to the measure;
 i. the protection measures specially ordered;
 j. the accounting records.
+|
+
+:INFO
+Art. 9 (continued)
 3 The surveillance data shall be stored in accordance with Article 11 SPTA and destroyed in accordance with Article 14 of the Ordinance of 15 November 2017 on the Processing System for Post and Telecommunications Surveillance (PSO-PTS).
 |
 
@@ -139,10 +155,18 @@ Art. 11 Services outside normal working hours and on public holidays
 a. providing information in accordance with Articles 35–43, 48a–48c and in accordance with Article 27 in conjunction with the Articles 35, 40, 42 and 43;
 b. activating real-time surveillance in accordance with Articles 54–59;
 c. conducting urgent retrospective surveillance activities in accordance with Articles 60–63, 65 and 66;
+|
+
+:INFO
+Art. 11 (continued)
 d. conducting missing person searches in accordance with Article 67 and wanted person searches in accordance with Article 68, with the exception of network coverage analysis in preparation for an antenna search in accordance with Article 64;
 e. issuing assignments for the mobile phone localisation of suspected terrorists in accordance with Article 68a;
 2 The authorities must notify the PTSS on-call service by telephone of services provided under paragraph 1, unless the information is provided automatically via the query interface of the processing systems.
 3 Requests for special information and orders for special surveillance activities (Art. 25) shall not be accepted or processed outside normal working hours or on public holidays.
+|
+
+:INFO
+Art. 11 (continued)
 4 TSPs with reduced surveillance duties (Art. 51), PDCSs and PDCSs with more extensive duties to provide information (Art. 22) that already have an internal on-call service must provide the PTSS with the current contact details for their on-call service. In particularly urgent cases, the PTSS is permitted to contact them outside normal working hours and on public holidays via this channel.
 |
 
@@ -165,6 +189,10 @@ f. of mobile phone localisations of suspected terrorists.
 2 The statistics in accordance with paragraph 1 shall indicate:
 a. the type of offence;
 b. the canton of the ordering authority, the ordering federal authority or, in the case of missing person searches, also an authority from the Principality of Liechtenstein, and in the case of information, the competent cantonal or federal authority (Art. 1 para. 2 lets c–f);
+|
+
+:INFO
+Art. 12 (continued)
 c. the nature of the information, surveillance, missing person search or wanted person search or mobile phone localisation of suspected terrorists;
 d. the duration of surveillance, if applicable;
 e. the fees;

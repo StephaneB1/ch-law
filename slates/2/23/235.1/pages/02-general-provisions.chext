@@ -22,10 +22,18 @@ c. sensitive personal data means:
 6. data relating to social assistance measures;
 d. processing means any handling of personal data, irrespective of the means and procedures used, in particular the collection, storage, keeping, use, modification, disclosure, archiving, deletion or destruction of data;
 e. disclosure means transmitting personal data or making such data accessible;
+|
+
+:INFO
+Art. 5 (continued)
 f. profiling means any form of automated processing of personal data consisting of the use of personal data to evaluate certain personal aspects relating to a natural person, in particular to analyse or predict aspects concerning that natural person's performance at work, economic situation, health, personal preferences, interests, reliability, behaviour, location or movements;
 g. high-risk profiling means profiling that poses a high risk to the data subject's personality or fundamental rights by matching data that allow an assessment to be made of essential aspects of the personality of a natural person;
 h. breach of data security means a breach of security that leads to the accidental or unlawful loss, deletion, destruction or modification or unauthorised disclosure or access to personal data;
 i. federal body means an authority or service of the Confederation or a person entrusted to carry out public tasks on behalf of the Confederation;
+|
+
+:INFO
+Art. 5 (continued)
 j. controller means a private person who or federal body which, alone or jointly with others, determines the purpose and the means of processing personal data;
 k. processor means a private person or federal body that processes personal data on behalf of the controller.
 |
@@ -37,6 +45,10 @@ Art. 6 Principles
 3 Personal data may only be collected for a specific purpose that the data subject can recognise; personal data may only be further processed in a manner that is compatible with this purpose.
 4 They shall be destroyed or anonymised as soon as they are no longer required for the purpose of processing.
 5 Any person who processes personal data must satisfy themselves that the data are accurate. They must take all appropriate measures to correct, delete or destroy data that are incorrect or incomplete insofar as the purpose for which they are collected or processed is concerned. The appropriateness of the measures depends in particular on the form and the extent of the processing and on the risk that the processing poses to the data subject's personality or fundamental rights.
+|
+
+:INFO
+Art. 6 (continued)
 6 If the consent of the data subject is required, such consent is only valid if given voluntarily for one or more specific instances of processing based on appropriate information.
 7 The consent must be explicitly given for:
 a. processing sensitive personal data;
@@ -79,6 +91,10 @@ a. The data protection officer exercises his or her function towards the control
 b. He or she does not carry out any activities that are incompatible with his or her tasks as a data protection officer.
 c. He or she has the required expertise.
 d. The controller publishes the contact details of the data protection officer and notifies the FDPIC thereof.
+|
+
+:INFO
+Art. 10 (continued)
 4 The Federal Council shall regulate the appointment of data protection officers by federal bodies.
 |
 
@@ -100,6 +116,10 @@ e. if possible, the retention period for the personal data or the criteria for d
 f. if possible, a general description of the measures taken to guarantee data security under Article 8;
 g. if the data are disclosed abroad, details of the State concerned and the guarantees under Article 16 paragraph 2.
 3 The processor's record shall contain information on identity of the processor and of the controller, the categories of processing carried out on behalf of the controller, and the information mentioned in paragraph 2 letters f and g.
+|
+
+:INFO
+Art. 12 (continued)
 4 The federal bodies shall notify the FDPIC of their records of processing activities.
 5 The Federal Council shall provide exceptions for legal entities that have fewer than 250 employees and whose data processing poses a negligible risk of harm to the personality of the data subjects.
 |
@@ -143,6 +163,10 @@ b. data protection clauses in an agreement between the controller or the process
 c. specific guarantees drawn up by the competent federal body, notice of which has been given to the FDPIC beforehand;
 d. standard data protection clauses that the FDPIC has approved, issued or recognised beforehand; or
 e. binding corporate rules that have been approved in advance by the FDPIC or by the authority responsible for data protection in a State that guarantees an adequate level of protection.
+|
+
+:INFO
+Art. 16 (continued)
 3 The Federal Council may provide for other appropriate guarantees in line with paragraph 2.
 |
 
@@ -158,6 +182,10 @@ c. Disclosure is necessary in order to:
 2. establish, exercise or enforce legal rights before a court or another competent foreign authority.
 d. Disclosure is necessary to protect the life or the physical integrity of the data subject or a third party, and it is not possible to obtain the consent of the data subject within a reasonable time.
 e. The data subject has made the data generally accessible and has not explicitly prohibited processing.
+|
+
+:INFO
+Art. 17 (continued)
 f. The data originate from a statutory register that is public or accessible to persons with a legitimate interest, provided the statutory requirements for access are met in the case concerned.
 2 The controller or the processor shall inform the FDPIC on request about the disclosure of personal data under paragraph 1 letters b number 2, c and d.
 |

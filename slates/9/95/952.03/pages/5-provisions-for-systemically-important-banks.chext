@@ -17,6 +17,10 @@ a. entities performing systemically important functions;
 b. the highest entity in a financial group, where the consolidation scope includes an entity under letter a;
 c. entities at the head of significant subordinate financial groups, where the consolidation scope includes an entity under letter a; and
 d. entities which, owing to their core function or their relative size, are significant for the financial group.
+|
+
+:INFO
+Art. 124 (continued)
 4 In individual cases, FINMA may exempt entities which perform systemically important functions but whose direct share in the financial group's domestic systemically important functions does not exceed 5% in total, or whose significance for the continued performance of the financial group's systemically important functions is otherwise minor.
 |
 
@@ -78,11 +82,19 @@ d. are issued by the group parent company or, with FINMA approval and in accorda
 e. are legally or contractually subordinate to the issuer's other obligations, or structurally subordinate to the obligations of other group companies;
 f. do not contain an option for early termination by the creditors;
 g. cannot be offset or secured or guaranteed in a way that restricts their bail-in capacity;
+|
+
+:INFO
+Art. 126a (continued)
 h. their terms and conditions contain a binding and irrevocable clause stating that creditors declare themselves in agreement with any potential conversion or write-off ordered by the supervisory authority during restructuring;
 i. do not contain derivatives transactions and, with the exception of hedging transactions, are not linked to derivatives transactions;
 j. were not purchased either directly or indirectly with funding from the issuing bank or one of its group companies;
 k. were issued with the approval of FINMA or are part of a FINMA-approved annual issuance programme, and may be redeemed before maturity only with FINMA approval, in cases where the level of additional loss-absorbing funds would fall below the quantitative requirements.
 2 FINMA may deem loans that meet the criteria under paragraph 1 to be equivalent to bail-in bonds.
+|
+
+:INFO
+Art. 126a (continued)
 3 The redemption/repayment of bail-in bonds or loans under paragraphs 1 and 2 that were issued with FINMA approval and are to be redeemed/repaid before their maturity/due date without FINMA approval must be notified to FINMA.
 |
 
@@ -126,9 +138,17 @@ Art. 127a Eligibility of bail-in bonds
 1 Bail-in bonds that meet the criteria under Article 126a may be recognised as additional loss-absorbing funds under Chapter 4 in the amount of the receivable, provided that they have a residual maturity of at least one year.
 1bis Bail-in bonds issued by cantonal banks that meet the requirements under Article 40a may also be recognised under paragraph 1.
 2 The maturities of the loss-absorbing funds shall be staggered so as to ensure that the requirements concerning the level of these funds can be met, even in the event of temporarily impaired borrowing conditions. A maximum of 25% of the requirements concerning additional loss-absorbing funds may be met with assets with a residual maturity between one and two years.
+|
+
+:INFO
+Art. 127a (continued)
 3 Where Tier 2 capital in accordance with Article 30 paragraph 2 is excluded as regulatory capital for a period of five years up to one year before final maturity, it can be recognised in the same way as bail-in bonds in accordance with international standards, provided that it is ensured that these instruments will absorb losses ahead of bail-in bonds.
 4 Systemically important banks may not, at their own risk, hold convertible or debt-reducing capital instruments of other banks, nor bail-in bonds of other Swiss banks or foreign systemically important banks governed by Swiss law or corresponding regulations in foreign jurisdictions. The following are exempt:
 a. exposures relating to the provision of bid and offer prices as a market maker, and short-term exposures relating to underwriting activities; and
+|
+
+:INFO
+Art. 127a (continued)
 b. the holding of bail-in bonds under Articles 37 and 38 in the bank's trading book, provided that these bail-in bonds are resold within 30 business days of their purchase.
 |
 
@@ -167,6 +187,10 @@ a. 4.5% for the leverage ratio;
 b. 12.86% for the RWA ratio.
 3 For the purpose of determining the surcharges, FINMA shall periodically allocate the banks to «buckets» according to their market share and total exposure. The relevant values and the surcharges are set down in Annex 9. The surcharges shall be determined annually at the end of the second quarter.
 4 Market share is determined using whichever is the higher of the average market share in domestic lending business and the market share in domestic deposit-taking business based on the Swiss National Bank's statistical surveys on the reporting date at the end of the previous calendar year.
+|
+
+:INFO
+Art. 129 (continued)
 5 The FDF shall regularly review the values and surcharges set down in Annex 9 against system stability and the competitiveness of the systemically important banks, and shall apply to the Federal Council for any adjustments.
 |
 
@@ -223,12 +247,20 @@ Art. 132 Principle
 a. for an internationally active systemically important bank:
 1 for entities performing systemically important functions (Art. 124 para. 3 lit. a): 62% of the total requirement at the level of the financial group and the individual entity,
 2. at the level of the highest entity in a financial group (Art. 124 para. 3 lit. b) and significant subordinate financial groups (Art. 124 para. 3 lit. c), unless the requirements under No 1 apply: 75% of the total requirement,
+|
+
+:INFO
+Art. 132 (continued)
 3 at the level of the individual entity under Article 124 paragraph 3 letters c or d, the sum of:
 – the nominal amounts of additional loss-absorbing funds passed on to subsidiaries
 – 75% of the total requirement, except for participations subject to the consolidation requirement, including similarly recorded regulatory capital, and except for exposures from intra-group relationships, and
 – 30% of the consolidated requirements applicable to that entity;
 b. for a non-internationally active systemically important bank: 40% of the total requirement.
 3 The additional funds shall be held in the form of bail-in bonds that meet the criteria under Article 126a. This is without prejudice to paragraphs 4 to 7 and Article 132b.
+|
+
+:INFO
+Art. 132 (continued)
 4 If a systemically important bank holds the additional funds in the form of CET1 capital or convertible capital that meets the requirements concerning AT1 capital, the requirements under paragraph 2 shall be reduced by a factor of 0.5 for the amount of additional funds thus held. The requirements may be reduced by a maximum of one third.
 5 ...
 6 Capital held by a bank to meet the requirements under this Chapter must not simultaneously be used to meet the requirements under Articles 128 to 131b.
@@ -290,6 +322,10 @@ Art. 136 Risk concentrations
 2 A risk concentration must not exceed 15% of the Tier 1 capital under paragraph 1 in the case of:
 a. exposures to other systemically important banks under Article 8 paragraph 3 BankA;
 b. exposures to foreign systemically important banks that have been designated as global systemically important banks by the Financial Stability Board.
+|
+
+:INFO
+Art. 136 (continued)
 3 The upper limit under paragraph 2 must be complied with at the latest twelve months after:
 a. the designation of a bank as systemically important under Article 8 paragraph 3 BankA;
 b. the designation of a foreign bank as a global systemically important bank under paragraph 2 letter b.

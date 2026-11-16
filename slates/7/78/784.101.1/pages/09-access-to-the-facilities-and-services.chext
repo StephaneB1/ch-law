@@ -23,6 +23,10 @@ Art. 52 Non-discrimination
 2 Other providers must not be treated less favourably than business units, subsidiaries or other partners of the dominant provider.
 2bis The difference between the access prices offered by the dominant provider and its end customer prices must allow a comparable, efficient provider to achieve cost-covering revenues.
 3 The dominant provider may provide only the technical reserves that are necessary for current operation, maintenance and replacement of its own installations. On request it must allow other providers to inspect its installations and where applicable justify in writing why the capacities are not sufficient.
+|
+
+:INFO
+Art. 52 (continued)
 4 It shall process the orders of other providers immediately in the order in which they are received. It may reject an order if there are well-founded doubts that it corresponds to the actual requirements of the other provider.
 |
 
@@ -37,6 +41,10 @@ Art. 53 Transparency
 1 The dominant provider shall publish an updated reference offer for access to its facilities and services at least once a year. It shall present the derivation of the individual prices in a summarised and comprehensible form.
 2 It must give notice of changes in the reference offer at least three months in advance.
 3 It provides other providers with up-to-date online information as required for the individual forms of access and their co-location and enables online standardised ordering, processing, operation and cancellation of the individual access and co-location services.
+|
+
+:INFO
+Art. 53 (continued)
 4 If the dominant provider makes technical or operational changes to the access and co-location services after the order that are disadvantageous to the other provider, it shall give adequate notice of these. If the changes involve substantial costs to the provider concerned, the period of notice shall be at least 24 months. Changes may be made at any time with the agreement of the other provider.
 5 The dominant provider regularly publishes statistics on the access and co-location services it provides, with the relevant details of demand, actual availability and delivery periods. If services are comparable, it compares the details relating to its own customers with those for other providers.
 |
@@ -62,6 +70,10 @@ Art. 54a Cost-oriented pricing: Valuation of cable ducts
 1 The costs of the cable ducts are determined based on the costs incurred by the dominant provider for maintaining and modifying the cable ducts.
 2 The depreciation costs correspond to the average of the investments in the cable duct infrastructure that have been made and that are planned over an appropriate number of years (the infrastructure maintenance and modification ratio). They are expressed for one calendar year.
 3 The dominant provider's capital cost rate is used to calculate the imputed interest on the capital invested.
+|
+
+:INFO
+Art. 54a (continued)
 4 The invested capital is the average capital employed; this is calculated according to the following rules:
 a. In the first calculation year, the average capital employed is calculated by, reducing half of replacement investment made by an efficient provider in the cable duct infrastructure by the infrastructure maintenance and modification ratio and increasing it by the investments made by the dominant provider in the previous year.
 b. In the following years, the average capital employed is calculated by indexing the previous year value using a averaged production cost index for the categories of utility line and surfacing construction work in a ratio of 7:3; this value is then reduced by the infrastructure maintenance and modification ratio and increased by the investments made by the dominant provider in the previous year.
@@ -113,6 +125,10 @@ c. to connect their installations at the site with their networks via the same t
 d. to connect their installations at the site to those of third-party providers;
 e. to acquire access services for third-party providers.
 3 The offering shall consist at least of use of the site without constructional separation.
+|
+
+:INFO
+Art. 56 (continued)
 4 Other providers shall immediately release co-location areas that have not been used for at least three months in the event of a shortage of space.
 |
 
@@ -134,9 +150,17 @@ b. the specifications of the relevant interfaces;
 c. the specifications of the physical access to distributors;
 d. the specifications of network compatibility.
 2 It shall constantly examine internationally standardised technologies that correspond to the state of the art for network compatibility. It shall provide the available spectrum in the copper-based access network in a technology-neutral and non-discriminatory manner, taking account of interference-free operation.
+|
+
+:INFO
+Art. 58 (continued)
 3 If the calculation of the replacement costs of modern equivalent assets under Article 54 paragraph 2 letter a relates to new technology no longer based on the twisted metallic pair, then in calculating the price, the difference in value between the modern equivalent assets and the assets based on the twisted metallic pair must be taken into account. In doing so, the following applies:
 a. The difference in value between the assets is derived from the difference in the revenues that can be achieved in the end customer market, taking account of the difference in the variable downstream costs.
 b. The different potential revenues and the variable downstream costs relate to the services and bundles of services that are provided by the different assets.
+|
+
+:INFO
+Art. 58 (continued)
 c. A quotient must be obtained from the various values, the numerator of which is the value of the assets based on the twisted metallic pair and the denominator of which is the value of the modern equivalent assets (quotient method).
 d. The replacement costs are calculated by multiplying the quotient by the replacement costs of the modern equivalent assets.
 4 In the case of access to a partial section, the dominant provider may keep free the reserve space in its installations with distribution equipment which it needs to meet its expected customers’ demand in the near future for services provided via the distribution installation. On request, it shall disclose the expected demand and the reserve space and provide justification for these.
@@ -162,6 +186,10 @@ a. originating, terminating and transit of connections;
 identification of the calling line, identification of the connected line, and suppression of this information;
 c. access to the value-added services 08xx and 09xx;
 d. the physical connection between the telecommunication installations of different providers as required for the connection of services.
+|
+
+:INFO
+Art. 61 (continued)
 3 In addition to minute and call-based access prices, the dominant provider shall offer capacity-based access prices (capacity-based charges) based on the maximum bandwidth used by the interconnection partner.
 4 If the calculation of the replacement costs of modern equivalent assets in accordance with Article 54 paragraph 2 letter a is based on new technology that is significantly different from the previously used technology, the following applies:
 a. When the price is calculated for the first time, the costs in accordance with Article 54 paragraph 2 shall be based two thirds on the last-used previous assets and one third on the new assets.
@@ -183,6 +211,10 @@ c. the specifications of the interfaces.
 2 If the calculation of the replacement costs of modern equivalent assets in accordance with Article 54 paragraph 2 letter a is based on new technology that is significantly different from the previously used technology, the following applies:
 a. When the price is calculated for the first time, the costs in accordance with Article 54 paragraph 2 shall be based two thirds on the last-used previous assets and one third on the new assets.
 b. In the following year, the costs in accordance with Article 54 paragraph 2 shall be based one third on the last-used previous assets and two thirds on the new assets.
+|
+
+:INFO
+Art. 62 (continued)
 c. In the following years, the costs in accordance with Article 54 paragraph 2 shall be based in their entirety on the new assets.
 |
 

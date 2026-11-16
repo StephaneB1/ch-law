@@ -25,6 +25,10 @@ c. a database on the withdrawal and refusal of permits, and the seizure of weapo
 d. a database on the transfer of army weapons to private ownership, and on conscripts and army personnel who are subject to an impediment to possessing a personal weapon under Article 113 of the Armed Forces Act of 3 February 1995 (DAWA database);
 e. a database on markings to trace firearms and their ammunition (DARUE database).
 2 Every canton shall operate an electronic information system on the acquisition and possession of firearms.
+|
+
+:INFO
+Art. 32a (continued)
 3 In addition to the information system under paragraph 2, they may also operate a harmonised common information system on the acquisition and possession of firearms and designate a body that is responsible for merging and managing the data.
 4 The information systems under paragraphs 1 and 3 may be consulted by users in accordance with their access rights by means of a single search request.
 5 The Confederation may provide support for measures to harmonise the information systems defined under paragraphs 1–3.
@@ -59,6 +63,10 @@ c. the type and model of weapon and its number, and the date of its transfer;
 d. the circumstances leading to seizure;
 e. official rulings on seized weapons;
 f. the date of registration in the database.
+|
+
+:INFO
+Art. 32b (continued)
 3 The DAWA database contains the following data:
 a. the personal data and OASI number of any person who takes over possession of a weapon on leaving the army;
 b. the personal data and OASI number of any person whose personal or borrowed weapon has been taken from them or confiscated from them under legislation on the armed forces;
@@ -67,6 +75,10 @@ d. the type and model of weapon and its number, and the date of its transfer or 
 e. the circumstances leading to a weapon not being given to, being taken from, or being confiscated from a person;
 f. official rulings on seized weapons;
 g. the date of registration in the database.
+|
+
+:INFO
+Art. 32b (continued)
 4 The DARUE database contains the following data:
 a. information on marking under Articles 18a and 18b;
 b. other recognition marks of the manufacturer and importer;
@@ -77,6 +89,10 @@ a. the personal data and registration number of the person acquiring and the per
 b. the type of weapon or essential weapons component, manufacturer, description, calibre, weapon number, date of transfer and date of destruction;
 c. the personal data of the holder of the European Firearms Pass under Article 25b and the details contained therein;
 d. the personal data of the holder of a permit to carry a weapon under Article 27 and the details contained therein.
+|
+
+:INFO
+Art. 32b (continued)
 6 The harmonised common information system under Article 32a paragraph 3 shall contain the following data:
 a. the personal data of the person acquiring a weapon;
 b. the type of weapon, manufacturer, description, calibre, weapon number and date of transfer;
@@ -90,6 +106,9 @@ Art. 32b — Amended by No I 5 of the FA of 25 Sept. 2015 on Improving the Excha
 Para. 2 let. a — Term in accordance with Annex No 15 of the FA of 18 Dec. 2020 (Systematic Use of the OASI Number by Authorities), in force since 1 Jan. 2022 (AS 2021 758; BBl 2019 7359). This change has been made in the provisions specified in the AS.
 Para. 2 let. b — Amended by the Annex to the FD of 28 Sept. 2018 on the approval and the implementation of the exchange of notes between Switzerland and the EU on the adoption of Directive (EU) 2017/853 on the Amendment of the EU Weapons Directive, in force since 15 Aug. 2019 (AS 2019 2415; BBl 2018 1881).
 Para. 3 let. c — SR 510.10
+|
+
+:NOTE
 Para. 5 let. b — Amended by the Annex to the FD of 28 Sept. 2018 on the approval and the implementation of the exchange of notes between Switzer-land and the EU on the adoption of Directive (EU) 2017/853 on the Amendment of the EU Weapons Directive, in force since 14 Dec. 2019 (AS 2019 2415; BBl 2018 1881).
 |
 
@@ -101,8 +120,16 @@ b. other federal and cantonal judicial and police authorities, and the authoriti
 c. foreign police, law enforcement and security services, as well as Europol and INTERPOL offices.
 2 Federal and cantonal law enforcement services, cantonal police authorities and the customs authorities may access all data contained in the DEWA, DEBBWA, DAWA and DARUE databases by means of an online access procedure.
 3 The military authorities and the authorities responsible for implementing the Precursors Act of 25 September 2020 may access all data contained in the DEBBWA and DAWA database by means of an online access procedure.
+|
+
+:INFO
+Art. 32c (continued)
 4 The Central Office shall notify the competent departments of the military authorities immediately of any member of the armed forces or person required to enlist who is newly registered in the DEBBWA database and whose permit has been withdrawn, who has been refused a permit, or whose weapon has been seized. Notification is sent to the Integrated Resources Management Information System (PSN) through an automated process.
 5 The Central Office shall notify the competent authority of the canton of residence immediately of any member of the armed forces or person required to enlist who is newly registered in the DAWA database and whose personal weapon or borrowed weapon has been taken from them or confiscated, or who has not be given a personal or borrowed weapon. Notification is sent to the information systems of the competent canton of residence under Article 32a paragraphs 2 and 3 through an automated process.
+|
+
+:INFO
+Art. 32c (continued)
 6 Data from the DEWS database must be forwarded to the competent authorities of the country of residence of the person concerned.
 7 Data from the information system under Article 32a paragraph 3 may be disclosed to federal and cantonal law enforcement services and judicial authorities, cantonal police services, the Federal Office of Police (fedpol), the customs authorities and the competent departments of the military authorities by means of an online access procedure to enable them to fulfil their statutory duties.
 8 The Federal Council regulates the scope of data disclosure to the federal and cantonal authorities. It also regulates the control, storage, correction and deletion of the data.
@@ -137,6 +164,10 @@ Art. 32e Disclosing personal data to a state that is not bound by any of the Sch
 a. the person concerned has consented in accordance with Article 6 paragraph 6 and, if applicable, paragraph 7 FADP;
 b. disclosure is necessary to protect the life or physical integrity of the person concerned and it is not possible to obtain that person’s consent within a reasonable time;
 c. disclosure is necessary to safeguard overriding public interests or to determine, exercise or assert legal rights before a court or another competent foreign authority.
+|
+
+:INFO
+Art. 32e (continued)
 3 Besides the cases mentioned in paragraph 2, personal data may also be disclosed in special cases if sufficient guarantees ensure adequate protection of the person concerned.
 4 The Federal Council determines the scope and the terms of the guarantees to be provided.
 |

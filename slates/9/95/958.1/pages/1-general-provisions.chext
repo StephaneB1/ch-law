@@ -24,6 +24,10 @@ a. Financial market infrastructure:
 b. Securities: standardised certificated and uncertificated securities, in particular uncertificated securities in accordance with Article 973c of the Code of Obligations (CO) and ledger-based securities in accordance with Article 973d of the CO, as well as derivatives and intermediated securities, which are suitable for mass trading.
 bbis. Distributed ledger technology securities (DLT securities): securities in the form of:
 1. Ledger-based securities (Art. 973d CO); or
+|
+
+:INFO
+Art. 2 (continued)
 2. other uncertificated securities that are held in distributed electronic registers and use technological processes to give the creditors, but not the obligor, power of disposal over the uncertificated security.
 c. Derivatives or derivatives transactions: financial contracts whose value depends on one or several underlying assets and which are not cash transactions.
 d. Participant: any person making direct use of financial market infrastructure services.
@@ -31,6 +35,10 @@ e. Indirect participant: any person making use of financial market infrastructur
 f. Listing: the admission of a security to trading on a stock exchange in accordance with a standardised procedure whereby the stock exchange's requirements regarding issuers and securities are being verified.
 g. Clearing: processing steps between the conclusion and the settlement of a transaction, in particular:
 1. the entry, reconciliation and confirmation of the transaction data;
+|
+
+:INFO
+Art. 2 (continued)
 2. the assumption of obligations by a central counterparty or other risk mitigation measures;
 3. the netting of transactions;
 4. the reconciliation and confirmation of outstanding payments and securities transfers.

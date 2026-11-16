@@ -85,6 +85,10 @@ f. access to cable ducts, provided these have sufficient capacity.
 2 They shall disclose the conditions and prices for their individual access services separately.
 3 The Federal Council regulates the details.
 4 Providers of telecommunications services shall provide OFCOM with a copy of their access agreement. Unless there is some overriding public or private interest not to do so, OFCOM shall allow agreements to be consulted.
+|
+
+:INFO
+Art. 11 (continued)
 5 There is no obligation to guarantee access in relation to the broadcasting of radio and television programme services.
 |
 
@@ -208,6 +212,10 @@ a. comply with a statutory requirement or court decision;
 b. guarantee the integrity or security of the network, the services provided on this network or the terminals connected to it;
 c. comply with an express request from the customer; or
 d. overcome temporary and exceptional network congestion; in doing so, equivalent forms of data traffic shall be treated equally.
+|
+
+:INFO
+Art. 12e (continued)
 3 In addition to internet access, they may offer other services via the same connection which must be optimised for specific content, applications or services in order to meet the quality requirements of customers. These other services must not be usable or offered as a substitute for internet access services, and they must not degrade the quality of internet access services.
 4 If they handle information in a different technical or economic manner during transmission, they must inform their customers and the public of this.
 |
@@ -245,6 +253,10 @@ Art. 13b Administrative assistance
 2 Subject to international agreements to the contrary, the Commission and the Federal Office may only transfer data to foreign surveillance authorities in the telecommunications sector, including sensitive personal data obtained in administrative or administrative criminal proceedings, if these authorities:
 a. use such data exclusively to conduct surveillance of telecommunications service providers or for purposes of market surveillance;
 b. are bound by official or professional secrecy; and
+|
+
+:INFO
+Art. 13b (continued)
 c. forward this data to competent authorities and bodies which are entrusted with surveillance tasks in the public interest only with the prior consent of ComCom or OFCOM or on the basis of a general authorisation in a treaty.
 3 ComCom and OFCOM shall not forward data to foreign prosecuting authorities if legal assistance is excluded in criminal matters. ComCom or OFCOM shall decide in agreement with the Federal Office of Justice.
 4 Swiss authorities shall forward to the Commission and the Federal Office without charge such data as may be important for the enforcement of telecommunications legislation, including sensitive personal data. The data shall be made accessible individually, in lists or on electronic media.
@@ -270,6 +282,10 @@ Art. 14 The licence
 2 The licence shall be tied to the condition that all or specific services of the universal service (Art. 16) are provided to all sectors of the population within the area covered by the licence.
 3 An invitation to tender shall be issued for the granting of the licence. The procedure shall be conducted in accordance with the principles of objectivity, non-discrimination and transparency. The Federal Council regulates the details. The law on public procurement does not apply.
 4 If it is clear in advance that the invitation to tender cannot proceed under conditions of competition, or if it does not produce any suitable candidates, ComCom may appoint one or more providers of telecommunications services to guarantee the universal service.
+|
+
+:INFO
+Art. 14 (continued)
 5 Licences are generally limited to the same term.
 |
 
@@ -300,11 +316,19 @@ b. access to emergency call services;
 c. public pay telephones in sufficient numbers;
 d. access to the Swiss directories of subscribers to the public telephone service; the Federal Council may require a universal service licensee to maintain a directory of all customers of services of the universal service (general directory);
 e. …
+|
+
+:INFO
+Art. 16 (continued)
 1bis Services of the universal service must be ensured in such a way that persons with disabilities are offered comparable terms and conditions with respect to quality, quantity and prices as those without disabilities. In this respect the universal service licensee must ensure in particular that:
 a. public call boxes meet the requirements of the sensory impaired and those with reduced mobility;
 b. a relay service is provided for the hearing impaired;
 c. a directory enquiry and operator service is provided for the visually impaired.
 2 The Federal Council shall fix the detailed rules for implementation. It may lay down special provisions for connections outside built-up areas. It may delegate its powers in this regard to the Federal Department of the Environment, Transport, Energy and Communications (DETEC).
+|
+
+:INFO
+Art. 16 (continued)
 3 The Federal Council shall periodically adapt the content of the universal service in accordance with the state of the art and social and economic requirements.
 |
 
@@ -316,6 +340,9 @@ Para. 1 let. d — Amended by No I of the FA of 24 March 2006, in force since 1 
 Para. 1 let. e — Repealed by Annex No 5 of the FA on Equality for Disabled Persons of 13 Dec. 2002, with effect from 1 Jan. 2004 (AS 2003 4487; BBl 2001 1715).
 Para. 1 let. e — The list is no longer up-to-date. See now: para. 3 and Art. 15 of the O of 9 March 2007 on Telecommunications Services (SR 784.101.1).
 Para. 1bis let. c — Inserted by Annex No 5 of the FA on Equality for Disabled Persons of 13 Dec. 2002, in force since 1 Jan. 2004 (AS 2003 4487; BBl 2001 1715).
+|
+
+:NOTE
 Para. 2 — Third sentence amended by No I of the FA of 22 March 2019, in force since 1 Jan. 2021 (AS 2020 6159; BBl 2017 6559).
 |
 
@@ -385,9 +412,17 @@ a. The telephone service providers are not required to check the accuracy of the
 b. They must ensure that the data corresponds to the information provided by the customers.
 c. They may refuse to include information in the directory data that is obviously incorrect or that serves an unlawful purpose; they may remove such information from the directory data.
 2 They shall allow other providers of telecommunications services or of services which are based on directory data to access the minimum content of the directory data pertaining to their customers; they shall make the data electronically accessible to them.
+|
+
+:INFO
+Art. 21 (continued)
 3 They shall grant access to the data in a transparent and non-discriminatory manner at prices based on the costs of providing the directory data. In doing so, they shall take account of international technical standards. In the event of any dispute, Articles 11a and 11b apply by analogy.
 4 The providers of services based on the directory data must safeguard the integrity of the data. They may only modify the data with the consent of the telephone service provider responsible for collecting the data. They must modify or delete the data according to the changes sent by the telephone service providers. The Federal Council may issue regulations on the processing of directory data.
 5 The telephone service providers may delegate the fulfilment of their obligations to third parties.
+|
+
+:INFO
+Art. 21 (continued)
 6 The Federal Council may extend the application of the provisions of this Article to other telecommunications services that are publicly accessible and widely used.
 |
 

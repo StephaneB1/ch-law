@@ -26,6 +26,10 @@ Repealed by No I of the O of 18 Oct. 2017, with effect from 1 Jan. 2018 (AS 2017
 Art. 9 Exemption and termination of the exemption from tax liability for Swiss businesses
 (Art. 10 para. 2 let. a and c and 14 para. 1 let. a and 3 VAT Act)
 1 Businesses with place of business, domicile or permanent establishment on Swiss territory that commence their activity or extend their activity by taking over a business or opening a new business division are exempt from tax liability if at the time, based on the circumstances, it must be assumed that the turnover threshold referred to in Article 10 paragraph 2 letter a or c VAT Act for supplies made on Swiss territory and abroad will not be achieved in the following twelve months. If it is not yet possible at the time to assess whether the turnover threshold will be achieved, a re-assessment must be carried out within three months at the latest.
+|
+
+:INFO
+Art. 9 (continued)
 2 Where it must be assumed based on the re-assessment that the turnover threshold will be achieved, the exemption from tax liability ends either:
 a. on the date of commencement or expansion of the activity; or
 b. on the date of the re-assessment, but at the latest at the beginning of the fourth month.
@@ -40,6 +44,10 @@ Art. 9 — Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 
 Art. 9a Exemption and termination of the exemption from tax liability for foreign businesses
 (Art. 10 para. 2 let. a and c and 14 para. 1 let. b and 3 VAT Act)
 1 Businesses that do not have a place of business, domicile or permanent establishment on Swiss territory that make a supply for the first time on Swiss territory are exempt from tax liability if at the time, based on the circumstances, it must be assumed that the turnover threshold referred to in Article 10 paragraph 2 letter a or c VAT Act for supplies made on Swiss territory and abroad not will be achieved within the following twelve months. If it is not yet possible at the time to assess whether the turnover threshold will be achieved, a re-assessment must be carried out within three months at the latest.
+|
+
+:INFO
+Art. 9a (continued)
 2 Where it must be assumed based on the re-assessment that the turnover threshold will be achieved, the exemption from tax liability ends either:
 a. when a supply is made for the first time on Swiss territory; or
 b. on the date of the re-assessment, but at the latest at the beginning of the fourth month.
@@ -61,6 +69,10 @@ d. the provision of websites, webhosting, and the tele-servicing of programs and
 e. the electronic provision of software and its updating;
 f. the electronic provision of images, texts and information and the provision of databases;
 g. the electronic provision of music, films and games, including gambling.
+|
+
+:INFO
+Art. 10 (continued)
 2 Telecommunication or electronic services do not include in particular:
 a. the mere communication between the persons providing and receiving the service by wire, wireless, optical or other electro-magnetic media;
 b. educational services within the meaning of Article 21 paragraph 2 number 11 VAT Act in interactive form;
@@ -116,6 +128,10 @@ The following supplies in particular of public authorities are of a business cha
 13. activities of public notaries;
 14. activities of surveying offices;
 15. activities in the field of waste disposal;
+|
+
+:INFO
+Art. 14 (continued)
 16. activities financed by prepaid disposal fees based on Article 32abis of the Environmental Protection Act of 7 October 1983 (EPA);
 17. activities in the course of the construction of traffic infrastructure;
 18. exhaust gas inspections;
@@ -175,6 +191,10 @@ Art. 18 Request for group taxation
 2 If the conditions set out in Article 13 paragraph 1 of the VAT Act for group taxation are met at the beginning of the tax period, the FTA shall register the group as of this date, provided that
 a. none of the legal entities concerned has submitted a tax return for the tax period for which group taxation is requested; and
 b. the deadline for submitting the tax return in accordance with Article 71 paragraph 1 of the VAT Act has not expired.
+|
+
+:INFO
+Art. 18 (continued)
 3 If the conditions set out in Article 13 paragraph 1 of the VAT Act for group taxation are only met during the current tax period, the FTA shall register the group as of this date, provided that
 a. none of the legal entities concerned has submitted a tax return for the reporting? period in which the conditions for the application of group taxation were met; and
 b. the deadline for submitting the tax return in accordance with Article 71 paragraph 1 of the VAT Act has not expired.
@@ -347,10 +367,18 @@ Art. 34 Human medical treatment
 a. special maternity services, such as check-ups, birth preparation or breast-feeding advice;
 b. examinations, consultations and treatment related to artificial insemination, contraception or abortion;
 c. supplies of goods and supplies of services by a doctor or a dentist when destined for a medical report or an expert opinion for the assessment of social security claims.
+|
+
+:INFO
+Art. 34 (continued)
 3 The following in particular do not constitute human medical treatment:
 a. examinations, consultations and treatment solely for the purposes of enhancing wellbeing or performance or which are provided merely for aesthetic reasons, unless the examination, advice or treatment is provided by a doctor or dentist who is authorised to practise on Swiss territory;
 b. the examinations carried out for the purpose of writing an expert report which are not related to a specific treatment of the person examined, except for the cases under paragraph 2 letter c;
 c. the dispensing of medicines or of medical appliances, unless they are used by the person providing the treatment in the course of human medical treatment;
+|
+
+:INFO
+Art. 34 (continued)
 d. the dispensing of self-manufactured or purchased prostheses and orthopaedic equipment, even if this takes place in the course of human medical treatment; a prosthesis is a replacement body part that can be separated from the body without an operation and reinserted or attached;
 e. basic care actions; these constitute nursing care services under Article 21 paragraph 2 number 4 VAT Act.
 |
@@ -417,6 +445,10 @@ a. supplies between private or public companies whose equity interests are held 
 1. companies held exclusively by such companies, whether directly or indirectly, or
 2. the institutions and foundations of which they are the sole founders or sponsors;
 b. supplies between institutions or foundations whose founders or sponsors are exclusively public authorities, and:
+|
+
+:INFO
+Art. 38 (continued)
 1. the companies held exclusively by these institutions or foundations, whether directly or indirectly, or
 2. the institutions and foundations of which they are the sole founders or sponsors.
 |
@@ -516,6 +548,10 @@ Art. 45 Considerations in foreign currency
 2 A consideration is in foreign currency if the invoice or the receipt is issued in foreign currency. If no invoice or receipt is issued, the book entry of the supplier applies. It is irrelevant whether the payment is in national or foreign currency and in which currency the change is paid.
 3 The conversion is made on the basis of the rate of exchange published by the FTA, whereby the taxable person may elect to use the average monthly rate or the daily exchange rate.
 3bis Where the FTA does not publish an exchange rate for a foreign currency, the daily exchange rate for the sale of the foreign currency published by a Swiss bank applies.
+|
+
+:INFO
+Art. 45 (continued)
 4 Taxable persons that are members of a group of companies may use the group conversion rate for their conversion. This rate must be applied both to supplies within the group of companies and in relation to third parties.
 5 The procedure chosen (monthly average, daily or group rates) must be retained for at least one tax period.
 |
@@ -568,11 +604,19 @@ Art. 48a Works of art, antiques and other collectors’ items
 1 Works of art means the following physical works by creators as referred to in Article 21 paragraph 2 number 16 VAT Act:
 a. pictorial works personally created by artists such as oil paintings, water colours, pastels, drawings, collages and the like; exempted therefrom are plans and drawings for architectural, engineering, industrial, commercial, topographical or similar purposes, hand-decorated manufactured articles, theatrical scenery, studio back cloths or the like of painted canvas;
 b. original engravings, prints and lithographs, being impressions produced in limited numbers directly in black and white or in colour of one or more plates executed entirely by hand by the artist, irrespective of the process or of the material employed, but not including any mechanical or photomechanical process;
+|
+
+:INFO
+Art. 48a (continued)
 c. serigraphs that display the features of an original individually created artistic work, have been produced in limited numbers and have been executed from reproduction forms completely hand-made by the creator;
 d. original sculptures and statuary, in any material, provided that they are executed entirely by the artist; sculpture casts the production of which is in limited numbers and supervised by the artist or his successors in title;
 e. tapestries and wall textiles made by hand from original designs provided by artists, provided that the production is in limited numbers;
 f. individual pieces of ceramics executed entirely by and signed by the artist;
 g. enamels on copper, executed entirely by hand, produced in limited numbers and bearing the signature of the artist or the studio;
+|
+
+:INFO
+Art. 48a (continued)
 h. photographs taken by the artist, printed by the artist or under the artist’s supervision in limited numbers, and signed and numbered by the artist;
 i. works of art personally created by the artist in limited numbers that are not mentioned in letters a–h.
 2 Antiques are moveable goods that are more than 100 years old.
@@ -580,6 +624,10 @@ i. works of art personally created by the artist in limited numbers that are not
 a. postage stamps, revenue stamps, postmarks first-day covers, postal stationery and the like, used, or if unused not current and not intended to be current;
 b. zoological, botanical, mineralogical or anatomical collectors’ items and collections; collectors’ items of historic, archaeological, palaeontological, ethnological or numismatic interest;
 c. motor vehicles first registered on purchase more than 30 years previously;
+|
+
+:INFO
+Art. 48a (continued)
 d. wines and other alcoholic beverages the vintage of which is displayed and which may be individualised by numbering or by other means;
 e. goods made of precious metal, clad with precious metal, gemstones, precious stones and the like, such as jewellery, watches and coins, that have a collector’s value.
 |
@@ -670,6 +718,10 @@ Printed matter which fulfils the following conditions constitutes books and othe
 a. they are in the form of books, brochures or loose-leaf books; loose leaf products are books if they consist of a binding cover, fitted with a screw post, spiral or ring binder and the loose leaf pages to be filed therein contain when complete at least 16 pages and the title of the work appears on the binding cover;
 b. including the jacket and the cover page they contain at least 16 pages, with the exception of children’s books, printed music and parts of loose-leaf works;
 c. the content is religious, literary, artistic, entertaining, educational, instructive, informative, technical or scientific;
+|
+
+:INFO
+Art. 51 (continued)
 d. they are not designed to be written in or to store pictures for collection, with the exception of school and instruction books and certain children’s books, such as exercise books with illustrations and supplementary text and drawing and painting books with designs and instructions.
 |
 
@@ -807,6 +859,10 @@ b. the taxable person imported the good;
 c. goods have been purchased in accordance with Article 23 paragraph 2 number 12 VAT Act;
 d. the taxable person knows or should have known that the good was imported exempt from the tax.
 e. the taxable person obtained the goods from a beneficiary in accordance with Article 2 of the Host State Act of 22 June 2007 (HSA).
+|
+
+:INFO
+Art. 63 (continued)
 4 In the case of payments made under the claim settlement, notional input tax may only be deducted based on the actual value of the good at the time that it is taken over.
 5 Any person who is deemed to be a supplier under Article 20a of the VAT Act may only deduct notional input tax if the seller of the goods is domiciled on Swiss territory and is not entered in the VAT register.
 |
@@ -870,6 +926,10 @@ Art. 69 Principles
 1 The input tax deduction must be corrected in full on goods and services not put to use.
 2 The input tax deduction must be corrected on goods and services put to use that are still available at the time the requirements are no longer fulfilled and have a fair value. In the case of supply of services in the fields of consulting, accounting, staff recruitment, management and advertising, it is assumed they are exhausted at the time of their acquisition and are no longer available.
 3 In the case of self-manufactured goods, for putting the infrastructure to use, a flat rate surcharge of 33 per cent must be made on the input taxes on materials and on any third-party work on semi-finished goods. Alternatively, effective proof of the input taxes applicable to the use of the infrastructure may be provided.
+|
+
+:INFO
+Art. 69 (continued)
 4 If subsequently the requirements for the input tax deduction are only partially fulfilled, the correction must be made to the extent that the use no longer entitles the input tax deduction to be made.
 |
 
@@ -895,6 +955,10 @@ Art. 72 Principles
 1 The input tax deduction may be corrected in full on goods and services not put to use.
 2 The input tax deduction may be corrected on goods and services put to use which still exist and have a fair value at the time the requirements for the input tax deduction are fulfilled. For services in the fields of consulting, accounting, staff recruitment, management and advertising, it is assumed that they are used on acquisition and thereafter cease to exist.
 3 In the case of self-manufactured goods, for putting the infrastructure to use, a flat rate surcharge of 33 per cent may be made on the input taxes on materials and on any third-party work on semi-finished goods. Alternatively, effective proof of input taxes applicable to the use of the infrastructure may be provided.
+|
+
+:INFO
+Art. 72 (continued)
 4 If subsequently the requirements for the input tax deduction are only partially fulfilled, the correction may be made only to the extent of the use entitling the input tax deduction to be made.
 |
 
@@ -971,6 +1035,10 @@ a. at the beginning of the next tax period if the taxable person has exceeded th
 b. at the beginning of the tax period after the next tax period if:
 1. the taxable person has applied for a reduction in the instalments as a result of which the total of the instalments in the current tax period falls below the following value in relation to the amount of tax due according to the tax return:
 – in the case of the effective reporting method and reporting with flat tax rates: 50 per cent
+|
+
+:INFO
+Art. 76c (continued)
 – in the case of reporting with net tax rates: 35 per cent,
 2. the FTA has determined the amount of tax due at its own discretion on the basis of the second sentence of Article 86 paragraph 2 VAT Act due to failure to submit the tax return, or
 3. the FTA has initiated debt enforcement proceedings on the basis of the first sentence of Article 86 paragraph 2.
@@ -998,6 +1066,10 @@ e. generate more than 50 per cent of their turnovers from taxable supplies to an
 f. make supplies on Swiss territory based on Article 7 paragraph 3 VAT Act.
 g. are deemed to be suppliers in accordance with Article 20a of the VAT Act;
 h. have their place of business abroad.
+|
+
+:INFO
+Art. 77 (continued)
 3 Taxable persons who report using the net tax rate method may not opt for the taxation of supplies under Article 21 paragraph 2 numbers 1–24 and 27–31 VAT Act. If the tax is nevertheless invoiced, the tax charged must be paid to the FTA with reservation of Article 27 paragraph 2 VAT Act.
 |
 
@@ -1016,6 +1088,10 @@ Art. 78 Net tax rate method on commencement of tax liability
 2 The FTA shall approve the use of the net tax rate method if in the first 12 months both the expected turnover and the expected taxes do not exceed the thresholds in Article 37 paragraph 1 VAT Act.
 3 If no request is made within the period in paragraph 1, the taxable person must report for at least three full tax periods using the effective reporting method before they may change to the net tax rate method. An earlier change of the reporting method is possible at the time of any adjustment to the net tax rate that is not due to a change in the rates of taxation under Articles 25 and 55 VAT Act.
 4 Paragraphs 1–3 apply to retroactive entries analogously.
+|
+
+:INFO
+Art. 78 (continued)
 5 The tax charged on goods and services on commencement of tax liability is taken into account in applying the net tax rate method. No subsequent input tax deduction may be made.
 |
 
@@ -1029,12 +1105,20 @@ Art. 79 Change from the effective reporting method to the net tax rate method
 1 Taxable persons who wish to change from the effective reporting method to the net tax rate method must notify the FTA at the latest 60 days after the beginning of the tax period from which the change is to be made.
 2 The FTA shall approve the use of the net tax rate method if in the prior tax period neither of the thresholds in Article 37 paragraph 1 VAT Act was exceeded.
 3 The input tax previously deducted on the fair value of the goods and services at the time of the change, including the portion corrected as a subsequent input tax deduction, must be refunded to the FTA. The declaration must be made in the last reporting period before the change. Article 31 paragraph 3 VAT Act and Article 69 paragraphs 1–3, 70 and 71 apply by analogy.
+|
+
+:INFO
+Art. 79 (continued)
 4 If simultaneously with the change to the net tax rate method the manner of reporting under Article 39 VAT Act is changed, the following corrections must also be made as per the date of the change:
 if a change is made from agreed to collected considerations, the taxable person must reverse the following in the last reporting period before the change:
 1. the declared tax on the taxable supplies invoiced but not yet paid on the date of change (debtor items); and
 2. the input tax deduction on the taxable supplies invoiced to it but not yet paid (creditor items), insofar as these are input taxes that do not already have to be corrected on the basis of paragraph 3.
 if a change is made from collected to agreed considerations, the taxable person must in the last reporting period before the change:
 1. declare the tax on the existing debtor items at the appropriate statutory tax rate; and
+|
+
+:INFO
+Art. 79 (continued)
 2. deduct the tax charged on the creditor items as input tax.
 |
 
@@ -1054,9 +1138,17 @@ Art. 81 Change from the net tax rate method to the effective reporting method
 1 Taxable persons who wish to change from the net tax rate method to the effective reporting method must notify the FTA at the latest 60 days before the beginning of the tax period from which the change is to be made.
 2 A change is permitted before the end of the entire tax period if reporting is carried out with at least one authorised net tax rate that the FTA has adjusted, unless this is due to a change in the tax rates in accordance with Articles 25 and 55 VAT Act. The change takes place at the time of the change in the net tax rate.
 3 Persons who exceed one or both thresholds laid down in Article 37 paragraph 1 VAT Act in three consecutive tax periods must change to the effective reporting method at the beginning of the following tax period.
+|
+
+:INFO
+Art. 81 (continued)
 4 The tax charged on the fair value of the goods and services at the time of the change may be deducted as input tax in the first reporting period after the change. Article 32 paragraph 2 VAT Act and Articles 72 paragraphs 1–3, 73 and 74 apply by analogy.
 6 If at the same time as the change to the effective reporting method the manner of reporting under Article 39 VAT Act is also changed, the following corrections must be made as of the date of change:
 If a change is made from agreed to collected considerations, the taxable person must deduct the tax declared on the debtor items in the last reporting period before the change; in addition, the tax must be charged on the creditor items for which a subsequent input tax deduction is permitted on the basis of paragraph 4.
+|
+
+:INFO
+Art. 81 (continued)
 If a change is made from collected to agreed considerations, the taxable person must declare the tax on the debtor items at the authorised net tax rates in the last reporting period before the change; no corrections shall be made to the creditor items.
 |
 
@@ -1111,6 +1203,10 @@ Art. 86 Authorisation of net tax rates
 a. for persons who become newly taxable and for taxable persons who take up a new business activity: the expected turnovers in the first 12 months;
 b. in the case of other taxable persons, the turnover achieved in the three previous tax periods, whereby the share of the relevant activity in the total turnover from taxable supplies must have been more than 10 per cent in each of these tax periods.
 3 The turnovers from business activities with the same net tax rate must be accumulated when determining whether the 10 per cent threshold has been exceeded.
+|
+
+:INFO
+Art. 86 (continued)
 4 If the turnover for an activity or the turnover for several activities for which the same net tax rate applies no longer exceeds the 10 per cent threshold for three consecutive tax periods, authorisation to apply the relevant net tax rate lapses at the beginning of the fourth tax period
 |
 
@@ -1132,6 +1228,10 @@ a. at the next lower authorised net tax rate if no higher rate is authorised;
 b. at the next higher authorised net tax rate in other cases.
 3 In cases under Article 19 paragraph 2 VAT Act, the entire consideration may be reported at the approved net tax rate applicable to the predominant supply in accordance with Articles 84 and 86 and paragraphs 1 and 2.
 4 If the services are all subject to the same tax rate in accordance with Article 25 VAT Act, the individual supplies must be reported at the net tax rates authorised for this purpose.
+|
+
+:INFO
+Art. 88 (continued)
 5 If the taxable person is unable to prove what proportion is attributable to the individual supplies, the total consideration must be reported at the highest net tax rate that has been authorised for these supplies.
 6 The taxable person may voluntarily report the entire turnover from taxable supplies at the highest authorised net tax rate.
 |
@@ -1231,6 +1331,10 @@ n. organisers of non-recurring cultural and sports events;
 o. associations under Articles 60–79 of the Civil Code(CC); and
 p. foundations under Articles 80–89bis CC.
 2 There are no monetary thresholds for the use of the flat tax rate method.
+|
+
+:INFO
+Art. 97 (continued)
 3 Taxable persons who report using the flat tax rate method may not opt for the taxation of supplies under Article 21 paragraph 2 numbers 1–24, 27 and 29–31VAT Act. If the tax is nevertheless invoiced, the tax charge must be paid to the FTA with reservation of Article 27 paragraph 2 VAT Act.
 4 Autonomous agencies under Article 12 paragraph 1 VAT Act that merge to form a single taxable entity (Art. 12 para. 2 VAT Act) may apply the flat rate tax method.
 |
@@ -1325,6 +1429,10 @@ b. deduct the input taxes on the creditor items existing at the time of change i
 2 On changing from reporting under the agreed considerations to the collected considerations method, the taxable person must in the reporting period following the change:
 a. deduct the debtor items existing at the time of change from the considerations collected in this reporting period; and
 b. deduct the input taxes on the creditor items existing at the time of the change from the input taxes paid in this reporting period.
+|
+
+:INFO
+Art. 106 (continued)
 3 If simultaneously with the change in the form of reporting the reporting method under Articles 36 and 37 VAT Act is also changed, Article 79 paragraph 4 or Article 81 paragraph 6 applies.
 |
 
@@ -1333,6 +1441,10 @@ Art. 107 Change in the form of reporting when reporting under the net tax rate m
 (Art. 39 VAT Act)
 1 If the taxable person changes from reporting on the basis of the collected considerations to reporting on the basis of the agreed considerations, they must, in the reporting period following the change, account for the debtor items existing at the time of the change at the authorised net tax rates or flat tax rates that apply in accordance with Articles 84, 86 and 88 for the activities from which these debtor items arise.
 2 If the taxable person changes from reporting on the basis of the agreed considerations to reporting on the basis of the collected considerations, they must, in the reporting period following the change, deduct the debtor items existing at the time of the change from the considerations collected in this reporting period in respect of the relevant activities.
+|
+
+:INFO
+Art. 107 (continued)
 3 If at the same time as changing of the form of reporting the reporting method is also changed, Article 79 paragraph 4 or Article 81 paragraph 6 applies.
 |
 

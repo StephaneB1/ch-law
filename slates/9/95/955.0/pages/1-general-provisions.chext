@@ -25,6 +25,10 @@ abis. portfolio managers and trustees as defined in Article 2 paragraph 1 letter
 b. fund management companies as defined in Article 2 paragraph 1 letter d FinIA;
 bbis. licensees in accordance with Article 13 paragraph 2 letters b–d the Collective Investment Schemes Act of 23 June 2006, (CISA) and the managers of collective assets in accordance with Article 2 paragraph 1 letter c FinIA;
 c. insurance institutions as defined in the Insurance Supervision Act of 17 December 2004 that deal in direct life insurance or offer or distribute shares in collective investment schemes;
+|
+
+:INFO
+Art. 2 (continued)
 d. securities firms in accordance with Article 2 paragraph 1 letter e FinIA;
 dbis. central counterparties and central securities depositories in accordance with the Financial Market Infrastructure Act of 19 June 2015 (FinMIA);
 dter. payment systems that require authorisation from the Swiss Financial Market Supervisory Authority (FINMA) in accordance with Article 4 paragraph 2 FinMIA;
@@ -32,6 +36,10 @@ dquater. trading facilities for DLT securities in accordance with Article 73a Fi
 e. casinos as defined in the Gambling Act of 29 September 2017 (GamblA);
 f. promoters of large-scale games under the GamblA;
 g. trade assayers and group companies in accordance with Article 42bis of the Precious Metals Control Act of 20 June 1933 (PMCA).
+|
+
+:INFO
+Art. 2 (continued)
 3 Financial intermediaries are also persons who on a professional basis accept or hold on deposit assets belonging to others or who assist in the investment or transfer of such assets; they include in particular persons who:
 a. carry out credit transactions (in particular in relation to consumer loans or mortgages, factoring, commercial financing or financial leasing);
 b. provide services related to payment transactions, in particular by carrying out electronic transfers on behalf of other persons, or who issue or manage means of payment such as credit cards and travellers’ cheques;
@@ -40,6 +48,10 @@ d. ...
 e. ...
 f. make investments as investment advisers;
 g. hold securities on deposit or manage securities.
+|
+
+:INFO
+Art. 2 (continued)
 4 This Act does not apply to:
 a. the Swiss National Bank;
 b. tax-exempt occupational pension institutions;
@@ -55,6 +67,9 @@ Para. 2 let. a — SR 952.0
 Para. 2 let. abis — Inserted by Annex No II 15 of the Financial Institutions Act of 15 June 2018 (AS 2018 5247, 2019 4631; BBl 2015 8901). Amended by No I of the FA of 19 March 2021, in force since 1 Jan. 2023 (AS 2021 656; 2022 551; BBl 2019 5451).
 Para. 2 let. abis — SR 954.1
 Para. 2 let. b — Amended by Annex No II 15 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 (AS 2018 5247, 2019 4631; BBl 2015 8901).
+|
+
+:NOTE
 Para. 2 let. bbis — Inserted by Annex No II 9 des Collective Investment Schemes Act of 23 June 2006 (AS 2006 5379; BBl 2005 6395). Amended by Annex No 6 of the FA of 17 Dec. 2021, in force since 1 March 2024 (AS 2024 53; BBl 2020 6885).
 Para. 2 let. bbis — SR 951.31
 Para. 2 let. c — Amended by Annex No II 9 of the Collective Investment Schemes Act of 23 June 2006, in force since 1 Jan. 2007 (AS 2006 5379; BBl 2005 6395).
@@ -62,11 +77,17 @@ Para. 2 let. c — SR 961.01
 Para. 2 let. d — Amended by Annex No II 15 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 (AS 2018 5247, 2019 4631; BBl 2015 8901).
 Para. 2 let. dbis — Inserted by Annex No 12 of the Financial Market Infrastructure Act of 19 June 2015 (AS 2015 5339; BBl 2014 7483). Amended by No I 8 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 (AS 2021 33, 399; BBl 2020 233).
 Para. 2 let. dbis — SR 958.1
+|
+
+:NOTE
 Para. 2 let. dter — Inserted by Annex No 12 of the Financial Market Infrastructure Act of 19 June 2015 (AS 2015 5339; BBl 2014 7483). Amended by No I 8 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 (AS 2021 33, 399; BBl 2020 233).
 Para. 2 let. dquater — Inserted by No I 8 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 (AS 2021 33, 399; BBl 2020 233).
 Para. 2 let. e — Inserted by Annex No 4 of the Gambling Act of 18 Dec. 1998 (AS 2000 677; BBl 1997 III 145). Amended by Annex No II 8 of the Gambling Act of 29 Sept. 2017, in force since 1 Jan. 2019 (AS 2018 5103; BBl 2015 8387).
 Para. 2 let. e — SR 935.51
 Para. 2 let. f — Inserted by Annex No II 8 of the Gambling Act of 29 Sept. 2017, in force since 1 Jan. 2019 (AS 2018 5103; BBl 2015 8387).
+|
+
+:NOTE
 Para. 2 let. g — Inserted by No I of the FA of 19 March 2021, in force since 1 Jan. 2023 (AS 2021 656; 2022 551; BBl 2019 5451).
 Para. 2 let. g — SR 941.31
 Para. 3 let. d — Repealed by Annex No II 8 of the Insurance Supervision Act of 17 Dec. 2004, with effect from 1 Jan. 2006 (AS 2005 5269; BBl 2003 3789).
@@ -79,8 +100,16 @@ Art. 2a Definitions
 1 Politically exposed persons in terms of this Act are:
 a. individuals who are or have been entrusted with prominent public functions by a foreign country, such as heads of state or of government, senior politicians at national level, senior government, judicial, military or political party officials at national level, and senior executives of state-owned corporations of national significance (foreign politically exposed persons);
 b. individuals who are or have been entrusted with prominent public functions at national level in Switzerland in politics, government, the armed forces or the judiciary, or who are or have been senior executives of state-owned corporations of national significance (domestic politically exposed persons);
+|
+
+:INFO
+Art. 2a (continued)
 c. individuals who are or have been entrusted with a prominent function by an intergovernmental organisation or international sports federations, such as secretaries general, directors, deputy directors and members of the board or individuals who have been entrusted with equivalent functions, (politically exposed persons in international organisations)
 2 The family members and close associates of politically exposed persons are individuals who are closely connected to persons under paragraph 1 either through their family or for social or professional reasons.
+|
+
+:INFO
+Art. 2a (continued)
 3 The beneficial owners of an operating legal entity are the natural persons who ultimately control the legal entity in that they directly or indirectly, alone or in concert with third parties, hold at least 25 per cent of the capital or voting rights in the legal entity or otherwise control it. If the beneficial owners cannot be identified, the most senior member of the legal entity’s executive body must be identified.
 4 Domestic politically exposed persons are no longer regarded as being politically exposed in terms of this Act when 18 months have elapsed since they relinquished their position. The general duties of due diligence for financial intermediaries are reserved.
 5 An international sports federation in terms of paragraph 1 letter c is the International Olympic Committee and the non-governmental organisations that it recognised that regulate one or more official sports at global level.

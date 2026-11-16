@@ -21,6 +21,10 @@ c. insurance and reinsurance companies in accordance with Article 2 paragraph 1 
 d. parent companies of a financial or insurance group or financial or insurance conglomerate;
 e. managers of collective assets and fund management companies in accordance with Article 2 paragraph 1 letters c and d FinIA;
 f. collective investment schemes in accordance with the Collective Investment Schemes Act;
+|
+
+:INFO
+Art. 93 (continued)
 g. occupational pension schemes and investment foundations in accordance with Articles 48 to 53k of the Federal Act of 25 June 1982 on Occupational Old Age, Survivors' and Invalidity Pension Provision.
 3 Non-financial counterparties are companies that are not financial counterparties.
 4 The following establishments shall be subject only to the reporting duty in accordance with Article 104:
@@ -143,6 +147,10 @@ b. in the case of transactions between two financial counterparties:
 2. the selling counterparty in the case of a transaction between two financial counterparties or between two small financial counterparties;
 c. the counterparty which has its registered office in Switzerland if the foreign counterparty does not report.
 3 In the event of a transaction between non-financial counterparties, paragraph 2 letters b and c apply by analogy. A transaction between small non-financial counterparties does not have to be reported.
+|
+
+:INFO
+Art. 104 (continued)
 4 If the transaction is cleared centrally, the report is submitted by the central counterparty. If a recognised foreign central counterparty does not submit reports, the reporting duty shall remain with the counterparties.
 5 Third parties may be involved in reporting.
 6 If there is no trade repository, the Federal Council shall indicate the body to which the report is to be submitted.
@@ -314,6 +322,10 @@ Chapter 3 Disclosure of Shareholdings
 Art. 120 Notification duty
 1 Anyone who directly or indirectly or acting in concert with third parties acquires or disposes of shares or acquisition or sale rights relating to shares of a company with its registered office in Switzerland whose equity securities are listed in whole or in part in Switzerland, or of a company with its registered office abroad whose equity securities are mainly listed in whole or in part in Switzerland, and thereby reaches, falls below or exceeds the thresholds of 3%, 5%, 10%, 15%, 20%, 25%, 33⅓%, 50% or 66⅔% of the voting rights, whether exercisable or not, must notify this to the company and to the stock exchanges on which the equity securities are listed.
 2 Financial intermediaries who acquire or dispose of shares or acquisition or sale rights on behalf of third parties are not subject to this notification duty.
+|
+
+:INFO
+Art. 120 (continued)
 3 Anyone who has the discretionary power to exercise the voting rights associated with equity securities in accordance with paragraph 1 is also subject to the notification duty.
 4 The following shall be deemed equivalent to an acquisition or disposal:
 a. the initial listing of equity securities;
@@ -369,6 +381,10 @@ b. with their registered office abroad whose equity securities are at least in p
 2 If both Swiss and foreign law are simultaneously applicable to a public takeover offer, the provisions of Swiss law may be relinquished if:
 a. the application of Swiss law would lead to a conflict with the foreign law; and
 b. the protection provided by the foreign law to investors is equivalent to that provided by Swiss law.
+|
+
+:INFO
+Art. 125 (continued)
 3 Companies may, prior to their equity securities being admitted to official listing on a stock exchange in accordance with paragraph 1, state in their articles of incorporation that an offeror shall not be bound by the obligation to make a public takeover offer in accordance with Articles 135 and 163.
 4 A company may at any time adopt a provision in accordance with paragraph 3 in its articles of incorporation, provided that this does not prejudice the interests of shareholders within the meaning of Article 706 CO.
 |
@@ -435,6 +451,10 @@ let. d — SR 221.302
 Art. 132 Duties of target companies
 1 The board of directors of the target company (Art. 125 para. 1) shall submit a report to the holders of equity securities setting out its position in relation to the offer. The information in the report must be true and complete. The board of directors of the target company shall publish the report.
 2 From the moment the offer is published until the result is announced, the board of directors of the target company shall not enter into any legal transactions which would have the effect of significantly altering the assets or liabilities of the company. Decisions taken by the general meeting of shareholders are not subject to this restriction and may be implemented irrespective of whether they were adopted before or after publication of the offer.
+|
+
+:INFO
+Art. 132 (continued)
 3 The Takeover Board shall issue provisions on:
 a. the report to be issued by the board of directors of the target company;
 b. any measures which are aimed in an improper manner at frustrating an offer or preventing it from being successful.
@@ -450,6 +470,10 @@ Art. 133 Competing offers
 Art. 134 Notification duty
 1 The offeror or anyone who directly, indirectly or in concert with third parties holds a stake of at least 3% of the voting rights, whether exercisable or not, of the target company or, as the case may be, of another company whose equity securities are being offered in exchange must, from the time the offer is published until the expiry of the offer period, notify the Takeover Board and the stock exchanges on which the securities are listed of any acquisition or disposal of equity securities of such company.
 2 A group organised pursuant to an agreement or otherwise shall be subject to this notification duty solely as a group.
+|
+
+:INFO
+Art. 134 (continued)
 3 The Takeover Board may subject to the same duty anyone who, from the time the offer is published until the expiry of the offer period, acquires or disposes of, directly, indirectly or acting in concert with third parties, a certain percentage of the equity securities of the target company or of another company whose equity securities are being offered in exchange.
 4 If a company or stock exchange has reason to believe that a shareholder is in violation of the notification duty, it shall inform the Takeover Board of such fact.
 5 The Takeover Board shall issue rules on the scope, form and time allowed for notification and on the percentage relevant for the application of paragraph 3.
@@ -462,6 +486,10 @@ Art. 135 Duty to make an offer
 a. the stock exchange price;
 b. the highest price that the offeror has paid for equity securities of the target company in the preceding twelve months.
 3 If the target company has issued several classes of equity securities, there must be an appropriate relationship among the prices offered for the various classes of equity securities.
+|
+
+:INFO
+Art. 135 (continued)
 4 FINMA shall issue provisions on the duty to make an offer. The Takeover Board shall have the right to put forward proposals.
 5 If there are sufficient indications that a person has not met the duty to make an offer, the Takeover Board may take the following measures until the duty to make an offer has been clarified or, as appropriate, the duty to make an offer has been fulfilled:
 a. suspend the voting rights and associated rights of this person; and
@@ -536,6 +564,10 @@ Art. 142 Exploitation of insider information
 a. exploits it to acquire or dispose of securities admitted to trading on a trading venue or DLT trading facility which has its registered office in Switzerland or to use derivatives of such securities;
 b. discloses it to another;
 c. exploits it to recommend to another to acquire or dispose of securities admitted to trading on a trading venue or DLT trading facility which has its registered office in Switzerland or to use derivatives of such securities.
+|
+
+:INFO
+Art. 142 (continued)
 2 The Federal Council shall issue provisions regarding the admissible use of insider information, in particular in connection with:
 a. securities transactions in preparation of a public takeover offer;
 b. a special legal status on the part of the recipient of the information.

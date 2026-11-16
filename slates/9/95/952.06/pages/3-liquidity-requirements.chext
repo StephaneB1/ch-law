@@ -25,6 +25,10 @@ Art. 7 Risk measurement and management systems
 1 Banks shall establish appropriate processes for identifying, assessing, managing and monitoring liquidity risk. In particular, they shall draw up liquidity statements for different periods, together with a comparison of probable cash inflows and outflows from on- and off-balance sheet items.
 2 They shall identify, manage and monitor the liquidity risk and the funding needs of the financial group and of the legal entities, business areas and currencies that are of significance as regards liquidity risk. In so doing, they shall take into account any legal, regulatory and operational limitations to the transferability of liquidity.
 3 They shall identify, manage and monitor intraday liquidity risk. The liquidity risk exposure must not impact on payment and settlement obligations and systems.
+|
+
+:INFO
+Art. 7 (continued)
 4 They shall monitor the assets used to generate liquidity, and shall distinguish between encumbered and unencumbered assets. They must be able to show at all times where assets are held and how they can be liquidated in a timely manner.
 |
 
@@ -42,6 +46,10 @@ Banks shall take measures to mitigate their liquidity risk. They shall, in parti
 Art. 9 Stress tests
 1 Each bank shall draw up different stress scenarios for liquidity risk and shall perform stress tests of their liquidity situation using these scenarios as a basis. In so doing, the bank shall take account of payment flows from off-balance sheet items and other contingent commitments, including those from securitisation special purpose entities and other special purpose entities in which it acts as liquidity provider or is contractually or reputationally obliged to provide material liquidity assistance.
 1bis For stress testing purposes, banks in categories 4 and 5 under Annex 3 BankO shall exclusively use the stress scenario stipulated in Article 12 paragraph 1.
+|
+
+:INFO
+Art. 9 (continued)
 2 The following shall be taken into account when selecting the stress scenarios:
 a. institution-specific, market-wide and combined causes and factors;
 b. different time horizons;
@@ -101,10 +109,18 @@ b. all positions under Articles 15a, 15b and 16 in Swiss francs, subject to Arti
 3 FINMA shall regulate:
 a. the extent to which holding companies with a banking subsidiary can be exempted from LCR compliance if such compliance by the holding company is not warranted from a regulatory perspective;
 b. the extent to which the parent company of a financial group with a holding structure can be exempted as an individual entity from LCR compliance;
+|
+
+:INFO
+Art. 14 (continued)
 c. the extent to which provision can be made for less stringent requirements for banks in categories 4 and 5 under Annex 3 of the Banking Ordinance of 30 April 2014 (BankO) with regard to demonstrating LCR compliance.
 4 In individual cases, it may:
 a. issue orders that diverge from the regulatory consolidation requirement under Article 7 of the Capital Adequacy Ordinance of 1 June 2012 (CAO) if this is necessary in order to capture additional significant interests from a liquidity risk perspective;
 b. impose higher LCR requirements on a bank if this is necessary because of the bank's business activities, the liquidity risk exposure, the business strategy, the quality of liquidity risk management or the sophistication of the technology used.
+|
+
+:INFO
+Art. 14 (continued)
 5 If an individual entity derives a significant part of its funding from foreign branches, FINMA may additionally require that the entity calculate the LCR excluding the expected cash inflows from these branches. Based on its risk assessment, FINMA may set additional requirements as regards LCR compliance in this case.
 6 At the request of the bank, foreign branches in Switzerland whose foreign parent company is subject to supervision and legal requirements that are equivalent to those in Switzerland may be exempted by FINMA from LCR compliance if comparable consolidated data on the LCR is published.
 |
@@ -143,8 +159,16 @@ c. marketable securities representing claims on:
 7. the European Union,
 8. multilateral development banks;
 c.bis marketable securities guaranteed by the institutions under letter c;
+|
+
+:INFO
+Art. 15a (continued)
 d. marketable securities representing claims on a central government or a central bank in domestic currency, which are issued by the relevant central government or the central bank in the country in which the liquidity risk arises or in the bank's home country, if the central government is assigned a risk weight of more than 0 per cent under Annex 2 No 1.1 CAO; and
 e. marketable securities representing claims on the Confederation or the Swiss National Bank (SNB) in foreign currency, up to the amount of the stress-related net cash outflow in the foreign currency in which the liquidity risk is incurred; this also applies if Switzerland's risk weight is more than 0 per cent under Annex 2 No 1.1 CAO.
+|
+
+:INFO
+Art. 15a (continued)
 2 The marketable securities under paragraph 1 letters c and cbis may be included as Level 1 assets only if they meet the following criteria:
 a. They are assigned a risk weight of 0 per cent under Annex 2 Nos 1 or 3.2 CAO.
 b. In the case of guaranteed claims, there exists either an explicit, irrevocable and unconditional guarantee from a central government or a subordinate regional body, or joint liability of several regional bodies.
@@ -173,15 +197,27 @@ a. marketable securities representing claims on:
 a.bis marketable securities guaranteed by the institutions under letter a;
 b. marketable corporate bonds, including money market instruments if these are issued by entities that are not financial institutions under Annex 1a, either individually or in affiliation with others; and
 c. marketable covered bonds with special provisions that are not issued by the bank itself or by another affiliated financial institution under Annex 1a; mortgage bonds issued by the central mortgage bond institutions under the Mortgage Bond Act of 25 June 1930 (MBoA) may be included.
+|
+
+:INFO
+Art. 15b (continued)
 2 The marketable securities under paragraph 1 letters a and abis may be included as Level 2 assets only if they meet the following criteria:
 a. They are assigned a risk weight of at most 20 per cent under Annex 2 Nos 1 to 3 CAO.
 b. It is not a liability of a financial institution under Annex 1a or of a financial institution's affiliated entity. This excludes bonds of financial institutions set up by a central government or by the government of a subordinate regional body in order to grant promotional loans on the state's behalf on a non-competitive, non-profit basis.
+|
+
+:INFO
+Art. 15b (continued)
 3 The corporate bonds under paragraph 1 letter b and the covered bonds under paragraph 1 letter c may be included as Level 2A assets if:
 a. they have a long-term rating of 1 or 2 under Annex 2 CAO;
 b. they have a short-term rating of 1 under Article 64a paragraph 2 CAO;
 c. they are used to cover outflows abroad and have a rating from a rating agency recognised by the relevant national supervisory authority which is equivalent to a rating under letter a or b; or
 d. they have no rating under letters a to c, but have been internally assessed with a probability of default equivalent to a rating of 1 or 2 under Annex 2 CAO.
 4 Level 2A assets are measured at current market value, subject to a haircut of 15 per cent.
+|
+
+:INFO
+Art. 15b (continued)
 5 FINMA may designate other Level 2 assets (Level 2B assets), provided that:
 a. they have a proven record as a reliable source of liquidity even during stressed conditions on the repo or spot markets; and
 b. they were not issued by a financial institution under Annex 1a or by a financial institution's affiliated entity.
@@ -214,6 +250,10 @@ c. secured funding transactions are to be settled if they:
 3. have a maximum maturity of 30 calendar days.
 3 The caps shall be complied with at the level of the financial group and the individual entity.
 4 FINMA shall define the requirements on calculating the caps.
+|
+
+:INFO
+Art. 15c (continued)
 5 Level 1 and 2 assets that constitute securities, bonds or debt instruments issued abroad may be included in the stock of HQLA only if they:
 a. qualify as HQLA under the requirements imposed by the relevant foreign regulations; or
 b. are recognised by the SNB as collateral eligible for SNB repo transactions.
@@ -245,6 +285,10 @@ Art. 15e HQLA: Close-out
 2 Secured funding transactions comprise securities swaps and securities financing transactions such as repos and securities lending and borrowing transactions.
 3 Liquidity-absorbing operations of the SNB shall be closed out, irrespective of the type of collateral, if they mature within 30 calendar days. Liquidity-providing operations of the SNB shall be closed out only if they are collateralised with HQLA and mature within 30 calendar days.
 4 Exchanges of Level 2B assets and secured funding transactions shall not be closed out if the received assets are used to cover short positions with a term longer than 30 calendar days. A short position comprises both the uncovered lending and the uncovered sale of assets.
+|
+
+:INFO
+Art. 15e (continued)
 5 For transactions with the SNB under contracts allowing termination of the transaction, the period of notice shall be determinative when calculating the residual maturity.
 6 FINMA shall issue technical implementing provisions on secured funding transactions in foreign currencies for which the bank does not have an account with the corresponding foreign central bank.
 |
@@ -262,6 +306,10 @@ Art. 16 Net cash outflow
 4 If a position can be assigned to more than one outflow category, the category with the highest outflow rate applies.
 5 Cash inflows are calculated by weighting the balance sheet items with the applicable inflow rates in Annex 3, according to inflow category.
 6 If a position can be assigned to more than one inflow category, the category with the lowest inflow rate applies.
+|
+
+:INFO
+Art. 16 (continued)
 7 No cash inflows or outflows shall be included for positions that are to be closed out in accordance with Article 15e.
 8 On- and off-balance sheet items must not be double-counted. Specifically, assets within the stock of HQLA must not be simultaneously included in cash inflows.
 9 FINMA may deviate from Annex 2:
@@ -287,6 +335,10 @@ Art. 17a LCR in significant foreign currencies
 a. the consolidation level at which the calculation and monitoring obligation applies;
 b. the share of foreign currency liabilities, relative to a bank's total liabilities, at which a foreign currency is deemed to be a significant currency.
 4 In individual cases and where there are legitimate grounds for so doing, FINMA may set floors for the LCR in significant foreign currencies, where a bank has excessive exposure to foreign exchange risk.
+|
+
+:INFO
+Art. 17a (continued)
 5 In addition, it may set requirements concerning LCR compliance in significant foreign currencies if this is necessary for the implementation of recognised international standards.
 6 HQLA in foreign currency that are included as cover for the net cash outflow in Swiss francs under Article 17 must not be included as cover for the net cash outflow in the relevant foreign currency.
 |
@@ -306,6 +358,10 @@ Art. 17c Liquidity statement
 2 Banks shall base their valuation of the positions in the liquidity statement on the annual accounts prepared according to accounting standards.
 3 Non-systemically important banks shall submit monthly liquidity statements to the SNB within 20 calendar days of the last calendar day of the month. FINMA may grant a bank a lower reporting frequency upon request and when justified by the circumstances.
 4 Systemically important banks shall submit monthly liquidity statements to the SNB within 15 calendar days of the last calendar day of the month.
+|
+
+:INFO
+Art. 17c (continued)
 5 FINMA shall set special reporting requirements for banks which:
 a. hold positions in significant foreign currencies under Article 17a paragraph 1;
 b. as set out in Article 14 paragraph 5, are funded largely via foreign branches.
@@ -385,6 +441,10 @@ Art. 17i Calculation of secured funding transactions
 3 Assets and liabilities may be netted against each other only if:
 a. they involve a secured funding transaction with the same counterparty; and
 b. the criteria under paragraph 30.37 of the Basel Leverage Ratio Framework (LEV), in the version stipulated in Annex 1 No 7 CAO, are met.
+|
+
+:INFO
+Art. 17i (continued)
 4 FINMA shall issue implementing provisions on the calculation:
 a. in cases where the residual maturity of the encumbered securities is shorter than the maturity of the secured funding transaction;
 b. of partly secured funding transactions;
@@ -403,6 +463,10 @@ Art. 17j Calculation of derivative liabilities and assets
 2 Derivative assets shall be calculated using the positive replacement values of the outstanding contracts at market value.
 3 If netting agreements exist between the bank and its counterparty which meet the criteria under section 30 LEV, in the version stipulated in Annex 1 No 7 CAO, the net replacement values shall be determinative for the derivatives transactions covered by these agreements.
 4 When calculating derivative liabilities, collateral in the form of variation margin payments shall be deducted from the negative replacement value amount, irrespective of the type of collateral.
+|
+
+:INFO
+Art. 17j (continued)
 5 When calculating derivative assets, no collateral received may be deducted from the positive replacement value amount, unless the bank has received collateral from variation margin payments in the form of Level 1 assets under Article 15a and the additional criteria under section 30 LEV, in the version stipulated in Annex 1 No 7 CAO, are met.
 |
 
@@ -431,6 +495,10 @@ Art. 17l Determining the residual maturity of capital instruments and liabilitie
 1 For calculating the residual maturity in the case of capital instruments and liabilities where the investors or creditors have an option to terminate, repurchase early or cancel, it shall be assumed that the options are exercised at the earliest possible date.
 2 If there is a market expectation on the part of investors or creditors that the bank will exercise options to repurchase capital instruments and liabilities before the contractually agreed due date for reputational reasons, the capital instruments and liabilities shall be assigned to the ASF category under Annex 4 corresponding to the expected shorter residual maturity.
 3 If extension options exist, it shall be assumed that neither the bank nor the investors or creditors will exercise them. A bank's extension option may be included, provided the extension does not have a negative impact on the bank's reputation.
+|
+
+:INFO
+Art. 17l (continued)
 4 For long-term liabilities with tranched payments, only the tranche maturing within one year shall be assigned to the ASF category with a residual maturity of less than one year.
 5 If a capital instrument or a liability can be assigned to more than one ASF category, the category with the lowest ASF factor shall be determinative.
 |
@@ -446,6 +514,10 @@ a. assigning the carrying values of the assets and off-balance sheet items to th
 b. adding together the weighted carrying values under letter a across all RSF categories.
 2 The carrying value of the assets and off-balance sheet items shall be calculated on the basis of the value recorded in the annual accounts. Value adjustments shall be recognised in accordance with paragraph 20.1 of the Basel Minimum Standards on the calculation of RWA for credit risk (CRE), in the version stipulated in Annex 1 No 4 CAO and section 30 LEV, in the version stipulated in Annex 1 No 7 CAO.
 3 When calculating the carrying value of unencumbered residential mortgage claims under Annex 5 Nos 5.1 and 5.1a, the assets posted as collateral for mortgage bond loans in accordance with the MBoA shall be fully deducted.
+|
+
+:INFO
+Art. 17m (continued)
 4 The calculation of the carrying value of encumbered mortgage claims and the duration of the encumbrance shall be based on the carrying value and the residual maturity of the mortgage bond loans to be secured.
 5 FINMA shall issue implementing provisions on the calculations in paragraphs 3 and 4.
 6 At the request of the SNB, FINMA may temporarily reduce the RSF factors of certain transactions in cases where this allows a significant impairment of monetary policy implementation to be avoided.
@@ -465,6 +537,10 @@ Art. 17n Determining the residual maturity of assets and off-balance sheet items
 2 If the counterparties or obligors have the option to extend maturities, it shall be assumed that the options are exercised. If the maturity extension begins from the time at which an option is exercised, it shall be assumed that the counterparties or obligors exercise the option at the latest possible date.
 3 If there is a market expectation on the part of counterparties or obligors that the bank will exercise options to extend maturities for reputational reasons, the assets and off-balance sheet items shall be assigned to the RSF category corresponding to the expected extended residual maturity.
 4 If early termination or repayment options exist, it shall be assumed that the bank, the counterparties or the obligors do not exercise them.
+|
+
+:INFO
+Art. 17n (continued)
 5 For redemption loans, instalment loans and annuity loans, only the portion falling due within one year may be assigned to the RSF category with a residual maturity of less than one year.
 6 If an asset or an off-balance sheet item can be assigned to more than one RSF category, the category with the highest RSF factor shall be determinative.
 |
@@ -562,6 +638,10 @@ b. deposits under letter a that are privileged in accordance with Article 37a Ba
 c. deposits under letter b that are secured in accordance with Article 37h BankA.
 2 Based on the data reported under paragraph 1 letter c, FINMA shall calculate the individual banks' contribution obligations for the deposit insurance under Article 37h paragraph 3 letter b BankA, and shall communicate this to them.
 3 When calculating the LCR, banks shall include their contribution obligations as «transactions with the agency of the deposit insurance scheme in the form of an irrevocable payment obligation for funding purposes» under Annex 2 No 8.1.5.
+|
+
+:INFO
+Art. 18 (continued)
 4 In exceptional circumstances, FINMA may require individual banks to disclose the reportable amount under paragraph 1 letter c in appropriate form if this is deemed necessary for the protection of non-privileged creditors.
 |
 

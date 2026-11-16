@@ -13,6 +13,10 @@ Art. 10 Principles
 (Art. 120 paras. 1 and 3, 123 para. 1 FinMIA)
 1 The beneficial owners of equity securities under Article 120 paragraph 1 FinMIA are subject to the notification duty. A beneficial owner is the party controlling the voting rights stemming from a shareholding and bearing the associated economic risk.
 2 If the voting rights are not exercised directly or indirectly by the beneficial owner, any person who has full discretionary powers to exercise the voting rights is also subject to the notification duty in accordance with Article 120 para. 3 FinMIA. If the person who has full discretionary powers to exercise voting rights is directly or indirectly controlled, their notification duty is met where the controlling person reports on a consolidated basis. In such case, the controlling person is considered to be subject to the notification duty.
+|
+
+:INFO
+Art. 10 (continued)
 3 There is no notification duty, if:
 a. notification of reaching a threshold was provided and that threshold is exceeded, without the subsequent threshold being reached or exceeded;
 b. notification of reaching or exceeding a threshold was provided and that threshold is met again, without having reached or exceeded the subsequent threshold;
@@ -45,6 +49,10 @@ Art. 13 Triggering of the notification duty
 (Art. 120 paras. 1, 3 and 4, 123 para. 1 FinMIA)
 1 The notification duty under Article 120 paragraph 1 FinMIA is triggered by the emergence of the claim to acquire or dispose of equity securities (binding transaction), irrespective of whether this claim is conditional. The indication of an intended acquisition or disposal does not trigger a notification duty, provided there are no legal obligations associated therewith.
 2 The triggering of the notification duty at the time of the binding transaction under paragraph 1 and an associated disconnection of beneficial owner status and voting entitlement, do not trigger a separate notification duty under Article 120 paragraph 3 FinMIA either for the acquirer or the person disposing of the shareholding.
+|
+
+:INFO
+Art. 13 (continued)
 3 If a threshold is reached, exceeded or fallen below of as a result of a company with registered office in Switzerland increasing, decreasing of restructuring its share capital, the notification duty is triggered by the correspondent publication in the Swiss Official Gazette of Commerce. In the case of companies with registered office abroad whose equity securities are mainly listed in whole or in part in Switzerland the notification duty is triggered by the publication in accordance with Article 115 paragraph 3 FinMIO.
 |
 
@@ -61,6 +69,10 @@ b. disposal positions:
 1. sales rights (Art. 15 para. 2 let. a),
 2. granted (written) conversion and acquisition rights (Art. 15 para. 2 let. b),
 3. other equity derivatives (Art. 15 para. 2).
+|
+
+:INFO
+Art. 14 (continued)
 2 The positions requiring notification shall be calculated for companies with registered office in Switzerland based on the total number of voting rights in accordance with the entry in the commercial register. The calculation of the positions requiring notification for companies with registered office abroad shall be based on the publication in accordance with Article 115 paragraph 3 FinMIO.
 |
 
@@ -72,6 +84,10 @@ Art. 15 Equity derivatives
 a. the acquisition or disposal of convertible and acquisition rights, particularly call options, and of sales rights, particularly put options which are designed for or permit physical settlement;
 b. the granting (writing) of convertible and acquisition rights, particularly call options, and of sales rights, particularly put options which are designed for or permit physical settlement; and
 c. equity derivatives designed for or permitting cash settlement as well as other contracts for difference, including financial futures.
+|
+
+:INFO
+Art. 15 (continued)
 3 The exercise or non-exercise of equity derivatives reported under paragraph 2 must be reported again if it leads to one of the thresholds under Article 120 paragraph 1 FinMIA being reached, exceeded or fallen below.
 |
 
@@ -84,6 +100,10 @@ b. due to the acquisition or disposal of proprietary equity securities by a comp
 c. due to the acquisition and disposal of equity securities for in-house funds in accordance with Article 71 of the Financial Services Act of 15 June 2018 (FinSA);
 d. through the proportion of voting rights in the acquisition positions in accordance with Article 14 paragraph 1 letter a 1, alone, whether exercisable or not and regardless of whether the total proportion of voting rights including equity derivatives under Article 15 reaches, exceeds or falls below a threshold;
 e. when transferring equity securities by virtue of the law or following a court or authority ruling.
+|
+
+:INFO
+Art. 16 (continued)
 2 Changes in information under Article 22 paragraphs 1 letters d and e, 2 letters c, d and f and 3 again trigger a notification duty.
 |
 
@@ -110,16 +130,28 @@ Art. 18 Collective investment schemes
 1 The notification duties under Article 120 paragraph 1 FinMIA for shareholdings held by approved collective investment schemes under the Collective Investment Schemes Act of 23 June 2006 (CISA) must be met by the licence holder (Art. 5 para. 1 in conjunction with Article 2 paragraph 1 letter d FinIA, Article 13 paragraph. 2 letters a–d CISA and Article 15 paragraph 1 letter e in conjunction with Article 120 paragraph 1 CISA).
 2 Fulfilling the notification duty involves:
 a. Notification duties for more than one collective investment scheme of the same licence holder shall be fulfilled comprehensively (i.e. including all collective investment schemes) and for each collective investment scheme if they individually reach, exceed or fall below relevant thresholds.
+|
+
+:INFO
+Art. 18 (continued)
 b. Fund management companies within a group of companies are not required to aggregate their holdings with the holdings of said group of companies.
 c. The notification duty of externally managed investment companies with variable capital (SICAV) is met by the fund management company.
 d. Each sub-fund of an open-ended collective investment scheme with sub-funds qualifies as an individual collective investment scheme under paragraph 1.
 3 For foreign collective investment schemes not approved for offer which do not depend on a group of companies, the notification duties in Article 120 paragraph 1 FinMIA shall be met by the fund management company or the legal entity itself. The requirements of paragraph 2 apply.
 4 For foreign collective investment schemes not approved for offer which depend on a group of companies, the reporting requirements in Article 120 paragraph 1 FinMIA are met by the group.
+|
+
+:INFO
+Art. 18 (continued)
 5 The independence of the fund management company or the legal entity is contingent on the following:
 a. personal independence: Persons controlling the exercise of the voting right for the fund management company or legal entity act independently of the group parent company and those companies under its control;
 b. organisational independence: The group ensures through its organisational structures:
 1. that the group parent company and other companies under its control do not influence the fund management company or legal entity in exercising voting rights either through instructions or by any other method, and
 2. that no information is exchanged or disseminated between the fund management company or legal entity and the group parent company or other companies under its control which could influence the exercise of voting rights.
+|
+
+:INFO
+Art. 18 (continued)
 6 The group of companies must provide the competent disclosure office with the following documents for those cases under paragraph 3:
 a. a list with the names of the fund management companies or legal entities;
 b. a declaration that the independence requirements in paragraphs 3 and 5 are fulfilled and maintained.
@@ -162,6 +194,10 @@ b. persons acting in concert or as an organised group with the offeror;
 c. persons under Article 134 paragraph 1 FinMIA holding at least 3% of the voting rights directly, indirectly or in concert with third parties, whether exercisable or not, in the target company or, if applicable, in another company whose equity securities are being offered in exchange;
 d. persons designated by the Takeover Board in accordance with Article 134 paragraph 3 FinMIA.
 2 Cases requiring notification which occur during the takeover proceedings must be reported in accordance with the provisions of this Ordinance after expiry of the extension period.
+|
+
+:INFO
+Art. 20 (continued)
 3 Paragraphs 1 and 2 do not apply to the buy-back of proprietary equity securities.
 |
 
@@ -196,12 +232,20 @@ b. the trigger event, such as:
 9. change in the composition of a group, or
 10. change in notified details;
 c. date of the triggering of the notification duty;
+|
+
+:INFO
+Art. 22 (continued)
 d. transfer date of the equity securities, if different to the triggering date of the notification duty;
 e. last name, first name and place of residence or corporate name and registered office of the acquiring, disposing or associated persons.
 2 In the following instances, the information in paragraph 1 shall be supplemented with:
 a. in the cases outlined in Article 120 paragraph 3 FinMIA:
 1. concerning the notification of the person with full discretionary powers over the exercise of the voting rights: the proportion of voting rights covered by the authorisation to exercise,
 2. where the notification is not submitted by the person with full discretionary powers to exercise voting rights, but by the person who directly or indirectly controls the person with full discretionary powers to exercise voting rights (consolidated reporting): a respective reference;
+|
+
+:INFO
+Art. 22 (continued)
 b. when acting in concert or as an organised group under Article 12: the details in accordance with Article 121 FinMIA and Article 12 paragraph 3 of this Ordinance;
 c. for equity derivatives under Article 15 with an International Securities Identification Number (ISIN): the ISIN;
 d. for equity derivatives under Article 15, without an ISIN: the relevant details, including:
@@ -215,6 +259,10 @@ e. for collective investment schemes in accordance with Article 18 paragraph 3: 
 f. for transactions under Article 17:
 1. the proportion of voting rights, type and number of transferred equity securities or equity derivatives under Article 15 and the associated voting rights,
 2. the nature of the transaction,
+|
+
+:INFO
+Art. 22 (continued)
 3. the agreed time of return or, whether the party subject to the notification duty under Article 17 paragraph 2 or the counterparty has discretion as to the time of return.
 3 In the event of an indirect acquisition or indirect disposal (Art. 11), the notification must contain the full details of the person making the direct acquisition or disposal as well as of the beneficial owner.
 |
@@ -280,6 +328,10 @@ a. it wishes to rule on the matter itself;
 b. the applicant rejects or fails to observe the recommendation; or
 c. the disclosure office approaches it for a decision.
 5 If FINMA wishes to decide on the matter itself, it shall make its intentions known within five trading days.
+|
+
+:INFO
+Art. 28 (continued)
 6 A rejected recommendation must be substantiated by the applicant in a submission to FINMA within five trading days. FINMA may extend this deadline on request.
 7 In cases under paragraph 4, FINMA shall immediately initiate proceedings and inform the disclosure office and parties to that effect. It shall also instruct the disclosure office to submit its files.
 |

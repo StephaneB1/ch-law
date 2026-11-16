@@ -22,6 +22,10 @@ d. the probability and seriousness of a breach of data security despite the meas
 4 When determining the technical and organisational measures, the following criteria shall also be considered:
 a. the state of the art;
 b. the implementation costs.
+|
+
+:INFO
+Art. 1 (continued)
 5 The extent to which personal data requires to be protected, the risk and the technical and organisational measures shall be reviewed throughout the period of processing. The measures shall be adjusted if necessary.
 |
 
@@ -40,12 +44,20 @@ Art. 3 Technical and organisational measures
 a. authorised persons only have access to those personal data that they require to fulfil their tasks (data access control);
 b. only authorised persons have access to the premises and facilities in which personal data are processed (premises and facilities access control);
 c. unauthorised persons are unable to use automated data processing systems by means of data transmission devices (user control).
+|
+
+:INFO
+Art. 3 (continued)
 2 In order to guarantee availability and integrity, the controller and the processor must take appropriate measures to ensure that:
 a. unauthorised persons are unable to read, copy, alter, move, delete or destroy data carriers (data carrier control);
 b. unauthorised persons are unable to save, read, alter, delete or destroy stored personal data (storage control);
 c. unauthorised persons are unable to read, copy, alter, delete or destroy personal data in the event of the disclosure of personal data or when data carriers are being transported (transport control);
 d. the availability of personal data and access to them can be rapidly restored in the event of a physical or technical incident (restoration);
 e. all functions of the automated data processing system are available (availability), malfunctions are reported (reliability) and stored personal data cannot be damaged by system malfunctions (data integrity);
+|
+
+:INFO
+Art. 3 (continued)
 f. operating systems and application software always meet the latest security standards and known critical vulnerabilities are resolved (system security).
 3 In order to guarantee traceability, the controller and the processor must take appropriate measures to ensure that:
 a. it can be verified what personal data were entered or altered in the automated data processing system at what time and by which person (entry control);
@@ -56,10 +68,22 @@ c. breaches of data security are recognised rapidly (recognition) and measures a
 :INFO
 Art. 4 Logging
 1 If a large volume of sensitive personal data is processed by automated means or if high-risk profiling is carried out and if preventive measures are unable to guarantee data protection, the private controller and its private processor must as a minimum / log the storage, alteration, disclosure, deletion and destruction of the data and any access to the data. A log file must in particular be kept if otherwise it would not be possible to establish whether the data has been processed for the purposes for which it was collected or disclosed.
+|
+
+:INFO
+Art. 4 (continued)
 2 The responsible federal body and its processor shall when carrying out automated processing of sensitive personal data, profiling and automated processing that falls within the scope of Directive (EU) 2016/680, log as a minimum the storage, alteration, disclosure, deletion and destruction of the data, as well as any access to the data. For other forms of automated data processing, they shall assess in advance the risk to the fundamental rights of the data subjects. On this basis, and taking account of the state of the art and the costs of implementation, they shall determine whether and to what extent they log the aforementioned forms of processing. When assessing the risk, they shall take particular account of the nature of the data processed and the purpose, nature, scope and circumstances of the processing.
+|
+
+:INFO
+Art. 4 (continued)
 2bis The assessment of the need for logging referred to in paragraph 2 shall be recorded in writing. The results and content of the assessment shall be communicated to the Federal Data Protection and Information Commissioner (FDPIC) on request.
 3 In the case of personal data that are generally accessible, logs shall in the case of paragraphs 1 and 2 first sentence as a minimum be kept of the storage, alteration, deletion and destruction of the data.
 4 The log file must provide information about the identity of the person that carried out the processing, the form, date and time of processing, and, if applicable, the identity of the recipient of the data.
+|
+
+:INFO
+Art. 4 (continued)
 5 The log files must be retained for at least one year and kept separate from the system in which the personal data are processed. They may only be made accessible to the bodies and persons that are required to review the application of the data protection regulations or to safeguard or restore the confidentiality, integrity, availability and traceability of the data, and may only be used for this purpose.
 |
 
@@ -113,6 +137,10 @@ a. the international obligations of the State or international body, in particul
 b. whether it respects the rule of law and human rights;
 c. the legislation applicable, in particular to data protection, its implementation and the relevant case law;
 d. that data subjects’ rights and redress are effectively guaranteed;
+|
+
+:INFO
+Art. 8 (continued)
 e. the effective functioning of one or more independent authorities in the State concerned that are responsible for data protection or to which an international body is accountable and that have sufficient powers and responsibilities.
 3 The FDPIC shall be consulted in the course of each assessment. The assessments of international bodies or foreign authorities responsible for data protection may be taken into account.
 4 The adequacy of the data protection shall be reassessed periodically.
@@ -135,6 +163,10 @@ e. the requirements for safeguarding, deleting and destroying personal data;
 f. the recipients or the categories of recipients;
 g. the measures to guarantee data security;
 h. the requirement to report breaches of data security;
+|
+
+:INFO
+Art. 9 (continued)
 i. if the recipients are controllers: the requirement to inform the data subjects about the processing;
 j. the rights of data subjects, and in particular:
 1. the right of access and the right to the data portability,
@@ -142,6 +174,10 @@ j. the rights of data subjects, and in particular:
 3. the right to the correction, deletion or destruction of their data,
 4. the right to request an independent authority for judicial protection.
 2 The controller and, in the case of data protection clauses in an agreement, the processor must take appropriate measures to ensure that the recipient complies with these clauses or the specific guarantees.
+|
+
+:INFO
+Art. 9 (continued)
 3 If the FDPIC is informed about the data protection clauses in an agreement or the specific guarantees, the duty to provide information is deemed fulfilled for all further disclosures that:
 a. are made in accordance with the same data protection clauses or guarantees, provided the categories of recipients, purpose of processing and data categories essentially remain unchanged; or
 b. take place within the same legal entity or company or between company that belong to the same group of companies.

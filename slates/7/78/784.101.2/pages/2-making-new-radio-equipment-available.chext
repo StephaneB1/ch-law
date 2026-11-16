@@ -25,9 +25,17 @@ Art. 7 Essential requirements
 a. the protection of the health and safety of persons and domestic animals and the protection of property, including the objectives with respect to safety requirements set out in the Ordinance of 25 November 2015 on Low Voltage Electrical Equipment (LVEO), but with no voltage limit applying;
 b. an adequate level of electromagnetic compatibility as set out in the Ordinance of 25 November 2015 on Electromagnetic Compatibility (OEMC).
 2 Radio equipment shall be constructed so that it both effectively uses and supports the efficient use of radio spectrum in order to avoid harmful interference.
+|
+
+:INFO
+Art. 7 (continued)
 2bis Radio equipment which can be charged by cable and which is widely available on the market must be capable of being charged using a USB-C connection. OFCOM shall define the categories of equipment and the specifications for the charging power and protocols for this radio equipment. It shall issue the required administrative provisions, taking account of the relevant delegated acts of the European Commission.
 3 OFCOM shall indicate the additional essential requirements that apply, and the relevant radio equipment or equipment classes taking account of the corresponding delegated legislation of the European Commission. The additional essential requirements are as follows:
 a. the equipment must be compatible with other accessories in addition to charging adapters in accordance with paragraph 2bis;
+|
+
+:INFO
+Art. 7 (continued)
 abis. radio equipment that can be charged without a cable and which is widely avialable on the market must be capable of being charged with a charger using induction or magnetic resonance;
 b. the equipment must interwork via networks with other radio equipment;
 c. the equipment can be connected to interfaces of the appropriate type throughout Switzerland;
@@ -36,6 +44,10 @@ e. the equipment must incorporate safeguards to ensure that the personal data an
 f. the equipment must support certain features ensuring protection from fraud;
 g. the equipment must support certain features ensuring access to emergency services;
 h. the equipment must support certain features in order to facilitate its use by users with a disability;
+|
+
+:INFO
+Art. 7 (continued)
 i. the equipment must support certain features in order to ensure that software can only be loaded into the radio equipment where the compliance of the combination of the radio equipment and software has been demonstrated.
 |
 
@@ -98,6 +110,10 @@ a. an internal production control (Annex 2);
 b. a type examination that is followed by the conformity to type based on internal production control (Annex 3);
 c. conformity based on full quality assurance (Annex 4).
 2 Where, in assessing the compliance of radio equipment with the essential requirements set out in Article 7 paragraphs 2 and 3, the manufacturer has applied the standards determined by OFCOM, it shall, at its discretion, use one of the procedures set out in paragraph 1 letters a–c (Annexes 2–4).
+|
+
+:INFO
+Art. 13 (continued)
 3 Where, in assessing the compliance of radio equipment with the essential requirements set out in Article 7 paragraphs 2 and 3, the manufacturer has not applied or has applied only in part the standards determined by OFCOM, or where such standards do not exist, the radio equipment shall be submitted with regard to those essential requirements to any one of the procedures set out in paragraph 1 letter b (Annex 3) or letter c (Annex 4).
 |
 
@@ -112,6 +128,10 @@ a. make it possible to assess the radio equipment's conformity with the applicab
 b. demonstrate the conformity the radio equipment with the aforementioned requirements.
 2 The documentation shall list the applicable requirements and cover, as far as relevant for the assessment, the design, manufacture and the operation of the radio equipment.
 3 The technical documentation must include an adequate analysis and assessment of the risks.
+|
+
+:INFO
+Art. 14 (continued)
 4 The technical documentation must, wherever applicable, contain at least the following elements:
 a. a general description of the radio equipment comprising:
 1. photographs or illustrations showing external features, markings and internal layout,
@@ -119,11 +139,19 @@ a. a general description of the radio equipment comprising:
 3. user information and installation instructions;
 b. conceptual design and manufacturing drawings and schemes of components, sub-assemblies, circuits and other relevant similar elements;
 c. descriptions and explanations necessary for the understanding of those drawings and schemes and the operation of the radio equipment;
+|
+
+:INFO
+Art. 14 (continued)
 d. a list of the technical standards in accordance with Article 31 paragraph 2 letter a TCA applied in full or in part, and, where those standards have not been applied, descriptions of the solutions adopted to meet the essential requirements set out in this Ordinance, including a list of other relevant technical specifications applied. In the event of partly applied standards in accordance with Article 31 paragraph 2 letter a TCA, the technical documentation shall specify the parts which have been applied;
 e. a copy the declaration of conformity in accordance with Annex 5;
 f. where the conformity assessment module in Annex 3 has been applied, a copy of the type examination certificate and its annexes as delivered by the conformity assessment body concerned;
 g. results of design calculations made, examinations carried out, and other relevant similar elements;
 h. the test reports;
+|
+
+:INFO
+Art. 14 (continued)
 i. an explanation of the compliance with the requirement of Article 9 and of the inclusion or not of information on the packaging in accordance with Article 19.
 5 Where the technical documentation is not formulated in an official Swiss language or in English, OFCOM may require a full or partial translation into one of those languages.
 |
@@ -163,6 +191,10 @@ c. be otherwise authorised under Swiss law.
 3 In addition to their obligations set out in the AccDO, the conformity assessment bodies must:
 a. participate in the regulatory activities in the area of radio equipment and frequency planning;
 b. fulfil their duties to provide information set out in Annexes 3 and 4.
+|
+
+:INFO
+Art. 17 (continued)
 4 OFCOM shall issue the required administrative regulations on the obligations referred to in paragraph 3 letter a taking international practice into account.
 |
 
@@ -179,8 +211,16 @@ Art. 18 Conformity marking, information for identification and traceability
 2 The conformity marking must be affixed visibly, legibly and indelibly to the radio equipment or to its data plate, unless that is not possible or not warranted on account of the nature of radio equipment. The CE marking shall also be affixed visibly and legibly to the packaging.
 3 All radio equipment must if applicable bear the identification number of the conformity assessment body. This number must be of the same height as the conformity marking.
 4 All radio equipment must bear a type, batch or serial number or other element allowing its identification. Where the size or nature of the radio equipment makes this impossible, the required information must be provided on the packaging, or in a document accompanying the radio equipment.
+|
+
+:INFO
+Art. 18 (continued)
 5 All radio equipment must bear the name, registered trade name or registered trademark of the manufacturer and the postal address at which it can be contacted. Where this is not possible, this information must be provided on its packaging, or in a document accompanying the radio equipment. The address must indicate a single point at which the manufacturer can be contacted. The contact details must be in a language easily understood by end-users.
 6 If the manufacturer is not based in Switzerland, the radio equipment must also bear the names, registered trade name or the registered trademark of the importer and the postal address at which it can be contacted. Where this is not possible, this information must be provided on its packaging, or in a document accompanying the radio equipment. The contact details must be in a language easily understood by end-users.
+|
+
+:INFO
+Art. 18 (continued)
 6bis If the manufacturer and its authorised representative are not based in Switzerland and the importer imports the equipment for its own personal use, each item of equipment must also must indicate the name, registered trade name or registered trademark of the fulfilment service provider and the postal address at which it may be contacted. If this is impossible, this information must be provided on the packaging or in a document accompanying the equipment. The contact details must be in a language easily understood by end users.
 7 OFCOM shall issue the required administrative regulations.
 |
@@ -197,9 +237,17 @@ a. the frequency bands in which the radio equipment operates;
 b. the maximum radio-frequency power transmitted in the frequency bands in which the radio equipment operates;
 c. if applicable, the operational restrictions, and in particular any obligation to obtain an operating licence;
 d. in the case of radio equipment in accordance with Article 7 paragraph 2bis, information on charging, the compatible charging adapters and on any charging adapter that may be included with the equipment.
+|
+
+:INFO
+Art. 19 (continued)
 3 The information referred to in paragraph 2 letters c and d must also be indicated on the packaging. In the case of distance sales, the information referred to in paragraph 2 letter d shall be placed next to the price indication. If there is no packaging, the information on charging and the compatible charging adapters must be indicated on the radio equipment. If this is not possible because of the size or type of radio equipment, the user must be able to print out the information as a separate accompanying document.
 4 Any offer of radio equipment for which no physical specimen is available, in particular offers on the internet or in brochures, must make clear reference to any restrictions on operation that apply to the equipment.
 5 The information must be clearly visible, easily legible and understandable, and formulated in the official language at the point of sale. In bilingual locations it must be formulated in both official languages.
+|
+
+:INFO
+Art. 19 (continued)
 6 OFCOM shall issue the required administrative regulations taking international practice into account.
 |
 
@@ -242,6 +290,10 @@ Importers and distributors shall ensure that, while radio equipment is under the
 Art. 23 Obligations to take action
 1 When deemed appropriate with regard to the risks presented by radio equipment, manufacturers and importers shall, to protect the health and safety of end-users, carry out sample testing of radio equipment made available on the market, investigate, and, if necessary, keep a register of complaints of non-conforming radio equipment and radio equipment recalls, and shall keep distributors informed of any such monitoring.
 2 Manufacturers and importers that consider or have reason to believe that radio equipment which they have placed on the market is not in conformity with this Ordinance shall immediately take the corrective measures necessary to bring that radio equipment into conformity, to withdraw it or recall it, if appropriate.
+|
+
+:INFO
+Art. 23 (continued)
 3 Distributors that consider or have reason to believe that radio equipment which they have made available on the market is not in conformity with this Ordinance shall make sure that the corrective measures necessary to bring that radio equipment into conformity, to withdraw it or recall it, if appropriate, are taken.
 4 Furthermore, where the radio equipment presents a risk, the manufacturers, authorised representatives, importers and distributors shall immediately inform OFCOM, giving details, in particular, of the non-compliance, of any corrective measures taken.
 5 Where the radio equipment presents a risk, the fulfilment service providers must also immediately notify OFCOM to that effect, giving details, in particular, of the non-compliance and of any corrective measures taken, unless the manufacturer or its authorised representative is based in Switzerland and the importer has imported the equipment for its own personal use.

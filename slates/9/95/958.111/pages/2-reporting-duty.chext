@@ -31,6 +31,10 @@ d. the volume of the transaction as follows: nominal amount for bonds, units or 
 e. the price of the securities or derivatives in question; and additionally in the case of derivatives, the further value-determining parameters, depending on the classification of the derivative, namely whether it is a call or put option, the strike price, the price multiplier and the term of the contract or the expiry date;
 f. the date and time of execution;
 g. …
+|
+
+:INFO
+Art. 3 (continued)
 h. whether it is a proprietary or client transaction;
 i. the designation of the counterparty as a stock exchange member, other securities firm, customer; in the case of transmissions of orders: designation of the party to which the order was transmitted;
 j. the name of the trading venue where the security or derivative was traded, or the notification that the transaction was made outside a trading venue;

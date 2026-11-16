@@ -31,8 +31,14 @@ d. SIS.
 :NOTE
 Art. 110 — Amended by Annex 1 No 1 of the FD of 19 March 2021 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of Regulations (EU) 2019/817 and (EU) 2019/818 on Establishing a Framework for Interoperability between EU Information Systems, in force since 15 June 2025 (AS 2025 347; BBl 2020 7983).
 Para. 1 — Regulation (EU) 2019/817 of the European Parliament and of the Council of 20 May 2019 n establishing a framework for interoperability between EU information systems in the field of borders and visa and amending Regulations (EC) No 767/2008, (EU) 2016/399, (EU) 2017/2226, (EU) 2018/1240, (EU) 2018/1726 and (EU) 2018/1861 of the European Parliament and of the Council, Council Decision 2004/512/EC and Council Decision 2008/633/JHA, OJ. L 135 of 22.5.2019, p. 27; last amended by Regulation (EU) 2021/1152, OJ. L 249 of 14.7.2021, p. 15.
+|
+
+:NOTE
 Para. 1 — Regulation (EU) 2019/818 of the European Parliament and of the Council of 20 May 2019 n establishing a framework for interoperability between EU information systems in the field of police and judicial cooperation, asylum and migration and amending Regulations (EU) 2018/1726, (EU) 2018/1862 and (EU) 2019/816, OJ. L 135 of 22.5.2019, p. 85; last amended by Regulation (EU) 2021/1150, OJ. L 249 of 14.7.2021, p. 1.
 Para. 1 — Amended by Annex No 1 of the FD of 16 Dec. 2022 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of Regulations (EU) 2021/1150 and 2021/1152 as regards the establishment of the conditions for accessing other EU information systems for the purposes of the European Travel Information and Authorisation System (ETIAS), in force since 15 June 2025 (AS 2025 349; BBl 2022 1449).
+|
+
+:NOTE
 Para. 4 — Inserted by No I of the FA of 16 Dec. 2022 (Quality Control Measures for Biometric Identity Checks), in force since 15 June 2025 (AS 2025 341; BBl 2022 1449).
 
 :PATH
@@ -68,6 +74,10 @@ b. unidentified persons involved in accidents, natural disasters and acts of vio
 a. fedpol;
 b. the police authorities of the cantons and communes;
 c. the FOCBS within the scope of its customs and non-customs duties to protect the population and to safeguard internal security.
+|
+
+:INFO
+Art. 110b (continued)
 4 For persons in accordance with paragraph 1 letter a, the query is based on the biometric data taken from the person at the location of an identity check. If this person’s biometric data cannot be used or if the query using these data is not successful, the query is made using identity data or data on the travel documents
 5 For the persons referred to in paragraph 1 letter b, the query is based on biometric data.
 |
@@ -83,6 +93,10 @@ Art. 110c Querying the CIR for the purpose of detecting multiple identities
 a. the SIRENE Bureau: if there is a link to an alert in the SIS;
 b. the FOCBS and the cantonal police authorities as part of their control duties at the Schengen external border: if there is a link to a personal EES dossier containing the personal data in accordance with Articles 16–18 of Regulation (EU) 2017/2226;
 c. SEM, Swiss representations abroad and missions, the cantonal migration authorities responsible for visas and the communal authorities to which the cantons have delegated these responsibilities, the State Secretariat and the Directorate of Political Affairs of the FDFA, the Border Guard and the border posts of the cantonal police authorities: if there is a link to a personal dossier in C-VIS;
+|
+
+:INFO
+Art. 110c (continued)
 d. SEM, in carrying out its tasks as the ETIAS National Unit: if there is a link to an ETIAS personal application record containing the data referred to in Article 19 paragraph 3 of Regulation (EU) 2018/1240.
 2 If there is a link in the CIR between data from several information systems that indicates identity fraud, the authorities may query the data and references stored in the CIR in accordance with paragraph 1 if they have access to the EES, ETIAS, C-VIS, Eurodac or the SIS in accordance with this Act or the Federal Act of 13 June 2008 on the Federal Police Information Systems.
 |
@@ -103,6 +117,10 @@ c. the Office of the Attorney General of Switzerland;
 d. the cantonal police and prosecution authorities and the police authorities of the cities of Zurich, Winterthur, Lausanne, Chiasso and Lugano;
 e. the FOCBS employees responsible for prosecutions.
 3 If the query shows that data are stored in the CIR, a reference to the relevant Schengen/Dublin Information System is displayed as the result.
+|
+
+:INFO
+Art. 110d (continued)
 4 In order to obtain the data from this information system, the authorities referred to in paragraph 1 must request these data from fedpol's Operations Centre. The requirements and procedures that apply to the respective information system apply.
 |
 

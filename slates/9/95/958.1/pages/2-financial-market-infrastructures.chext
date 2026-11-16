@@ -40,6 +40,10 @@ Art. 7 Changes in facts
 Art. 8 Organisation
 1 The financial market infrastructure must be a legal entity under Swiss law and have its registered office and head office in Switzerland.
 2 It must establish appropriate corporate management rules and be organised in such a way that it can fulfil its statutory duties. In particular, it must designate specific bodies responsible for its business management, on the one hand, and for its overall management, supervision and control on the other, and define the scope of these bodies' respective powers in such a way as to ensure proper and independent supervision of business management. It shall set out the relevant tasks and authorities in its articles of incorporation and organisational regulations.
+|
+
+:INFO
+Art. 8 (continued)
 3 It shall identify, measure, control and monitor its risks and organise an effective internal control system. In particular, it shall establish an internal audit function that is independent of the business management body and a compliance department that is separate from operating business units.
 |
 
@@ -49,6 +53,10 @@ Art. 9 Guarantee of irreproachable business conduct
 2 Moreover, the persons responsible for the administration and management of the financial market infrastructure must enjoy a good reputation and have the specialist qualifications required for their functions.
 3 Qualified participants in a financial market infrastructure must also enjoy a good reputation and ensure that their influence is not detrimental to prudent and sound business activity.
 4 Persons who directly or indirectly hold at least 10% of the share capital or votes or who can significantly influence its business activity in another manner are deemed to be qualified participants in a financial market infrastructure.
+|
+
+:INFO
+Art. 9 (continued)
 5 Each person must notify FINMA before directly or indirectly acquiring or disposing of a qualified participation in accordance with paragraph 4 in a financial market infrastructure organised under Swiss law. This notification duty also applies if a qualified participation is increased or reduced in such a way as to reach, exceed or fall below the thresholds of 20%, 33% or 50% of the share capital or votes.
 6 The financial market infrastructure shall notify FINMA of the persons who meet the conditions of paragraph 5 as soon as it becomes aware of the same. It must submit a list of its qualified participants to FINMA at least once a year.
 |
@@ -162,6 +170,10 @@ Art. 22 Systemically important financial market infrastructures and business pro
 1 Central counterparties, central securities depositories, payment systems and those DLT trading facilities that provide central custody, clearing or settlement services are deemed to be systemically important:
 a. if their non-availability, arising in particular from technical or operational problems or financial difficulties, can lead to serious losses, liquidity shortfalls or operational problems for financial intermediaries or other financial market infrastructures, or can cause serious disruptions on financial markets; or
 b. if individual participants' payment or delivery difficulties can spill over to other participants or linked financial market infrastructures and can cause these serious losses, liquidity shortfalls or operational problems, or can cause serious disruptions on financial markets.
+|
+
+:INFO
+Art. 22 (continued)
 2 A business process of a financial market infrastructure in accordance with paragraph 1 is systemically important:
 a. if its non-availability can cause serious losses, liquidity shortfalls or operational problems for financial intermediaries or other financial market infrastructures, or can cause serious disruptions on financial markets; and
 b. if participants cannot substitute the business process at short notice.
@@ -202,6 +214,10 @@ Art. 25
 1 FINMA shall inform the SNB of authorisation requests submitted by central counterparties, central securities depositories, payment systems and those DLT trading facilities that provide central custody, clearing or settlement services.
 2 After consulting FINMA, the SNB shall designate by way of an order the systemically important financial market infrastructures and their systemically important business processes in accordance with Article 22. It shall also define by way of an order which special requirements in accordance with Article 23 the individual systemically important financial market infrastructures have to fulfil and shall assess their compliance.
 3 If a systemically important financial market infrastructure fulfils the special requirements, FINMA shall grant authorisation if the other authorisation conditions are also met.
+|
+
+:INFO
+Art. 25 (continued)
 4 FINMA shall approve a systemically important financial market infrastructure's stabilisation plan in accordance with Article 24 after consulting the SNB.
 5 If the SNB concludes that a financial market infrastructure is not systemically important, it shall inform FINMA. If the general authorisation conditions are met, FINMA shall grant authorisation.
 6 The procedure applies by analogy to requests for recognition submitted by foreign central counterparties.
@@ -261,6 +277,10 @@ Art. 30 Guarantee of orderly trading
 Art. 31 Supervision of trading
 1 The trading venue shall supervise price formation and the transactions conducted on the trading venue so that insider trading, price and market manipulation and other violations of statutory and regulatory provisions can be detected. For this purpose, it shall also review the transactions conducted outside of the trading venue that are reported to it or are brought to its attention in any other way.
 2 In the event of suspected violations of the law or other irregularities, the body responsible for supervising trading (trading supervisory body) shall notify FINMA. If the violations of the law involve criminal offences, it shall also inform the competent prosecution authority without delay.
+|
+
+:INFO
+Art. 31 (continued)
 3 FINMA, the competent prosecution authority, the Takeover Board and the trading supervisory body shall exchange information which they require within the context of their collaboration and in order to carry out their tasks. They shall use the information received solely to carry out their respective tasks.
 |
 
@@ -292,6 +312,10 @@ d. the SNB;
 e. the federal government;
 f. the Swiss National Accident Insurance Fund (Suva);
 g. the AHV/IV/EO compensation funds (compenswiss).
+|
+
+:INFO
+Art. 34 (continued)
 3 The trading venue may admit other entities as participants if it ensures that they fulfil equivalent technical and operational conditions to securities firms, and if these entities:
 a. perform public functions and are reliant on participation for the performance of these functions; and
 b. have professional treasury operations.
@@ -305,6 +329,9 @@ Para. 2 let. b — SR 956.1
 Para. 2 let. b — Term in accordance with Annex No II 18 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 (AS 2018 5247, 2019 4631; BBl 2015 8901). This modification has been made throughout the text.
 Para. 2 let. e — Inserted by Annex No 9 of the FA of 17 Dec. 2021 (Insolvency and Deposit Insurance), in force since 1 Jan. 2023 (AS 2022 732; BBl 2020 6359).
 Para. 2 let. f — Inserted by Annex No 9 of the FA of 17 Dec. 2021 (Insolvency and Deposit Insurance), in force since 1 Jan. 2023 (AS 2022 732; BBl 2020 6359).
+|
+
+:NOTE
 Para. 2 let. g — Inserted by Annex No 9 of the FA of 17 Dec. 2021 (Insolvency and Deposit Insurance), in force since 1 Jan. 2023 (AS 2022 732; BBl 2020 6359).
 Para. 3 let. b — Inserted by Annex No 9 of the FA of 17 Dec. 2021 (Insolvency and Deposit Insurance), in force since 1 Jan. 2023 (AS 2022 732; BBl 2020 6359).
 |
@@ -317,6 +344,10 @@ a. the requirements that apply to the securities and the issuers and the duties 
 b. the publication of information on which investors rely for assessing the characteristics of securities and the quality of the issuer;
 c. the duties of the issuer, its representatives and third parties for the entire duration of the listing or admission of securities to trading;
 d. the obligation, regarding the admission of equity securities and bonds, to comply with Articles 7 and 8 of the Federal Act of 16 December 2005 on the Licensing and Oversight of Auditors (AOA).
+|
+
+:INFO
+Art. 35 (continued)
 2bis The prospectus requirement is governed exclusively by Articles 35–57 of the Financial Services Act of 15 June 2018.
 3 The stock exchange shall monitor compliance with the regulations and impose the sanctions provided for contractually in the event of violations.
 |
@@ -375,6 +406,10 @@ c. if it ensures that its activities are separate from the activities of any aut
 d. if the competent supervisory authorities:
 1. do not have any objections to the participant's activity in Switzerland,
 2. provide FINMA with administrative assistance.
+|
+
+:INFO
+Art. 40 (continued)
 2 FINMA may reject authorisation if the state in which the foreign participant has its registered office does not grant Swiss participants actual access to its markets or does not offer them the same competitive opportunities as those granted to domestic trading participants. Any deviating international commitments are reserved.
 3 A foreign participant that already participates in a Swiss trading venue shall inform FINMA if it wishes to participate in another Swiss trading venue. In this case, the foreign supervisory authority has to confirm that it has no objection to the expansion of the foreign participant's activity in Switzerland.
 4 FINMA authorisation is not required for participation in monetary policy transactions with the SNB.
@@ -392,6 +427,10 @@ b. if the competent foreign supervisory authorities:
 3 A foreign trading venue is deemed recognised if FINMA finds that:
 a. the state in which the trading venue has its registered office regulates and supervises its trading venues adequately; and
 b. the conditions in paragraph 2 letter b are met.
+|
+
+:INFO
+Art. 41 (continued)
 4 FINMA may refuse recognition if the state in which the foreign trading venue has its registered office does not grant Swiss trading venues actual access to its markets or does not offer them the same competitive opportunities as those granted to domestic trading venues. Any deviating international commitments are reserved.
 |
 
@@ -399,7 +438,7 @@ b. the conditions in paragraph 2 letter b are met.
 Art. 41 — Amended by No I of the FA of 17 March 2023 (Recognition of Foreign Trading Venues for the Trading of Equity Securities of Companies with Registered Office in Switzerland), in force from 1 Jan. 2024 to 31 Dec. 2028 (AS 2023 731; BBl 2022 1673).
 
 :PATH
-Section 1a .Recognition of Foreign Trading Venues for the Trading of Equity Securities of Companies with Registered Office in Switzerland
+Section 1a . Recognition of Foreign Trading Venues for the Trading of Equity Securities of Companies with Registered Office in Switzerland
 |
 
 :NOTE
@@ -415,6 +454,10 @@ b. the equity securities pursuant to letter a are listed on a stock exchange in 
 a. they are listed or admitted to trading on the relevant stock exchange with the express consent of the issuer of the equity securities, which must have been given prior to 30 November 2018;
 b. they were listed or admitted to trading on the relevant stock exchange before 30 November 2018; and
 c. the issuer of the equity securities accepts responsibility for the duties associated with the listing or admission to trading on the relevant stock exchange.
+|
+
+:INFO
+Art. 41a (continued)
 3 The recognition ceases once that trading venue has its registered office in a jurisdiction listed in accordance with Article 41c paragraph 2.
 |
 
@@ -503,6 +546,10 @@ Art. 49 Collateral
 a. a participant's variation margins cover the current credit exposures based on realised market price movements;
 b. a participant's initial margins will, with a high degree of confidence, cover the potential credit exposures arising for a central counterparty upon the participant's default based on expected market price movements;
 c. the initial margins, variation margins and default fund contributions will be sufficient to cover the loss resulting under extreme but plausible market conditions from the default of the participant to which the central counterparty has its greatest exposure.
+|
+
+:INFO
+Art. 49 (continued)
 3 The central counterparty shall accept only liquid collateral with low credit and market risks. It shall value the collateral prudently.
 |
 
@@ -537,6 +584,10 @@ d. default fund contributions of non-defaulting participants.
 3 It shall issue rules governing how more extensive losses are to be covered. It may not:
 a. use the initial margins of non-defaulting participants to cover losses caused by the default of another participant;
 b. use the collateral of indirect participants to cover losses caused by the default of a participant or other indirect participant; or
+|
+
+:INFO
+Art. 53 (continued)
 c. use an indirect participant's funds in excess of the margin requirement deposited with it in accordance with Article 59 paragraph 3 to cover losses caused by the default of a participant or other indirect participant.
 |
 
@@ -577,6 +628,10 @@ c. the central counterparty will cover the credit and liquidity risks arising fr
 d. the central counterparties are authorised or recognised by FINMA;
 e. the authorities responsible for supervising and overseeing the foreign central counterparty collaborate with the competent Swiss authorities.
 3 If a central counterparty involved in the interoperability agreement is systemically important, FINMA shall obtain the SNB's agreement before granting its approval.
+|
+
+:INFO
+Art. 57 (continued)
 4 If a central counterparty involved in an interoperability agreement extends its activity to a new trading venue without this entailing new risks, the interoperability agreement does not require re-approval.
 
 :PATH
@@ -611,6 +666,10 @@ b. if the competent foreign supervisory authorities:
 1. do not have any objections to the cross-border activity of the foreign central counterparty,
 2. guarantee that they will inform FINMA if they detect violations of the law or other irregularities on the part of Swiss participants, and
 3. provide FINMA with administrative assistance.
+|
+
+:INFO
+Art. 60 (continued)
 3 FINMA may refuse recognition if the state in which the foreign central counterparty has its registered office does not grant Swiss central counterparties actual access to its markets or does not offer them the same competitive opportunities as those granted to domestic central counterparties. Any deviating international commitments are reserved.
 4 It may exempt a foreign central counterparty from the obligation to obtain recognition provided this does not adversely affect the protective purpose of this Act.
 

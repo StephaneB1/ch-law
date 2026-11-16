@@ -61,6 +61,13 @@ TITLE_DATE = re.compile(r"\s+of\s+\d{1,2}\s+\w+\s+\d{4}")
 
 NAME_LIMIT = 50
 
+# Slatesource stores at most 1,000 characters of a chip's text and drops the rest
+# without a word: Art. 24 FADP was published ending "…equally guaranteed by maki".
+# Whether it counts characters or bytes, and whether a chip's first line is part
+# of the count, is not documented, so the whole chip is held to 1,000 UTF-8 bytes
+# — the reading under which no interpretation can truncate it.
+CHIP_LIMIT = 1000
+
 # Elements that sit inside a run of text rather than breaking it. "Art. 305bis"
 # is a <sup> inside a <num>, and the ordinal has to close up against the number.
 INLINE = frozenset(
@@ -142,6 +149,11 @@ def text_of(node: ET.Element) -> str:
     SR 231.1 carry one, the rest do not — so keeping them verbatim reproduces a
     typesetting accident as if it were part of the law. Every other typographic
     character (curly quotes, dashes, ordinals) is left exactly as published.
+
+    Inline elements close up and everything else takes a space, <br/> included.
+    Without that, text on either side of a block boundary is welded together: a
+    preamble read "…dated 29 October 2002and the opinion…", and a table cell ran
+    into the next as "…revocation500–10 000b. Licence…".
     """
     parts: list[str] = []
 
@@ -151,16 +163,24 @@ def text_of(node: ET.Element) -> str:
                 if child.tail:
                     parts.append(child.tail)
                 continue
+            block = child.tag[len(AKN):] not in INLINE
+            if block:
+                parts.append("\0")
             if child.text:
                 parts.append(child.text)
             walk(child)
+            if block:
+                parts.append("\0")
             if child.tail:
                 parts.append(child.tail)
 
     if node.text:
         parts.append(node.text)
     walk(node)
-    return re.sub(r"[ \t\r\n ]+", " ", "".join(parts)).strip()
+    # A boundary that is followed by punctuation is not a gap: "…Constitution<br/>,"
+    # stays "Constitution," — the space is only for words that would otherwise weld.
+    joined = re.sub(r"\0+(?=\s*[,.;:)])", "", "".join(parts)).replace("\0", " ")
+    return re.sub(r"[ \t\r\n ]+", " ", joined).strip()
 
 
 def notes_in(node: ET.Element) -> list[tuple[str, str]]:
@@ -184,6 +204,43 @@ def notes_in(node: ET.Element) -> list[tuple[str, str]]:
         eid = anchor.get("eId") if anchor is not None else None
         found.append((eid_label(eid) if eid else "", written))
     return found
+
+
+def table_lines(table: ET.Element) -> list[str]:
+    """A table, one line per row, its cells separated by ' | '.
+
+    chext has no table, but a row is the unit a reader needs kept together: the
+    charge belongs beside the service it is for. Empty cells keep their place so
+    the columns still line up; a row with nothing in it is dropped.
+    """
+    lines: list[str] = []
+    for row in table.iter(f"{AKN}tr"):
+        cells = [
+            text_of(cell) for cell in row
+            if cell.tag in (f"{AKN}td", f"{AKN}th")
+        ]
+        if any(cells):
+            lines.append(" | ".join(cells).strip())
+    return lines
+
+
+def lines_of(element: ET.Element) -> list[str]:
+    """The text of a block as lines: one, unless a table sits in it."""
+    if element.tag == f"{AKN}table":
+        return table_lines(element)
+    if element.find(f".//{AKN}table") is None:
+        written = text_of(element)
+        return [written] if written else []
+    # A wrapper around a table — an <intro> holding a sentence and then the table.
+    lines: list[str] = []
+    for piece in (element.text, *(x for child in element for x in (child, child.tail))):
+        if isinstance(piece, str):
+            piece = re.sub(r"[ \t\r\n\u00a0]+", " ", piece).strip()
+            if piece:
+                lines.append(piece)
+        elif piece is not None and piece.tag != f"{AKN}authorialNote":
+            lines.extend(lines_of(piece))
+    return lines
 
 
 def item_lines(item: ET.Element) -> list[str]:
@@ -235,9 +292,7 @@ def content_lines(content: ET.Element) -> list[str]:
         if block.tag == f"{AKN}blockList":
             lines.extend(block_lines(block))
         else:
-            written = text_of(block)
-            if written:
-                lines.append(written)
+            lines.extend(lines_of(block))
     return lines
 
 
@@ -258,9 +313,7 @@ def one_paragraph(para: ET.Element) -> list[str]:
         elif tag == "blockList":
             blocks.extend(block_lines(child))
         else:
-            written = text_of(child)
-            if written:
-                blocks.append(written)
+            blocks.extend(lines_of(child))
     if not blocks:
         return []
 
@@ -286,9 +339,7 @@ def own_text(node: ET.Element) -> list[str]:
         elif tag == "blockList":
             lines.extend(block_lines(element))
         elif tag in CONTENT:
-            written = text_of(element)
-            if written:
-                lines.append(written)
+            lines.extend(lines_of(element))
     return lines
 
 
@@ -329,11 +380,16 @@ def paragraph_lines(article: ET.Element) -> list[str]:
     return lines + nested_text(article)
 
 
-def chip(marker: str, lines: list[str], group: str) -> tuple[str, list[str], str]:
+def chip(
+    marker: str, lines: list[str], group: str, more: str | None = None
+) -> tuple[str, list[str], str, str | None]:
     """One chip block, guarding the two ways chext would misread legal text.
 
     `group` decides connection: consecutive chips carrying the same group are
     joined with a trailing `|`, so a chapter reads as one connected run.
+
+    `more` says the first line is a heading rather than text, and is the heading
+    the continuation chips carry if the block is too long for one chip.
     """
     for line in lines:
         # A comment marker is whitespace-delimited — otherwise the format could
@@ -346,10 +402,81 @@ def chip(marker: str, lines: list[str], group: str) -> tuple[str, list[str], str
             raise ParseError(f"line would be read as a chip marker: {line!r}")
         if line.strip() == "|":
             raise ParseError("a body line of '|' would be read as a connector")
-    return (marker, lines, group)
+    return (marker, lines, group, more)
 
 
-def lay_out(blocks: list[tuple[str, list[str], str]]) -> list[str]:
+def size(lines: list[str]) -> int:
+    return len("\n".join(lines).encode("utf-8"))
+
+
+def wrap(line: str, room: int) -> list[str]:
+    """A line too long for any chip, broken at the latest clause that fits.
+
+    Only 19 lines in the corpus need it — tables and definitions Fedlex sets as a
+    single paragraph. A sentence end is preferred to a clause end, and a clause
+    end to a bare space; the text is never cut inside a word.
+    """
+    pieces: list[str] = []
+    while size([line]) > room:
+        head = line.encode("utf-8")[:room].decode("utf-8", "ignore")
+        for mark in (". ", "; ", ": ", ", ", " "):
+            at = head.rfind(mark)
+            if at > room // 2:
+                cut = at + len(mark)
+                break
+        else:
+            cut = head.rfind(" ") + 1 or len(head)
+        pieces.append(line[:cut].rstrip())
+        line = line[cut:].lstrip()
+    return pieces + [line]
+
+
+# "1 The controller…", "5bis If…" — where a numbered paragraph of an article starts.
+PARAGRAPH = re.compile(r"\d+[a-z]*\s")
+
+
+def split(marker: str, lines: list[str], more: str | None) -> list[list[str]]:
+    """The lines of one block as the bodies of as many chips as it takes.
+
+    Chips fill line by line, so a break falls between paragraphs or list items.
+    When a chip is already more than half full and the line that would overflow it
+    belongs to a paragraph begun earlier in the chip, the break moves back to the
+    start of that paragraph: a short chip is better than a paragraph cut in two.
+    """
+    if size(lines) <= CHIP_LIMIT:
+        return [lines]
+    head = [lines[0]] if more is not None else []
+    rest = lines[len(head):]
+    room = CHIP_LIMIT - max(size(head), size([more or ""])) - 1
+    if room < CHIP_LIMIT // 2:
+        raise ParseError(f"heading leaves no room for text: {lines[0][:60]!r}")
+    rest = [piece for line in rest for piece in wrap(line, room)]
+
+    bodies: list[list[str]] = [[]]
+    for line in rest:
+        current = bodies[-1]
+        if current and size([*current, line]) > room:
+            starts = [i for i, l in enumerate(current) if i and PARAGRAPH.match(l)]
+            if (
+                starts
+                and not PARAGRAPH.match(line)
+                and size(current[: starts[-1]]) > room // 2
+                and size([*current[starts[-1]:], line]) <= room
+            ):
+                moved = current[starts[-1]:]
+                del current[starts[-1]:]
+                bodies.append([*moved, line])
+            else:
+                bodies.append([line])
+        else:
+            current.append(line)
+
+    if more is None:
+        return bodies
+    return [[lines[0] if i == 0 else more, *body] for i, body in enumerate(bodies)]
+
+
+def lay_out(blocks: list[tuple[str, list[str], str, str | None]]) -> list[str]:
     """Chip blocks to chext lines, connecting each group into one run.
 
     A bare `|` on the last line of a block ties it to the block below, so the
@@ -357,12 +484,17 @@ def lay_out(blocks: list[tuple[str, list[str], str]]) -> list[str]:
     an act's structural sections.
     """
     out: list[str] = []
-    for index, (marker, lines, group) in enumerate(blocks):
+    for index, (marker, lines, group, more) in enumerate(blocks):
         following = blocks[index + 1][2] if index + 1 < len(blocks) else None
-        out.extend([marker, *lines])
-        if following == group:
-            out.append("|")
-        out.append("")
+        parts = split(marker, lines, more)
+        for part_index, part in enumerate(parts):
+            if size(part) > CHIP_LIMIT:
+                raise ParseError(f"chip is over {CHIP_LIMIT} bytes: {part[0][:60]!r}")
+            out.extend([marker, *part])
+            # The parts of one article are one statement, so they stay connected.
+            if part_index + 1 < len(parts) or following == group:
+                out.append("|")
+            out.append("")
     return out
 
 
@@ -438,7 +570,7 @@ def render(act: dict, root: ET.Element) -> tuple[dict[str, list[str]], dict]:
         raise ParseError("no <body> element")
 
     title = act["title"]
-    out: list[tuple[str, list[str], str]] = []
+    out: list[tuple[str, list[str], str, str | None]] = []
 
     # Fedlex titles usually carry the adoption date already ("Federal Act of
     # 9 October 1992 on …"), so only add it when the title left it out.
@@ -474,7 +606,7 @@ def render(act: dict, root: ET.Element) -> tuple[dict[str, list[str]], dict]:
         spoken = [text_of(p) for p in preamble.findall(f"{AKN}p")]
         spoken = [s for s in spoken if s]
         if spoken:
-            out.append(chip(":INFO", ["Preamble", *spoken], "preamble"))
+            out.append(chip(":INFO", ["Preamble", *spoken], "preamble", "Preamble (continued)"))
             notes = [written for _, written in notes_in(preamble)]
             if notes:
                 out.append(chip(":NOTE", notes, "preamble"))
@@ -576,7 +708,12 @@ def render(act: dict, root: ET.Element) -> tuple[dict[str, list[str]], dict]:
                         counts["empty"] += 1
                         empty.append(label or child.get("eId", "?"))
 
-                out.append(chip(":INFO", [label, *lines], section["id"]))
+                # A continuation repeats the number, not the whole heading.
+                number = child.find(f"{AKN}num")
+                short = (text_of(number) if number is not None else "") or label
+                out.append(chip(
+                    ":INFO", [label, *lines], section["id"], f"{short} (continued)"
+                ))
                 counts["articles"] += 1
                 if notes:
                     # Amendment history — which is why these cannot simply be
@@ -626,7 +763,7 @@ def render(act: dict, root: ET.Element) -> tuple[dict[str, list[str]], dict]:
     contents: list[str] = []
     for index, division in enumerate(divisions, 1):
         slug = f"{index:0{width}d}-{kebab(heading_only(division))}"
-        page: list[tuple[str, list[str], str]] = []
+        page: list[tuple[str, list[str], str, str | None]] = []
 
         # No chip repeating the division's own name: the page is named after it.
         # Its subtitle is different — that is text, not a restatement of the name.
@@ -667,7 +804,7 @@ def render(act: dict, root: ET.Element) -> tuple[dict[str, list[str]], dict]:
         holder.extend(loose)
         emit(holder, out)
 
-    out.append(chip(":INFO", ["Contents", *contents], "contents"))
+    out.append(chip(":INFO", ["Contents", *contents], "contents", "Contents (continued)"))
     out.append(fedlex)
     pages["home"] = banner + lay_out(out)
     return pages, counts

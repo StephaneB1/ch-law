@@ -40,12 +40,20 @@ a. to provide the services, operations and functionalities of the DNS required i
 4. allocating domain names to IP addresses,
 5. installing, managing and updating a RDDS database (WHOIS),
 6. granting access to the information contained in the zone file for the purposes of combating cybercrime or for scientific or social research, or for other purposes that are in the public interest;
+|
+
+:INFO
+Art. 10 (continued)
 b. providing the registrars with a system for the submission and administration of applications for the registration of domain names (registration system) and specifying the procedures and technical and organisational conditions relating to the registration and management of domain names by the registrars;
 c. assigning and revoking rights of use of domain names;
 d. providing a technical and administrative procedure allowing an easy transfer between registrars of the management of domain names, when this is required by their holders;
 e. establishing the dispute resolution services (Art. 14);
 f. ensuring the acquisition, installation, operation and updating of the necessary technical infrastructure;
 g. taking appropriate measures to ensure the reliability, resilience, accessibility, availability, security and operation of the infrastructure and the necessary services;
+|
+
+:INFO
+Art. 10 (continued)
 h. advising the registrars concerned immediately of any interruption in the operation of the DNS, its infrastructure or its registration services;
 i. combating cybercrime in accordance with the provisions of this Ordinance;
 j. providing a specific and easily accessible website featuring all useful information on the activities of the Registry;
@@ -79,6 +87,10 @@ Art. 12 Backup of the registration and management system
 a. the Registry is subject to bankruptcy, liquidation or debt-restructuring proceedings;
 b. the Registry ceases its activity but does not transmit to the new Registry or OFCOM the data or information necessary to manage the domain;
 c. the Registry is no longer able to perform its function or one of its tasks;
+|
+
+:INFO
+Art. 12 (continued)
 d. extraordinary circumstances, such as a natural disaster, so require.
 |
 
@@ -104,9 +116,17 @@ b. the services are responsible for ruling on disputes between holders of domain
 c. the decisions of the experts concerning domain names have mandatory force for the Registry concerned, unless a civil action is raised within the deadline allowed by the rules of procedure;
 d. the decisions of the experts relate to the legitimacy of the allocation of a domain name; they may not award damages or pronounce on the validity of a claim under trademark law;
 e. the rules governing the resolution of disputes must be based on accepted best practice;
+|
+
+:INFO
+Art. 14 (continued)
 f. the procedure must be fair, transparent, rapid and beneficial; the experts mandated by the services may not be subject to any general or particular directive on the solution of a dispute; they may take all steps necessary for the resolution of a dispute;
 g. the dispute resolution procedure ends with the withdrawal of the application, the conclusion of an agreement between the parties, the decision of the experts or the opening of a civil action.
 2 The structure of the organisation, the rules governing the resolution of disputes, the rules of procedure and the appointment of the experts called upon to come to a decision require the approval of OFCOM. Beforehand, the latter shall seek the opinion of the Swiss Federal Institute of Intellectual Property and, if the case relates to the structure of the organisation or the procedural rules, the Federal Office of Justice.
+|
+
+:INFO
+Art. 14 (continued)
 3 On request, the Registry shall transmit to the acting dispute resolution service all the personal data in its possession which is necessary for the resolution of a dispute.
 4 It may publish or arrange to have published the decisions taken by the experts. The parties’ names and other personal information may only be published if such details are essential in order to understand the decisions.
 |
@@ -126,6 +146,10 @@ c. support the acts mentioned in letters a or b.
 a. there is justifiable suspicion that the holder has provided false identification information or is unlawfully using the identity of a third party; and
 b. there is an urgent need to avert imminent prejudice that cannot easily be remedied.
 3 A service to combat cybercrime recognised by OFCOM may extend the period in which the domain name is blocked for a maximum of 30 days if the requirements in accordance with paragraph 1 are met.
+|
+
+:INFO
+Art. 15 (continued)
 4 The blocking of a domain name for longer than the maximum periods specified in this article is only permitted if ordered by OFCOM.
 |
 
@@ -140,6 +164,10 @@ Art. 15a Measures on suspicion of abuse: redirecting of data traffic
 a. the domain name concerned is blocked in accordance with Article 15;
 b. the processing of information serves only to identify and notify persons affected by acts under Article 15 paragraph 1 and to analyse the process so that techniques may be developed to recognise, stop, limit or track such acts; recorded information that is not related to these acts may not be used and must be deleted immediately;
 c. the redirecting of data traffic for analysis shall be requested by a service under Article 15 paragraph 3 for a maximum of 30 days.
+|
+
+:INFO
+Art. 15a (continued)
 2 It shall redirect the data traffic to an analysis tool or to an information page containing the following:
 a. information on the relevant suspicion of abuse;
 b. the names and the contact data of the service or authority that requested the measure.
@@ -212,8 +240,16 @@ Art. 15e — Inserted by No I of the O of 15 Sept. 2017, in force since 1 Nov. 2
 :INFO
 Art. 16 Administrative assistance and co-operation
 1 The Registry may collaborate with any third party which provides assistance in identifying and evaluating threats, abuses and dangers which affect or might affect the management of the domain for which it is responsible, the infrastructure dedicated to this management or the DNS. It shall ensure that the third parties concerned can, on a voluntary basis, exchange with it in a secure manner personal information and data on these threats, abuses or dangers. It may disclose such personal information and personal data to them, if necessary without the knowledge of the persons concerned. This disclosure may take place in the retrieval procedure.
+|
+
+:INFO
+Art. 16 (continued)
 2 It shall report to the specialist federal services incidents concerning security of information that affect the domain for which it or the DNS is responsible. It may process personal data in connection with these incidents and communicate it to the specialist services, if necessary without the knowledge of the persons concerned. This disclosure may take place in the retrieval procedure or by means of the block transmission of data.
 3 At the request of a Swiss authority intervening within the scope of its responsibilities, the Registry shall request the holder of a domain name without a valid Swiss correspondence address to indicate such an address and to disclose its identity within 30 days. The Registry shall revoke the domain name if the holder does not comply within the time limit; it shall notify the requesting Swiss authority of the revocation.
+|
+
+:INFO
+Art. 16 (continued)
 4 Otherwise, Article 13b TCA applies by analogy to the administrative assistance guaranteed by the Registry.
 |
 
@@ -236,13 +272,25 @@ a. it undertakes to comply with Swiss law, in particular this Ordinance and its 
 b. it has a valid correspondence address in Switzerland;
 c. it masters the hardware and software as well as the technical rules making it possible to carry out registrations and other administrative operations with the Registry;
 d. it has put in place a procedure for verifying the identification data provided by applicants for domain names;
+|
+
+:INFO
+Art. 17 (continued)
 e. it has the human and technical resources necessary to ensure the maintenance and updating of the administrative and technical data provided by applicants for or holders of domain names;
 f. it has the information technology hardware and software necessary to ensure the security of the personal data provided by applicants for domain names and archives the latter in conformity with the provisions of the Data Protection Act of 19 June 1992;
 g. it has provided the required guarantees in the event of doubtful solvency or of non-payment; the amount of these guarantees, attracting a rate of interest that applies to savings accounts, shall not exceed the anticipated risk to the Registry.
 3 The application to conclude a registrar contract is addressed to the Registry. It includes all the documents, data and information that make it possible to assess compliance by the applicant with the prescribed conditions.
+|
+
+:INFO
+Art. 17 (continued)
 4 Any change in the facts on which the registrar contract is based must be communicated to the Registry.
 5 The registrar contract may not derogate from the rules prescribed by this Ordinance and its implementing provisions. In addition, the Registry shall comply with the principles of non-discrimination and transparency in its contractual relations with registrars.
 6 The registrar contract is governed by public law when the Registry function is exercised by OFCOM (contract under administrative law) and by private law when the Registry function is delegated (contract under private law).
+|
+
+:INFO
+Art. 17 (continued)
 7 The Registry terminates the registrar contract without compensation when a registrar so requests, no longer meets the conditions imposed on the exercise of its function, ceases all activity or is subject to bankruptcy or liquidation proceedings. It must inform the holders of the domain names managed by the registrar concerned of the cancellation of a registrar contract in the appropriate manner.
 8 Article 40 paragraphs 1, 3 and 4, and Article 41 apply by analogy to the surveillance of registrars exercised by OFCOM.
 |
@@ -269,6 +317,10 @@ Art. 20 Obligations of registrars
 1 Registrars must propose an offering consisting exclusively of the allocation of a domain name (unbundled offering).
 2 They must guarantee their customers at all times the opportunity to transfer the administrative management of a domain name to a new registrar. Civil claims for non-execution of the contract are reserved.
 3 Registrars must retain commercial correspondence, supporting documentation, titles and log files classified according to domain names for a period of 10 years from the end of registration of a domain name. They shall present them, on request, to the Registry within 3 working days at the latest.
+|
+
+:INFO
+Art. 20 (continued)
 4 Registrars must:
 a. collaborate with the Registry and provide it with all necessary technical and organisational assistance and support in order to ensure the continuity and the security of the administration of the domain names;
 b. ensure that holders of the domain names for which they provide administrative management are informed of the cessation of any registrar’s activities and of the steps to be taken to safeguard their claims.
@@ -318,9 +370,17 @@ b. includes all the information, elements and documents necessary to authorise t
 1. the designation desired as a domain name,
 2. up-to-date, complete and correct information on the applicant, in particular their name and postal and email addresses,
 3. current, complete and correct information enabling verification of compliance with the general and particular conditions of allocation of the requested domain name.
+|
+
+:INFO
+Art. 24 (continued)
 3 OFCOM shall determine the information and documents which an applicant must submit to the relevant registrar in order for the Registry to verify their identity, address and legal existence, and compliance with the conditions of allocation of a domain name, in particular:
 a. if the applicant is an individual: a copy of a national identity document or a valid passport and a current certificate of residence;
 b. if the applicant is an association or a foundation with its headquarters in Switzerland and not entered in the commercial register: a certified copy of the articles of association or the foundation charter;
+|
+
+:INFO
+Art. 24 (continued)
 c. if the applicant is a legal entity or a partnership with its headquarters abroad: an attested up-to-date extract from the foreign commercial register or, when the extract does not contain sufficient information or if there is no corresponding institution in the commercial register, an official document attesting that the entity exists legally in accordance with the provisions of the applicable foreign law;
 d. the business identification number (BIN) within the meaning of the Federal Act of 18 June 2010 on the Business Identification Number for legal entities and the OASI number for individuals.
 4 If necessary, it shall regulate the modalities for submitting registration applications. It may demand the use of set forms for registrations and amendments.
@@ -347,10 +407,18 @@ Art. 25 General conditions of allocation
 a. the required designation, or the corresponding ACE string, consists of 3 to 63 authorised characters; OFCOM shall determine the authorised characters and may provide for exceptions concerning the minimum number of characters when an overriding public interest justifies this; the abbreviations consisting of two characters which designate the cantons and the names of political communes and places that consist of two characters are reserved in accordance with Article 26 paragraph 1 letter b and may be allocated to the public bodies concerned;
 b. the requested designation is not the subject of a reservation under this Ordinance, unless the reservation was made by the person making the application;
 c. the particular conditions of allocation for the domain concerned are met.
+|
+
+:INFO
+Art. 25 (continued)
 1bis The Registry shall allocate a domain name and prevent any configuration of the name servers associated with it in the zone file that enables the domain name to be activated if an authority intervening within the scope of its responsibilities notifies the Registry that there are reasonable grounds to believe that the applicant will use the requested domain name for an unlawful purpose or in an unlawful manner.
 1ter The Registry may allocate a domain name and prevent any configuration of the name servers associated with it in the zone file that enables the domain name to be activated if there are reasonable grounds to believe that the applicant:
 a. is providing false identification information or unlawfully using the identity of a third party; and
 b. the requested domain name will be used for an unlawful purpose or in an unlawful manner.
+|
+
+:INFO
+Art. 25 (continued)
 1quater If the holder in the cases in paragraphs 1bis and 1ter fails to disclose their correct identity within 30 days, the Registry shall revoke the allocation of the domain name.
 2 The Registry shall refuse to allocate a domain name when:
 a. the chosen designation is contrary to public order, morality or the law in force;
@@ -376,6 +444,10 @@ a. designations of federal institutions and units of the federal administration,
 b. the names of the Swiss cantons, political communes and places in accordance with Article 3 of the Ordinance of 21 May 2008 on Geographical Names, and the abbreviations consisting of two characters which designate the cantons;
 c. names and abbreviations of the international organisations protected by Swiss legislation;
 d. designations which must be reserved in the generic top-level domains in accordance with the rules which apply at the international level;
+|
+
+:INFO
+Art. 26 (continued)
 e. designations necessary for the activity of the Registry, in particular for its communication.
 2 Reserved designations or categories of designations may be allocated as domain names only to those persons or categories of persons for whom they are reserved, unless the persons or categories of persons have permitted allocation to third parties; the foregoing does not apply to designations allocated to third parties before the designation is reserved or before this Ordinance comes into force. In the absence of agreement, homonymous canton and political commune designations are allocated to the commune concerned.
 |
@@ -391,6 +463,10 @@ Art. 27 Allocation process
 1 The processing of a registration application by the Registry concludes with the allocation or the refusal of allocation of the requested domain name.
 2 The Registry allocates the right to use a domain name. The allocation takes effect on its confirmation in electronic form via the Registry system to the registrar operating on behalf of the applicant concerned.
 3 The Registry shall notify the registrar acting on behalf of the applicant concerned of the refusal to allocate a domain name via the registration system in electronic form or if necessary by other means. It shall directly notify the applicant of the refusal to allocate a domain name that must be allocated by means of a naming mandate under Article 56 using an appropriate means of communication.
+|
+
+:INFO
+Art. 27 (continued)
 4 OFCOM shall make a decision on the refusal to allocate a domain name if, within 40 days of receiving notification of a refusal under paragraph 3, the applicant:
 a. requests such a decision; and
 b. provides a valid correspondence address in Switzerland if they are registered or domiciled abroad.
@@ -410,6 +486,10 @@ Art. 28 Holder’s rights
 2 It shall manage freely the domain names subordinate to the domain name allocated to it, unless this Ordinance or its implementing provisions provide otherwise.
 3 It may transfer to a third party a domain name which has been allocated to it when the general and particular conditions of allocation are met by submitting, via the registrar which manages it, a change of holder request.
 4 It may give up its domain name at any time by submitting, via the registrar which manages it, a cancellation request. Civil claims for non-fulfilment of the contract concluded with the registrar are reserved.
+|
+
+:INFO
+Art. 28 (continued)
 5 The right to use a domain name automatically passes:
 a. to the undertaking originating from a merger which becomes the holder of the domain names allocated to the merged undertakings;
 b. in the event of a demerger or a transfer of assets governed by the Mergers Act of 3 October 2003, to the undertaking which takes over which then becomes the holder of the domain names allocated to the transferring undertaking mentioned in the inventory;
@@ -435,18 +515,30 @@ b. if the general or particular conditions imposed on the allocation of a domain
 c. if the holder does not comply with its obligation to keep up to date, supplement or correct all the information relating to it which is necessary for the management of the domain name which it has been allocated;
 d. if a registrar so requests after terminating its contract with the holder and the latter has not transferred the management of the domain name to a new registrar within 30 days;
 e. if there are other important reasons, such as technical reasons, standards or international harmonisation measures.
+|
+
+:INFO
+Art. 30 (continued)
 2 The Registry shall revoke the allocation of a domain name:
 a. if an amendment to this Ordinance or its implementing provisions so requires;
 b. if this proves necessary in order to protect the integrity or the stability of the DNS;
 c. if the holder gives up its domain name voluntarily;
 d. if the registrar operating on behalf of the holder is in a state of bankruptcy, liquidation or has had its registrar contract terminated and the holder does not transfer the management of the domain name to a new registrar within 90 days; this period runs from the time the Registry has informed the holder of the necessity of transferring management of the domain name to a new registrar; the quarantine period within the meaning of Article 31 paragraph 3 is 90 days;
 e. if experts mandated by a dispute resolution service so request, unless a civil action has been filed within the period prescribed by the procedural rules of the dispute resolution service concerned;
+|
+
+:INFO
+Art. 30 (continued)
 f. if a court or an arbitration tribunal so orders as part of a procedure which leads to an enforcement order or ruling in Switzerland;
 g. if a Swiss administrative or prosecuting authority acting within the scope of its responsibilities so orders.
 3 A specialist appointed by a dispute resolution service, a court, an arbitration tribunal or a Swiss administrative or prosecution authority may within the scope of its competence issue provisional orders to the Registry; the Registry may in particular be required to:
 a. block or modify a domain name technically by deleting the related name servers in the zone file, replacing them with new name servers or not re-entering them after their deletion;
 b. block a domain name administratively by prohibiting its allocation or re-allocation to a third party, its transfer or any change in technical or administrative parameters relating to it;
 c. transfer a domain names to a different registrar;
+|
+
+:INFO
+Art. 30 (continued)
 d. correct, amend or delete any information or technical or administrative parameters relating to the management of a domain name;
 e. correct, amend, anonymise or delete any information in the RDDS database (WHOIS);
 f. allocate a domain name to itself or to a specific person;

@@ -60,6 +60,10 @@ c. internal audit function.
 2 The body for governance, supervision and control must comprise at least three members. These may not belong to the bodies described in paragraph 1 letters a and c.
 3 The body for governance, supervision and control shall set out the basic risk management principles and determine the risk tolerance of the financial market infrastructure. This body shall have its work evaluated regularly.
 4 The financial market infrastructure shall define, implement and maintain a compensation policy that promotes sound and effective risk management and does not create incentives to relax risk standards.
+|
+
+:INFO
+Art. 8 (continued)
 5 It must have mechanisms in place that allow it to establish the needs of participants with regard to the services provided by the financial market infrastructure.
 |
 
@@ -76,6 +80,10 @@ f. reputational risks;
 g. general business risks.
 2 It must have instruments in place and create incentives in order to ensure that participants can continuously manage and limit the risks arising for themselves or for the financial market infrastructure.
 3 Insofar as the financial market infrastructure has indirect participants and these are identifiable, it must also identify, measure, control and monitor the risks posed to the financial market infrastructure by these parties.
+|
+
+:INFO
+Art. 9 (continued)
 4 The internal documentation of the financial market infrastructure on passing a resolution and the monitoring of transactions associated with the risks should be designed in such a way that allows the audit firm to make a reliable assessment with respect to the business activity.
 5 The financial market infrastructure shall ensure an effective internal control system which, among other things, guarantees compliance with legal and internal company rules and regulations (compliance function).
 6 The internal audit function must submit a report to the body with responsibility for governance, supervision and control or to one of its committees. It must have sufficient resources as well as unrestricted audit rights.
@@ -94,6 +102,10 @@ b. companies:
 1. the articles of association,
 2. an extract from the commercial register or an attestation to this effect,
 3. a description of business activities, the financial situation and, if applicable, the group structure,
+|
+
+:INFO
+Art. 10 (continued)
 4. details on completed and pending court or administrative proceedings.
 2 Persons holding a qualified participation must make a declaration to FINMA stating whether they hold the participation in question for their own account or on a fiduciary basis for a third party, and whether they have granted options or similar rights with respect to this participation.
 3 The financial market infrastructure must submit to FINMA within 60 days of the end of the financial year a list of all qualified participants in the financial market infrastructure. This list shall contain details on the identity and participation rate of all qualified participants as at the relevant closing date, as well as any changes relative to the prior-year closing date. In addition, the information and documentation set out in paragraph 1 is to be submitted for any qualified participants being reported for the first time.
@@ -108,9 +120,17 @@ a. the service to be outsourced and the services of the service provider;
 b. the responsibilities and the reciprocal rights and duties, particularly the financial market infrastructure's rights of inspection, instruction and control;
 c. the security requirements that must be fulfilled by the service provider;
 d. the service provider's adherence to the financial market infrastructure's business confidentiality and, insofar as legally protected data is provided to the service provider, the service provider's adherence to professional confidentiality;
+|
+
+:INFO
+Art. 11 (continued)
 e. the rights of inspection and access of the internal audit function, the external audit firm, FINMA and – in the case of systemically important financial market infrastructures – the Swiss National Bank (SNB).
 3 The financial market infrastructure must exercise care in the selection, instruction and controlling of the service provider. It shall integrate the outsourced service into its internal control system and monitor the services rendered by the service provider on an ongoing basis.
 4 Outsourcing to foreign countries requires appropriate technical and organisational measures to ensure the observance of professional confidentiality and data protection in accordance with Swiss law. Contracting parties of a financial market infrastructure whose data is to be sent to a service provider abroad must be informed about this.
+|
+
+:INFO
+Art. 11 (continued)
 5 The financial market infrastructure, its internal audit function, the external audit firm, FINMA and – in the case of systemically important financial market infrastructures – the SNB must be able to inspect and review the outsourced service.
 6 Paragraphs 1 to 5 do not apply if a central securities depository outsources some of its services or activities to a technical platform that connects securities settlement systems by way of providing a public service. This kind of outsourcing must be governed by means of a dedicated regulatory and operational framework, which requires the approval of FINMA.
 |
@@ -125,6 +145,10 @@ a. in the case of trading venues:
 2. the operating of matching and market data distribution systems;
 b. in the case of central counterparties:
 1. contractually entering into securities transactions or other contracts involving financial instruments between two participants or between one participant and another central counterparty,
+|
+
+:INFO
+Art. 12 (continued)
 2. the establishment of mechanisms relating to the planning for and protection against outages of participants or interoperably associated central counterparties, or relating to the segregation of the positions of indirect participants and clients of participants or to the transfer of positions to other participants;
 c. in the case of central securities depositories:
 1. the operation of a central custodian or securities settlement system,
@@ -137,6 +161,10 @@ d. in the case of trade repositories:
 e. in the case of payment systems:
 1. the acceptance and execution of participants' payment orders,
 2. the management of clearing accounts;
+|
+
+:INFO
+Art. 12 (continued)
 f. in the case of trading facilities for distributed ledger technology securities (DLT trading facilities) that do not provide services in accordance with Article 73a paragraph 1 letter b or c of the FinMIA:
 1. all activities conducted with the aim of ensuring fair, efficient and orderly trading,
 2. the operating of matching and market data distribution systems;
@@ -235,6 +263,10 @@ b. the fees and prices that apply to the services provided by the financial mark
 c. the risks for participants associated with the services provided;
 d. the criteria for the suspension and exclusion of a participant;
 e. the rules and procedures that apply in the event of a default or outage of a participant;
+|
+
+:INFO
+Art. 19 (continued)
 f. the rules and procedures required in order to keep the collateral, receivables and liabilities of participants and indirect participants segregated from one another, and the rules and procedures required for this collateral, receivables and liabilities to be both recorded and transferred;
 g. the aggregated transaction volumes and amounts;
 h. the number, nominal value and currency of issue of the securities held in central custody;
@@ -251,6 +283,10 @@ Art. 20 Recovery and resolution plan
 2 The recovery plan shall in particular describe the measures to be taken and the resources required for their implementation. It must be approved by the body responsible for governance, supervision and control.
 3 The financial market infrastructure shall describe, upon submission of the plan, what measures it is preparing or has already implemented to improve its resolvability both in Switzerland and abroad (Art. 21).
 4 It shall submit to FINMA annually, and by the end of the second quarter of the year, the recovery plan and the information required for the resolution plan. The same documents should also be submitted if changes make a reworking necessary or if FINMA demands such a submission.
+|
+
+:INFO
+Art. 20 (continued)
 5 FINMA shall grant the financial market infrastructure an appropriate period for the preparatory implementation of the measures envisaged in the resolution plan.
 |
 
@@ -267,6 +303,10 @@ b. financial unbundling to contain risks of contagion by means of:
 1. the reduction of capital participations between legal entities at the same level,
 2. restrictions on the granting of unsecured loans and guarantees between legal entities at the same level within the financial group,
 3. the creation of an incentive structure that gives rise to the highest possible degree of market-consistent intra-group financing;
+|
+
+:INFO
+Art. 21 (continued)
 c. operational unbundling to safeguard data and ensure continuation of important operational services by means of:
 1. ensuring access to and use of data resources, databases and IT resources,
 2. the separation or permanent outsourcing of key functions,
@@ -304,6 +344,10 @@ c. a body responsible for the admission of securities to trading;
 d. an appeal body.
 2 The body that fulfils the regulatory tasks of the trading venue must be independent of the business management of the trading venue and largely independent of the participants and issuers, both organisationally and with respect to personnel. It must have sufficient organisational, personnel and financial resources.
 2bis The body that fulfils the supervisory tasks of the trading venue must be independent of the business management of the trading venue and independent of the participants and issuers, both organisationally and with respect to personnel. It must have sufficient organisational, personnel and financial resources.
+|
+
+:INFO
+Art. 24 (continued)
 3 Both issuers and investors must be appropriately represented in the body responsible for the admission of securities to trading.
 4 The trading venue shall set out in its regulations the tasks and powers of the various bodies, as well as the representation of issuers and investors in the body that is responsible for the admission of securities to trading.
 |
@@ -347,7 +391,15 @@ Art. 28 Post-trade transparency
 (Art. 29 paras. 2 and 3 lit. b FinMIA)
 1 The trading venue shall publish the information on post-trade transparency with respect to transactions executed via the trading venue in accordance with its regulations.
 2 Post-trade information with respect to transactions that were carried out on the trading venue outside of normal business hours are to be published by the trading venue prior to the start of trading on the trading day following execution of the transaction in question.
+|
+
+:INFO
+Art. 28 (continued)
 3 Paragraph 1 also applies to transactions that were conducted outside of the trading venue insofar as they were carried out during the course of the trading day on the most important market for the securities in question or during the normal trading hours of the trading venue. Otherwise, the information is to be published immediately prior to the beginning of the ordinary trading hours of the trading venue, or at the latest prior to the start of the next trading day on the most important market for these securities.
+|
+
+:INFO
+Art. 28 (continued)
 4 The trading venue may make provision for later publication in its regulations in the case of:
 a. large-volume transactions in accordance with Article 27 paragraph 4 letter d;
 b. transactions:
@@ -365,6 +417,10 @@ a. the Confederation, cantons or communes;
 b. the SNB;
 c. the Bank for International Settlements (BIS);
 d. multilateral development banks in accordance with Article 63 paragraph 2 letter c of the Capital Adequacy Ordinance of 1 June 2012 (CAO).
+|
+
+:INFO
+Art. 29 (continued)
 2 Securities transactions carried out by the following parties may be excluded from the provisions on pre-trade and post-trade transparency as long as the transactions are carried out as part of public tasks and not for investment purposes, and as long as reciprocal rights are granted and an exception does not stand in contradiction to the legislative purpose:
 a. foreign central banks;
 b. the European Central Bank (ECB);
@@ -388,6 +444,10 @@ a. are robust and equipped with sufficient capacity to deal with peak volumes of
 b. are in a position to ensure orderly trading under conditions of severe market stress;
 c. are subject to effective emergency measures so that the restoration of business operations can be guaranteed in the event of disruptions to its trading facilities;
 d. reject orders that exceed pre-determined volume and price thresholds or are clearly erroneous;
+|
+
+:INFO
+Art. 30 (continued)
 e. are in a position to suspend or restrict trading temporarily if there are significant short-term price movements with respect to a security on that market or a related market;
 f. are in a position to cancel, amend or correct any transaction in exceptional cases; and
 g. are regularly reviewed with a view to ensuring that the requirements under letters a to f are met.
@@ -411,6 +471,10 @@ a. are robust and equipped with sufficient capacity to deal with peak volumes of
 b. are subject to appropriate trading thresholds and upper limits;
 c. do not cause or contribute to any disruptions in the trading venue;
 d. are effective for preventing violations of Articles 142 and 143 FinMIA;
+|
+
+:INFO
+Art. 31 (continued)
 e. are subject to appropriate tests of algorithms and control mechanisms, including precautions to:
 1. limit the proportion of unexecuted trading orders relative to the number of transactions that can be entered into the system by a participant,
 2. slow down the flow of orders if there is a risk of the capacity of the system being reached, and
@@ -480,10 +544,18 @@ c. the price; and
 d. the details necessary to identify the beneficial owner.
 2 The reporting duty also applies to transactions in derivatives whose underlying instruments are securities admitted to trading on a trading venue.
 3 The reporting duty applies not only to transactions on own account, but also to transactions executed on behalf of a client.
+|
+
+:INFO
+Art. 37 (continued)
 4 The following transactions executed abroad do not have to be reported:
 a. transactions in securities admitted to trading on a trading venue in Switzerland and in derivatives with such securities as their underlying instruments, provided the information in question is regularly communicated to the trading venue on the basis of an agreement in accordance with Article 32 paragraph 3 FinMIA or within the framework of an exchange of information between FINMA and the competent foreign supervisory authority if:
 1. they were executed by the branch of a Swiss securities firm or by a foreign admitted participant, and
 2. the branch or the foreign participant is authorised to trade by the relevant foreign supervisory authority and is obliged to submit a report in the corresponding state or in its state of domicile;
+|
+
+:INFO
+Art. 37 (continued)
 b. transactions in foreign securities admitted to trading on a trading venue in Switzerland and in derivatives with such securities as their underlying instruments that are executed on a recognised foreign trading venue.
 5 Third parties may be involved in reporting.
 |
@@ -577,6 +649,10 @@ Art. 48 Capital adequacy
 2 The dedicated capital in accordance with Article 53 paragraph 2 letter c FinMIA shall amount to at least 25% of the required capital set out in Title 3 CAO.
 3 The central counterparty shall hold further capital in order to cover the costs of a voluntary cessation of business or restructuring. In the case of systemically important central counterparties, this capital must suffice to implement the plan set out in Article 72, but must at least be sufficient to cover ongoing operating expenditure for six months.
 4 In special cases, FINMA can ease the requirements set out in the paragraphs 1 to 3 or impose more rigorous requirements.
+|
+
+:INFO
+Art. 48 (continued)
 5 The central counterparty must have a plan that sets out how further capital is to be procured if its capital no longer fulfils the requirements set out in paragraphs 1 to 4. The plan must be approved by the body responsible for governance, supervision and control.
 6 If its capital falls short of 110% of the requirements set out in paragraphs 1 to 4, the central counterparty shall immediately inform FINMA and its audit firm, and shall provide FINMA with a plan that sets out how the threshold can once again be adhered to.
 |
@@ -606,6 +682,10 @@ b. cash balances in other currencies that can be converted into this currency in
 c. contractually committed and approved unsecured lines of credit in this currency with a creditworthy financial institution that can be used without any further credit decision;
 d. collateral in accordance with Article 49 FinMIA and assets that can be converted into cash in this currency in a timely manner through sales;
 e. collateral in accordance with Article 49 FinMIA and assets that can be converted into cash in this currency in a timely manner by means of contractually committed and secured lines of credit or contractually committed repo lines with central banks or creditworthy financial institutions.
+|
+
+:INFO
+Art. 50 (continued)
 2 The central counterparty shall regularly review compliance with the requirements set out in Article 52 paragraph 1 FinMIA under various stress scenarios. In doing so, it shall apply collateral discounts (haircuts) to the liquidity that would be appropriate even under extreme but plausible market conditions. It shall diversify its sources of liquidity.
 3 The investment strategy of the central counterparty must be in harmony with its risk management strategy. It must avoid concentration risks.
 |
@@ -684,6 +764,10 @@ b. cash balances in other currencies that can be converted into this currency in
 c. contractually committed and approved unsecured lines of credit in this currency with a creditworthy financial institution that can be used without any further credit decision;
 d. collateral in accordance with Article 64 FinMIA and assets that can be converted into cash in this currency in a timely manner through sales;
 e. collateral in accordance with Article 64 FinMIA and assets that can be converted into cash in this currency in a timely manner by means of contractually committed and secured lines of credit or contractually committed repo lines with central banks or creditworthy financial institutions.
+|
+
+:INFO
+Art. 58 (continued)
 2 The central securities depository shall regularly review compliance with the requirements set out in Article 67 paragraph 1 FinMIA under various stress scenarios. In doing so, it shall apply collateral discounts (haircuts) to the liquidity that would be appropriate even under extreme but plausible market conditions. It shall diversify its sources of liquidity.
 3 The investment strategy of the central securities depository must be in harmony with its risk management strategy. It must avoid concentration risks.
 
@@ -712,6 +796,10 @@ a. thereby generates gross earnings of more than CHF 50,000 per calendar year;
 b. per calendar year, has a business relationship with more than 20 participants in accordance with Article 73c paragraph 1 letter e of the FinMIA (private participants) or with at least one participant in accordance with Article 73c paragraph 1 letters a to d of the FinMIA; or
 c. has unlimited power of disposal over third-party DLT securities that exceed CHF 5 million at any given time.
 2 If a threshold under paragraph 1 is exceeded, the DLT trading facility must report this to FINMA within 10 days. It must submit an application for authorisation as provided for in the FinMIA to FINMA within 60 days.
+|
+
+:INFO
+Art. 58b (continued)
 3 Provided the protective purpose of the FinMIA is not affected, FINMA may prohibit the applicant from exercising the activities reserved to a DLT trading facility until the decision is made on the application for authorisation.
 
 :PATH
@@ -746,6 +834,10 @@ Art. 58f Admission of DLT securities and other assets
 2 If the DLT trading facility admits derivatives designed as DLT securities, only products without fair value or leverage components may be admitted to trading.
 3 DLT securities and other assets which significantly hinder the implementation of the provisions of the Anti-Money Laundering Act of 10 October 1997, or which could adversely affect the stability and integrity of the financial system may not be admitted. FINMA can define these DLT securities and assets in more detail.
 4 The DLT trading facility shall make provision in the regulations for revoking the admission of DLT securities and other assets.
+|
+
+:INFO
+Art. 58f (continued)
 5 The requirements under Article 34 apply by analogy.
 |
 
@@ -790,6 +882,10 @@ Art. 58j Other requirements relating to services in the area of central custody,
 1 Unless otherwise specified in this Section, the requirements for central securities depositories under Articles 62 to 73 of the FinMIA and 52 to 58 of this Ordinance apply by analogy for DLT trading facilities that provide services in accordance with Article 73a paragraph 1 letter b or c of the FinMIA.
 2 The segregation in accordance with Article 69 of the FinMIA may take place in the distributed ledger underlying the DLT securities or in the systems of the DLT trading facility.
 3 A DLT trading facility may also enable the settlement of payments in another manner than that provided for in Article 65 paragraph 1 of the FinMIA if it involves a FINMA-supervised institution for the purpose.
+|
+
+:INFO
+Art. 58j (continued)
 4 For a DLT trading facility, liquidity in a currency in accordance with Article 67 paragraph 1 of the FinMIA also includes cryptobased assets, insofar as the payment obligation is to be fulfilled in the same virtual currency.
 5 In derogation from Article 52, the DLT trading facility does not have to set up a user committee.
 
@@ -806,6 +902,10 @@ b. Custody volume: CHF 100 million; and
 c. Annual settlement volume: CHF 250 million.
 2 If a threshold is reached or exceeded, the DLT trading facility must report this to FINMA within 10 days. It must submit a modified application for authorisation as provided for in the FinMIA to FINMA within 90 days.
 3 The trading facility shall no longer be deemed to be small after 90 days from the time at which a threshold is reached or exceeded. The DLT trading facility may, however, continue to apply the eased requirements for small DLT trading facilities until FINMA makes its decision on the authorisation application.
+|
+
+:INFO
+Art. 58k (continued)
 4 Where this serves the protective purpose of the FinMIA, FINMA may prohibit the DLT trading facility from admitting further participants until the decision is made on the application for authorisation.
 |
 
@@ -815,10 +915,18 @@ Art. 58l Easing of requirements for small DLT trading facilities
 1 In derogation from the FinMIA and from this Ordinance, the following eased requirements apply for small DLT trading facilities:
 a. In derogation from Article 8 paragraph 2 second sentence of the FinMIA and Article 8 paragraph 2 second sentence of this Ordinance, it is sufficient if the majority of the members of the bodies responsible for overall management, supervision and control are not members of the body responsible for business management.
 b. If the provision of ancillary services not subject to authorisation or approval by virtue of financial market legislation increases the risks of a DLT trading facility, FINMA may require exclusively organisational measures (Art. 10 para. 3 of the FinMIA). If the DLT trading facility also operates an organised trading facility (Art. 43 of the FinMIA), FINMA may require additional capital and sufficient liquidity.
+|
+
+:INFO
+Art. 58l (continued)
 c. The business continuity requirements may also be met by having another authorisation holder take over the operation of the DLT trading facility in the event of disruptions (Art. 13 para. 1 of the FinMIA). The strategy and business impact analysis in accordance with Article 14 of this Ordinance may make provision for the operation of the DLT trading facility to be transferred to a third party.
 d. The regulatory tasks delegated to the DLT trading facility may also be carried out by a non-independent body (Art. 27 para. 2 of the FinMIA).
 e. An independent appeal body is not necessary (Art. 37 of the FinMIA).
 f. An internal audit is not necessary (Art. 8 para. 1 lit. c of this Ordinance).
+|
+
+:INFO
+Art. 58l (continued)
 2 For small DLT trading facilities that provide services in accordance with Article 73a paragraph 1 letter b or c of the FinMIA, the following eased requirements apply in addition, in derogation from the FinMIA:
 a. The capital requirements do not apply (Art. 66 of the FinMIA).
 b. The liquidity requirements do not apply (Art. 67 of the FinMIA).
@@ -913,6 +1021,10 @@ c. legal basis for the data enquiry;
 d. a description of the data it is requesting;
 e. an illustration of the measures it has taken to ensure the confidentiality of data received.
 4 From foreign authorities, it shall additionally request confirmation that an agreement is in place between the foreign and Swiss authorities in accordance with Article 78 paragraph 1 FinMIA.
+|
+
+:INFO
+Art. 64 (continued)
 5 The trade repository shall keep a record of information on data access.
 |
 
@@ -1022,6 +1134,10 @@ a. contracts on the purchase, sale, repurchase and lending of securities and boo
 b. contracts on the purchase and sale with future delivery of commodities and on trading in options on commodities or on commodity deliveries;
 c. contracts on the purchase, sale or transfer of goods, services, rights or interest at a price and future date determined in advance (futures trades/forward trading);
 d. contracts on swap transactions relating to currencies, precious metals, loans and securities, book-entry securities, commodities and their indices.
+|
+
+:INFO
+Art. 75 (continued)
 2 The financial market infrastructure shall ensure that new agreements or amendments to existing agreements which are subject to foreign law or envisage a foreign jurisdiction are agreed only if the counterparty recognises a postponement of the termination of agreements in accordance with Article 30a BankA.
 
 :LINK
